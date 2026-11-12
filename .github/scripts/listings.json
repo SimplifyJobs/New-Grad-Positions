@@ -240410,7 +240410,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -317125,7 +317125,7 @@
         "company_name": "RTX",
         "id": "da5add3d-df09-436a-b370-0fae4cb326df",
         "title": "Software Engineer/Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1790807747,
         "date_posted": 1790726400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-WOBURN-WB1--235-Presidential-Way--SPENCER-BLDG/Software-Engineer-Developer-I--Onsite-_01879028",
@@ -318778,7 +318778,7 @@
         "company_name": "Jain Global",
         "id": "e162fe2f-b8fa-4f4f-9e29-415bc0f8068d",
         "title": "Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1788505932,
         "date_posted": 1783160515,
         "url": "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Developer_JR100255",
@@ -330162,7 +330162,7 @@
         "company_name": "RTX",
         "id": "e5467def-2b54-4bda-90a0-cdb22e92de7f",
         "title": "Embedded Software Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1791412931,
         "date_posted": 1791331200,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Embedded-Software-Developer-I---Onsite-_01880909",
@@ -332135,7 +332135,7 @@
         "company_name": "Mitsubishi UFG",
         "id": "ddfaabe2-3763-42f3-8c82-d6e502102179",
         "title": "UK Analyst Programme",
-        "active": true,
+        "active": false,
         "date_updated": 1791537694,
         "date_posted": 1791504000,
         "url": "https://mufgub.wd3.myworkdayjobs.com/mufg-careers/job/London/XMLNAME-2027-MUFG-UK-Analyst-Programme-_10080071-WD-1",
@@ -377235,7 +377235,7 @@
         "company_name": "Marketbridge",
         "id": "d8f21ef1-4169-4356-87bd-389c62a60c00",
         "title": "Analyst, Marketing Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1794352145,
         "date_posted": 1794351898,
         "url": "https://marketbridge.applytojob.com/apply/oMZc1ebSpD/Analyst-Marketing-Analytics",
@@ -378767,7 +378767,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "b9a9ef3f-b90a-467e-8fdb-3a2eedd155ab",
         "title": "Associate Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1794411181,
         "date_posted": 1794355200,
         "url": "https://careers-ice.icims.com/jobs/14039/job?mobile=true&needsRedirect=false",
@@ -380105,6 +380105,313 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mobility Global",
+        "id": "d3368bcb-5741-495b-9963-1c6e2dfe1be0",
+        "title": "Associate Data Analyst - Mobility",
+        "active": true,
+        "date_updated": 1794497041,
+        "date_posted": 1794268800,
+        "url": "https://mobility.wd503.myworkdayjobs.com/Mobility/job/Virtual-CA/Associate-Data-Analyst---Mobility_325963",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Mobility-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tidal Wave Auto Spa",
+        "id": "f7905671-0079-4a8e-978f-97160c4de032",
+        "title": "Junior Data Analyst",
+        "active": true,
+        "date_updated": 1794497041,
+        "date_posted": 1794268800,
+        "url": "https://tidalwaveautospa.wd1.myworkdayjobs.com/TWAS/job/Thomaston-GA/Junior-Data-Analyst_R11470",
+        "locations": [
+            "Birmingham, AL",
+            "Peachtree Corners, GA",
+            "Thomaston, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tidal-Wave-Auto-Spa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Varsity Brands",
+        "id": "12753782-f530-44d4-b321-a6360977b3aa",
+        "title": "Product Owner",
+        "active": true,
+        "date_updated": 1794496150,
+        "date_posted": 1786924800,
+        "url": "https://varsitybrands.wd503.myworkdayjobs.com/externalcareersite/job/TX---Farmers-Branch/Product-Owner_JR114520",
+        "locations": [
+            "Farmers Branch, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Varsity-Brands",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Varsity Brands",
+        "id": "5766176d-5a4e-401b-a2b2-ae07beb53551",
+        "title": "Manager Product - Decorator Production Platform",
+        "active": true,
+        "date_updated": 1794496215,
+        "date_posted": 1792713600,
+        "url": "https://varsitybrands.wd503.myworkdayjobs.com/externalcareersite/job/TX---Farmers-Branch/Manager---Product---Decorator-Production-Platform_JR115102",
+        "locations": [
+            "Farmers Branch, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Varsity-Brands",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Varsity Brands",
+        "id": "dcd493ac-2ca5-4ee6-9b28-1e1c02169ed1",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1794496150,
+        "date_posted": 1791158400,
+        "url": "https://varsitybrands.wd503.myworkdayjobs.com/externalcareersite/job/TX---Farmers-Branch/Software-Engineer---Early-Career_JR113366-1",
+        "locations": [
+            "Farmers Branch, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Varsity-Brands",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Centene",
+        "id": "5667d2b4-692e-469e-aa58-f196c5c0d905",
+        "title": "Business Analyst 1 - Healthcare Analytics",
+        "active": true,
+        "date_updated": 1794496163,
+        "date_posted": 1794441600,
+        "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-LA/Business-Analyst-I--Healthcare-Analytics_1655832",
+        "locations": [
+            "Kansas",
+            "Pennsylvania",
+            "North Dakota",
+            "Delaware",
+            "Iowa",
+            "Washington, DC",
+            "Vermont",
+            "Connecticut",
+            "Texas",
+            "Florida",
+            "New Hampshire",
+            "South Carolina",
+            "South Dakota",
+            "Georgia",
+            "Mississippi",
+            "Tennessee",
+            "Virginia",
+            "Arkansas",
+            "Minnesota",
+            "Nebraska",
+            "Rhode Island",
+            "Kentucky",
+            "West Virginia",
+            "NYC",
+            "Maryland",
+            "Wisconsin",
+            "Maine",
+            "Massachusetts",
+            "North Carolina",
+            "Oklahoma",
+            "Missouri",
+            "Ohio",
+            "New Jersey",
+            "Indiana",
+            "Louisiana",
+            "Michigan",
+            "Illinois",
+            "Alabama"
+        ],
+        "company_url": "https://simplify.jobs/c/Centene",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sidley Austin",
+        "id": "d27033dc-cd8d-45ae-ac8e-89877f9a71c2",
+        "title": "Senior Software Engineer",
+        "active": true,
+        "date_updated": 1794495973,
+        "date_posted": 1790812800,
+        "url": "https://sidley.wd501.myworkdayjobs.com/US/job/Chicago/Senior-Software-Engineer_R00993",
+        "locations": [
+            "Palo Alto, CA",
+            "Boston, MA",
+            "Houston, TX",
+            "Washington, DC",
+            "Miami, FL",
+            "Dallas, TX",
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Sidley-Austin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Primoris Services",
+        "id": "1ad68d11-18ba-4fa5-9ceb-2cd3a605c0d2",
+        "title": "Application Developer",
+        "active": true,
+        "date_updated": 1794495973,
+        "date_posted": 1785110400,
+        "url": "https://prim.wd108.myworkdayjobs.com/Primoris/job/PSC-Canada-Corporate-Office/Application-Developer_JR100778",
+        "locations": [
+            "Edmonton, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Primoris-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sierra Nevada Corporation",
+        "id": "17249684-d715-4da1-a2a9-2634530b3889",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1794496146,
+        "date_posted": 1794441600,
+        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I--For-2026-Interns-Only-_R0031346",
+        "locations": [
+            "Lone Tree, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Primoris Services",
+        "id": "423380fd-564c-44d9-9994-51fcf17b9f27",
+        "title": "Application Developer",
+        "active": true,
+        "date_updated": 1794495973,
+        "date_posted": 1790726400,
+        "url": "https://prim.wd108.myworkdayjobs.com/Primoris/job/Edmonton-AB/Application-Developer_JR102635",
+        "locations": [
+            "Acheson, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Primoris-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "JBT Marel",
+        "id": "fd3db4d2-9c46-4138-9d5e-f0e0ab109e89",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1794495973,
+        "date_posted": 1794268800,
+        "url": "https://jbtm.wd108.myworkdayjobs.com/jbt_marel_career_site/job/US---Redmond-WA/Software-Engineer_25394",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/JBT-Marel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Radius Telematics",
+        "id": "cee8a536-14d5-40a8-9ed6-49a00ce19e38",
+        "title": "Graduate Credit Risk Analyst",
+        "active": true,
+        "date_updated": 1794495973,
+        "date_posted": 1794480918,
+        "url": "https://jobs.smartrecruiters.com/RadiusLimited/744000161269774",
+        "locations": [
+            "Crewe, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Radius-Limited",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nextpower",
+        "id": "47420edd-5afc-4a9e-a8f6-b320be382c2c",
+        "title": "Forward Deployed Engineer - AI",
+        "active": true,
+        "date_updated": 1794495973,
+        "date_posted": 1784851200,
+        "url": "https://nextracker.wd5.myworkdayjobs.com/nextpower_careers/job/Fremont-South-Bldg-California---USA/Forward-Deployed-Engineer--AI-_NX-4260",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nextpower",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
