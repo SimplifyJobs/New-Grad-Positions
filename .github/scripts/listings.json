@@ -376745,7 +376745,7 @@
         "company_name": "RTX",
         "id": "c6f90e83-7eac-49e1-9f69-534fb81bc0a4",
         "title": "Metrology Database Support Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1794324421,
         "date_posted": 1793836800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-811--1151-E-Hermans-Rd--BLDG-811-External-Site/Metrology-Database-Support-Engineer_01885512-1",
@@ -380312,6 +380312,26 @@
         "date_updated": 1794481742,
         "date_posted": 1792972800,
         "url": "https://kissusa.wd12.myworkdayjobs.com/KISS_Careers_External/job/USA-NY-Port-Washington-HQ/Product-Associate-Product-Development-Management_R4320",
+        "locations": [
+            "Port Washington, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Kiss-Products",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Kiss Products",
+        "id": "9e08d513-6fd3-4fcf-9469-d60967dbff52",
+        "title": "Product Associate",
+        "active": true,
+        "date_updated": 1794485168,
+        "date_posted": 1787011200,
+        "url": "https://kissusa.wd12.myworkdayjobs.com/KISS_Careers_External/job/USA-NY-Port-Washington-HQ/Assistant-Product-Developer_R3951",
         "locations": [
             "Port Washington, NY"
         ],
