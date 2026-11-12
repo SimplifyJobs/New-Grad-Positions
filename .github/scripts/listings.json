@@ -240985,7 +240985,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -299726,7 +299726,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "cd83664d-cb72-48b7-84e1-793e51b160b5",
         "title": "Engineer/Analyst Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1789407797,
         "date_posted": 1789407572,
         "url": "https://careers.jhuapl.edu/jobs/59998?icims=1",
@@ -356993,7 +356993,7 @@
         "company_name": "Northrop Grumman",
         "id": "5cb614bd-a490-404d-9f15-01f7d1583f71",
         "title": "Associate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1793140054,
         "date_posted": 1793059200,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Boulder-CO_R10257908",
@@ -378148,7 +378148,7 @@
         "company_name": "Goldman Sachs",
         "id": "60ba5d46-1da9-4411-9d8c-797c4a1811f2",
         "title": "Software Engineer - Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1794353978,
         "date_posted": 1794351889,
         "url": "https://higher.gs.com/roles/188640",
@@ -380324,5 +380324,128 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Shield AI",
+        "id": "735965af-ac15-473a-a2ef-8a15ab46f590",
+        "title": "Engineer 2 New Grad - Software - Perception",
+        "active": true,
+        "date_updated": 1794452054,
+        "date_posted": 1794355200,
+        "url": "https://jobs.ashbyhq.com/shield/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7/application?embed=true",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Shield AI",
+        "id": "61e8b9d9-7c02-4e36-a273-73122433849f",
+        "title": "Engineer 2 New Grad - Software - Autonomous Pilot Integration",
+        "active": true,
+        "date_updated": 1794452058,
+        "date_posted": 1794355200,
+        "url": "https://jobs.ashbyhq.com/shield/a97fe80e-3ff6-427c-8789-2a7480326bc3/application?embed=true",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Valsoft",
+        "id": "b4b8cdbd-8502-4a14-81ea-6cecbaa6c781",
+        "title": "AI Software Developer - Research & Development",
+        "active": true,
+        "date_updated": 1794451568,
+        "date_posted": 1794451495,
+        "url": "https://apply.workable.com/valsoft-corp/j/EE42775BE3/apply",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Valsoft-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "65133053-7ab3-42e5-9646-aac8b273b497",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1794450994,
+        "date_posted": 1794355200,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-143--855-35Th-St-NE--BLDG-143/Software-Engineer-I--Onsite-_01888058",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Medpace",
+        "id": "ee225dca-a07b-42d2-a9dd-82e99bccc652",
+        "title": "Junior Data Governance Analyst",
+        "active": true,
+        "date_updated": 1794450783,
+        "date_posted": 1794445680,
+        "url": "https://careers.medpace.com/jobs/13127?icims=1&lang=en-us",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Medpace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "xAI",
+        "id": "059704a5-f335-42e5-b0ff-fe4aa9031cf5",
+        "title": "AI Tutor \u2013 Maltese",
+        "active": true,
+        "date_updated": 1794450617,
+        "date_posted": 1793007955,
+        "url": "https://job-boards.greenhouse.io/xai/jobs/5292793007",
+        "locations": [
+            "Remote in USA",
+            "Remote in UK",
+            "Remote in Australia",
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/XAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
