@@ -380199,5 +380199,104 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "84233195-c78a-453a-b511-5847d39d555b",
+        "title": "Associate Software Engineer 1 - CDS / Engine System Software",
+        "active": true,
+        "date_updated": 1794469356,
+        "date_posted": 1794355200,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Associate-Software-Engineer-I---CDS---Engine-System-Software--Onsite-_01884197",
+        "locations": [
+            "East Hartford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "5b43343a-c36f-43d1-8127-7ab1b792503b",
+        "title": "Associate Electrical Engineer",
+        "active": true,
+        "date_updated": 1794468835,
+        "date_posted": 1794468768,
+        "url": "https://jobs.l3harris.com/job/Ashburn-Associate,-Electrical-Engineer-VA-20147/1450077500/?ats=successfactors",
+        "locations": [
+            "Ashburn, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Perplexity AI",
+        "id": "37efe65e-5561-4755-9359-8c696108b7fb",
+        "title": "Product Manager - Legal",
+        "active": true,
+        "date_updated": 1794468792,
+        "date_posted": 1794441600,
+        "url": "https://jobs.ashbyhq.com/perplexity/f4312e0a-7d39-4af9-9a7d-b0fe041a228a/application?embed=true",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/PerplexityAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Markon",
+        "id": "9e5f2a4a-9ce5-441d-bb41-8f11f28a4fb8",
+        "title": "Software Engineer 0",
+        "active": true,
+        "date_updated": 1794468651,
+        "date_posted": 1780940640,
+        "url": "https://markonsolutions.jibeapply.com/jobs/8403?icims=1&lang=en-us",
+        "locations": [
+            "Fort Meade, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Markon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Markon",
+        "id": "6d58d484-4f54-48a9-bf20-be2c64214b60",
+        "title": "Software Engineer Level 0",
+        "active": true,
+        "date_updated": 1794468605,
+        "date_posted": 1794252600,
+        "url": "https://markonsolutions.jibeapply.com/jobs/8806?icims=1&lang=en-us",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Markon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
