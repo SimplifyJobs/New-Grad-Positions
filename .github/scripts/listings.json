@@ -1,46 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Vanguard",
-        "id": "bd6a1b08-9ffe-44ff-acdb-819753bf1bd8",
-        "title": "Application Engineer",
-        "active": false,
-        "date_updated": 1773758124,
-        "date_posted": 1773758124,
-        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/contractors_restricted/job/Manchester-United-Kingdom/Application-Engineer---I_174863",
-        "locations": [
-            "Manchester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Vanguard",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Autodesk",
-        "id": "fbdd1eec-0a09-40ed-a3d9-fc7e82aac237",
-        "title": "Software Development Engineer",
-        "active": false,
-        "date_updated": 1773758972,
-        "date_posted": 1773758972,
-        "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Oregon-USA---Remote/Software-Development-Engineer_26WD96347",
-        "locations": [
-            "Oregon"
-        ],
-        "company_url": "https://simplify.jobs/c/Autodesk",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "University of Pennsylvania",
         "id": "897ee85b-dada-4422-8c31-7fba6405b228",
@@ -336440,7 +336400,7 @@
         "company_name": "LSEG",
         "id": "b8b8f28f-f9ef-440e-91a3-f4d2d23c1d2a",
         "title": "Senior Associate Product Manager - Enterprise AI",
-        "active": true,
+        "active": false,
         "date_updated": 1791929717,
         "date_posted": 1791849600,
         "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/London-United-Kingdom/Senior-Associate-Product-Manager--Enterprise-AI_R0124286",
@@ -341717,7 +341677,7 @@
         "company_name": "Fasanara",
         "id": "9840a2d2-8fcf-4fa0-874f-407b2df36050",
         "title": "High-Frequency Trading Operations Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792227601,
         "date_posted": 1791498548,
         "url": "https://apply.workable.com/fasanara/j/188FC5244B/apply",
@@ -374894,7 +374854,7 @@
         "company_name": "Guidehouse",
         "id": "c64728e0-894f-4440-ac65-00a417c89528",
         "title": "Data Scientist - Consultant - Utilities",
-        "active": true,
+        "active": false,
         "date_updated": 1794266832,
         "date_posted": 1794182400,
         "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---GA-Atlanta/Data-Scientist--Consultant--Utilities-_46382",
