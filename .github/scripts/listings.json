@@ -367630,7 +367630,7 @@
         "company_name": "Zefr",
         "id": "f16c20b3-32a1-4ef6-89fa-c359b3be7c77",
         "title": "Multilingual Data Annotation Specialist - Spanish",
-        "active": true,
+        "active": false,
         "date_updated": 1793662741,
         "date_posted": 1793577600,
         "url": "https://jobs.ashbyhq.com/zefr/28ba87e5-924b-498f-b54a-d26c6639aaff/application?embed=true",
@@ -375994,7 +375994,7 @@
         "company_name": "Northrop Grumman",
         "id": "c356d84d-ba9c-41cd-8452-91ca46cd78f5",
         "title": "Associate Electronics Engineer/Electronics Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1794267047,
         "date_posted": 1794182400,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Associate-Electronics-Engineer-Electronics-Engineer_R10259867",
@@ -380296,6 +380296,26 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Exacare-Ai",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Kiss Products",
+        "id": "61238957-34bf-4ec4-b05b-df693d5afe40",
+        "title": "Product Associate Product Development/Management",
+        "active": true,
+        "date_updated": 1794481742,
+        "date_posted": 1792972800,
+        "url": "https://kissusa.wd12.myworkdayjobs.com/KISS_Careers_External/job/USA-NY-Port-Washington-HQ/Product-Associate-Product-Development-Management_R4320",
+        "locations": [
+            "Port Washington, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Kiss-Products",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
