@@ -1,183 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "John Deere",
-        "id": "9e9ecd4e-fd20-4170-ac0b-c6622a9c5593",
-        "title": "Control Systems Engineer - Product Engineering",
-        "active": false,
-        "date_updated": 1773757177,
-        "date_posted": 1773757177,
-        "url": "https://johndeere.eightfold.ai/careers/job/137479708535",
-        "locations": [
-            "Dubuque, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/John-Deere",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "faf2083b-f24b-4bd5-88ca-cf4f3b9918aa",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1773756718,
-        "date_posted": 1773756718,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053376",
-        "locations": [
-            "Portsmouth, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "cd0174a1-2509-43d2-ac3d-24b12c8afec3",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1773756723,
-        "date_posted": 1773756723,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053830",
-        "locations": [
-            "Trafford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Dominion Energy",
-        "id": "c28af01d-5659-441b-b3f6-200a5d65ea90",
-        "title": "Associate Engineer/Engineer/Senior Engineer - Electric Transmission Operations Analytics",
-        "active": false,
-        "date_updated": 1773756819,
-        "date_posted": 1773756819,
-        "url": "https://careers.dominionenergy.com/job/GLEN-ALLEN-Associate-EngineerEngineerSr_-Engineer-Electric-Transmission-Operations-Analytics-VA-23060/1373988200/?ats=successfactors",
-        "locations": [
-            "Glen Allen, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Dominion-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "9a76f81a-9042-4f44-8b77-f9f7a6418dc2",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1773756721,
-        "date_posted": 1773756721,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053789",
-        "locations": [
-            "Crawley, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "953d3148-b3f0-4c7b-8f24-7f2e8bcce5a0",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1773756730,
-        "date_posted": 1773756730,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053849",
-        "locations": [
-            "Cornwall, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "8915ca08-8581-4bf8-87a9-75a370d4bf08",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1773756724,
-        "date_posted": 1773756724,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053848",
-        "locations": [
-            "Norwich, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The University of Edinburgh",
-        "id": "1acfa2d8-77af-4dd7-bee1-c564a9d6c5b0",
-        "title": "Research Associate",
-        "active": false,
-        "date_updated": 1773756733,
-        "date_posted": 1773756733,
-        "url": "https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/13930",
-        "locations": [
-            "Edinburgh, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/The-University-Of-Edinburgh",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Johnson & Johnson",
-        "id": "fa83d680-80f1-4112-af15-c89bf7b0b770",
-        "title": "Research and Development Leadership Development Program",
-        "active": false,
-        "date_updated": 1773757642,
-        "date_posted": 1773757642,
-        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Research-and-Development-Leadership-Development-Program--RDLDP---2026-Full-Time_R-030459",
-        "locations": [
-            "West Chester, PA",
-            "Bridgewater Township, NJ",
-            "Irvine, CA",
-            "San Carlos, CA",
-            "Santa Clara, CA",
-            "Bridgewater, MA",
-            "Jacksonville, FL",
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Vanguard",
         "id": "bd6a1b08-9ffe-44ff-acdb-819753bf1bd8",
@@ -195,24 +18,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "0f8428e8-1f97-4b48-95e5-f98c19928b41",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1773756895,
-        "date_posted": 1773756895,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053847",
-        "locations": [
-            "Bicester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -10906,26 +10711,6 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Philips",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Robert Bosch Venture Capital",
-        "id": "6da32510-fa69-4006-9384-77f9878f49dd",
-        "title": "Product Management Specialist - Diablo/Freud Tools",
-        "active": false,
-        "date_updated": 1773757034,
-        "date_posted": 1773757034,
-        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000114994315",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Bosch",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -321664,7 +321449,7 @@
         "company_name": "Amgen",
         "id": "8c712045-978a-4def-bc1b-e654cb23e4c3",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791112843,
         "date_posted": 1786665600,
         "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Software-Engineer_R-251398",
@@ -353387,7 +353172,7 @@
         "company_name": "Motorola Solutions",
         "id": "ff4139c4-0cba-4e64-9000-9503b26bd436",
         "title": "Android Applications Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1792794243,
         "date_posted": 1792713600,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer_R68135",
