@@ -313519,7 +313519,7 @@
         "company_name": "Humanoid",
         "id": "3ff5187c-33b8-4c5a-8ff2-68727754cd60",
         "title": "AI Data Collector - Night Shift",
-        "active": true,
+        "active": false,
         "date_updated": 1790375581,
         "date_posted": 1790374526,
         "url": "https://jobs.ashbyhq.com/humanoid/4492b9f9-0dfd-46ca-94ef-10503f096c99/application?embed=true",
@@ -374955,7 +374955,7 @@
         "company_name": "NewDay",
         "id": "2d57759a-b96a-4e83-8d08-bc86a0dd5f66",
         "title": "Associate Business Analytics Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1794233528,
         "date_posted": 1794182400,
         "url": "https://newday.wd3.myworkdayjobs.com/NewDay/job/Leeds/Associate-Business-Analytics-Analyst_JR0726",
@@ -375914,7 +375914,7 @@
         "company_name": "Vishay Intertechnology",
         "id": "77aa6a24-31e7-4c42-b817-5ca67a7185fc",
         "title": "R&D Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1794267193,
         "date_posted": 1794182400,
         "url": "https://vishay.wd3.myworkdayjobs.com/VishayCareers/job/Dover-NH/R-D-Technician_JR-21815",
@@ -380336,6 +380336,26 @@
             "Port Washington, NY"
         ],
         "company_url": "https://simplify.jobs/c/Kiss-Products",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Moog",
+        "id": "a6a4ad60-6ca1-4ae6-abab-bb64470f9daf",
+        "title": "Associate Test Engineer",
+        "active": true,
+        "date_updated": 1794491101,
+        "date_posted": 1789603200,
+        "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Santa-Barbara-CA/Test-Engineer_R-26-20172",
+        "locations": [
+            "Santa Barbara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Moog",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
