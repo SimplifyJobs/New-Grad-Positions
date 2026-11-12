@@ -165317,7 +165317,7 @@
         "company_name": "xAI",
         "id": "a1090125-5984-4a8a-9e90-a82f10f7491d",
         "title": "AI Tutor Chinese",
-        "active": false,
+        "active": true,
         "date_updated": 1783983058,
         "date_posted": 1775081158,
         "url": "https://job-boards.greenhouse.io/xai/jobs/5090180007",
@@ -212671,7 +212671,7 @@
         "company_name": "Geo Owl",
         "id": "476e726d-bfa3-4da0-bdb9-b2bd233304dc",
         "title": "Full Motion Video Analyst - Intelligence Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1785749648,
         "date_posted": 1784787201,
         "url": "https://geoowl.applytojob.com/apply/Hte2eg8GXu/EntryLevel-Full-Motion-Video-FMV-Intelligence-Analyst",
@@ -326426,7 +326426,7 @@
         "company_name": "Resmed",
         "id": "eeb61a55-e885-45c8-a56f-8a173d4848d6",
         "title": "Associate Android Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1791249134,
         "date_posted": 1791158400,
         "url": "https://resmed.wd3.myworkdayjobs.com/en-US/ResMed_External_Careers/job/San-Diego-CA-United-States/Associate-Android-Developer_JR_053888-1",
@@ -359670,7 +359670,7 @@
         "company_name": "Boeing",
         "id": "2ab1121c-3c48-4d77-a953-91550eb41c3c",
         "title": "Entry-Level Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1793167562,
         "date_posted": 1793059200,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026527992-1",
@@ -359691,7 +359691,7 @@
         "company_name": "Boeing",
         "id": "e2eac5a5-35e8-4a56-850a-cafbaba2c767",
         "title": "Entry-Level Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1793169901,
         "date_posted": 1793059200,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026527992",
@@ -364040,7 +364040,7 @@
         "company_name": "DraftKings",
         "id": "fcaec003-a477-4d4e-b991-22130da66945",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1793313733,
         "date_posted": 1793232000,
         "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Software-Engineer--December-2026-Grads-_JR15389",
@@ -380162,5 +380162,445 @@
             "Master's",
             "Associate's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Beauty Tech Group Trading",
+        "id": "dad99dce-1c60-47ed-9aa3-333d1f59d3fb",
+        "title": "Data AI Analyst",
+        "active": true,
+        "date_updated": 1794441062,
+        "date_posted": 1794440910,
+        "url": "https://apply.workable.com/thebeautytechgroup/j/1C695C7477/apply",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Beauty-Tech-Group-Trading",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "TechInsights",
+        "id": "d3d77267-e71d-49aa-ae04-bd90d2dfc4e9",
+        "title": "Circuit Analyst New Grad",
+        "active": true,
+        "date_updated": 1794441106,
+        "date_posted": 1794440999,
+        "url": "https://techinsights.applytojob.com/apply/ycOBoo1em8/Circuit-Analyst-New-Grad-Opportunity",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TechInsights",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Liquid AI",
+        "id": "422e4003-4da1-4015-8888-62d3123e8843",
+        "title": "Member of Technical Staff - Research Engineer - Omni",
+        "active": true,
+        "date_updated": 1794441062,
+        "date_posted": 1794355200,
+        "url": "https://jobs.ashbyhq.com/liquid-ai/d3522c8d-a2ec-498e-b8d7-02fdf5211f2c/application?embed=true",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Liquid-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Microsoft",
+        "id": "5b83878d-7d81-44e4-89ea-10b040471cb7",
+        "title": "Software Development Engineer",
+        "active": true,
+        "date_updated": 1794441102,
+        "date_posted": 1794440956,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557050698",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Isembard",
+        "id": "b758fb01-65fb-4a16-b6b8-d86d99ef82ea",
+        "title": "Forward Deployed Engineer",
+        "active": true,
+        "date_updated": 1794440883,
+        "date_posted": 1794355200,
+        "url": "https://jobs.ashbyhq.com/isembard/f92c3094-2d12-4d4e-ac9f-2936596813e4/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Isembard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Luxfer MEL Technologies",
+        "id": "d4bbdb1a-a772-4252-9490-677cf83c10f6",
+        "title": "Junior Data Engineer",
+        "active": true,
+        "date_updated": 1794440883,
+        "date_posted": 1794440779,
+        "url": "https://luxfermeltechnologiesuk.applytojob.com/apply/7D3Toqbi0l/Junior-Data-Engineer",
+        "locations": [
+            "Swinton, Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Luxfer-MEL-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "65f59b1d-155c-4c30-98f6-84ab84d6b460",
+        "title": "Embedded Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1794440742,
+        "date_posted": 1794355200,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R032090-1",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Argonne National Laboratory",
+        "id": "3b913d8a-7b70-428e-a4de-d9e7a183b23a",
+        "title": "Predoctoral Appointee - Techno-Economic Analysis",
+        "active": true,
+        "date_updated": 1794440702,
+        "date_posted": 1794355200,
+        "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Predoctoral-Appointee----Techno-Economic-Analysis_423697",
+        "locations": [
+            "Lemont, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Argonne-National-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "xAI",
+        "id": "1ee1b8aa-9bb4-4f19-8010-c7375d92098f",
+        "title": "AI Tutor \u2013 Irish",
+        "active": true,
+        "date_updated": 1794440702,
+        "date_posted": 1793007955,
+        "url": "https://job-boards.greenhouse.io/xai/jobs/5292792007",
+        "locations": [
+            "Remote in USA",
+            "Remote in UK",
+            "Remote in Australia",
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/XAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Boeing",
+        "id": "81315681-6dd1-4be6-b44a-b38bc073ce53",
+        "title": "Embedded Software Engineer",
+        "active": true,
+        "date_updated": 1794440526,
+        "date_posted": 1794355200,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Long-Beach-CA/Embedded-Software-Engineer_JR2026529493",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Zensar",
+        "id": "56be81ef-fbd1-4642-a0ad-c830b36a8e70",
+        "title": "Graduate Software Engineer - AI Platform Development - AI",
+        "active": true,
+        "date_updated": 1794440556,
+        "date_posted": 1794440355,
+        "url": "https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/153878",
+        "locations": [
+            "San Jose, CA",
+            "Jersey City, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Zensar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Boeing",
+        "id": "b232ce33-4440-4e8e-a7aa-5525eec04558",
+        "title": "Entry-Level Missions Systems Software Engineer - Embedded",
+        "active": true,
+        "date_updated": 1794440526,
+        "date_posted": 1794355200,
+        "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Berkeley-MO/Entry-Level-Missions-Systems-Software-Engineer---Embedded_JR2026529463",
+        "locations": [
+            "Berkeley, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Zensar",
+        "id": "c189aa66-c9c8-469f-ba67-3b1adf8bebc9",
+        "title": "Graduate Software Engineer - AI Platform Development",
+        "active": true,
+        "date_updated": 1794440545,
+        "date_posted": 1794440356,
+        "url": "https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/153873",
+        "locations": [
+            "San Jose, CA",
+            "Ann Arbor, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Zensar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Zensar",
+        "id": "356907c3-9720-4359-ab11-6d64deb43267",
+        "title": "Graduate Software Engineer - AI",
+        "active": true,
+        "date_updated": 1794440545,
+        "date_posted": 1794440355,
+        "url": "https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/153877",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zensar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Zensar",
+        "id": "318aef66-c06b-44af-aaa1-fb5e89fae8cc",
+        "title": "Graduate Software Engineer - AI Platform Development - AI",
+        "active": true,
+        "date_updated": 1794440558,
+        "date_posted": 1794440355,
+        "url": "https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/153874",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zensar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intel",
+        "id": "ffc35f7e-70bb-48ae-a7b8-c4df3c7d108e",
+        "title": "Design Verification Engineer",
+        "active": true,
+        "date_updated": 1794440393,
+        "date_posted": 1794355200,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/Design-Verification-Engineer_JR0288929-1",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Boeing",
+        "id": "85cc6624-144b-445c-8d61-58a135aa58bf",
+        "title": "Entry-Level Missions Systems Software Engineer - Embedded",
+        "active": true,
+        "date_updated": 1794440346,
+        "date_posted": 1794355200,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Berkeley-MO/Entry-Level-Missions-Systems-Software-Engineer---Embedded_JR2026529463-1",
+        "locations": [
+            "Berkeley, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Boeing",
+        "id": "7a70565e-fba7-4c57-8804-0551949e8742",
+        "title": "Embedded Software Engineer",
+        "active": true,
+        "date_updated": 1794440346,
+        "date_posted": 1794355200,
+        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Long-Beach-CA/Embedded-Software-Engineer_JR2026529493-1",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boeing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Allegion",
+        "id": "2f68ce38-b4fc-4642-bec3-0c5a415bdba9",
+        "title": "Full Stack Software Engineer",
+        "active": true,
+        "date_updated": 1794440346,
+        "date_posted": 1794355200,
+        "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Full-Stack-Software-Engineer_JR38204",
+        "locations": [
+            "Carmel, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Allegion",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Dell Technologies",
+        "id": "66a3fd3d-a721-4dc6-9c48-bb23e6e6e507",
+        "title": "Data Science Analyst",
+        "active": true,
+        "date_updated": 1794440006,
+        "date_posted": 1794439866,
+        "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/R271283",
+        "locations": [
+            "Round Rock, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Dell-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CDK Global",
+        "id": "5661c34a-0210-43e8-97dd-734c341fa13c",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1794439801,
+        "date_posted": 1794355200,
+        "url": "https://cdk.wd1.myworkdayjobs.com/en-US/CDK/job/Austin-TX-USA/Associate-Software-Engineer_JR9345-1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/CDK-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Avante",
+        "id": "53475e58-fd4c-4b93-8e66-c2362b252a3d",
+        "title": "Product Engineer - Agent Experience",
+        "active": true,
+        "date_updated": 1794439801,
+        "date_posted": 1794417981,
+        "url": "https://job-boards.greenhouse.io/avante/jobs/4502314009",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Avante",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
