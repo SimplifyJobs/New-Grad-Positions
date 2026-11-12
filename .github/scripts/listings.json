@@ -240985,7 +240985,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -277224,7 +277224,7 @@
         "company_name": "Keysight Technologies",
         "id": "7394bcea-659c-42df-b949-63d62610887f",
         "title": "Electrical Engineer - Hardware Design",
-        "active": true,
+        "active": false,
         "date_updated": 1786660999,
         "date_posted": 1786660885,
         "url": "https://jobs.keysight.com/jobs/53809?icims=1",
@@ -335542,7 +335542,7 @@
         "company_name": "General Motors",
         "id": "ac9da20f-eebb-47fc-bed4-d2f4cfcfa386",
         "title": "AI/Machine Learning Researcher",
-        "active": true,
+        "active": false,
         "date_updated": 1791844389,
         "date_posted": 1791763200,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/Entry-Level---AI-Machine-Learning-Researcher_JR-202621753",
@@ -335562,7 +335562,7 @@
         "company_name": "General Motors",
         "id": "6dcf5b4f-e623-427e-b9a1-746534431b01",
         "title": "Semiconductors and Compute Platforms Researcher - Compute Platforms & SoC/MCU Semiconductor Systems Researcher",
-        "active": true,
+        "active": false,
         "date_updated": 1791844392,
         "date_posted": 1791763200,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level---Compute-Platforms---SoC-MCU-Semiconductor-Systems-Researcher_JR-202621829",
@@ -379999,7 +379999,7 @@
         "company_name": "Zensar",
         "id": "56be81ef-fbd1-4642-a0ad-c830b36a8e70",
         "title": "Graduate Software Engineer - AI Platform Development - AI",
-        "active": true,
+        "active": false,
         "date_updated": 1794440556,
         "date_posted": 1794440355,
         "url": "https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/153878",
@@ -380237,5 +380237,92 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Shield AI",
+        "id": "8317de49-cf07-44e3-9ff1-0de4a824662a",
+        "title": "Engineer 2 New Grad - Software - Perception",
+        "active": true,
+        "date_updated": 1794450258,
+        "date_posted": 1794355200,
+        "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7/application?embed=true",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Shield AI",
+        "id": "1e8a39d7-e258-4e2c-a266-919db04fb44a",
+        "title": "Engineer 2 New Grad - Software - Autonomous Pilot Integration",
+        "active": true,
+        "date_updated": 1794450257,
+        "date_posted": 1794355200,
+        "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/a97fe80e-3ff6-427c-8789-2a7480326bc3/application?embed=true",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ViaSat",
+        "id": "313bd68b-d18b-43ab-b3df-d8486aeb24ba",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1794449361,
+        "date_posted": 1794445380,
+        "url": "https://careers.viasat.com/jobs/7147?icims=1&lang=en-us",
+        "locations": [
+            "Carlsbad, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ViaSat",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Shield AI",
+        "id": "8b2fa733-e2e8-4637-a9d8-504975db947c",
+        "title": "Engineer 2 New Grad - Software - Perception",
+        "active": true,
+        "date_updated": 1794449394,
+        "date_posted": 1794449241,
+        "url": "https://jobs.lever.co/shieldai/9017c8c2-2668-45d6-aff5-a7e348107c12/apply",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     }
 ]
