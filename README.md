@@ -119,7 +119,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Product Builder, Early Career</td>
 <td>Remote in USA</td>
 <td><div align="center"><a href="https://apply.workable.com/bask-health-1/j/854A2D27D1/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/43b8e348-e9a9-41b1-9c10-5bc2b4d1cbce?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Salesforce?utm_source=GHList&utm_medium=company">🔥 Salesforce</a></strong></td>
@@ -147,7 +147,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer 1/2</td>
 <td>Remote in USA</td>
 <td><div align="center"><a href="https://apply.workable.com/multimediallc/j/24DBCDDF27/apply#jobs?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/12e1fe90-2686-45e5-a2cb-28ea043f4489?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>1d</td>
+<td>2d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
@@ -322,7 +322,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Developer Engineer 1 - Security Platform</td>
 <td>Seattle, WA</br>SF</br>Irvine, CA</td>
 <td><div align="center"><a href="https://amazon.jobs/en/jobs/10597112/software-dev-engineer-i-security-platform?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/1ebb8945-a47e-48a3-a181-d6bc174efd7d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>6d</td>
+<td>7d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company">CACI</a></strong></td>
@@ -10872,14 +10872,14 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Associate Product Manager New Grad</td>
 <td>Remote in USA</td>
 <td><div align="center"><a href="https://apply.workable.com/bask-health-1/j/10419258C9/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/fc9a2814-e6ac-4198-a6bd-4f77d7941d78?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Junior Product Manager - Intakes & Conversion</td>
 <td>Remote in USA</td>
 <td><div align="center"><a href="https://apply.workable.com/bask-health-1/j/EB2C2D9268/apply?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/d456430e-26c6-4f0f-9034-ee47bfe3d1ab?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Phlo?utm_source=GHList&utm_medium=company">Phlo</a></strong></td>
