@@ -1,70 +1,5 @@
 [
     {
-        "date_updated": 1776941773,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://ascensushr.wd1.myworkdayjobs.com/en-US/ascensuscareers/job/Newton-MA/Associate-Software-Development-Engineer--SDET---IT-Software-Engineers_R0020925",
-        "company_name": "Ascensus",
-        "title": "Associate Software Development Engineer (SDET)",
-        "locations": [
-            "Newton, MA",
-            "Dresher, PA",
-            "Lake Mary, FL",
-            "Boston, MA",
-            "Philadelphia, PA",
-            "Orlando, FL"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "9e3b982e-eceb-43c0-bb4a-daf219ca0cb2",
-        "date_posted": 1773846411,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1776439711,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [],
-        "url": "https://careers-gdms.icims.com/jobs/71514/software-engineer-%E2%80%93-entry-level/job",
-        "company_name": "General Dynamics Mission Systems",
-        "title": "Software Engineer \u2013 Entry Level",
-        "locations": [
-            "Manassas, VA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "1ac75bda-e493-4231-8308-06948d09837a",
-        "date_posted": 1773846537,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Frazer-Nash Consultancy",
-        "id": "9963857b-58e3-4565-b1c3-2d56454606b1",
-        "title": "Complex Systems Design and Assurance Graduate Engineer",
-        "active": false,
-        "date_updated": 1773846753,
-        "date_posted": 1773846753,
-        "url": "https://kbr.wd5.myworkdayjobs.com/Frazer_Nash_Careers/job/Bristol-United-Kingdom/Complex-Systems-Design-and-Assurance-Graduate-Engineer_R2120627",
-        "locations": [
-            "Bristol, UK",
-            "Exeter, UK",
-            "Dorking, UK",
-            "Manchester, UK",
-            "Orton Southgate, Peterborough, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Frazer-Nash-Consultancy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "source": "Simplify",
         "category": "Quant",
         "company_name": "JP Morgan Chase",
@@ -116581,7 +116516,7 @@
         "company_name": "Spry Methods",
         "id": "d7535d62-89cf-4935-a964-8815407882af",
         "title": "Intelligence Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1781129533,
         "date_posted": 1781129243,
         "url": "https://jobs.lever.co/sprymethods/e4e0226d-3150-49c7-826e-0073338d9be5/apply",
@@ -380278,6 +380213,130 @@
             "Bristol, UK"
         ],
         "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Procter & Gamble",
+        "id": "66b5f868-e23e-4db7-a1bc-da9f545cd01a",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1794583627,
+        "date_posted": 1794528000,
+        "url": "https://pg.wd5.myworkdayjobs.com/1000/job/Weybridge/Data-Engineer_R000162789",
+        "locations": [
+            "London, UK",
+            "Weybridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Procter-Gamble-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bank of Montreal",
+        "id": "4287d783-c297-490e-8a07-772a66707407",
+        "title": "Personal & Business Banking Development Program New Grad",
+        "active": true,
+        "date_updated": 1794582949,
+        "date_posted": 1794528000,
+        "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/BMO-Personal---Business-Banking-Development-Program--New-Graduate----2-Year-Program_R260031068-3",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Thoughtworks",
+        "id": "c467ce94-cbcc-46f7-9a47-5673ae132895",
+        "title": "Graduate Developer",
+        "active": true,
+        "date_updated": 1794582766,
+        "date_posted": 1793232000,
+        "url": "https://jobs.ashbyhq.com/c898d712-c4ab-4157-954a-5df226a781e2/aff64320-4e2f-41b5-bbdf-7aed82751dd0/application?embed=true",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Thoughtworks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tulane University",
+        "id": "a3d839b5-c0d2-421b-9448-1b4774c25796",
+        "title": "Data Analyst 1",
+        "active": true,
+        "date_updated": 1794582624,
+        "date_posted": 1794582535,
+        "url": "https://tulane-ibqejb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2296",
+        "locations": [
+            "New Orleans, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tulane-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "13e19999-69ce-4245-a0f6-9b5b7fd62382",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1794582613,
+        "date_posted": 1794528000,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027---Associate-Software-Engineer---McClellan-CA_R10260423",
+        "locations": [
+            "McClellan Park, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Peraton",
+        "id": "b9d84af2-efb4-477c-b75e-0b43d90c6cdf",
+        "title": "Full Stack Engineer",
+        "active": true,
+        "date_updated": 1794582547,
+        "date_posted": 1794528000,
+        "url": "https://careers-peraton.icims.com/jobs/173596/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
