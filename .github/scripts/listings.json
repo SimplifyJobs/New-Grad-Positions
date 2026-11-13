@@ -239447,7 +239447,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -373342,7 +373342,7 @@
         "company_name": "Iowa State University",
         "id": "ffa2113a-b45f-49c0-afa2-03a8614f1c28",
         "title": "Software Developer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1794017299,
         "date_posted": 1793923200,
         "url": "https://isu.wd1.myworkdayjobs.com/IowaStateJobs/job/Ames-IA/Software-Developer-I_R20057",
@@ -380565,5 +380565,85 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Shield AI",
+        "id": "8b086459-985c-4225-b509-facb2dce5e94",
+        "title": "Software Engineer 1 New Grad",
+        "active": true,
+        "date_updated": 1794556503,
+        "date_posted": 1794528000,
+        "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/7e0ae8a3-4872-431c-a04a-2f2b8988b527/application?embed=true",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "3405de3a-e8dd-40b3-b91f-52185d82ebe8",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1794556282,
+        "date_posted": 1794441600,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-I_01888972",
+        "locations": [
+            "Marlborough, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mitsubishi Heavy Industries",
+        "id": "b7bd6f43-6d41-4783-a8f2-39c4dd4fd907",
+        "title": "AI and Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1794555542,
+        "date_posted": 1790076170,
+        "url": "https://jobs.smartrecruiters.com/MitsubishiPowerEMEA/744000151007599",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Mitsubishi-Heavy-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Empowerly",
+        "id": "48575bc5-b3c7-42b6-b136-7df9d7bd0791",
+        "title": "Full Stack Software Engineer",
+        "active": true,
+        "date_updated": 1794555630,
+        "date_posted": 1794555523,
+        "url": "https://ats.rippling.com/empowerly/jobs/bf9b3e41-e94a-409e-8dc6-620f2cc0171b",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Empowerly",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
