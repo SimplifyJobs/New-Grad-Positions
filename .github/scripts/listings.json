@@ -239429,7 +239429,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -355437,7 +355437,7 @@
         "company_name": "Northrop Grumman",
         "id": "5cb614bd-a490-404d-9f15-01f7d1583f71",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793140054,
         "date_posted": 1793059200,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Boulder-CO_R10257908",
@@ -369103,7 +369103,7 @@
         "company_name": "Paccar",
         "id": "79cd1dea-2336-4898-8055-fef39a34aa12",
         "title": "Associate System Integration and Test Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793847061,
         "date_posted": 1793846901,
         "url": "https://jobs.paccar.com/job/Mount-Vernon-Associate-System-Integration-and-Test-Engineer-WA-98273-9671/1454445133/?ats=successfactors",
@@ -374072,7 +374072,7 @@
         "company_name": "Mercury Insurance",
         "id": "8fdeb561-a8db-4d1a-a92f-1065c24f4d9d",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1794265832,
         "date_posted": 1794182400,
         "url": "https://careers-mercuryinsurance.icims.com/jobs/6943/job?mobile=true&needsRedirect=false",
@@ -377976,7 +377976,7 @@
         "company_name": "Jamf",
         "id": "958aaf69-42ec-4bd2-8555-d96382f1c021",
         "title": "Associate Software Engineer - Full Stack",
-        "active": true,
+        "active": false,
         "date_updated": 1794438917,
         "date_posted": 1794438468,
         "url": "https://www.jamf.com/about/careers/jobs/?gh_jid=6254227004&gh_jid=6254227004",
@@ -380645,6 +380645,28 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Shield AI",
+        "id": "dcad63ca-676a-4159-a102-8c42f2d872c5",
+        "title": "Software Engineer 1 New Grad",
+        "active": true,
+        "date_updated": 1794565125,
+        "date_posted": 1794528000,
+        "url": "https://jobs.ashbyhq.com/shield/7e0ae8a3-4872-431c-a04a-2f2b8988b527/application?embed=true",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
             "PhD"
         ]
     }
