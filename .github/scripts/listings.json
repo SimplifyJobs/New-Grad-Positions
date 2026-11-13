@@ -336669,7 +336669,7 @@
         "company_name": "Molson Coors Beverage Company",
         "id": "042808d5-95ef-4825-b062-d532575c3c25",
         "title": "Data Apprentice",
-        "active": true,
+        "active": false,
         "date_updated": 1791989113,
         "date_posted": 1791989112,
         "url": "https://careers.molsoncoors.com/global/en/job/40190",
@@ -380690,6 +380690,27 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "de56310c-a4c9-44cf-ad8a-38657d8fb7e8",
+        "title": "Software Engineer - Block Storage",
+        "active": true,
+        "date_updated": 1794575719,
+        "date_posted": 1794528000,
+        "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Bristol-Avon-United-Kingdom/Software-Engineer---Block-Storage-UK_1218994-3",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
