@@ -3,24 +3,6 @@
         "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
-        "id": "4f5f6a23-3e84-4fc1-ba17-e4cfdf5e8e9c",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1773824983,
-        "date_posted": 1773824983,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053937",
-        "locations": [
-            "Aberdeen, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
         "id": "e6c48084-7c98-47eb-95df-7b928dcc318e",
         "title": "Trading Assistant",
         "active": false,
@@ -345921,7 +345903,7 @@
         "company_name": "Computershare",
         "id": "319cbcee-d50c-4be3-965d-86b2c09bdc4a",
         "title": "Graduate AI Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792678142,
         "date_posted": 1792678054,
         "url": "https://fa-evdq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/13282",
@@ -380645,5 +380627,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lawrence Livermore National Laboratory (LLNL)",
+        "id": "1dc27d55-7ff7-4c9d-81a2-312dfa271676",
+        "title": "Reduced Order Modeling Postdoctoral Researcher",
+        "active": true,
+        "date_updated": 1794561714,
+        "date_posted": 1790287844,
+        "url": "https://jobs.smartrecruiters.com/LLNL/3743990016823076",
+        "locations": [
+            "Livermore, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LLNL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
     }
 ]
