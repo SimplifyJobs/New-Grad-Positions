@@ -139029,7 +139029,7 @@
         "company_name": "Berkshire Hathaway Energy",
         "id": "8931b28b-82ca-4fea-acb0-322f33bea17a",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1782857523,
         "date_posted": 1782857254,
         "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005318",
@@ -207164,7 +207164,7 @@
         "company_name": "Noblis",
         "id": "5836e123-acb1-49d2-abde-395cef4328dd",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785623401,
         "date_posted": 1785577442,
         "url": "https://careers.noblis.org/jobs/26643?icims=1",
@@ -239566,7 +239566,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -312380,7 +312380,7 @@
         "company_name": "Snap Finance",
         "id": "704c0f96-f7de-423e-a880-0aae4d484562",
         "title": "Software Engineer - Applied AI",
-        "active": true,
+        "active": false,
         "date_updated": 1790375581,
         "date_posted": 1790294400,
         "url": "https://snapfinance.wd1.myworkdayjobs.com/snap_external_careers/job/Metro-9---West-Valley-City/Software-Engineer---Applied-AI_R-2928",
@@ -330790,7 +330790,7 @@
         "company_name": "RTX",
         "id": "767b6430-777a-473d-9c98-51637b7dbec5",
         "title": "Embedded Security Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1791499216,
         "date_posted": 1791417600,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Embedded-Security-Software-Engineer-I--Onsite-_01881355",
@@ -376729,7 +376729,7 @@
         "company_name": "Goldman Sachs",
         "id": "60ba5d46-1da9-4411-9d8c-797c4a1811f2",
         "title": "Software Engineer - Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1794353978,
         "date_posted": 1794351889,
         "url": "https://higher.gs.com/roles/188640",
@@ -380626,5 +380626,41 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Constructive Dialogue Institute",
+        "id": "2da3ae25-41c7-4c97-bae2-3e06a9a2050d",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1794536326,
+        "date_posted": 1791912933,
+        "url": "https://constructivedialogue.recruitee.com/o/software-engineer-early-career",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Constructive-Dialogue-Institute",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Natuvion",
+        "id": "731706ec-a376-4475-9c04-ca9812810191",
+        "title": "AI Developer",
+        "active": true,
+        "date_updated": 1794536102,
+        "date_posted": 1792506202,
+        "url": "https://natuvion.recruitee.com/o/ai-developer-on-site",
+        "locations": [
+            "Malvern, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Natuvion",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
