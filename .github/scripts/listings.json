@@ -261378,7 +261378,7 @@
         "company_name": "Micron Technology",
         "id": "2bc345ba-6706-4efb-925f-c449a37bc3d5",
         "title": "Software Engineer New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1787869832,
         "date_posted": 1787788800,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Software-Engineer_JR109692",
@@ -332077,7 +332077,7 @@
         "company_name": "Stifel",
         "id": "06fc68bb-527a-4611-b8ca-117c9305d842",
         "title": "Developer \u2013 Credit Analytics",
-        "active": false,
+        "active": true,
         "date_updated": 1791584620,
         "date_posted": 1791584043,
         "url": "https://careers-stifel.icims.com/jobs/10047/job?mobile=true&needsRedirect=false",
@@ -365329,7 +365329,7 @@
         "company_name": "Stifel",
         "id": "c4f21ea8-447d-4766-9ef6-dc1e32dd3be5",
         "title": "Developer Credit Analytics",
-        "active": false,
+        "active": true,
         "date_updated": 1793428290,
         "date_posted": 1791578160,
         "url": "https://stifel.jibeapply.com/jobs/10047?icims=1",
@@ -380388,6 +380388,307 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "L3Harris Technologies",
+        "id": "f4ec82de-4ab6-4118-8c14-2c5068dbf3c2",
+        "title": "Associate \u2013 Application Development",
+        "active": true,
+        "date_updated": 1794527641,
+        "date_posted": 1794527520,
+        "url": "https://jobs.l3harris.com/job/Melbourne-Associate,-Application-Development-FL-32919/1450263800/?ats=successfactors",
+        "locations": [
+            "Melbourne, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Copart",
+        "id": "92de9a3e-582d-48ba-b0a9-c08f9a84c313",
+        "title": "Associate Product Manager",
+        "active": true,
+        "date_updated": 1794527641,
+        "date_posted": 1794441600,
+        "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Associate-Product-Manager_JR112795",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Copart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "6f86c08f-7c17-4d30-9311-5400d161893c",
+        "title": "Associate Electrical Engineer",
+        "active": true,
+        "date_updated": 1794527683,
+        "date_posted": 1794527521,
+        "url": "https://jobs.l3harris.com/job/Cincinnati-Associate,-Electrical-Engineering-OH-45245/1450362900/?ats=successfactors",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Affirm",
+        "id": "95469101-e73c-46af-9d76-d8bc62f325fe",
+        "title": "Software Engineer 1 - Backend - Continuous Delivery",
+        "active": true,
+        "date_updated": 1794527311,
+        "date_posted": 1794525357,
+        "url": "https://job-boards.greenhouse.io/affirm/jobs/8181185003",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Affirm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Affirm",
+        "id": "6aeeb00d-88c5-4ee8-871e-ff119dee63bb",
+        "title": "Software Engineer 1 - Backend - Continuous Delivery",
+        "active": true,
+        "date_updated": 1794527311,
+        "date_posted": 1794525354,
+        "url": "https://job-boards.greenhouse.io/affirm/jobs/8181183003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Affirm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "City of New Braunfels",
+        "id": "8c039dc3-d838-4ceb-aaf3-4e5e9e244dd8",
+        "title": "GIS Technician 1/2/3",
+        "active": true,
+        "date_updated": 1794527248,
+        "date_posted": 1794441600,
+        "url": "https://newbraunfels.wd12.myworkdayjobs.com/CONB/job/New-Braunfels-TX/GIS-Technician-I-II-III_R456",
+        "locations": [
+            "New Braunfels, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/City-Of-New-Braunfels",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Booz Allen",
+        "id": "693ebc18-2528-4b4e-822a-53fa49691c64",
+        "title": "Junior C++ Software Engineer",
+        "active": true,
+        "date_updated": 1794526969,
+        "date_posted": 1794441600,
+        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Beavercreek-OH/C---Software-Engineer--Junior_R0253425",
+        "locations": [
+            "Beavercreek, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "ac060089-6968-4345-9dd1-0b0c579c9ba8",
+        "title": "Systems/Software Engineer 1",
+        "active": true,
+        "date_updated": 1794526792,
+        "date_posted": 1794441600,
+        "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Sunnyvale-California-United-States-of-America/Systems-Software-Engineer-I_1215821",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ASM International",
+        "id": "1c68e5b6-3ae8-4756-b4c7-66d6099956b9",
+        "title": "Engineer 2 - Electrical Engineering",
+        "active": true,
+        "date_updated": 1794526785,
+        "date_posted": 1794505258,
+        "url": "https://www.asm.com/open-vacancies/?gh_jid=5021046101",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/ASM-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Beta Technologies",
+        "id": "2bfa8b8c-9c03-4380-bb99-bcb949bcfa4d",
+        "title": "ERP Master Data Specialist",
+        "active": true,
+        "date_updated": 1794526562,
+        "date_posted": 1794500792,
+        "url": "https://job-boards.greenhouse.io/betatechnologiesinc/jobs/4262266009",
+        "locations": [
+            "South Burlington, VT"
+        ],
+        "company_url": "https://simplify.jobs/c/Beta-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Zone 5 Technologies",
+        "id": "538c9796-3237-439a-9f57-ca590df8fc86",
+        "title": "Systems Integration and Test Technician 1/2",
+        "active": true,
+        "date_updated": 1794526596,
+        "date_posted": 1794525514,
+        "url": "https://job-boards.greenhouse.io/zone5technologies/jobs/5478790008",
+        "locations": [
+            "San Luis Obispo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zone-5-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sierra Space",
+        "id": "4b987a13-5e67-43c6-86e9-c88f80005b25",
+        "title": "Software Engineer 1 - DevOps - DevSecOps",
+        "active": true,
+        "date_updated": 1794526408,
+        "date_posted": 1794441600,
+        "url": "https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Louisville-CO/REQ-SWAP-Software-Engineer-I---DevOps---DevSecOps_R26535",
+        "locations": [
+            "Centennial, CO",
+            "Louisville, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Sierra-Space",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NFI Industries",
+        "id": "0fb80d88-7397-405b-8ed0-b4b9d6335190",
+        "title": "Business Intelligence Analyst 1 - Distribution",
+        "active": true,
+        "date_updated": 1794526414,
+        "date_posted": 1794514680,
+        "url": "https://careers.nfiindustries.com/jobs/40711?icims=1&lang=en-us",
+        "locations": [
+            "Camden, NJ",
+            "Trenton, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/NFI-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Smiths Detection Group",
+        "id": "fff1b8bb-96b2-4bc3-b140-bed6e24957e6",
+        "title": "Data Analyst Apprentice",
+        "active": true,
+        "date_updated": 1794526226,
+        "date_posted": 1794497044,
+        "url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000161324881",
+        "locations": [
+            "Slough, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Smiths-Detection-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Mission Systems",
+        "id": "31a732f2-d65e-41e9-818b-7b4da40f9eae",
+        "title": "Platform Services Software Engineer Entry Level",
+        "active": true,
+        "date_updated": 1794526292,
+        "date_posted": 1794441600,
+        "url": "https://careers-gdms.icims.com/jobs/80580/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-Mission-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
