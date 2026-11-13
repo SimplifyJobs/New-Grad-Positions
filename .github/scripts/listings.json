@@ -293741,7 +293741,7 @@
         "company_name": "General Motors",
         "id": "5e2d9124-8197-4d17-9026-14c8fc221406",
         "title": "Machine Learning Systems Engineer - Data Labeling Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1788994038,
         "date_posted": 1788912000,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/ML-Systems-Engineer--Data-Labeling-Engineering---Early-Career_JR-202619939",
@@ -335920,7 +335920,7 @@
         "company_name": "CWILL",
         "id": "b43a9cbe-374d-4942-a0f6-41ac7cb52fc6",
         "title": "Product Management Trainee",
-        "active": true,
+        "active": false,
         "date_updated": 1791930790,
         "date_posted": 1791930037,
         "url": "https://apply.workable.com/cwill-us/j/DC0FEF1210/apply",
@@ -380662,5 +380662,27 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Microsoft",
+        "id": "1b5051b7-313d-427c-b1cf-b2e7fa4b5947",
+        "title": "Electrical Engineer - Schie",
+        "active": true,
+        "date_updated": 1794538642,
+        "date_posted": 1794538490,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557023168",
+        "locations": [
+            "Redmond, WA",
+            "Hillsboro, OR",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
