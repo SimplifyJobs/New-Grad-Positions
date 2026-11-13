@@ -1,29 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Leidos",
-        "id": "713dca75-dd2d-46be-a770-662b19c2c398",
-        "title": "Junior Software Engineer",
-        "active": false,
-        "date_updated": 1773798013,
-        "date_posted": 1773798013,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Orlando-FL/Junior-Software-Engineer_R-00178648-1",
-        "locations": [
-            "Orlando, FL",
-            "Morgantown, WV",
-            "Omaha, NE",
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Clipboard Health",
         "id": "4543bde6-0ce0-47f7-a59f-2e7b53602b47",
@@ -152080,7 +152057,7 @@
         "company_name": "Applied Systems, Inc.",
         "id": "51ca28a3-5501-448a-a399-6a1d14a4fcda",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1783376949,
         "date_posted": 1783375535,
         "url": "https://careers-appliedsystems.icims.com/jobs/7318/job?mobile=true&needsRedirect=false",
@@ -375905,7 +375882,7 @@
         "company_name": "SAIC",
         "id": "442a067d-0120-494f-b6d2-c736c838776a",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1794353231,
         "date_posted": 1794353217,
         "url": "https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2618968",
