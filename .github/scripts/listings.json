@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "The Boeing Company",
-        "id": "000327a2-72d9-4a03-ba91-5c44583d0f05",
-        "title": "Simulation Integration Engineer",
-        "active": false,
-        "date_updated": 1773817518,
-        "date_posted": 1773817518,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Long-Beach-CA/Simulation-Integration-Engineer--Entry-Level-or-Associate-_JR2026498867-1",
-        "locations": [
-            "Long Beach, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "4f5f6a23-3e84-4fc1-ba17-e4cfdf5e8e9c",
@@ -371330,7 +371309,7 @@
         "company_name": "Bristol Myers Squibb",
         "id": "e1eba358-c40c-438b-96d9-d1a9936862ee",
         "title": "Data Engineer - Clinical Operations",
-        "active": true,
+        "active": false,
         "date_updated": 1793920862,
         "date_posted": 1793836800,
         "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms/job/Princeton---NJ---US/Data-Engineer--Clinical-Operations_R1608237-1",
