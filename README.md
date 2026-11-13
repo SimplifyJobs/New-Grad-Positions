@@ -364,7 +364,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer New Grad - Consumer Experience</td>
 <td>NYC</td>
 <td><div align="center"><a href="https://job-boards.eu.greenhouse.io/stubhubinc/jobs/5027626101?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/b6f8c62c-4d2c-44f5-8147-cca845fe05d3?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>7d</td>
+<td>8d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Peraton?utm_source=GHList&utm_medium=company">Peraton</a></strong></td>
@@ -14800,7 +14800,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Aerospace Software Engineer New Grad - Aerospace Software</td>
 <td>Hawthorne, CA</td>
 <td><div align="center"><a href="https://boards.greenhouse.io/spacex/jobs/8939697002?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/d195e49a-0c54-46a9-aba8-414e38f7ec6d?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/TechInsights?utm_source=GHList&utm_medium=company">TechInsights</a></strong></td>
@@ -16281,7 +16281,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Flight Software Engineer 1</td>
 <td>Littleton, CO</td>
 <td>🔒</td>
-<td>1mo</td>
+<td>2mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
