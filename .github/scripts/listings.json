@@ -2,125 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "University of Miami",
-        "id": "fae8dfdf-181a-4df5-b61c-f4217064a57f",
-        "title": "Data Analyst 1",
-        "active": false,
-        "date_updated": 1773874228,
-        "date_posted": 1773874228,
-        "url": "https://umiami.wd1.myworkdayjobs.com/UMCareerStaff/job/Miami-FL/Data-Analyst-1_R100095111",
-        "locations": [
-            "Miami, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Miami",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "RELX",
-        "id": "e92ad2e8-5523-4425-8044-4d91daee5506",
-        "title": "Tech Accelerate Graduate Program - Software Engineer June",
-        "active": false,
-        "date_updated": 1773873624,
-        "date_posted": 1773873624,
-        "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program---Software-Engineer-June_R100293-1",
-        "locations": [
-            "Alpharetta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/RELX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "The Boeing Company",
-        "id": "c9103c39-526a-4a50-90e9-5b692c0f7c81",
-        "title": "Associate Software Engineer - Developer",
-        "active": false,
-        "date_updated": 1773874399,
-        "date_posted": 1773874399,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Saint-Charles-MO/Associate-Software-Engineer--Developer-_JR2026500043-1",
-        "locations": [
-            "St Charles, MO",
-            "St. Louis, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Vishay Intertechnology",
-        "id": "1ced262d-c162-479f-b2f3-540bd42bb745",
-        "title": "R&D Tech",
-        "active": false,
-        "date_updated": 1773874041,
-        "date_posted": 1773874041,
-        "url": "https://vishay.wd3.myworkdayjobs.com/VishayCareers/job/Duluth-MN/R-D-Tech_JR-13728",
-        "locations": [
-            "Duluth, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Vishay-Intertechnology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Littelfuse",
-        "id": "1e2536b2-aa6d-46b4-8292-bf9c0351ff8d",
-        "title": "RISE Rotational Engineer",
-        "active": false,
-        "date_updated": 1773873877,
-        "date_posted": 1773873877,
-        "url": "https://littelfuse.wd1.myworkdayjobs.com/Littelfuse-Careers/job/Mount-Prospect/RISE-Rotational-Engineer_JR-110544-2",
-        "locations": [
-            "Des Plaines, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Littelfuse",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Orchid Orthopedic Solutions",
-        "id": "2bdc6c11-3b74-4b41-b499-f1283b22a803",
-        "title": "QC Inspector",
-        "active": false,
-        "date_updated": 1773873347,
-        "date_posted": 1773873347,
-        "url": "https://orchidortho.wd5.myworkdayjobs.com/careers/job/Arab-AL/QC-Inspector_R-8554",
-        "locations": [
-            "Huntsville, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Orchid-Orthopedic-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Royal Bank of Canada",
         "id": "80e0d2bb-5eae-4fed-aa2b-5d67a69a7cc7",
         "title": "Data Engineer \u2013 New Grad",
@@ -135,68 +16,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Repsol",
-        "id": "f3af0140-c1c3-4872-bfad-d4bff65067c0",
-        "title": "Natural Gas and Power Trading Risk Management Analyst",
-        "active": false,
-        "date_updated": 1773874658,
-        "date_posted": 1773874658,
-        "url": "https://repsol.wd3.myworkdayjobs.com/Repsol/job/Houston/Natural-Gas-and-Power-Trading-Risk-Management-Analyst_80881-2",
-        "locations": [
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Repsol",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "MBA",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "The North Face",
-        "id": "833c7313-deb6-4827-8425-003039e43e20",
-        "title": "Associate Designer - Lifestyle Everyday + Youth",
-        "active": false,
-        "date_updated": 1773873629,
-        "date_posted": 1773873629,
-        "url": "https://vfc.wd5.myworkdayjobs.com/northface_careers/job/USCA--USA--Colorado--Denver-HQ---VFC/Associate-Designer--Lifestyle-Everyday---Youth_R-20260123-0027",
-        "locations": [
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/The-North-Face",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Parsons",
-        "id": "79985779-6f91-4cd8-97b7-8efafabcd2ef",
-        "title": "Associate Software Engineer",
-        "active": false,
-        "date_updated": 1773873621,
-        "date_posted": 1773873621,
-        "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---CO-Colorado-Springs/Associate-Software-Engineer_R178557-2",
-        "locations": [
-            "Colorado Springs, CO",
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Parsons",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -263,26 +82,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Q2",
-        "id": "b8601e0c-9295-499f-b3c9-6c1358f5e269",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1773873343,
-        "date_posted": 1773873343,
-        "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Software-Engineer_REQ-12326",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Q2Software",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "AbbVie",
         "id": "002cb9c3-f97d-4f33-be1b-ad930f9730c4",
         "title": "Associate Engineer - Technology I",
@@ -320,27 +119,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Brandeis University",
-        "id": "ba9cfaff-5d1b-4a02-9b44-816715eb5968",
-        "title": "Data Analyst Research Fellow",
-        "active": false,
-        "date_updated": 1773873976,
-        "date_posted": 1773873976,
-        "url": "https://brandeis.wd5.myworkdayjobs.com/en-US/Jobs/job/Brandeis---Waltham-Campus/Data-Analyst-Research-Fellow-at-The-Blue-Square-Alliance-Against-Hate_R0012932-2",
-        "locations": [
-            "Mansfield, MA",
-            "Waltham, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Brandeis-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Deutsche Bank",
         "id": "eb0285de-f766-4e79-8dfd-12cf9d420754",
@@ -356,26 +134,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "DraftKings",
-        "id": "b6c5758c-3588-481f-a0ff-62c38c97f1e6",
-        "title": "Analyst 1 - Casino Product",
-        "active": false,
-        "date_updated": 1773874199,
-        "date_posted": 1773874199,
-        "url": "https://draftkings.wd1.myworkdayjobs.com/Employee_Referral_Portal/job/Boston-MA/Analyst-I--Casino-Product_JR13866",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/DraftKings",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -481,26 +239,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Link Logistics",
-        "id": "fb05762c-1443-4d86-ac3c-3c149cc59712",
-        "title": "Investment Analyst",
-        "active": false,
-        "date_updated": 1773873723,
-        "date_posted": 1773873723,
-        "url": "https://linklogistics.wd5.myworkdayjobs.com/en-US/Link/job/CA---Irvine/Investment-Analyst_JR101734-1",
-        "locations": [
-            "Irvine, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/6239df36-c310-4d81-9f43-abc34b0fc63e",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Toyota Research Institute",
         "id": "2b494321-fbc0-4139-834b-d582eac6bb57",
@@ -538,26 +276,6 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "CIBC",
-        "id": "101b2d45-7f99-4ddd-8fc6-5cb6e3165094",
-        "title": "Client Investment Analyst",
-        "active": false,
-        "date_updated": 1773874531,
-        "date_posted": 1773874531,
-        "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Houston-TX/Client-Investment-Analyst_2606631",
-        "locations": [
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/CIBC",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -19350,26 +19068,6 @@
             "Bachelor's",
             "Master's",
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GE Healthcare",
-        "id": "428c12ec-f239-496d-adf0-3b6edbfe11ef",
-        "title": "Field Service Engineer 1",
-        "active": false,
-        "date_updated": 1775083816,
-        "date_posted": 1773873776,
-        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-I_R4038106",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Healthcare",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
         ]
     },
     {
@@ -110025,7 +109723,7 @@
         "company_name": "Shield AI",
         "id": "9e16bae3-42bd-4813-b204-92e215b8b529",
         "title": "Engineer 1 - Electrical Integration & Test",
-        "active": true,
+        "active": false,
         "date_updated": 1780708262,
         "date_posted": 1780707976,
         "url": "https://jobs.lever.co/shieldai/49d0cfc6-952f-42b6-ad6c-630597a1780a/apply",
@@ -336859,7 +336557,7 @@
         "company_name": "Capgemini",
         "id": "7ed33e96-4645-4b9d-8798-e6d7a35228a3",
         "title": "Engineering Digital and Technology Solutions Apprentice",
-        "active": true,
+        "active": false,
         "date_updated": 1792056503,
         "date_posted": 1792056418,
         "url": "https://careers.capgemini.com/job/Telford-Engineering-Digital-and-Technology-Solutions-Degree-Apprenticeship-2027/1447967833/?ats=successfactors",
@@ -344467,7 +344165,7 @@
         "company_name": "Shield AI",
         "id": "79ffd196-4b5a-418e-84d3-1d4a49cd136d",
         "title": "PCB Designer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1792659300,
         "date_posted": 1790287510,
         "url": "https://jobs.lever.co/shieldai/d4f68b62-871c-4c83-9c28-85591147907f/apply",
@@ -350552,7 +350250,7 @@
         "company_name": "Zurich Insurance",
         "id": "9d24638b-f231-499f-8fe9-a3fab5242bd1",
         "title": "Machine Learning Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792774263,
         "date_posted": 1792536005,
         "url": "https://www.careers.zurich.com/job/Waterloo-Machine-Learning-Engineer-ON/1375404257/?ats=successfactors",
@@ -350713,7 +350411,7 @@
         "company_name": "Shield AI",
         "id": "b29c852f-50f9-42bc-a4b6-65ef06b990be",
         "title": "Software Engineer 1 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1792776037,
         "date_posted": 1792765162,
         "url": "https://jobs.lever.co/shieldai/633a3038-574c-45ff-babb-7e1b8b7c6196/apply",
@@ -361253,7 +360951,7 @@
         "company_name": "Raydar",
         "id": "a258eec4-7137-4d4b-b446-f390e0c33826",
         "title": "Founding Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793313001,
         "date_posted": 1793312988,
         "url": "https://apply.workable.com/raydar/j/29870CA1DE/apply",
@@ -372215,7 +371913,7 @@
         "company_name": "SpaceX",
         "id": "7ac9326f-37b2-436b-9e22-dc571c015743",
         "title": "Software Engineer - Embedded Software",
-        "active": true,
+        "active": false,
         "date_updated": 1792746182,
         "date_posted": 1780524595,
         "url": "https://boards.greenhouse.io/spacex/jobs/8436708002",
@@ -372443,7 +372141,7 @@
         "company_name": "Shield AI",
         "id": "978b9780-aeb1-4efa-a91f-a2184ed0d0d9",
         "title": "Engineer 1 New Grad - Software - Autonomous Pilot Integration",
-        "active": true,
+        "active": false,
         "date_updated": 1794179559,
         "date_posted": 1794179354,
         "url": "https://jobs.lever.co/shieldai/af183d8c-51d0-40df-9c04-fbddae0d83aa/apply",
@@ -373875,7 +373573,7 @@
         "company_name": "Auburn University",
         "id": "88c264de-4903-4ae7-beb9-2273edd52fca",
         "title": "Undergraduate Data Science and Operations Student Assistant",
-        "active": true,
+        "active": false,
         "date_updated": 1794294902,
         "date_posted": 1778707020,
         "url": "https://jobs.auburn.edu/jobs/9061?icims=1&lang=en-us",
@@ -376680,7 +376378,7 @@
         "company_name": "Shield AI",
         "id": "ab51e1b3-b990-46c8-9fe0-be1c21b8586c",
         "title": "Engineer 2 New Grad - Software - Autonomous Pilot Integration",
-        "active": true,
+        "active": false,
         "date_updated": 1794439460,
         "date_posted": 1794439278,
         "url": "https://jobs.lever.co/shieldai/d2beda9f-f7f1-46ca-86d6-5bbbd52fbe50/apply",
@@ -377584,7 +377282,7 @@
         "company_name": "Shield AI",
         "id": "8b2fa733-e2e8-4637-a9d8-504975db947c",
         "title": "Engineer 2 New Grad - Software - Perception",
-        "active": true,
+        "active": false,
         "date_updated": 1794449394,
         "date_posted": 1794449241,
         "url": "https://jobs.lever.co/shieldai/9017c8c2-2668-45d6-aff5-a7e348107c12/apply",
