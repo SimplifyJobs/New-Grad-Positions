@@ -24,26 +24,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Western Digital",
-        "id": "a56ebbf4-20e7-4aac-858f-0b5a587d29ff",
-        "title": "Early Careers Talent - Failure Analysis Engineer",
-        "active": false,
-        "date_updated": 1773795973,
-        "date_posted": 1773795973,
-        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000115303377",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Digital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Clipboard Health",
         "id": "4543bde6-0ce0-47f7-a59f-2e7b53602b47",
@@ -28379,27 +28359,6 @@
             "Bachelor's",
             "Master's",
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Intertek",
-        "id": "56bacc67-1bc6-4e45-a5f7-3e4a6bee1d56",
-        "title": "Project Engineer - Safety",
-        "active": false,
-        "date_updated": 1775555821,
-        "date_posted": 1773796181,
-        "url": "https://hcog.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/14279",
-        "locations": [
-            "Lexington, KY"
-        ],
-        "company_url": "https://simplify.jobs/c/Intertek",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -368615,7 +368574,7 @@
         "company_name": "Extra Space Storage",
         "id": "12f465cd-dc85-4295-9c43-b98d11567815",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793845623,
         "date_posted": 1793750400,
         "url": "https://extraspace.wd5.myworkdayjobs.com/en-US/ESS_External/job/Salt-Lake-City-UT-United-States/Associate-Software-Engineer_R-82836",
@@ -371353,7 +371312,7 @@
         "company_name": "Pfizer",
         "id": "07498047-bdce-4692-afb4-c717fed1b40c",
         "title": "Associate AI Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1793893337,
         "date_posted": 1793836800,
         "url": "https://pfizer.wd1.myworkdayjobs.com/internaljobs/job/United-Kingdom---Walton-Oaks/Associate--AI-Engineering_4966818",
