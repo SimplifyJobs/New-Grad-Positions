@@ -174195,7 +174195,7 @@
         "company_name": "Cisco",
         "id": "12dd10fa-f03d-4a52-a087-77079f0680c4",
         "title": "Failure Analysis Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1784586424,
         "date_posted": 1784073600,
         "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Maynard-Massachusetts-US/Failure-Analysis-Engineer_2018947",
@@ -216205,7 +216205,7 @@
         "company_name": "Edgewater IT",
         "id": "2d577c12-94df-4e2a-bc76-56cbcdcf573a",
         "title": "Application Developer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1785968730,
         "date_posted": 1785967912,
         "url": "https://careers-edgewaterit.icims.com/jobs/4760/job?mobile=true&needsRedirect=false",
@@ -238936,7 +238936,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -260359,7 +260359,7 @@
         "company_name": "Nationwide Children's Hospital",
         "id": "25d81efc-e2d4-4591-a774-7e836bb25f2a",
         "title": "Business Intelligence Analyst 1 - Information Systems",
-        "active": false,
+        "active": true,
         "date_updated": 1787869272,
         "date_posted": 1787788800,
         "url": "https://nationwidechildrens.wd5.myworkdayjobs.com/en-US/NCHCareers/job/431-S-18th-St-Columbus-OH/IS-Business-Intelligence-Analyst-I_R-27748-1",
@@ -361569,7 +361569,7 @@
         "company_name": "Thoughtworks",
         "id": "7cf02321-1109-4b76-b4f0-46ea301199c1",
         "title": "Software Developer New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1793313958,
         "date_posted": 1793270498,
         "url": "https://job-boards.greenhouse.io/thoughtworksreferral/jobs/8333235",
@@ -380342,6 +380342,107 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Chatham Financial",
+        "id": "4ff5c3e0-9387-4226-96dc-d65247d52596",
+        "title": "Associate \u2013 Controls & Data Integrity",
+        "active": true,
+        "date_updated": 1794584883,
+        "date_posted": 1794528000,
+        "url": "https://chathamfinancial.wd501.myworkdayjobs.com/ChathamFinancial/job/Kennett-Square/Associate--Controls---Data-Integrity_R-100357",
+        "locations": [
+            "Kennett Square, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Chatham-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "ad8e4575-eea5-4595-b9d9-5ec881f1ea86",
+        "title": "Software Engineer - Block Storage",
+        "active": true,
+        "date_updated": 1794584714,
+        "date_posted": 1794528000,
+        "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Bristol-Avon-United-Kingdom/Software-Engineer---Block-Storage-UK_1218994-1",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Peraton",
+        "id": "07b3aa17-de9e-4ec0-9ea5-73d1cafeaeb4",
+        "title": "Full Stack Engineer",
+        "active": true,
+        "date_updated": 1794584714,
+        "date_posted": 1794581100,
+        "url": "https://peraton.jibeapply.com/jobs/173596?icims=1&lang=en-us",
+        "locations": [
+            "Columbus, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Q2",
+        "id": "e83b2b8a-4be2-4964-85be-319d2e951209",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1794584161,
+        "date_posted": 1794528000,
+        "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-TX/Software-Engineer_REQ-12953",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Q2Software",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Citi",
+        "id": "b8e694b7-05bd-4a5e-acd1-8bf184c2ea48",
+        "title": "AVP Quantitative Engineer - Exotic Equity Derivatives",
+        "active": true,
+        "date_updated": 1794583988,
+        "date_posted": 1794528000,
+        "url": "https://citi.wd5.myworkdayjobs.com/2/job/New-York-New-York-United-States/AVP-Quantitative-Engineer---Exotic-Equity-Derivatives_261009500",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Citigroup",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
