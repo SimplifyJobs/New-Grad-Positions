@@ -1,25 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "d14e601d-8bfe-459f-b2c6-e9e51ae1f7f4",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1773845386,
-        "date_posted": 1773845386,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-SAN-JOSE-826--200-Holger-Way--BLDG-826-Ast/Software-Engineer-I--Onsite-_01811717",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1776941773,
         "sponsorship": "Other",
         "active": false,
@@ -62,26 +42,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TransPerfect",
-        "id": "8c276d15-344d-4c48-bd7b-5258a73edda2",
-        "title": "Junior ESI Analyst",
-        "active": false,
-        "date_updated": 1773845117,
-        "date_posted": 1773845117,
-        "url": "https://transperfect.wd5.myworkdayjobs.com/transperfect/job/US-Washington-DC/Junior-ESI-Analyst_R2025-243469",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/TransPerfect",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Frazer-Nash Consultancy",
         "id": "9963857b-58e3-4565-b1c3-2d56454606b1",
@@ -102,124 +62,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Jabil",
-        "id": "83526648-4d3f-4fad-ab62-b61fc46d1e85",
-        "title": "Test Engineering Technician 1",
-        "active": false,
-        "date_updated": 1773845979,
-        "date_posted": 1773845979,
-        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Test-Engineering-Technician-I_J2443448",
-        "locations": [
-            "St. Petersburg, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Jabil",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Jabil",
-        "id": "91c8ae21-4dcc-4ed1-811d-1d9572645e13",
-        "title": "Test Engineering Technician 1",
-        "active": false,
-        "date_updated": 1773845979,
-        "date_posted": 1773845979,
-        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Test-Engineering-Technician-I_J2443447",
-        "locations": [
-            "St. Petersburg, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Jabil",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Jabil",
-        "id": "8a976d46-a19d-4466-a1e4-c6a1d9994a67",
-        "title": "Diagnostic Technician 1",
-        "active": false,
-        "date_updated": 1773845960,
-        "date_posted": 1773845960,
-        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/DIAGNOSTIC-TECHNICIAN-I_J2443446",
-        "locations": [
-            "Tampa, FL",
-            "St. Petersburg, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Jabil",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "d972c992-f1c8-4245-860d-20d0f11c6c9d",
-        "title": "Software Engineer 1 - C - C++",
-        "active": false,
-        "date_updated": 1773845387,
-        "date_posted": 1773845387,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/Software-Engineer-I---C--C----Onsite-_01825606",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Jabil",
-        "id": "8df6311f-ad14-4450-b9cd-67957c33abec",
-        "title": "Diagnostic Technician 1",
-        "active": false,
-        "date_updated": 1773845959,
-        "date_posted": 1773845959,
-        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/DIAGNOSTIC-TECHNICIAN-I_J2443444",
-        "locations": [
-            "St. Petersburg, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Jabil",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Jabil",
-        "id": "fef78f15-5a46-4d06-af08-fa0c27b0e3e0",
-        "title": "Test Engineering Technician 1",
-        "active": false,
-        "date_updated": 1773845981,
-        "date_posted": 1773845981,
-        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Test-Engineering-Technician-I_J2443451",
-        "locations": [
-            "St. Petersburg, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Jabil",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
         ]
     },
     {
@@ -294209,7 +294051,7 @@
         "company_name": "GE Vernova",
         "id": "afa1841f-ec75-4154-bdbb-fcdf1a49189e",
         "title": "Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1789049706,
         "date_posted": 1788998400,
         "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Greenville/Data-Scientist_R5051914-3",
@@ -296871,7 +296713,7 @@
         "company_name": "SRI International",
         "id": "9020818e-97b7-4347-bc4d-e56ea5a3aa92",
         "title": "Research Engineer 1 / 2 - Embedded Development Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1789171226,
         "date_posted": 1789170898,
         "url": "https://careers-sri.icims.com/jobs/6505/job?mobile=true&needsRedirect=false",
