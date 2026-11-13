@@ -1,44 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Clipboard Health",
-        "id": "4543bde6-0ce0-47f7-a59f-2e7b53602b47",
-        "title": "Product Operations Associate",
-        "active": false,
-        "date_updated": 1773815097,
-        "date_posted": 1773815097,
-        "url": "https://jobs.ashbyhq.com/clipboard/83b78d23-bed2-41e4-8288-5736a1c7334c/application",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Clipboard-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "University of Arkansas",
-        "id": "e4f4a19a-0777-4687-9441-b8f377f86167",
-        "title": "Graduate Research Assistant - Developer",
-        "active": false,
-        "date_updated": 1773814930,
-        "date_posted": 1773814930,
-        "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--Developer-_R0053891",
-        "locations": [
-            "Little Rock, AR"
-        ],
-        "company_url": "https://simplify.jobs/c/1d49378c-2501-4900-8d62-ab3ca8ddadb0",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "T-Mobile",
         "id": "e4a04cbd-6d64-4a1b-b478-06b12fc73aca",
@@ -9765,26 +9727,6 @@
             "Irving, TX"
         ],
         "company_url": "https://simplify.jobs/c/Gartner",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Arkansas",
-        "id": "ad639ce0-562f-40b2-8d29-ea4c866cea6e",
-        "title": "Cosmos Graduate Research Assistant",
-        "active": false,
-        "date_updated": 1773813920,
-        "date_posted": 1773813920,
-        "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Little-Rock/COSMOS---Graduate-Research-Assistant--Researcher-_R0053889-2",
-        "locations": [
-            "Little Rock, AR"
-        ],
-        "company_url": "https://simplify.jobs/c/1d49378c-2501-4900-8d62-ab3ca8ddadb0",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -367100,7 +367042,7 @@
         "company_name": "Duke Energy",
         "id": "67943a4c-cfaf-4278-9d0e-3a6904802e3c",
         "title": "Associate Geographic Information Systems Technologist - GIS - Geographic Information Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1793721101,
         "date_posted": 1793664000,
         "url": "https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/Associate-Geographic-Information-Systems--GIS--Technologist-or-Geographic-Information-Systems--GIS--Technologist_R42293",
@@ -377341,7 +377283,7 @@
         "company_name": "RTX",
         "id": "75ad26cf-c6b7-4225-8b8b-c4c2f0a34e40",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1794364782,
         "date_posted": 1794268800,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-I--Onsite-_01888052",
