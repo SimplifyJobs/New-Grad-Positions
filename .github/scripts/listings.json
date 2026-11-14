@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Walmart",
-        "id": "1d485360-2ce1-4ea9-99fb-4c435e291652",
-        "title": "Product Manager 2",
-        "active": false,
-        "date_updated": 1773884930,
-        "date_posted": 1773884930,
-        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-VIZIO-SERVICES-IRVINE-CA-Irvine-Home-Office/XMLNAME--USA--Product-Manager-II_R-2441933",
-        "locations": [
-            "Irvine, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Walmart",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "b68f2bb3-1e3e-4b5f-8735-a798a784dd6b",
@@ -314764,7 +314744,7 @@
         "company_name": "Capgemini",
         "id": "2c3fcb34-9459-42c5-8269-e05902759c20",
         "title": "Graduate Software Engineer Programme",
-        "active": true,
+        "active": false,
         "date_updated": 1790846018,
         "date_posted": 1790845822,
         "url": "https://careers.capgemini.com/job/Telford-Graduate-Software-Engineering-Programme-2027/1443168333/?ats=successfactors",
@@ -371081,7 +371061,7 @@
         "company_name": "Capgemini",
         "id": "34dac878-8890-4141-8a51-4f3b76dc7bee",
         "title": "Associate Application Consultant",
-        "active": true,
+        "active": false,
         "date_updated": 1794008463,
         "date_posted": 1794008328,
         "url": "https://careers.capgemini.com/job/Berwyn,-PA-Campus-C&CA-Associate-Application-Consultant-PA/1455309233/?ats=successfactors",
