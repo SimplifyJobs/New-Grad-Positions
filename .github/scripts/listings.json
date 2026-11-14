@@ -1,30 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Uline",
-        "id": "5af56699-1cab-419d-b4b4-c6a83aa5f288",
-        "title": "Product Management Analyst",
-        "active": false,
-        "date_updated": 1773913362,
-        "date_posted": 1773913362,
-        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Product-Management-Analyst_R262337-1",
-        "locations": [
-            "Waukegan, IL",
-            "Milwaukee, WI",
-            "Pleasant Prairie, WI",
-            "Morton Grove, IL",
-            "Kenosha, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Uline",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "76511793-fd2a-4f37-beee-2a0bc65f7e7c",
@@ -370388,7 +370364,7 @@
         "company_name": "Microsoft",
         "id": "5b152919-6dd2-49e1-9338-9bec77d7fdd3",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1794008458,
         "date_posted": 1794008282,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557053350",
@@ -370688,7 +370664,7 @@
         "company_name": "AbbVie",
         "id": "4b5a24bb-4cb3-4d79-95d7-860287cc32b8",
         "title": "Associate Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1794017367,
         "date_posted": 1794014714,
         "url": "https://jobs.smartrecruiters.com/AbbVie/3743990016715126",
@@ -379386,6 +379362,26 @@
             "Dallas, TX"
         ],
         "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "edmentum",
+        "id": "788e4fa2-855c-4290-a24e-47ddccdf7692",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1794650273,
+        "date_posted": 1794429078,
+        "url": "https://job-boards.greenhouse.io/edmentum/jobs/6255572004",
+        "locations": [
+            "Bloomington, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Edmentum",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
