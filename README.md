@@ -5,13 +5,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 🙏 **Contribute by submitting an [issue](https://github.com/SimplifyJobs/New-Grad-Positions/issues/new/choose)! See the contribution guidelines [here](./CONTRIBUTING.md)!** 🙏
 
 ---
-### Browse 622 New Grad Roles by Category
+### Browse 623 New Grad Roles by Category
 
 💻 **[Software Engineering](#-software-engineering-new-grad-roles)** (346)
 
 📱 **[Product Management](#-product-management-new-grad-roles)** (19)
 
-🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (103)
+🤖 **[Data Science, AI & Machine Learning](#-data-science-ai--machine-learning-new-grad-roles)** (104)
 
 📈 **[Quantitative Finance](#-quantitative-finance-new-grad-roles)** (28)
 
@@ -2608,7 +2608,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Software Engineer 1</td>
 <td>Newport News, VA</td>
 <td>🔒</td>
-<td>7d</td>
+<td>8d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Cook-Group?utm_source=GHList&utm_medium=company">Cook Group</a></strong></td>
@@ -11372,7 +11372,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Junior Machine Learning Engineer</td>
 <td>Arlington County, Arlington, VA</td>
 <td><div align="center"><a href="https://i3-corps.jibeapply.com/jobs/5417?icims=1&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/dede37bf-07c6-40e1-9c50-541b1cb5d7d1?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">🔥 NVIDIA</a></strong></td>
@@ -11463,6 +11463,13 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Research Scientist New Grad 🎓</td>
 <td>Seattle, WA</td>
 <td><div align="center"><a href="https://lifeattiktok.com/search/7695927144126253317?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/c44348ab-171d-4478-a512-7114f6e00ca0?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
+<td>1mo</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/ICF-International?utm_source=GHList&utm_medium=company">ICF International</a></strong></td>
+<td>Junior Data Scientist</td>
+<td>Remote in USA</td>
+<td><div align="center"><a href="https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Data-Scientist---Remote-USA_R2603453?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/47ffb242-7946-4cbd-832d-ea8e2eb67d2a?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
 <td>1mo</td>
 </tr>
 <tr>
@@ -12048,7 +12055,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Junior Data Engineer</td>
 <td>Remote in USA</td>
 <td>🔒</td>
-<td>11d</td>
+<td>12d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">🔥 NVIDIA</a></strong></td>
@@ -14405,7 +14412,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>4mo</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Akuna-Capital?utm_source=GHList&utm_medium=company">Akuna Capital</a></strong></td>
+<td>↳</td>
 <td>Junior Quantitative Researcher - Harvard</td>
 <td>Chicago, IL</td>
 <td><div align="center"><a href="https://job-boards.greenhouse.io/akunacapitaloci/jobs/8065211?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/b0a8cd76-3836-4d6b-bcd9-28805f566968?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
@@ -17968,14 +17975,14 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Global Product Support - Early in Career</td>
 <td>Santa Clara, CA</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
 <td>Software Engineer 1 - Space and RF Sensors</td>
 <td>Fort Wayne, IN</td>
 <td>🔒</td>
-<td>6mo</td>
+<td>7mo</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Intuitive-Research-And-Technology-Corporation?utm_source=GHList&utm_medium=company">Intuitive Research and Technology Corporation</a></strong></td>
