@@ -371360,7 +371360,7 @@
         "company_name": "AbbVie",
         "id": "ace4e9cd-7570-4e01-9270-0686dce912d3",
         "title": "Associate Engineer - Technology 1",
-        "active": true,
+        "active": false,
         "date_updated": 1794017343,
         "date_posted": 1794012592,
         "url": "https://jobs.smartrecruiters.com/AbbVie/3743990016714871",
@@ -379798,6 +379798,49 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Microsoft",
+        "id": "970abbb2-7906-4686-914b-09bd6d622dd5",
+        "title": "Software Engineer - Microsoft Business Operations",
+        "active": true,
+        "date_updated": 1794623250,
+        "date_posted": 1794623047,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557073410",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Integrated Biosciences",
+        "id": "8f2c309b-3922-4159-a877-86c8566fffee",
+        "title": "Software Engineer - Robotics",
+        "active": true,
+        "date_updated": 1794622151,
+        "date_posted": 1794619347,
+        "url": "https://job-boards.greenhouse.io/integratedbiosciencesinc/jobs/4507787009",
+        "locations": [
+            "Redwood City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Integrated-Biosciences",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
