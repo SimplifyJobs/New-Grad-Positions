@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Neuberger Berman",
-        "id": "d80d0c6f-8cdf-437c-94ff-a40a2b8fe7e0",
-        "title": "Applied AI Researcher",
-        "active": false,
-        "date_updated": 1773931491,
-        "date_posted": 1773931491,
-        "url": "https://nb.wd1.myworkdayjobs.com/en-US/NBCareers/job/New-York-NY/Applied-AI-Researcher_R0011945",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Neuberger-Berman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "DXC Technology",
         "id": "eeab7cda-fcf4-4eda-9a83-3d06e4c35e52",
@@ -61,47 +40,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "La-Z-Boy",
-        "id": "3adbdd77-3e5d-4af5-92ec-5dce65c0f993",
-        "title": "Supply Chain Data Analyst 1",
-        "active": false,
-        "date_updated": 1773932481,
-        "date_posted": 1773932481,
-        "url": "https://lazboy.wd1.myworkdayjobs.com/lzbcareers/job/Monroe-MI/Supply-Chain-Data-Analyst-I_JR132078",
-        "locations": [
-            "Dundee, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/La-Z-Boy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Neuberger Berman",
-        "id": "4562a258-c537-47a1-8575-8bf5ae9ccd77",
-        "title": "Applied AI Engineer",
-        "active": false,
-        "date_updated": 1773931493,
-        "date_posted": 1773931493,
-        "url": "https://nb.wd1.myworkdayjobs.com/en-US/NBCareers/job/New-York-NY/Applied-AI-Engineer_R0011946",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Neuberger-Berman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
