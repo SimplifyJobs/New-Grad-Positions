@@ -1,49 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "DXC Technology",
-        "id": "eeab7cda-fcf4-4eda-9a83-3d06e4c35e52",
-        "title": "Data Engineer - Snowflake",
-        "active": false,
-        "date_updated": 1773933130,
-        "date_posted": 1773933130,
-        "url": "https://dxctechnology.wd1.myworkdayjobs.com/dxcjobs/job/GBR---NBL---NEWCASTLE/Data-Engineer--Snowflake-_51576095",
-        "locations": [
-            "London, UK",
-            "Aldershot, UK",
-            "Newcastle upon Tyne, UK",
-            "Glasgow, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/DXC-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Acxiom",
-        "id": "30691c26-c12c-4e0a-9e21-e5ccb278b216",
-        "title": "Associate Solution Developer",
-        "active": false,
-        "date_updated": 1773932875,
-        "date_posted": 1773932875,
-        "url": "https://acxiomllc.wd5.myworkdayjobs.com/AcxiomUSA/job/Conway/Associate-Solution-Developer_JR013902",
-        "locations": [
-            "Jacksonville, AR"
-        ],
-        "company_url": "https://simplify.jobs/c/Acxiom",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Cascade Asset Management Company",
         "id": "16e6c0e2-16ca-4938-b9a0-3888540a78ec",
@@ -379137,6 +379094,77 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CDPHP",
+        "id": "be00edcb-0605-494a-93b0-3872479dfe92",
+        "title": "Software Engineer - ETL",
+        "active": true,
+        "date_updated": 1794669841,
+        "date_posted": 1794441600,
+        "url": "https://lthc.wd1.myworkdayjobs.com/CDPHPCareers/job/Rochester/Software-Engineer---ETL_JR104172",
+        "locations": [
+            "Rochester, NY",
+            "De Witt, NY",
+            "Utica, NY",
+            "Albany, NY",
+            "Binghamton, NY",
+            "Buffalo, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/CDPHP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CDPHP",
+        "id": "5423461d-751c-4d41-b637-371f3eab845f",
+        "title": "AI Engineer",
+        "active": true,
+        "date_updated": 1794669841,
+        "date_posted": 1794355200,
+        "url": "https://lthc.wd1.myworkdayjobs.com/CDPHPCareers/job/Rochester/AI-Engineer-I-II_JR103556",
+        "locations": [
+            "Rochester, NY",
+            "De Witt, NY",
+            "Utica, NY",
+            "Albany, NY",
+            "Binghamton, NY",
+            "Buffalo, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/CDPHP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ICF International",
+        "id": "47ffb242-7946-4cbd-832d-ea8e2eb67d2a",
+        "title": "Junior Data Scientist",
+        "active": true,
+        "date_updated": 1794668820,
+        "date_posted": 1791849600,
+        "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/Data-Scientist---Remote-USA_R2603453",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/ICF-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
