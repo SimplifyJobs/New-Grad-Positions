@@ -1,64 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "AbbVie",
-        "id": "002cb9c3-f97d-4f33-be1b-ad930f9730c4",
-        "title": "Associate Engineer - Technology I",
-        "active": false,
-        "date_updated": 1773883067,
-        "date_posted": 1773883067,
-        "url": "https://jobs.smartrecruiters.com/AbbVie/3743990012202836",
-        "locations": [
-            "Waukegan, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/AbbVie",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "e3f587f7-4dbf-43b2-bc5d-660cbaa7672e",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1773883189,
-        "date_posted": 1773883189,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054120",
-        "locations": [
-            "Exeter, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Eurofins",
-        "id": "f60a5f42-27da-475c-b831-e407346867bc",
-        "title": "EMC Technician",
-        "active": false,
-        "date_updated": 1773882720,
-        "date_posted": 1773882720,
-        "url": "https://jobs.smartrecruiters.com/Eurofins/744000115545961",
-        "locations": [
-            "Irvine, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Eurofins",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Walmart",
         "id": "1d485360-2ce1-4ea9-99fb-4c435e291652",
@@ -76,81 +18,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Toyota Research Institute",
-        "id": "2b494321-fbc0-4139-834b-d582eac6bb57",
-        "title": "AI Resident - Learning From Videos - Lfv",
-        "active": false,
-        "date_updated": 1773883254,
-        "date_posted": 1773883254,
-        "url": "https://jobs.lever.co/tri/07910a65-9ab3-4d48-85a8-44cd187afafd/apply",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Toyota-Research-Institute",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "2ad3a144-74c3-4e51-8637-c6e54a5602d1",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1773882940,
-        "date_posted": 1773882940,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054122",
-        "locations": [
-            "Manchester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "27b2d68a-d4a2-4156-85b1-b48a7c548179",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1773882696,
-        "date_posted": 1773882696,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054119",
-        "locations": [
-            "Bristol, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Williams-Sonoma",
-        "id": "4614ffb1-d5de-4f9c-b46f-cd3e0dac10c8",
-        "title": "Assistant Website Merchandiser",
-        "active": false,
-        "date_updated": 1773882608,
-        "date_posted": 1773882608,
-        "url": "https://ehac.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/18048",
-        "locations": [
-            "Brooklyn, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Williams-Sonoma",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -579,24 +446,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "693d81b3-bec7-413e-aab5-9ce87988d13f",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1773882685,
-        "date_posted": 1773882685,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050481",
-        "locations": [
-            "Woking, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -364998,7 +364847,7 @@
         "company_name": "SAIC",
         "id": "06c8c130-3c3e-4959-b34f-09aa4d4bdb1d",
         "title": "Systems Engineer Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1793696949,
         "date_posted": 1793399958,
         "url": "https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2618656",
@@ -365149,7 +364998,7 @@
         "company_name": "Capgemini",
         "id": "1fa93b8e-4b8b-44a2-abe2-7e44cf150d8e",
         "title": "Campus 1&D: Associate Application Consultant",
-        "active": true,
+        "active": false,
         "date_updated": 1793719658,
         "date_posted": 1793719577,
         "url": "https://careers.capgemini.com/job/Mississauga-Campus-I&D-Associate-Application-Consultant-ON/1453920933/?ats=successfactors",
@@ -373694,7 +373543,7 @@
         "company_name": "Anysphere",
         "id": "1d0612f6-6b43-47c4-9a7f-65017afa789c",
         "title": "Software Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1794307198,
         "date_posted": 1794268800,
         "url": "https://jobs.ashbyhq.com/cursor/164e27cd-289e-4bcd-8aaf-5280e75c5ed6/application?embed=true",
