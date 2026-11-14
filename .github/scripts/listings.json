@@ -271858,7 +271858,7 @@
         "company_name": "Qorvo",
         "id": "2e23d95d-f63c-41d8-b1e4-7026cb3cfb87",
         "title": "Semiconductor Modeling, ESD, and Characterization Engineer - Modeling and ESD",
-        "active": false,
+        "active": true,
         "date_updated": 1787303240,
         "date_posted": 1787186655,
         "url": "https://careers.qorvo.com/job/Greensboro-Staff-Engineer,-Modeling-and-ESD-NC-27409/1421354000/?ats=successfactors",
@@ -345850,7 +345850,7 @@
         "company_name": "Halliburton",
         "id": "cb96d32f-67a9-4494-8a76-7c40bfd6a366",
         "title": "Associate Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1792748346,
         "date_posted": 1784643148,
         "url": "https://jobs.halliburton.com/job/Abingdon-Associate-Software-Engineer-LND-OX14-4RW/1410905600/?ats=successfactors",
@@ -378523,7 +378523,7 @@
         "company_name": "Huntington Ingalls Industries",
         "id": "11cf81e0-6a40-43ec-b7ed-93f63541c96d",
         "title": "Software Development Engineer 1",
-        "active": false,
+        "active": true,
         "date_updated": 1794611538,
         "date_posted": 1794611375,
         "url": "https://careers.huntingtoningalls.com/job/Newport-News-SOFTWARE-DEVELOPMENT-ENGINEER-1-Virg/1450616800/?ats=successfactors",
@@ -379423,5 +379423,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Shield AI",
+        "id": "f6f476c2-5053-433d-91b6-ffe423294891",
+        "title": "Electrical Engineer - Hardware Test",
+        "active": true,
+        "date_updated": 1794654001,
+        "date_posted": 1793318400,
+        "url": "https://jobs.ashbyhq.com/shield/16b044e7-02e2-4657-9b87-782a76b127b1/application?embed=true",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
