@@ -1,87 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Avnet",
-        "id": "c4870cf5-df4b-4867-8589-d69331ec3113",
-        "title": "Associate Field Application Engineer",
-        "active": false,
-        "date_updated": 1773962352,
-        "date_posted": 1773962352,
-        "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Edina-Minnesota-United-States-Of-America/Associate-Field-Application-Engineer_JR-022071",
-        "locations": [
-            "Hopkins, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Avnet",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Micron Technology",
-        "id": "61dc64b6-149b-4c69-8efe-6e7e4cb5637c",
-        "title": "New College Grad - Design Engineer - AI",
-        "active": false,
-        "date_updated": 1773961566,
-        "date_posted": 1773961566,
-        "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/New-College-Grad---Design-Engineer--AI_JR95333",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Micron-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Avnet",
-        "id": "a1567658-4e67-4409-b53f-2f09b6501a39",
-        "title": "Associate Field Application Engineer",
-        "active": false,
-        "date_updated": 1773962357,
-        "date_posted": 1773962357,
-        "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Wilmington-Massachusetts-United-States-of-America/Associate-Field-Application-Engineer_JR-022067",
-        "locations": [
-            "Burlington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Avnet",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Cox",
-        "id": "79ed4cc5-0e73-48cb-afe9-c93c0a0db405",
-        "title": "Product Manager 1",
-        "active": false,
-        "date_updated": 1773962288,
-        "date_posted": 1773962288,
-        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Product-Manager-I_R202674728",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cox",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "224060d1-afbb-453b-a16a-60e457cb6509",
@@ -384,46 +303,6 @@
         "degrees": [
             "Master's",
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Arkansas",
-        "id": "9b48bb08-b4b3-4d4d-8fe7-f45594b0dd49",
-        "title": "Graduate Assistant - Data Science",
-        "active": false,
-        "date_updated": 1773961919,
-        "date_posted": 1773961919,
-        "url": "https://uasys.wd5.myworkdayjobs.com/uasys/job/Fayetteville/Graduate-Assistant---Data-Science-9-MONTH_R0082554-2",
-        "locations": [
-            "Fayetteville, AR"
-        ],
-        "company_url": "https://simplify.jobs/c/1d49378c-2501-4900-8d62-ab3ca8ddadb0",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Manulife Financial",
-        "id": "c38dfeb7-565f-4afc-a25b-62234dcb7a03",
-        "title": "Market Data Analyst",
-        "active": false,
-        "date_updated": 1773962037,
-        "date_posted": 1773962037,
-        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Market-Data-Analyst_JR26030549",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Manulife-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -9572,26 +9451,6 @@
             "Huntsville, AL"
         ],
         "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Thermo Fisher Scientific",
-        "id": "ed112910-def7-4666-b6b5-feac4294cb54",
-        "title": "Field Service Engineer - Xps",
-        "active": false,
-        "date_updated": 1774564948,
-        "date_posted": 1773962061,
-        "url": "https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Schwerte-Germany/Engineer-I--Field-Service_R-01344330",
-        "locations": [
-            "Wenden, Germany",
-            "M\u00fcnster, Germany",
-            "Neukirchen-Vluyn, Germany"
-        ],
-        "company_url": "https://simplify.jobs/c/Thermo-Fisher-Scientific",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -235685,7 +235544,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -378294,6 +378153,49 @@
             "Warren, NJ"
         ],
         "company_url": "https://simplify.jobs/c/Everest",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Videojet",
+        "id": "6cb7182f-e8e9-467c-86aa-fcea773cd97f",
+        "title": "Global Installed Base Commercial Excellence Analyst",
+        "active": true,
+        "date_updated": 1794698114,
+        "date_posted": 1790812800,
+        "url": "https://veralto.wd1.myworkdayjobs.com/videojetjobs/job/Wood-Dale-Illinois-United-States/Global-Installed-Base-Commercial-Excellence-Analyst_R10268587",
+        "locations": [
+            "Wood Dale, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Videojet",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Johnson Controls",
+        "id": "45a2526c-381b-4e2e-95c9-cf132d4dea09",
+        "title": "Nextgen Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1794698137,
+        "date_posted": 1794528000,
+        "url": "https://jci.wd5.myworkdayjobs.com/JCI_Confidential/job/Glendale-Wisconsin-United-States-of-America/NextGen-Software-Engineer_WD30279373-2",
+        "locations": [
+            "Milwaukee, WI",
+            "Westford, MA",
+            "Glendale, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Controls",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
