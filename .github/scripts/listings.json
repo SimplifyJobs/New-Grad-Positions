@@ -1,95 +1,5 @@
 [
     {
-        "date_updated": 1773911116,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [],
-        "url": "https://jobs.lever.co/ivo/56746366-28dd-43e4-8457-ba7a17c43b57",
-        "company_name": "Ivo",
-        "title": "Software Engineer, Frontend",
-        "locations": [
-            "San Francisco, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "1ca94190-fd1a-4531-953f-194660778ad9",
-        "date_posted": 1773911116,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Nuro",
-        "id": "a215fd25-7d7f-4cd8-98c5-5fa711e25234",
-        "title": "Associate Fleet Technician",
-        "active": false,
-        "date_updated": 1773912241,
-        "date_posted": 1773912241,
-        "url": "https://nuro.ai/careersitem?gh_jid=7442057",
-        "locations": [
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Nuro",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "53e429b9-145d-494d-ad44-5ed6022ecc66",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1773911309,
-        "date_posted": 1773911309,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054132",
-        "locations": [
-            "Essex, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "29e68554-97d4-4990-954b-31a116ed56b0",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1773911303,
-        "date_posted": 1773911303,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053151",
-        "locations": [
-            "Chesterfield, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "295b6657-e177-4ee7-a54a-948e1688c9a2",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1773911327,
-        "date_posted": 1773911327,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053106",
-        "locations": [
-            "Gloucester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
         "source": "Simplify",
         "category": "Product",
         "company_name": "Uline",
@@ -112,24 +22,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "a8562f6a-59d2-4cd6-9b13-21867cd75d20",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1773911415,
-        "date_posted": 1773911415,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054128",
-        "locations": [
-            "Portsmouth, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -17860,25 +17752,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Nuro",
-        "id": "38ccf520-12c9-4ab8-8add-1532097ac148",
-        "title": "Associate Fleet Technician",
-        "active": false,
-        "date_updated": 1775038321,
-        "date_posted": 1773912231,
-        "url": "https://nuro.ai/careersitem?gh_jid=7442056",
-        "locations": [
-            "San Bruno, CA",
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Nuro",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -379479,6 +379352,44 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Shield AI",
+        "id": "32d8d3c3-ce7a-49d8-bb08-770c770a6297",
+        "title": "Staff Technician - Hardware Test",
+        "active": true,
+        "date_updated": 1794648424,
+        "date_posted": 1793318400,
+        "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/c2edad52-02ed-4e70-9aea-a56b18a8452f/application?embed=true",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Shield AI",
+        "id": "0de47efa-a533-4274-81c4-2a570d4489ce",
+        "title": "Electrical Engineer - Hardware Test",
+        "active": true,
+        "date_updated": 1794647533,
+        "date_posted": 1790294400,
+        "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/16b044e7-02e2-4657-9b87-782a76b127b1/application?embed=true",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
