@@ -1,308 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Cascade Asset Management Company",
-        "id": "16e6c0e2-16ca-4938-b9a0-3888540a78ec",
-        "title": "Trading Desk Analyst",
-        "active": false,
-        "date_updated": 1773959213,
-        "date_posted": 1773959213,
-        "url": "https://jobs.lever.co/cascademgt/60218238-bec0-4eb9-b9d5-5fe0e2ced40f/apply",
-        "locations": [
-            "Kirkland, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cascade-Asset-Management-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "e1a657f2-b3f5-4277-b84c-d5af4a771837",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1773958809,
-        "date_posted": 1773958809,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054254",
-        "locations": [
-            "Swindon, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "ba9d79e3-6bd0-49aa-a06a-f3f3d68fc71c",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1773958811,
-        "date_posted": 1773958811,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054272",
-        "locations": [
-            "Oxford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "9f89c3fe-869f-4a19-a218-7843553f2a60",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1773958968,
-        "date_posted": 1773958968,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054215",
-        "locations": [
-            "Easton, Norwich, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Gulfstream",
-        "id": "534d2a5d-3de1-4ae4-b527-5a066dafff5d",
-        "title": "Quality Assurance System Specialist 1 - Data Management",
-        "active": false,
-        "date_updated": 1773958885,
-        "date_posted": 1773958885,
-        "url": "https://careers.gulfstream.com/job/Savannah-Quality-Assurance-System-Specialist-I-Data-Management-GA-31401/1375028700/?ats=successfactors",
-        "locations": [
-            "Savannah, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Gulfstream",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "2e764883-72f2-4e05-8dc9-f16e0118fac9",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1773958570,
-        "date_posted": 1773958570,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054262",
-        "locations": [
-            "Wimborne Minster, Wimborne, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "cfd6f0fa-e259-48c3-beae-37c99fb83513",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1773958553,
-        "date_posted": 1773958553,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054217",
-        "locations": [
-            "Brandon, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "cfa3a338-d9e3-4ad6-b9af-38bbd83ee1f4",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1773958553,
-        "date_posted": 1773958553,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054218",
-        "locations": [
-            "Brighton, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "b4d3ad25-7b7b-4e81-8933-28e161d15639",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1773958552,
-        "date_posted": 1773958552,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054266",
-        "locations": [
-            "Harrogate, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "914f2fa1-d634-4e81-b297-b950ca515791",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1773958552,
-        "date_posted": 1773958552,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054223",
-        "locations": [
-            "Brighton, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Voltus",
-        "id": "8d941556-2a3d-45bf-a1a1-92318fc4f7d2",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1773958746,
-        "date_posted": 1773958746,
-        "url": "https://jobs.lever.co/voltus/c8e44a4d-f53f-495d-835e-749f1d55d109/apply",
-        "locations": [
-            "Remote in USA",
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Voltus",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "87bf2368-d44b-41bf-ac71-979790f914d6",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1773958552,
-        "date_posted": 1773958552,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054257",
-        "locations": [
-            "Glasgow, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Lynker",
-        "id": "69b83e48-201f-4a83-92b7-80ea16f9d60f",
-        "title": "Engineering Technician 2 - Lab",
-        "active": false,
-        "date_updated": 1773958276,
-        "date_posted": 1773958276,
-        "url": "https://careers-lynker.icims.com/jobs/1509/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "John C. Stennis Space Center, MS"
-        ],
-        "company_url": "https://simplify.jobs/c/Lynker",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "TIBCO Software",
-        "id": "06508aa8-06fb-43fe-961f-291c4afc5a93",
-        "title": "Application Development Engineer - Messaging Engineering",
-        "active": false,
-        "date_updated": 1773958271,
-        "date_posted": 1773958271,
-        "url": "https://tibco.wd5.myworkdayjobs.com/cloud_software_group/job/Naperville-IL/Application-Development-Engineer---Messaging-Engineering_R104379-1",
-        "locations": [
-            "Naperville, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/b699b9bd-e43b-4d2b-a427-90a2b6306594",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "17b33436-aeb9-4407-af97-6ec77499748c",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1773958551,
-        "date_posted": 1773958551,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054225",
-        "locations": [
-            "Brighton, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Moog ",
-        "id": "167dc303-a1d2-4069-8a78-ccfe30fa6bad",
-        "title": "Electronic Technician",
-        "active": false,
-        "date_updated": 1773958250,
-        "date_posted": 1773958250,
-        "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Blacksburg-VA/Electronic-Technician_R-26-16787",
-        "locations": [
-            "Blacksburg, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Moog",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Papa John's",
         "id": "12a3ceb5-4dc4-49e9-8bd9-05c0fd928f33",
@@ -320,24 +18,6 @@
         "degrees": [
             "Associate's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "29bd9259-9eb7-4baf-b4ac-1bfd3163f0eb",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1773959267,
-        "date_posted": 1773959267,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054264",
-        "locations": [
-            "Harrogate, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -498,26 +178,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "University of Arkansas",
-        "id": "7827d202-eb46-4b93-8cd8-45611c91468b",
-        "title": "Graduate Assistant - Data Science",
-        "active": false,
-        "date_updated": 1773959293,
-        "date_posted": 1773959293,
-        "url": "https://uasys.wd5.myworkdayjobs.com/UAF_External_Career_Site/job/Fayetteville/Graduate-Assistant---Data-Science-9-MONTH_R0082554-1",
-        "locations": [
-            "Fayetteville, AR"
-        ],
-        "company_url": "https://simplify.jobs/c/1d49378c-2501-4900-8d62-ab3ca8ddadb0",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "The Boeing Company",
         "id": "1345853b-fa43-440b-abe9-b1956e51684b",
         "title": "Product Data Management Engineer",
@@ -569,26 +229,6 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Old-Mission",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Ford Motor Company",
-        "id": "20b25ae5-43ea-479e-be7d-9efeca13d22f",
-        "title": "Senior Software Engineer Full Stack",
-        "active": false,
-        "date_updated": 1773958537,
-        "date_posted": 1773958537,
-        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/61032",
-        "locations": [
-            "Dearborn, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Ford-Motor-Company",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -654,26 +294,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Ford Motor Company",
-        "id": "a792d13a-cad7-4945-9dbf-37b0516fdeed",
-        "title": "VEV Systems Integration Engineer",
-        "active": false,
-        "date_updated": 1773958539,
-        "date_posted": 1773958539,
-        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/61016",
-        "locations": [
-            "Taylor, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Ford-Motor-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -752,46 +372,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Thorlabs",
-        "id": "e19818b3-6c63-48d0-bcd5-afb624664fdb",
-        "title": "Engineering Technician 1",
-        "active": false,
-        "date_updated": 1773958485,
-        "date_posted": 1773958485,
-        "url": "https://apply.workable.com/thorlabs/j/AAB6CC9387/apply",
-        "locations": [
-            "Branchville, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Thorlabs",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Concord",
-        "id": "2422d2a5-ee3b-4ed9-bfec-8d56965727be",
-        "title": "Data Insights Developer",
-        "active": false,
-        "date_updated": 1773958277,
-        "date_posted": 1773958277,
-        "url": "https://careers-concord.icims.com/jobs/2045/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Nashville, TN"
-        ],
-        "company_url": "https://simplify.jobs/c/Concord",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -1119,24 +699,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "ec47dfa7-1e0d-406d-b570-f460c1a06d2f",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1773958560,
-        "date_posted": 1773958560,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054263",
-        "locations": [
-            "Harrogate, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "University of Arkansas",
         "id": "9b48bb08-b4b3-4d4d-8fe7-f45594b0dd49",
@@ -1177,26 +739,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Acushnet Holdings",
-        "id": "e2cd7ff3-1288-40c6-bc82-53421317086f",
-        "title": "Associate Product Developer",
-        "active": false,
-        "date_updated": 1773959090,
-        "date_posted": 1773959090,
-        "url": "https://acushnetgolf.wd12.myworkdayjobs.com/ACU/job/Fairhaven-Massachusetts-United-States-of-America/Associate-Product-Developer_Req101114",
-        "locations": [
-            "Dartmouth, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Acushnet-Holdings",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Manulife Financial",
         "id": "c38dfeb7-565f-4afc-a25b-62234dcb7a03",
@@ -1218,62 +760,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Viavi Solutions",
-        "id": "a40196b7-ef85-466b-9bd6-88c51ff5b496",
-        "title": "Calibration Technician",
-        "active": false,
-        "date_updated": 1773958971,
-        "date_posted": 1773958971,
-        "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Paeonian-Springs-VA-USA/Calibration-Technician_260004447-2",
-        "locations": [
-            "Leesburg, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Viavi-Solutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sportradar",
-        "id": "3cfeb243-eadb-4dc5-9445-ddec8b559094",
-        "title": "Trading Analyst - Trading",
-        "active": false,
-        "date_updated": 1773959372,
-        "date_posted": 1773959372,
-        "url": "https://jobs.smartrecruiters.com/Sportradar/744000115744257",
-        "locations": [
-            "Las Vegas, NV"
-        ],
-        "company_url": "https://simplify.jobs/c/Sportradar",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "750d6084-9299-468f-94d8-6c4850d21b90",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1773958548,
-        "date_posted": 1773958548,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054245",
-        "locations": [
-            "Chesterfield, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Cisco",
         "id": "c626fb47-c64c-47ec-a034-1f2723ef9a4e",
         "title": "Hardware Engineer - High-speed IO/Testing",
@@ -1291,24 +777,6 @@
             "Bachelor's",
             "Master's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "7eb71ac0-6ed3-4ac5-8623-4886633081d7",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1773958545,
-        "date_posted": 1773958545,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054214",
-        "locations": [
-            "Brandon, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -7171,26 +6639,6 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Stripe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Bank of Montreal",
-        "id": "d3a7d5de-4a6f-4a66-8cb2-4763589a9dba",
-        "title": "Sales Coordinator-Sales Coordinator-Global Markets Trading Floor",
-        "active": false,
-        "date_updated": 1774428805,
-        "date_posted": 1773958870,
-        "url": "https://bmo.wd3.myworkdayjobs.com/External/job/New-York-NY-USA/Sales-Coordinator--Sales-Coordinator--Global-Markets-Trading-Floor_R260002719",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/BMO",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -344755,27 +344203,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Ekimetrics",
-        "id": "03ccc631-38b1-451e-8483-f803f4f733dd",
-        "title": "Junior Business Scientist - Data Science - Marketing Effectiveness",
-        "active": true,
-        "date_updated": 1792743131,
-        "date_posted": 1773959155,
-        "url": "https://jobs.lever.co/ekimetrics/d9d64766-3d42-4ba9-94d4-f74cdaf20065/apply",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Ekimetrics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
