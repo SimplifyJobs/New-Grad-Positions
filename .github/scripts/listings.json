@@ -314498,7 +314498,7 @@
         "company_name": "Capgemini",
         "id": "2c3fcb34-9459-42c5-8269-e05902759c20",
         "title": "Graduate Software Engineer Programme",
-        "active": false,
+        "active": true,
         "date_updated": 1790846018,
         "date_posted": 1790845822,
         "url": "https://careers.capgemini.com/job/Telford-Graduate-Software-Engineering-Programme-2027/1443168333/?ats=successfactors",
@@ -328063,7 +328063,7 @@
         "company_name": "Capgemini",
         "id": "f4875814-a00b-4c22-9d51-aed871743038",
         "title": "Lead Java Full Stack with React",
-        "active": false,
+        "active": true,
         "date_updated": 1791499336,
         "date_posted": 1791498956,
         "url": "https://careers.capgemini.com/job/New-York,-NY-Lead-Java-Full-Stack-with-React-NY-10001/1445764233/?ats=successfactors",
@@ -334177,7 +334177,7 @@
         "company_name": "Capgemini",
         "id": "c67013f3-bb2d-4b62-9127-75264ad45442",
         "title": "Associate Application Consultant",
-        "active": false,
+        "active": true,
         "date_updated": 1791969537,
         "date_posted": 1790029614,
         "url": "https://careers.capgemini.com/job/Bridgewater,-NJ-C&CA-Associate-Application-Consultant-NJ/1439746933/?ats=successfactors",
@@ -335817,7 +335817,7 @@
         "company_name": "Capgemini",
         "id": "d99c1e84-901c-49a8-9b2b-7bf6f62850a1",
         "title": "Software Engineer New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1792056502,
         "date_posted": 1792056417,
         "url": "https://careers.capgemini.com/job/Telford-Graduate-Software-Engineering-Programme-2027-1/1443172033/?ats=successfactors",
@@ -364583,7 +364583,7 @@
         "company_name": "Capgemini",
         "id": "1fa93b8e-4b8b-44a2-abe2-7e44cf150d8e",
         "title": "Campus 1&D: Associate Application Consultant",
-        "active": false,
+        "active": true,
         "date_updated": 1793719658,
         "date_posted": 1793719577,
         "url": "https://careers.capgemini.com/job/Mississauga-Campus-I&D-Associate-Application-Consultant-ON/1453920933/?ats=successfactors",
@@ -368970,7 +368970,7 @@
         "company_name": "Capgemini",
         "id": "9a142315-8459-43ef-a3a5-9025798c7a2d",
         "title": "Associate Application Consultant",
-        "active": false,
+        "active": true,
         "date_updated": 1793920717,
         "date_posted": 1793920527,
         "url": "https://careers.capgemini.com/job/Berwyn,-PA-C&CA-Campus-Associate-Application-Consultant-PA/1454933833/?ats=successfactors",
@@ -370666,7 +370666,7 @@
         "company_name": "Capgemini",
         "id": "34dac878-8890-4141-8a51-4f3b76dc7bee",
         "title": "Associate Application Consultant",
-        "active": false,
+        "active": true,
         "date_updated": 1794008463,
         "date_posted": 1794008328,
         "url": "https://careers.capgemini.com/job/Berwyn,-PA-Campus-C&CA-Associate-Application-Consultant-PA/1455309233/?ats=successfactors",
@@ -371457,7 +371457,7 @@
         "company_name": "Adidas",
         "id": "51d76cb5-4b77-4d0e-a6cd-60ff7074a388",
         "title": "Business Insights New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1794239356,
         "date_posted": 1794239142,
         "url": "https://jobs.adidas-group.com/job/Stockport-BUSINESS-INSIGHTS-GRADUATE-2027-MANCHESTER/1455581533/?ats=successfactors",
@@ -377856,7 +377856,7 @@
         "company_name": "L3Harris Technologies",
         "id": "f4ec82de-4ab6-4118-8c14-2c5068dbf3c2",
         "title": "Associate \u2013 Application Development",
-        "active": true,
+        "active": false,
         "date_updated": 1794527641,
         "date_posted": 1794527520,
         "url": "https://jobs.l3harris.com/job/Melbourne-Associate,-Application-Development-FL-32919/1450263800/?ats=successfactors",
@@ -379465,5 +379465,150 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Accenture",
+        "id": "b4e0bd04-a49e-4fe5-be6c-29ac1d93bff3",
+        "title": "Software Engineering Graduate Program",
+        "active": true,
+        "date_updated": 1794641812,
+        "date_posted": 1790072752,
+        "url": "https://accenture.pinpointhq.com/en/postings/ea5476ed-b07b-4a24-b7c9-541881141de8?ats=pinpointhq",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Accenture-FS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Accenture",
+        "id": "4f8b6972-afef-4061-9793-31aa2c86495c",
+        "title": "Software Engineering New Grad",
+        "active": true,
+        "date_updated": 1794641813,
+        "date_posted": 1790078263,
+        "url": "https://accenture.pinpointhq.com/en/postings/78aa2ac9-c644-40be-87d3-f2c3a9e06e64?ats=pinpointhq",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Accenture-FS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Accenture",
+        "id": "a215785a-a17e-4d39-8508-4062629e0681",
+        "title": "Software Engineering New Grad",
+        "active": true,
+        "date_updated": 1794641813,
+        "date_posted": 1790078373,
+        "url": "https://accenture.pinpointhq.com/en/postings/ace42afc-8144-49f7-84df-c9dbb66e352f?ats=pinpointhq",
+        "locations": [
+            "Glasgow, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Accenture-FS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Accenture",
+        "id": "99faec69-36c3-45b0-b133-b5adf3e845f9",
+        "title": "Software Engineering New Grad - Graduate Programme",
+        "active": true,
+        "date_updated": 1794641814,
+        "date_posted": 1790078519,
+        "url": "https://accenture.pinpointhq.com/en/postings/4c48dfbf-568a-42a6-b8b0-00283eceb049?ats=pinpointhq",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Accenture-FS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Accenture",
+        "id": "257cfc8d-99de-4c4a-96a1-d47f3117b265",
+        "title": "Software Engineering New Grad",
+        "active": true,
+        "date_updated": 1794641813,
+        "date_posted": 1790077985,
+        "url": "https://accenture.pinpointhq.com/en/postings/c2cbc079-dce6-4033-88a2-79b1246cdf21?ats=pinpointhq",
+        "locations": [
+            "Manchester, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Accenture-FS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Accenture",
+        "id": "1c6153b6-21de-4fdf-85d2-b7eab2023840",
+        "title": "Software Engineering New Grad",
+        "active": true,
+        "date_updated": 1794641810,
+        "date_posted": 1790080414,
+        "url": "https://accenture.pinpointhq.com/en/postings/fff24465-85e4-4642-a888-8df902586f39?ats=pinpointhq",
+        "locations": [
+            "Newcastle upon Tyne, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Accenture-FS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Accenture",
+        "id": "c039496a-1e56-45d6-a014-aba00cbbb349",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1794641812,
+        "date_posted": 1790078454,
+        "url": "https://accenture.pinpointhq.com/en/postings/106b5cb5-20ea-4d22-8f92-c29c599f0dc6?ats=pinpointhq",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Accenture-FS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
