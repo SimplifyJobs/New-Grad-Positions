@@ -235109,7 +235109,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -335421,7 +335421,7 @@
         "company_name": "Frazer-Nash Consultancy",
         "id": "fda04ece-519d-42ee-a2da-eb415ca213c5",
         "title": "Digital Electronics Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792190351,
         "date_posted": 1792108800,
         "url": "https://kbr.wd5.myworkdayjobs.com/Frazer_Nash_Careers/job/Glasgow/Digital-Electronics-Engineer_R2131155",
@@ -367472,7 +367472,7 @@
         "company_name": "Bank of Montreal",
         "id": "b6863ca3-d3e2-4e91-83fd-6416642b015c",
         "title": "Personal & Business Banking New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1793977987,
         "date_posted": 1793923200,
         "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/BMO-Personal---Business-Banking-Development-Program--New-Graduate----2-Year-Program_R260031068",
@@ -377890,5 +377890,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RBFCU",
+        "id": "0faa0969-9aa2-46f3-9b6d-db9683e2669a",
+        "title": "Collections Business Analyst",
+        "active": true,
+        "date_updated": 1794728702,
+        "date_posted": 1794528000,
+        "url": "https://rbfcu.wd503.myworkdayjobs.com/RegionalJobsSanAntonio/job/ASC---San-Antonio/Collections-Business-Analyst_015548-5",
+        "locations": [
+            "San Antonio, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RBFCU",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
