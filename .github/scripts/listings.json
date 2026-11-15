@@ -1,128 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "PVH",
-        "id": "be25b1a5-0713-45a5-ab73-c43b621a615b",
-        "title": "Assistant Merchandiser",
-        "active": false,
-        "date_updated": 1774047309,
-        "date_posted": 1774047309,
-        "url": "https://pvh.wd1.myworkdayjobs.com/en-US/PVH_Careers/job/New-York-NY-Calvin-Klein-Office/Assistant-Merchandiser--Apparel-Off-Price_R58009-1",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/PVH",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "PVH",
-        "id": "3e5e88ac-a0a1-486a-9a57-cae909b51062",
-        "title": "Assistant Merchandiser - Close to Body Off Price",
-        "active": false,
-        "date_updated": 1774047308,
-        "date_posted": 1774047308,
-        "url": "https://pvh.wd1.myworkdayjobs.com/en-US/PVH_Careers/job/New-York-NY-Calvin-Klein-Office/Assistant-Merchandiser--Close-to-Body-Off-Price_R58010-1",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/PVH",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Worldpay",
-        "id": "02550120-f814-4920-9adf-ae6bbaae11cf",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1774047406,
-        "date_posted": 1774047406,
-        "url": "https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/CINCINNATI-OHIO/Software-Engineer-I_JR0608959",
-        "locations": [
-            "Jacksonville, FL",
-            "Atlanta, GA",
-            "Cincinnati, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Worldpay",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Microchip Technology",
-        "id": "a18dc3f2-82fe-4ec8-8a76-a7773eb225e4",
-        "title": "Engineer 1 - Product - Test",
-        "active": false,
-        "date_updated": 1774047185,
-        "date_posted": 1774047185,
-        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/MA---Beverly-Brimbal/Engineer-I---Product--Test-_R1173-26",
-        "locations": [
-            "Peabody, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Microchip-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Baird",
-        "id": "5d7b6012-9659-4506-bb89-fd56e8629feb",
-        "title": "Fixed Income Agency Mortgage-Backed - MBS",
-        "active": false,
-        "date_updated": 1774047240,
-        "date_posted": 1774047240,
-        "url": "https://baird.wd1.myworkdayjobs.com/careers/job/CT-Stamford/Fixed-Income-Agency-Mortgage-Backed--MBS--Trading-Assistant_R2026373-2",
-        "locations": [
-            "Stamford, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/Baird",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Kohl's",
-        "id": "cc1b63fd-ee57-46df-bb6c-a1f656362fac",
-        "title": "Assistant Designer",
-        "active": false,
-        "date_updated": 1774045962,
-        "date_posted": 1774045962,
-        "url": "https://kohls.wd1.myworkdayjobs.com/kohlscareers/job/Kohls-Corporate-Offices-0900/Assistant-Designer_R469236",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Kohls",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Lowe's ",
         "id": "0f0ab94d-7d30-4073-addb-2ff2f4e87d3f",
@@ -157,47 +35,6 @@
             "Stamford, TX"
         ],
         "company_url": "https://simplify.jobs/c/First-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Gensler",
-        "id": "c0fd7b04-db45-4b8c-860a-10c436bc1752",
-        "title": "Design Strategist - Data Analytics + Insights",
-        "active": false,
-        "date_updated": 1774047723,
-        "date_posted": 1774047723,
-        "url": "https://gensler.wd1.myworkdayjobs.com/genslercareers/job/New-York-NY-US/Design-Strategist---Data-Analytics---Insights_R-17272",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Gensler",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Robert Half",
-        "id": "b1ba6db6-3e6c-4a3b-9eea-cdf1247a02c6",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1774047145,
-        "date_posted": 1774047145,
-        "url": "https://roberthalf.wd1.myworkdayjobs.com/roberthalfcareers/job/SAN-RAMON/Software-Engineer-I_JR-259875",
-        "locations": [
-            "San Ramon, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Robert-Half",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -6699,28 +6536,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Applied Materials",
-        "id": "0d407e80-c6cf-4d12-8db4-701340f9f7b0",
-        "title": "EHS/Product Safety Engineer",
-        "active": false,
-        "date_updated": 1774047801,
-        "date_posted": 1774047801,
-        "url": "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/EHS-Product-Safety-Engineer---New-College-Grad--Bachelors---Multiple-Locations-_R2517821",
-        "locations": [
-            "Austin, TX",
-            "Santa Clara, CA",
-            "Essex County, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
