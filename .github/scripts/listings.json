@@ -24,26 +24,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Brown University",
-        "id": "486bf5b5-dedd-4bf9-ac37-b0f3b63f9f3a",
-        "title": "Research Data Analyst",
-        "active": false,
-        "date_updated": 1773986503,
-        "date_posted": 1773986503,
-        "url": "https://brown.wd5.myworkdayjobs.com/staff-careers-brown/job/Coro-Center-West/Research-Data-Analyst_REQ207235",
-        "locations": [
-            "Providence, RI"
-        ],
-        "company_url": "https://simplify.jobs/c/Brown-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Dordt University",
         "id": "177977a5-4553-4494-a687-01975d51375c",
@@ -367715,7 +367695,7 @@
         "company_name": "Bank of Montreal",
         "id": "32cd20b5-fc75-40fb-86a8-f311c1c186fb",
         "title": "Personal & Business Banking New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1793977773,
         "date_posted": 1793923200,
         "url": "https://bmo.wd3.myworkdayjobs.com/Campus/job/Toronto-ON-CAN/BMO-Personal---Business-Banking-Development-Program--New-Graduate----2-Year-Program_R260031068-1",
@@ -371807,7 +371787,7 @@
         "company_name": "Rheem",
         "id": "2e6be3d8-f031-4b8c-9007-39d09012e826",
         "title": "Product Data Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1794352242,
         "date_posted": 1794352031,
         "url": "https://hdde.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4581",
