@@ -310034,7 +310034,7 @@
         "company_name": "RTX",
         "id": "ccabd2dc-da52-47d9-b9e4-1c5478b1406f",
         "title": "FPGA/ASIC Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1790721416,
         "date_posted": 1790640000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-MA-CAMBRIDGE-BBN01--10--50-Moulton-St--MOULTON-B2/FPGA-ASIC-Engineer-I_01876996",
@@ -338710,7 +338710,7 @@
         "company_name": "Graphcore",
         "id": "c9d6c211-6f65-4b53-ac71-6b1b9aeaff36",
         "title": "Graduate Machine Learning Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792506658,
         "date_posted": 1792506466,
         "url": "https://job-boards.greenhouse.io/graphcore/jobs/8894041002",
@@ -372819,7 +372819,7 @@
         "company_name": "Allied Universal",
         "id": "9f7c0bf3-6702-4114-abaa-76a18944ee5b",
         "title": "Global Security Mapping Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1794391958,
         "date_posted": 1793318400,
         "url": "https://securitycareers-aus.icims.com/jobs/1730709/job?mobile=true&needsRedirect=false",
@@ -377771,6 +377771,124 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Vantive",
+        "id": "b7e26578-8425-42c2-9cef-eeb79757cbe2",
+        "title": "Embedded Software Engineer",
+        "active": true,
+        "date_updated": 1794727626,
+        "date_posted": 1793664000,
+        "url": "https://vantive.wd108.myworkdayjobs.com/Vantive/job/Plymouth-Minnesota/Embedded-Software-Engineer--hybrid-_JR-198138-1",
+        "locations": [
+            "Plymouth, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Vantive",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "IAG Loyalty",
+        "id": "ad6bfeb5-5695-4792-bb2e-7ba9cb9db99c",
+        "title": "Pricing Analyst",
+        "active": true,
+        "date_updated": 1794727088,
+        "date_posted": 1793664000,
+        "url": "https://iagloyalty.wd3.myworkdayjobs.com/iagloyalty/job/London-UK/Pricing-Analyst_JR100572",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/IAG-Loyalty",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Liberty Global",
+        "id": "87cb6cd5-16c9-4506-9220-46fabfd14884",
+        "title": "Technology Graduate",
+        "active": true,
+        "date_updated": 1794727088,
+        "date_posted": 1790812800,
+        "url": "https://libertyglobal.wd3.myworkdayjobs.com/Liberty_Global_Careers/job/Leeds/Technology-Graduate_REQ_00038717-2",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Liberty-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Russell Investments",
+        "id": "7463c975-1f0c-43b9-92f0-f87b30bc0650",
+        "title": "Quantitative Performance Analyst",
+        "active": true,
+        "date_updated": 1794727088,
+        "date_posted": 1793836800,
+        "url": "https://russell.wd5.myworkdayjobs.com/russellinvestments/job/Seattle/Quantitative-Performance-Analyst_R-04179",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Russell-Investments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Tyson Foods",
+        "id": "f8943ccb-35d7-4b9e-8888-2cf71a4ff72c",
+        "title": "IT Product Owner 1",
+        "active": true,
+        "date_updated": 1794726915,
+        "date_posted": 1791158400,
+        "url": "https://tysonfoods.wd5.myworkdayjobs.com/TYIT/job/Tyson-Emma---Springdale-Arkansas/IT-Product-Owner-I_R0482203-3",
+        "locations": [
+            "Springdale, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Tyson-Foods",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Liberty Blume",
+        "id": "2f1fbfff-cf0b-467f-b51c-776ec922737c",
+        "title": "Technology Graduate",
+        "active": true,
+        "date_updated": 1794726364,
+        "date_posted": 1790812800,
+        "url": "https://libertyglobal.wd3.myworkdayjobs.com/Liberty_Global_Blume/job/Leeds/Technology-Graduate_REQ_00038717",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Liberty-Blume",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
