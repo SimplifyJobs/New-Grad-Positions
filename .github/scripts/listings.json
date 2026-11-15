@@ -377802,5 +377802,43 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Beacon Mobility",
+        "id": "95e3d3ae-bbc6-4105-8ec0-dc66cc12a47e",
+        "title": "AI Innovation & Automation Analyst",
+        "active": true,
+        "date_updated": 1794741505,
+        "date_posted": 1792627200,
+        "url": "https://gobeacon.wd1.myworkdayjobs.com/beaconmobilitycareers/job/Beacon/AI-Innovation---Automation-Analyst--Fleet_REQ-2026-4555",
+        "locations": [
+            "Beacon, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Beacon-Mobility",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "NCR Atleos",
+        "id": "06a9e8e0-ab4c-4d44-8abd-60e1c203a7ce",
+        "title": "PC Technician",
+        "active": true,
+        "date_updated": 1794740763,
+        "date_posted": 1793145600,
+        "url": "https://ncratleos.wd1.myworkdayjobs.com/ext_non_usalteos/job/Rotherham-GBR/Staging-Technician_R1154917",
+        "locations": [
+            "Rotherham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/NCR-Atleos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
