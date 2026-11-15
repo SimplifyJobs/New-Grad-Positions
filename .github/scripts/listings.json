@@ -2,31 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Dordt University",
-        "id": "6c9f0b71-8f14-41f3-adf4-d112c47ed8ed",
-        "title": "Associate Data Engineer - Data Services",
-        "active": false,
-        "date_updated": 1773997400,
-        "date_posted": 1773997400,
-        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87247",
-        "locations": [
-            "Houston, TX",
-            "Austin, TX",
-            "Dallas, TX",
-            "Raleigh, NC",
-            "Chicago, IL",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Dordt-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "William & Mary",
         "id": "8b9ccf56-5a60-45dc-b5a0-a0a436bb2470",
         "title": "Assistant Teaching Professor of Data Science",
