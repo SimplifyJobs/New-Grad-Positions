@@ -1,116 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "69b3b524-3151-44d7-97a1-ff9306963ce5",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1774016255,
-        "date_posted": 1774016255,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054350",
-        "locations": [
-            "Wellington, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "ead8d50d-fdf4-499c-8531-0cbac6ebd8b2",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1774016086,
-        "date_posted": 1774016086,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054340",
-        "locations": [
-            "Wellington, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "9995045a-5153-460f-b95d-420282716d89",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1774016061,
-        "date_posted": 1774016061,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053802",
-        "locations": [
-            "Welwyn Garden City, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Wisconsin-Madison",
-        "id": "5fcb80ac-f68e-4c80-9424-b371e81f6af7",
-        "title": "Assistant Professor of Music Technology and Artificial Intelligence - Rise-AI",
-        "active": false,
-        "date_updated": 1774015768,
-        "date_posted": 1774015768,
-        "url": "https://wisconsin.wd1.myworkdayjobs.com/UW_Madison/job/Madison-WI/Assistant-Professor-of-Music-Technology-and-Artificial-Intelligence_JR10004513",
-        "locations": [
-            "Madison, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Wisconsin-Madison",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "efbc36b4-8bba-442a-861a-a969864f0f82",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1774016307,
-        "date_posted": 1774016307,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054299",
-        "locations": [
-            "Liverpool, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "e5e01b5e-3d15-44d8-ad85-4b827c91625b",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1774016054,
-        "date_posted": 1774016054,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054338",
-        "locations": [
-            "Blackpool, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "University of Wisconsin System",
         "id": "20e96b2e-39e0-49cc-a65a-7bd6b46f5e83",
@@ -128,24 +18,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "5ef15adb-c5d1-41b0-8ea0-f7512616c4b2",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1774016086,
-        "date_posted": 1774016086,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054287",
-        "locations": [
-            "Nottingham, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -345889,7 +345761,7 @@
         "company_name": "Motorola Solutions",
         "id": "4749eed9-dd34-4ec5-b20d-18276b56dd7b",
         "title": "Mid Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792765262,
         "date_posted": 1792765209,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Uxbridge-UK-ZUK131/Mid-Level-Back-End-Software-Engineer_R65766",
