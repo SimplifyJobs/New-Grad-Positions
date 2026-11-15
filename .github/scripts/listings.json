@@ -1,50 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Dordt University",
-        "id": "b1f65bbb-d590-45d3-bfd1-07d56a21e5e2",
-        "title": "Associate Data Engineer \u2013 Entry Level",
-        "active": false,
-        "date_updated": 1773986640,
-        "date_posted": 1773986640,
-        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=87015",
-        "locations": [
-            "East Lansing, MI",
-            "Baton Rouge, LA",
-            "Buffalo, NY",
-            "Dundee, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Dordt-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Dordt University",
-        "id": "177977a5-4553-4494-a687-01975d51375c",
-        "title": "Associate SAP Technical - Entry level",
-        "active": false,
-        "date_updated": 1773986658,
-        "date_posted": 1773986658,
-        "url": "https://ibmglobal.avature.net/en_US/careers/JobDetail?jobId=101517",
-        "locations": [
-            "Nova Scotia, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Dordt-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Teledyne",
         "id": "8eed21f4-9ab0-47e5-8049-8e368a42bf27",
@@ -5718,28 +5674,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "X Development",
-        "id": "9b22a769-3158-4e58-80a2-4da34d70045c",
-        "title": "Software Engineer - Machine Learning - Tapestry",
-        "active": false,
-        "date_updated": 1774085280,
-        "date_posted": 1773988061,
-        "url": "https://x.company/careers/8457833002?gh_jid=8457833002",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/X-Development",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
         ]
     },
     {
@@ -17477,29 +17411,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Agoda",
-        "id": "b9c4a46f-2b41-4f0f-a9fa-7ba2e07f2f51",
-        "title": "Supply Analytics Senior Analyst",
-        "active": false,
-        "date_updated": 1775111401,
-        "date_posted": 1773988105,
-        "url": "https://job-boards.greenhouse.io/agoda/jobs/7698911",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Agoda",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "MBA",
-            "Master's"
-        ]
     },
     {
         "source": "Simplify",
@@ -91289,7 +91200,7 @@
         "company_name": "Ohio State University",
         "id": "5749bed6-a909-4bdf-ade4-36b8d7d97922",
         "title": "Data Management Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1779835502,
         "date_posted": 1779833098,
         "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Health-System-Shared-Services/Data-Management-Analyst-1_R150689-1",
@@ -274965,60 +274876,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TSMG",
-        "id": "9ad41187-e739-4c70-a45a-9a032dbd94b7",
-        "title": "Motion Capture Participant - Robotics Project",
-        "active": false,
-        "date_updated": 1773987894,
-        "date_posted": 1773987894,
-        "url": "https://jobs.lever.co/tsmg/7c3e0093-05e5-467f-a8be-fcc998dc8478/apply",
-        "locations": [
-            "Orlando, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/TSMG",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TSMG",
-        "id": "bd7eceb8-0c15-404f-9a9e-23a987966288",
-        "title": "Motion Capture Participant - Robotics Project",
-        "active": false,
-        "date_updated": 1773987894,
-        "date_posted": 1773987894,
-        "url": "https://jobs.lever.co/tsmg/1e896174-fc6f-4f83-8448-2616551a8570/apply",
-        "locations": [
-            "Miami, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/TSMG",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TSMG",
-        "id": "2f62ebc9-6afe-452f-91b7-e0d298c87bdc",
-        "title": "Motion Capture Participant - Robotics Project",
-        "active": false,
-        "date_updated": 1773987894,
-        "date_posted": 1773987894,
-        "url": "https://jobs.lever.co/tsmg/5421e8b9-dedb-4ee8-ab54-f504606a7e53/apply",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/TSMG",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "MIO Partners",
         "id": "5af52f26-823c-4bd4-b760-0d5a9f9acf1b",
@@ -362153,7 +362010,7 @@
         "company_name": "Unity",
         "id": "77e778db-2c7d-4cdb-b477-75b1206e18ba",
         "title": "Software Developer New Grad - U-Accelerate: Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1793662420,
         "date_posted": 1793577600,
         "url": "https://unitytech.wd1.myworkdayjobs.com/Unity/job/Montreal-Canada/U-Accelerate---Dveloppeur-euse--de-logiciels--nouveau-elle--diplm-e-----U-Accelerate--Software-Developer--New-Grad_JOBREQ-2616768",
