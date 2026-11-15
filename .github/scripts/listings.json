@@ -371794,7 +371794,7 @@
         "company_name": "Goldman Sachs",
         "id": "60ba5d46-1da9-4411-9d8c-797c4a1811f2",
         "title": "Software Engineer - Software Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1794353978,
         "date_posted": 1794351889,
         "url": "https://higher.gs.com/roles/188640",
@@ -377710,5 +377710,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Carnegie Mellon University",
+        "id": "0e9dcc61-445c-45de-ab79-e854c16a9da2",
+        "title": "Research Assistant - Kenneth C. Griffin School of Computer Science - S3D",
+        "active": true,
+        "date_updated": 1794757504,
+        "date_posted": 1793664000,
+        "url": "https://cmu.wd115.myworkdayjobs.com/cmu/job/Pittsburgh-PA/Research-Assistant---Kenneth-C-Griffin-School-of-Computer-Science---S3D_2025318",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Carnegie-Mellon-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
