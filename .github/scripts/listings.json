@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Wisconsin System",
-        "id": "20e96b2e-39e0-49cc-a65a-7bd6b46f5e83",
-        "title": "Institutional Policy Analyst",
-        "active": false,
-        "date_updated": 1774019995,
-        "date_posted": 1774019995,
-        "url": "https://wisconsin.wd1.myworkdayjobs.com/UW_Comprehensives/job/Stevens-Point-WI/Institutional-Policy-Analyst_JR10008634",
-        "locations": [
-            "Plover, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Wisconsin-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Xylem",
         "id": "b04b5529-64d2-410a-bcab-a4dca25d67eb",
@@ -371814,7 +371794,7 @@
         "company_name": "Goldman Sachs",
         "id": "60ba5d46-1da9-4411-9d8c-797c4a1811f2",
         "title": "Software Engineer - Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1794353978,
         "date_posted": 1794351889,
         "url": "https://higher.gs.com/roles/188640",
