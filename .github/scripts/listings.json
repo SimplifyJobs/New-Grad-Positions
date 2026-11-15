@@ -329828,7 +329828,7 @@
         "company_name": "Dexcom",
         "id": "9d4bdf3b-b23d-4858-80f0-a8d8279cdc65",
         "title": "Hardware Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1791871645,
         "date_posted": 1791871529,
         "url": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/Hardware-Engineer-1_JR119889-1",
@@ -377835,6 +377835,24 @@
         "url": "https://ncratleos.wd1.myworkdayjobs.com/ext_non_usalteos/job/Rotherham-GBR/Staging-Technician_R1154917",
         "locations": [
             "Rotherham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/NCR-Atleos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "NCR Atleos",
+        "id": "20949419-4cf1-49fe-a1ba-650c7ab72e3e",
+        "title": "Graduate Product Analyst",
+        "active": true,
+        "date_updated": 1794744029,
+        "date_posted": 1791417600,
+        "url": "https://ncratleos.wd1.myworkdayjobs.com/ext_non_usalteos/job/DUNDEE-GBR/Graduate-Product-Analyst_R1154945",
+        "locations": [
+            "Dundee, UK"
         ],
         "company_url": "https://simplify.jobs/c/NCR-Atleos",
         "is_visible": true,
