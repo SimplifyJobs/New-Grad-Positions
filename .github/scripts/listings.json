@@ -1,46 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "William & Mary",
-        "id": "ca83556c-e790-4a83-b2ee-010a8ddb7a38",
-        "title": "CGA Fellow",
-        "active": false,
-        "date_updated": 1774002315,
-        "date_posted": 1774002315,
-        "url": "https://williammary.wd12.myworkdayjobs.com/WM/job/Swem-Library/CGA-Fellow--Technician-_JR101329",
-        "locations": [
-            "Williamsburg, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/William-And-Mary",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "William & Mary",
-        "id": "623698ea-3710-4d32-a204-482bee0e6eed",
-        "title": "Library Web Developer",
-        "active": false,
-        "date_updated": 1774002483,
-        "date_posted": 1774002483,
-        "url": "https://williammary.wd12.myworkdayjobs.com/WM/job/Posting-Location---William--Mary/Library-Web-Developer_JR101209",
-        "locations": [
-            "Williamsburg, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/William-And-Mary",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "69b3b524-3151-44d7-97a1-ff9306963ce5",
