@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Teledyne",
-        "id": "8eed21f4-9ab0-47e5-8049-8e368a42bf27",
-        "title": "Calibration Technician",
-        "active": false,
-        "date_updated": 1773988787,
-        "date_posted": 1773988787,
-        "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Lewisburg-TN/Calibration-Technician_REQ33376-1",
-        "locations": [
-            "Tennessee"
-        ],
-        "company_url": "https://simplify.jobs/c/199b3c43-379a-408c-a6a8-980e79183038",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Dordt University",
         "id": "6c9f0b71-8f14-41f3-adf4-d112c47ed8ed",
@@ -355260,7 +355240,7 @@
         "company_name": "Graphcore",
         "id": "84614b56-61f0-4ca1-acba-6071353d78d5",
         "title": "Graduate Machine Learning Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793236157,
         "date_posted": 1792491484,
         "url": "https://job-boards.greenhouse.io/graphcore-early-careers/jobs/8902058002",
