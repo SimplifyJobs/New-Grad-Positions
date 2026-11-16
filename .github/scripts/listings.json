@@ -4419,26 +4419,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Lowe's ",
-        "id": "d8c8d8e4-981d-40cf-846f-d4f4948eaaad",
-        "title": "Associate Merchant - Omni - Millwork",
-        "active": false,
-        "date_updated": 1774092355,
-        "date_posted": 1774092355,
-        "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Associate-Merchant_JR-02413972",
-        "locations": [
-            "Huntersville, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Lowes",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Thales",
         "id": "f56e0913-e68e-4e3a-9633-4063a7980b06",
@@ -4779,26 +4759,6 @@
         "date_posted": 1774467598,
         "company_url": "",
         "is_visible": true
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Pennsylvania State University",
-        "id": "15f52ce1-b982-411c-b879-5e4ded9f3550",
-        "title": "Postdoctoral Scholar",
-        "active": false,
-        "date_updated": 1774091429,
-        "date_posted": 1774091429,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar_REQ_0000070370-1",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
     },
     {
         "source": "Simplify",
