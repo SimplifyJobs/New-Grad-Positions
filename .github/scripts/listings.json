@@ -1,78 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "fc2881f9-0572-4843-81b9-4ac13c90a3b6",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1774084060,
-        "date_posted": 1774084060,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054445",
-        "locations": [
-            "Leicester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "7bc59ff7-8c47-4adc-8cfc-9b56fa0e5f1c",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1774084056,
-        "date_posted": 1774084056,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054442",
-        "locations": [
-            "Midlothian, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "72982202-df34-41d1-9a3f-785b3861f2e4",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1774084067,
-        "date_posted": 1774084067,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054447",
-        "locations": [
-            "Bristol, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "64b96703-f3a8-499e-a93b-f83381275bec",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1774084050,
-        "date_posted": 1774084050,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054449",
-        "locations": [
-            "Bristol, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "General Dynamics Information Technology",
         "id": "01b460b1-1f54-4157-8c7d-752594edef8f",
@@ -4370,26 +4298,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nationwide",
-        "id": "0d0bd2a5-e1f3-49b9-996c-46f6a554eec5",
-        "title": "Software Engineer - Java",
-        "active": false,
-        "date_updated": 1774085016,
-        "date_posted": 1774085016,
-        "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Three-Nationwide-Plaza/Engineer--Software-Engineer_097263",
-        "locations": [
-            "Columbus, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Nationwide",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Gartner",
         "id": "b7d0b0eb-f2ba-411b-abcd-3db5654b9050",
@@ -4967,26 +4875,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Southern California",
-        "id": "e8e1fb00-7d70-428f-9dae-2d1a2a966f4f",
-        "title": "Postdoctoral Research Associate",
-        "active": false,
-        "date_updated": 1774084675,
-        "date_posted": 1774084675,
-        "url": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---University-Park-Campus/PostDoctoral-research-Associate_REQ20160796",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Southern-California",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
     },
     {
         "source": "Simplify",
@@ -6154,28 +6042,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Greenheck Group",
-        "id": "676adb1d-1acc-4559-8fce-2428eb81add8",
-        "title": "Application Engineer 1/2",
-        "active": false,
-        "date_updated": 1774084808,
-        "date_posted": 1774084808,
-        "url": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Schofield-WI/Application-Engineer-II_JR103309-1",
-        "locations": [
-            "Plover, WI",
-            "Tulsa, OK"
-        ],
-        "company_url": "https://simplify.jobs/c/Greenheck-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
         ]
     },
     {
@@ -12670,26 +12536,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Lawrence Livermore National Laboratory (LLNL)",
-        "id": "2d79bc73-d115-4852-8db7-1ff1f64b155a",
-        "title": "Machine Learning - Postdoctoral Researcher",
-        "active": false,
-        "date_updated": 1774985941,
-        "date_posted": 1774083837,
-        "url": "https://jobs.smartrecruiters.com/LLNL/3743990012255026",
-        "locations": [
-            "Livermore, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/LLNL",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Hewlett Packard (HP)",
         "id": "3d1b7afa-b8e2-480d-8ea3-dd025fd955be",
@@ -17769,27 +17615,6 @@
             "Aberdeen, UK"
         ],
         "company_url": "https://simplify.jobs/c/Trexon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Draper",
-        "id": "6680057c-d4d7-4844-bf92-41f2fbdaed85",
-        "title": "Hardware-in-the-Loop Simulation Systems Engineer",
-        "active": false,
-        "date_updated": 1775212310,
-        "date_posted": 1774084937,
-        "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Hardware-In-The-Loop-Simulation-Systems-Engineer_JR001979",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Draper",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -262179,7 +262004,7 @@
         "company_name": "American Express",
         "id": "042c934f-3d19-4615-bcc7-f10fe3a00bea",
         "title": "AI Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788287744,
         "date_posted": 1788287452,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013254",
