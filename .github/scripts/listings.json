@@ -233797,7 +233797,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -366642,7 +366642,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "e3f2f0aa-f254-467d-a1cb-7b6140686226",
         "title": "Campus Switching Product Manager New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1794006656,
         "date_posted": 1793923200,
         "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Roseville-California/Campus-Switching-Product-Manager-Graduate_1214267",
@@ -370736,7 +370736,7 @@
         "company_name": "Goldman Sachs",
         "id": "60ba5d46-1da9-4411-9d8c-797c4a1811f2",
         "title": "Software Engineer - Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1794353978,
         "date_posted": 1794351889,
         "url": "https://higher.gs.com/roles/188640",
@@ -376694,5 +376694,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Zuru",
+        "id": "ef061f55-a0b2-4574-aa37-b937ababd312",
+        "title": "Business Analyst",
+        "active": true,
+        "date_updated": 1794794942,
+        "date_posted": 1794794780,
+        "url": "https://jobs.ashbyhq.com/zuru/35a4eeb0-bdf4-4e8a-94f3-955e214777e1/application?embed=true",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Zuru",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
