@@ -2,25 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Jade Global",
-        "id": "4a6f60b3-8a42-416d-a0ab-8460c0d91543",
-        "title": "Senior Workday Finance Lead",
-        "active": false,
-        "date_updated": 1774088657,
-        "date_posted": 1774088657,
-        "url": "https://jadeglobal.wd5.myworkdayjobs.com/en-US/jade_careers/job/San-Jose-CA/Senior-Workday-Finance-Lead_R-105029",
-        "locations": [
-            "San Jose, CA",
-            "North Wales, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Jade-Global",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Royal Bank of Canada",
         "id": "3380aaef-08bf-45a0-ab8d-eda9d0ac3395",
         "title": "Software Developer - Gft",
@@ -4814,26 +4795,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Dentsu",
-        "id": "a88473dc-9017-4df1-b2bf-20d19f89c1d7",
-        "title": "Technical Director - Analytics Implementation",
-        "active": false,
-        "date_updated": 1774089025,
-        "date_posted": 1774089025,
-        "url": "https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/Columbia/Technical-Director---Analytics-Implementation_R1094151",
-        "locations": [
-            "Columbia, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Dentsu",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
     },
     {
         "date_updated": 1777381615,
@@ -364337,7 +364298,7 @@
         "company_name": "Ideagen",
         "id": "7eaf7d6e-9621-4a6a-a1e0-f70051c0b66a",
         "title": "Graduate AI Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793868122,
         "date_posted": 1792022400,
         "url": "https://careers-ideagenuk.icims.com/jobs/3239/job?mobile=true&needsRedirect=false",
@@ -376497,5 +376458,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Instil Software Ltd",
+        "id": "37c952a4-d32a-4e2e-9508-0533dcc6735f",
+        "title": "Graduate Agentic Software Engineer",
+        "active": true,
+        "date_updated": 1794824643,
+        "date_posted": 1794787200,
+        "url": "https://jobs.ashbyhq.com/instil/5d2b8cc5-1276-4993-a407-ed502cd79fc8/application?embed=true",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Instil-Software-Ltd",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
