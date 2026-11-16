@@ -2,26 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "General Dynamics Information Technology",
-        "id": "01b460b1-1f54-4157-8c7d-752594edef8f",
-        "title": "UiPath Robotic Process Automation Developer Associate",
-        "active": false,
-        "date_updated": 1774085633,
-        "date_posted": 1774085633,
-        "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-LA-Bossier-City/UiPath-Robotic-Process-Automation-Developer-Associate_RQ216790-2",
-        "locations": [
-            "Shreveport, LA"
-        ],
-        "company_url": "https://simplify.jobs/c/GDIT",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Jade Global",
         "id": "4a6f60b3-8a42-416d-a0ab-8460c0d91543",
         "title": "Senior Workday Finance Lead",
@@ -4474,47 +4454,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Gartner",
-        "id": "fe73fdc7-21d1-45d5-b1f4-e7d30dbe1161",
-        "title": "Digital Product Analyst",
-        "active": false,
-        "date_updated": 1774085873,
-        "date_posted": 1774085873,
-        "url": "https://gartner.wd5.myworkdayjobs.com/EXT/job/Irving-TX/Digital-Product-Analyst_106004",
-        "locations": [
-            "Fort Myers, FL",
-            "Irving, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Gartner",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Brookhaven Lab",
-        "id": "b96cb6b7-4d34-4210-8974-484e18a29689",
-        "title": "Research Associate Physics",
-        "active": false,
-        "date_updated": 1774353396,
-        "date_posted": 1774085545,
-        "url": "https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Research-Associate-Physics_JR102253",
-        "locations": [
-            "Shirley, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Brookhaven-Lab",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
         ]
     },
     {
@@ -375907,7 +375846,7 @@
         "company_name": "Shield AI",
         "id": "32d8d3c3-ce7a-49d8-bb08-770c770a6297",
         "title": "Staff Technician - Hardware Test",
-        "active": true,
+        "active": false,
         "date_updated": 1794648424,
         "date_posted": 1793318400,
         "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/c2edad52-02ed-4e70-9aea-a56b18a8452f/application?embed=true",
