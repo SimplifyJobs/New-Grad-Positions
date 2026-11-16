@@ -100467,7 +100467,7 @@
         "company_name": "Nokia",
         "id": "3daf8975-d7c2-4997-a768-836ce9335cc6",
         "title": "Firmware Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1780495381,
         "date_posted": 1780495359,
         "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/30015",
@@ -157034,7 +157034,7 @@
         "company_name": "DRW",
         "id": "bdc4dc00-1451-4635-9061-5f99a7bb9c42",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1783982881,
         "date_posted": 1783980958,
         "url": "https://job-boards.greenhouse.io/drweng/jobs/7980165",
@@ -178316,7 +178316,7 @@
         "company_name": "RTX",
         "id": "cc5ee59a-59c1-4e20-90ce-d5bc7cbc587e",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1784762605,
         "date_posted": 1784678400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-I_01861317-1",
@@ -280793,7 +280793,7 @@
         "company_name": "CelLink Technologies",
         "id": "8aa9e8da-5ee7-462c-b182-f20bcb7be1d7",
         "title": "Reliability Validation & Testing Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1788506642,
         "date_posted": 1785853798,
         "url": "https://cellinktechnologies.com/job-listing?gh_jid=4666560005",
@@ -355879,7 +355879,7 @@
         "company_name": "Raydar",
         "id": "de269612-0d8c-41bb-863a-9ba3e034cacd",
         "title": "Research Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793313001,
         "date_posted": 1793312994,
         "url": "https://apply.workable.com/raydar/j/8CDFCF8DEA/apply",
@@ -356102,7 +356102,7 @@
         "company_name": "Raydar",
         "id": "c309ee14-24ef-4a66-a84c-519bf237fbbc",
         "title": "Electrical Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793313001,
         "date_posted": 1793312985,
         "url": "https://apply.workable.com/raydar/j/0D3603223F/apply",
@@ -356140,7 +356140,7 @@
         "company_name": "Raydar",
         "id": "beda6dce-9ed8-4470-86ab-3ba967612923",
         "title": "Growth Product Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1793313001,
         "date_posted": 1793312991,
         "url": "https://apply.workable.com/raydar/j/899876B20C/apply",
@@ -356215,7 +356215,7 @@
         "company_name": "Raydar",
         "id": "9b32e077-1014-4400-97fe-7645c3f3e997",
         "title": "Founding Software Engineer - AI Agents",
-        "active": true,
+        "active": false,
         "date_updated": 1793313001,
         "date_posted": 1793312988,
         "url": "https://apply.workable.com/raydar/j/F452EE23A1/apply",
@@ -356233,7 +356233,7 @@
         "company_name": "Raydar",
         "id": "6f37f842-3de1-4b15-8e19-34b89bf7b20e",
         "title": "Machine Learning Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793313001,
         "date_posted": 1793312993,
         "url": "https://apply.workable.com/raydar/j/B4B389F0C9/apply",
@@ -356289,7 +356289,7 @@
         "company_name": "Raydar",
         "id": "ba8a82aa-0dbf-4ab9-814f-116ede23f0b8",
         "title": "Founding Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793313001,
         "date_posted": 1793312990,
         "url": "https://apply.workable.com/raydar/j/C7935C65FF/apply",
@@ -373653,7 +373653,7 @@
         "company_name": "L3Harris Technologies",
         "id": "6f86c08f-7c17-4d30-9311-5400d161893c",
         "title": "Associate Electrical Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1794527683,
         "date_posted": 1794527521,
         "url": "https://jobs.l3harris.com/job/Cincinnati-Associate,-Electrical-Engineering-OH-45245/1450362900/?ats=successfactors",
@@ -376182,6 +376182,146 @@
             "Lone Tree, CO"
         ],
         "company_url": "https://simplify.jobs/c/Quanta-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "DLR Group",
+        "id": "720ede4f-6de1-46ec-87eb-bc9beaa1785b",
+        "title": "Smart Building Analyst 1",
+        "active": true,
+        "date_updated": 1794871463,
+        "date_posted": 1794864429,
+        "url": "https://job-boards.greenhouse.io/dlrgroup/jobs/5464779008",
+        "locations": [
+            "Chicago, IL",
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/DLR-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "PsiQuantum",
+        "id": "6f2876b4-d626-4e5b-b234-299c737ed7ed",
+        "title": "Photonics Test and Characterization Engineer",
+        "active": true,
+        "date_updated": 1794871441,
+        "date_posted": 1794850139,
+        "url": "https://www.psiquantum.com/apply?gh_jid=8205589003",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/PsiQuantum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Arrive Logistics",
+        "id": "187e3866-0138-455d-b76c-53f7fb1e4268",
+        "title": "Reporting Analyst 1",
+        "active": true,
+        "date_updated": 1794871488,
+        "date_posted": 1794871407,
+        "url": "https://jobs.lever.co/arrivelogistics/2e210f8b-51e3-4e61-9f43-79daca1cda91/apply",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Arrive-Logistics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ManTech",
+        "id": "ba5c5c84-8f73-4d59-9559-a55ddffd9c82",
+        "title": "Junior Software Developer",
+        "active": true,
+        "date_updated": 1794871081,
+        "date_posted": 1794870956,
+        "url": "https://mantech.avature.net/en_US/careers/JobDetail/67115",
+        "locations": [
+            "St Inigoes, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/ManTech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Legal 500",
+        "id": "c27bb00f-e95b-4918-b5c8-0551dad2f24f",
+        "title": "Research & Data Analyst",
+        "active": true,
+        "date_updated": 1794871081,
+        "date_posted": 1794787200,
+        "url": "https://jobs.ashbyhq.com/legal-500/d3830627-9262-4e89-8578-142a9562ccd3/application?embed=true",
+        "locations": [
+            "Leeds, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Legal-500",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Absolics",
+        "id": "3ba24240-cd53-48ec-bb4d-c4a7d232932b",
+        "title": "Production Automation Engineer",
+        "active": true,
+        "date_updated": 1794870944,
+        "date_posted": 1794862328,
+        "url": "https://job-boards.greenhouse.io/absolicsinc/jobs/4509348009",
+        "locations": [
+            "Covington, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Absolics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Blue Cross Blue Shield of Michigan",
+        "id": "7dc878bb-f892-42c9-abb4-a751b4676661",
+        "title": "Analyst Trainee - Data Analysis - Customer Service",
+        "active": true,
+        "date_updated": 1794870361,
+        "date_posted": 1794870218,
+        "url": "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15154",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Blue-Cross-Blue-Shield-Of-Michigan",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
