@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Intel",
-        "id": "36298ed2-5265-4467-a022-aec7cf070201",
-        "title": "DFT Design Engineer",
-        "active": false,
-        "date_updated": 1774133087,
-        "date_posted": 1774133087,
-        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/DFT-Design-Engineer_JR0281874",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intel",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "efefad06-3d89-4e54-938e-837b62d8d0a3",
@@ -355935,7 +355915,7 @@
         "company_name": "Raydar",
         "id": "76d5d2fb-6a28-4159-8fc6-bfde1e69edd6",
         "title": "Full Stack Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793313001,
         "date_posted": 1793312988,
         "url": "https://apply.workable.com/raydar/j/2EB8E9A042/apply",
@@ -355953,7 +355933,7 @@
         "company_name": "Raydar",
         "id": "7091a4f2-60c5-478f-b408-4819e922d483",
         "title": "Research Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1793313001,
         "date_posted": 1793312994,
         "url": "https://apply.workable.com/raydar/j/8F52198151/apply",
@@ -356327,7 +356307,7 @@
         "company_name": "Raydar",
         "id": "71a60768-fb86-4b4e-9f88-6f0979434591",
         "title": "AI Product Engineer / Forward Deployed Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793313001,
         "date_posted": 1793312985,
         "url": "https://apply.workable.com/raydar/j/31364F00E3/apply",
