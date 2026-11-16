@@ -1,60 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AbbVie",
-        "id": "69cef731-5b2b-4069-b674-196ca8b3b39f",
-        "title": "Vendor Master Data Analyst",
-        "active": false,
-        "date_updated": 1774055965,
-        "date_posted": 1774055965,
-        "url": "https://jobs.smartrecruiters.com/AbbVie/3743990012245626",
-        "locations": [
-            "Waukegan, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/AbbVie",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "2aee3072-9d60-46b2-8e0a-9e82147d8286",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1774055728,
-        "date_posted": 1774055728,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054436",
-        "locations": [
-            "Tunbridge Wells, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "2ae996f9-8b11-4e98-929c-aa4a47d4c466",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1774055606,
-        "date_posted": 1774055606,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054437",
-        "locations": [
-            "Workington, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "The Boeing Company",
         "id": "025b02c5-cfde-4516-a970-db1a620407a2",
@@ -4545,27 +4491,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Seagate Technology ",
-        "id": "caf1fb37-dfb0-4ec9-a61b-e7d8525dc522",
-        "title": "Data Scientist \u2013 GenAI & Autonomous Manufacturing Early Career",
-        "active": false,
-        "date_updated": 1774304208,
-        "date_posted": 1774055496,
-        "url": "https://seagatecareers.com/job/Bloomington-Data-Scientist-GenAI-&-Autonomous-Manufacturing-Early-Career-MN/1375513100/?ats=successfactors",
-        "locations": [
-            "Bloomington, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Seagate-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Philips",
         "id": "87eeda1a-48c8-4d13-96ec-035dde606e8c",
@@ -4623,28 +4548,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Stripe",
-        "id": "3f12b8ac-a406-4397-9458-ea07e6d144b3",
-        "title": "Product Manager",
-        "active": true,
-        "date_updated": 1774255374,
-        "date_posted": 1774055248,
-        "url": "https://stripe.com/jobs/search?gh_jid=7737124",
-        "locations": [
-            "Seattle, WA",
-            "SF",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Stripe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
