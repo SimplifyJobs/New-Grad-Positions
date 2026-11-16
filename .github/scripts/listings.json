@@ -322971,7 +322971,7 @@
         "company_name": "RTX",
         "id": "7e8c9ca7-9e96-4163-906a-8385d5103ba8",
         "title": "Production Support Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1791412922,
         "date_posted": 1791331200,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-PLANO-465--465-Independence-Pkwy--INDEPENDENCE/Production-Support-Engineer-I---Onsite_01876984",
@@ -369768,7 +369768,7 @@
         "company_name": "Rheem",
         "id": "2e6be3d8-f031-4b8c-9007-39d09012e826",
         "title": "Product Data Analyst 1",
-        "active": false,
+        "active": true,
         "date_updated": 1794352242,
         "date_posted": 1794352031,
         "url": "https://hdde.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/4581",
@@ -370192,7 +370192,7 @@
         "company_name": "Goldman Sachs",
         "id": "60ba5d46-1da9-4411-9d8c-797c4a1811f2",
         "title": "Software Engineer - Software Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1794353978,
         "date_posted": 1794351889,
         "url": "https://higher.gs.com/roles/188640",
@@ -376242,6 +376242,67 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Convex-Insurance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Unique",
+        "id": "2c3c2dfb-3211-41b2-90ef-c2472e6b2742",
+        "title": "Data Scientist - Wealth Graph",
+        "active": true,
+        "date_updated": 1794842641,
+        "date_posted": 1794834278,
+        "url": "https://unique.careers.hibob.com/jobs/e59dfdc2-da9d-4715-af0c-ed9512885d8d",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Unique",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "EOS IT Solutions",
+        "id": "5e3fe881-67d8-4f33-9b30-1d5f11ec0b21",
+        "title": "Graduate BI Developer",
+        "active": true,
+        "date_updated": 1794842281,
+        "date_posted": 1794833236,
+        "url": "https://eosits.com/company/careers/?gh_jid=8944397002",
+        "locations": [
+            "Banbridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/EOS-IT-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "American Express",
+        "id": "1f5243e7-418c-45e0-a517-5603c9d3eae6",
+        "title": "Campus Undergraduate Full-Time Engineer - Software Engineer 1",
+        "active": true,
+        "date_updated": 1794842101,
+        "date_posted": 1794841980,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016677",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
