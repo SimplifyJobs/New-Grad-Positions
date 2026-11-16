@@ -370718,7 +370718,7 @@
         "company_name": "Goldman Sachs",
         "id": "60ba5d46-1da9-4411-9d8c-797c4a1811f2",
         "title": "Software Engineer - Software Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1794353978,
         "date_posted": 1794351889,
         "url": "https://higher.gs.com/roles/188640",
@@ -376691,6 +376691,45 @@
             "Minneapolis, MN"
         ],
         "company_url": "https://simplify.jobs/c/Zuru",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AMS",
+        "id": "6bbdf60e-d9e3-4db2-ae28-9e16027401bc",
+        "title": "Data Science Associate",
+        "active": true,
+        "date_updated": 1794815187,
+        "date_posted": 1794815049,
+        "url": "https://ats.rippling.com/ams/jobs/26e20c0b-d1ba-4a4e-8a04-707855517f49",
+        "locations": [
+            "Manhattan, NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/AMS-Growth-Partner",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Edwards Health Care Services",
+        "id": "64a7d794-0649-4452-b5a6-a8339cd35893",
+        "title": "Programmer Analyst 3",
+        "active": true,
+        "date_updated": 1794814578,
+        "date_posted": 1793738172,
+        "url": "https://gemcorehealth.recruitee.com/o/programmer-analyst-iii-hybridonsite-position",
+        "locations": [
+            "Hudson, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Edwards-Health-Care-Services",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
