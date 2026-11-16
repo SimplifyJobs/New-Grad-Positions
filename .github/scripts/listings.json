@@ -233253,7 +233253,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -245731,7 +245731,7 @@
         "company_name": "Northrop Grumman",
         "id": "ceae13eb-b924-4361-af4e-095b72005dd5",
         "title": "Software Engineer - COR",
-        "active": true,
+        "active": false,
         "date_updated": 1787388061,
         "date_posted": 1787270400,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/Configurable-On-Board-Router--COR--Team---Software-Engineer--AHT-_R10247177",
@@ -347258,7 +347258,7 @@
         "company_name": "LexisNexis Risk Solutions",
         "id": "b5e38f93-270f-4bb5-ac95-6f7942c8fc57",
         "title": "Software Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1793025410,
         "date_posted": 1792972800,
         "url": "https://relx.wd3.myworkdayjobs.com/en-US/RiskSolutions/job/London-Wall/Tech-Accelerate-Graduate-Program---Software-Engineer_R119818",
@@ -354566,7 +354566,7 @@
         "company_name": "Fractile",
         "id": "d0e083de-4d52-4236-b975-3f1499d7fd40",
         "title": "Early Career SoC Architect",
-        "active": true,
+        "active": false,
         "date_updated": 1793284224,
         "date_posted": 1793232000,
         "url": "https://jobs.ashbyhq.com/fractile/70813816-3050-4100-944d-9de5c2c0fab0/application?embed=true",
@@ -370192,7 +370192,7 @@
         "company_name": "Goldman Sachs",
         "id": "60ba5d46-1da9-4411-9d8c-797c4a1811f2",
         "title": "Software Engineer - Software Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1794353978,
         "date_posted": 1794351889,
         "url": "https://higher.gs.com/roles/188640",
@@ -374361,7 +374361,7 @@
         "company_name": "Thoughtworks",
         "id": "c467ce94-cbcc-46f7-9a47-5673ae132895",
         "title": "Graduate Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1794582766,
         "date_posted": 1793232000,
         "url": "https://jobs.ashbyhq.com/c898d712-c4ab-4157-954a-5df226a781e2/aff64320-4e2f-41b5-bbdf-7aed82751dd0/application?embed=true",
@@ -376303,6 +376303,67 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "JP Morgan Chase",
+        "id": "3d0e17c0-6646-49d5-be65-42ed200d1bae",
+        "title": "Securities Valuation Analyst - PricingDirect - Securitized Products Group",
+        "active": true,
+        "date_updated": 1794844470,
+        "date_posted": 1794844385,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210809457",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Innodata",
+        "id": "ee93fa62-aedd-4e6f-978e-0c43e44df3b6",
+        "title": "AI Voice Evaluation Specialist",
+        "active": true,
+        "date_updated": 1794843181,
+        "date_posted": 1794841573,
+        "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4508284009",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Innodata",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Quanta Services",
+        "id": "a694b265-26fe-4fce-bd73-fc51114ffeb2",
+        "title": "Business Analyst",
+        "active": true,
+        "date_updated": 1794843001,
+        "date_posted": 1794787200,
+        "url": "https://careers2-quanta.icims.com/jobs/20046/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Lone Tree, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Quanta-Services",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
