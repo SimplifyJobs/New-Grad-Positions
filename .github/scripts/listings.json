@@ -4281,26 +4281,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Philips",
-        "id": "87eeda1a-48c8-4d13-96ec-035dde606e8c",
-        "title": "Full Time \u2013 Field Engineer Program - Field Service Engineer",
-        "active": false,
-        "date_updated": 1774090452,
-        "date_posted": 1774090452,
-        "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Toronto/Full-Time---Field-Engineer-Program--Field-Service-Engineer--Toronto--ON---July-2026_578437",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Philips",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "L3Harris Technologies",
         "id": "22995c8b-eaa0-44a6-aba6-fcb0ef65ed86",
         "title": "Manufacturing Technician B",
@@ -4755,27 +4735,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GE Healthcare",
-        "id": "31d9ad06-8a2d-4a0e-9431-529da6203548",
-        "title": "Field Engineer 1",
-        "active": false,
-        "date_updated": 1774089409,
-        "date_posted": 1774089409,
-        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/FE-1-Bloomington--Illinois_R4037216-1",
-        "locations": [
-            "Normal, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Healthcare",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
         ]
     },
     {
@@ -6510,26 +6469,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Northrop Grumman",
-        "id": "ffaf10a2-1e0e-4f8b-92f9-6fe0cf3b8c4d",
-        "title": "Associate Software Developer - Aht",
-        "active": false,
-        "date_updated": 1774521687,
-        "date_posted": 1774090347,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Nebraska-Bellevue/Associate-Software-Developer--AHT-_R10226770",
-        "locations": [
-            "Offutt AFB, NE"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -342341,7 +342280,7 @@
         "company_name": "Welo Global",
         "id": "b2f27b97-8005-4635-9891-d7ba929f9640",
         "title": "Search Quality Rater - Simplified Chinese",
-        "active": true,
+        "active": false,
         "date_updated": 1792748114,
         "date_posted": 1783202823,
         "url": "https://jobs.lever.co/weloglobal/5f0be8bd-00a7-462a-b339-d28ecc292813/apply",
@@ -357439,7 +357378,7 @@
         "company_name": "Frazer-Nash Consultancy",
         "id": "b444ca13-c9b4-4176-8cad-9c221305e515",
         "title": "Data Science and Software Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1793399077,
         "date_posted": 1793398885,
         "url": "https://apply.workable.com/frazer-nash-15/j/37A3E1F4E3/apply",
@@ -372274,7 +372213,7 @@
         "company_name": "Boeing",
         "id": "81315681-6dd1-4be6-b44a-b38bc073ce53",
         "title": "Embedded Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1794440526,
         "date_posted": 1794355200,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Long-Beach-CA/Embedded-Software-Engineer_JR2026529493",
@@ -375883,7 +375822,7 @@
         "company_name": "Shield AI",
         "id": "c8035f9a-6e11-496d-9a68-71471e6d4515",
         "title": "Staff Technician - Hardware Test",
-        "active": true,
+        "active": false,
         "date_updated": 1794652561,
         "date_posted": 1793577600,
         "url": "https://jobs.ashbyhq.com/shield/c2edad52-02ed-4e70-9aea-a56b18a8452f/application?embed=true",
@@ -376473,6 +376412,26 @@
             "Belfast, UK"
         ],
         "company_url": "https://simplify.jobs/c/Instil-Software-Ltd",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Convex Insurance",
+        "id": "ccd6257e-1f03-4d37-9425-421ce95b805c",
+        "title": "Graduate Operations Analyst - Data Quality",
+        "active": true,
+        "date_updated": 1794826287,
+        "date_posted": 1791471847,
+        "url": "https://convexin.pinpointhq.com/en/postings/36c3f82a-c462-4962-9650-62308e301a28?ats=pinpointhq",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Convex-Insurance",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
