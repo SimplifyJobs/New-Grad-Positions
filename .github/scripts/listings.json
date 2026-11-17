@@ -213766,7 +213766,7 @@
         "company_name": "Enovation Controls LLC",
         "id": "847d42b3-a0ec-4b57-95c8-7558f4a3cb8d",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1786083841,
         "date_posted": 1778720124,
         "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4168933",
@@ -325699,7 +325699,7 @@
         "company_name": "Neko Health",
         "id": "6e897997-a7ad-4009-81c2-f212cc529355",
         "title": "AI Acceleration Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1791585195,
         "date_posted": 1791584796,
         "url": "https://jobs.ashbyhq.com/neko-health/05f68d15-22d1-4e53-8b43-683467e79f4d/application?embed=true",
@@ -350645,7 +350645,7 @@
         "company_name": "Shield AI",
         "id": "797cabf2-d3af-4a36-82e0-5a51bfa2b71e",
         "title": "Engineer 1 New Grad - Electrical Integration & Test",
-        "active": true,
+        "active": false,
         "date_updated": 1793167940,
         "date_posted": 1792540800,
         "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/278bdf33-85f0-49ab-a448-567e7e362ca2/application?embed=true",
@@ -369982,7 +369982,7 @@
         "company_name": "Shield AI",
         "id": "a30d1d5c-8782-400c-b224-073781eec8ae",
         "title": "Engineer 1 New Grad - Electrical Integration & Test",
-        "active": true,
+        "active": false,
         "date_updated": 1794362946,
         "date_posted": 1792540800,
         "url": "https://jobs.ashbyhq.com/shield/278bdf33-85f0-49ab-a448-567e7e362ca2/application?embed=true",
@@ -371922,7 +371922,7 @@
         "company_name": "Shield AI",
         "id": "8317de49-cf07-44e3-9ff1-0de4a824662a",
         "title": "Engineer 2 New Grad - Software - Perception",
-        "active": false,
+        "active": true,
         "date_updated": 1794450258,
         "date_posted": 1794355200,
         "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7/application?embed=true",
@@ -372009,7 +372009,7 @@
         "company_name": "Shield AI",
         "id": "735965af-ac15-473a-a2ef-8a15ab46f590",
         "title": "Engineer 2 New Grad - Software - Perception",
-        "active": false,
+        "active": true,
         "date_updated": 1794452054,
         "date_posted": 1794355200,
         "url": "https://jobs.ashbyhq.com/shield/2aa92f37-7e2f-4c12-9f2c-1316e1a743a7/application?embed=true",
@@ -376843,6 +376843,110 @@
             "Remote in UK"
         ],
         "company_url": "https://simplify.jobs/c/Envitia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Inspired Flight Technologies",
+        "id": "c982e8db-ff55-46bc-b087-4b56ec74d8fc",
+        "title": "Electrical Engineer 1 / 2",
+        "active": true,
+        "date_updated": 1794910360,
+        "date_posted": 1794910176,
+        "url": "https://inspiredflight.bamboohr.com/careers/65/",
+        "locations": [
+            "San Luis Obispo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Inspired-Flight-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tantalus Systems",
+        "id": "93f9b047-f6f8-4395-b3ea-64b83413eef4",
+        "title": "Analytics Engineer",
+        "active": true,
+        "date_updated": 1794910322,
+        "date_posted": 1794910243,
+        "url": "https://tantalussystems.bamboohr.com/careers/196/",
+        "locations": [
+            "Burnaby, BC, Canada",
+            "Raleigh, NC",
+            "Chattanooga, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Tantalus-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tantalus Systems",
+        "id": "9225dc11-eb16-486f-b337-4b8f8611ef0c",
+        "title": "Analytics Engineer",
+        "active": true,
+        "date_updated": 1794910322,
+        "date_posted": 1794910244,
+        "url": "https://tantalussystems.bamboohr.com/careers/194/",
+        "locations": [
+            "Burnaby, BC, Canada",
+            "Raleigh, NC",
+            "Chattanooga, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Tantalus-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tantalus Systems",
+        "id": "a0c01350-8a5a-48fa-bfbf-06862b1a51ad",
+        "title": "Analytics Engineer",
+        "active": true,
+        "date_updated": 1794910322,
+        "date_posted": 1794910244,
+        "url": "https://tantalussystems.bamboohr.com/careers/195/",
+        "locations": [
+            "Burnaby, BC, Canada",
+            "Raleigh, NC",
+            "Chattanooga, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Tantalus-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TriMark Digital",
+        "id": "086a2af2-3582-4c6d-a296-1ceed0bfa9f2",
+        "title": "AI Product & Automation Specialist",
+        "active": true,
+        "date_updated": 1794910156,
+        "date_posted": 1794910006,
+        "url": "https://trimark.bamboohr.com/careers/151/",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/TriMark-Digital",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
