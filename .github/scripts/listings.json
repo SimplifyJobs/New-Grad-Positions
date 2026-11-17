@@ -313471,7 +313471,7 @@
         "company_name": "Microsoft",
         "id": "b4e7a187-9537-4e72-8b27-c8d54faf0118",
         "title": "Software Engineering - Commercial Engineering & AI - Ceai",
-        "active": true,
+        "active": false,
         "date_updated": 1791108236,
         "date_posted": 1789425238,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
@@ -335987,7 +335987,7 @@
         "company_name": "Mendix",
         "id": "b8b208fc-1a24-46b3-a41b-b69249a8b359",
         "title": "Intelligence Center X Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792488421,
         "date_posted": 1792488317,
         "url": "https://jobs.lever.co/mendix/3be1cbcf-1ab4-4309-a764-2c336d1f7f37/apply",
@@ -356985,7 +356985,7 @@
         "company_name": "BlackLine",
         "id": "73292424-f766-4523-9adf-574b6dcc5a53",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793398147,
         "date_posted": 1793318400,
         "url": "https://blackline.wd108.myworkdayjobs.com/BlackLineCareers/job/Toronto/Associate-Software-Engineer_002014",
@@ -358824,7 +358824,7 @@
         "company_name": "THG Ingenuity",
         "id": "4e85d37b-ff0e-4de1-b619-cf8ea6ac1e74",
         "title": "Graduate / Junior Data Scientist",
-        "active": false,
+        "active": true,
         "date_updated": 1793633042,
         "date_posted": 1789391564,
         "url": "https://job-boards.eu.greenhouse.io/thgingenuity/jobs/4975587101",
@@ -366736,7 +366736,7 @@
         "company_name": "Shield AI",
         "id": "cb9057c1-ead7-42d2-8535-e6ee376a8005",
         "title": "Software Engineer 1 New Grad - Software - Autonomy Capabilities",
-        "active": false,
+        "active": true,
         "date_updated": 1794180471,
         "date_posted": 1794096000,
         "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true",
@@ -369019,7 +369019,7 @@
         "company_name": "Cox Automotive",
         "id": "6d65d71a-c89b-41ea-a76a-4d4f43b82d7e",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1794353288,
         "date_posted": 1794268800,
         "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I---19025_R202684623",
@@ -370166,7 +370166,7 @@
         "company_name": "Shield AI",
         "id": "b66fea62-a88a-49b8-b4b3-8a1e383f3a74",
         "title": "Software Engineer 1 New Grad - Software - Autonomy Capabilities",
-        "active": false,
+        "active": true,
         "date_updated": 1794362905,
         "date_posted": 1794096000,
         "url": "https://jobs.ashbyhq.com/shield/955d48ad-9380-4621-91f4-51f3f093ac10/application?embed=true",
@@ -376950,5 +376950,150 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Gentec",
+        "id": "e8e09002-9fef-4810-a845-506da9015991",
+        "title": "Junior Software Designer",
+        "active": true,
+        "date_updated": 1794912357,
+        "date_posted": 1794912308,
+        "url": "https://gentec.bamboohr.com/careers/31/",
+        "locations": [
+            "Qu\u00e9bec City, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Gentec",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "FSP",
+        "id": "2eeaf899-7a03-48cc-bac4-923fadf3aace",
+        "title": "Graduate Software Developer",
+        "active": true,
+        "date_updated": 1794912311,
+        "date_posted": 1794912191,
+        "url": "https://fsp.bamboohr.com/careers/322/",
+        "locations": [
+            "Glasgow, UK",
+            "Reading, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/FSP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "FSP",
+        "id": "28965fd6-c62b-40e3-bfd8-db8f0bb6d15e",
+        "title": "Graduate AI Consultant",
+        "active": true,
+        "date_updated": 1794912311,
+        "date_posted": 1794912190,
+        "url": "https://fsp.bamboohr.com/careers/329/",
+        "locations": [
+            "Glasgow, UK",
+            "Reading, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/FSP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "FSP",
+        "id": "011b0d29-c1d9-49e7-b6f2-74ed78ae4880",
+        "title": "Graduate Data Consultant",
+        "active": true,
+        "date_updated": 1794912352,
+        "date_posted": 1794912191,
+        "url": "https://fsp.bamboohr.com/careers/328/",
+        "locations": [
+            "Glasgow, UK",
+            "Reading, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/FSP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Welo Global",
+        "id": "7b824aee-b73d-4d17-a5b0-eba4689344dc",
+        "title": "Video and Audio Raters - English",
+        "active": true,
+        "date_updated": 1794911437,
+        "date_posted": 1794911230,
+        "url": "https://jobs.lever.co/weloglobal/d78f3ff9-8d1d-452b-9981-2a6302c46b3b/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Welo-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Texas Instruments",
+        "id": "d1026406-9127-467a-89f0-9f4ac1302c9f",
+        "title": "Failure Analysis Engineer",
+        "active": true,
+        "date_updated": 1794912517,
+        "date_posted": 1794008695,
+        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25015887",
+        "locations": [
+            "Lehi, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-Instruments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Texas Instruments",
+        "id": "b35e7402-36e2-4c9f-8917-2e554666f5a2",
+        "title": "Layout Designer",
+        "active": true,
+        "date_updated": 1794911791,
+        "date_posted": 1793661129,
+        "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/25019248",
+        "locations": [
+            "Dallas, TX",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-Instruments",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's",
+            "Certificate"
+        ]
     }
 ]
