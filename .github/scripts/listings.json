@@ -131084,7 +131084,7 @@
         "company_name": "S&P Global ",
         "id": "4c9828a5-d43f-4bc8-acc8-f18921966890",
         "title": "Market Risk Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1782425405,
         "date_posted": 1782425028,
         "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/London-UK/Market-Risk--Product--Analyst_329916",
@@ -145482,7 +145482,7 @@
         "company_name": "Everfox",
         "id": "5b51e676-8b92-4a35-a771-c5e6ce70e43c",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1783348324,
         "date_posted": 1783347131,
         "url": "https://evergreenix.wd1.myworkdayjobs.com/external-careers2/job/GBR_WS_Malvern/Software-Engineer-I_JR500693-1",
@@ -216630,7 +216630,7 @@
         "company_name": "UBDS Group",
         "id": "4f68b635-7be5-445f-aaac-a9387cb64385",
         "title": "Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1786151881,
         "date_posted": 1786151821,
         "url": "https://apply.workable.com/ubds/j/3E4DD87355/apply",
@@ -311887,7 +311887,7 @@
         "company_name": "Harvey",
         "id": "5993eb6e-3414-429f-86b9-dd467b9ddd1d",
         "title": "Software Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1790980993,
         "date_posted": 1790979915,
         "url": "https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc/application?embed=true",
@@ -366623,7 +366623,7 @@
         "company_name": "Northwood Space",
         "id": "45834bcf-a003-4ba2-84d2-aadffde847a4",
         "title": "Electrical Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1794017567,
         "date_posted": 1794009600,
         "url": "https://jobs.ashbyhq.com/NorthwoodSpace/ca73b132-2264-4649-ad83-73ea3e69fe5d/application?embed=true",
@@ -367118,7 +367118,7 @@
         "company_name": "Tesco",
         "id": "43496f04-aeb1-4310-88db-f32b55cca837",
         "title": "Data Scientist - Simulation & Digital Twins",
-        "active": true,
+        "active": false,
         "date_updated": 1794239461,
         "date_posted": 1794239341,
         "url": "https://tesco.avature.net/en_GB/careers/JobDetail/210371",
@@ -367156,7 +367156,7 @@
         "company_name": "Adidas",
         "id": "51d76cb5-4b77-4d0e-a6cd-60ff7074a388",
         "title": "Business Insights New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1794239356,
         "date_posted": 1794239142,
         "url": "https://jobs.adidas-group.com/job/Stockport-BUSINESS-INSIGHTS-GRADUATE-2027-MANCHESTER/1455581533/?ats=successfactors",
@@ -375601,7 +375601,7 @@
         "company_name": "Johnson Controls",
         "id": "45a2526c-381b-4e2e-95c9-cf132d4dea09",
         "title": "Nextgen Software Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1794698137,
         "date_posted": 1794528000,
         "url": "https://jci.wd5.myworkdayjobs.com/JCI_Confidential/job/Glendale-Wisconsin-United-States-of-America/NextGen-Software-Engineer_WD30279373-2",
@@ -376552,6 +376552,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AMD",
+        "id": "cc25dde6-f879-43a3-976f-e184d8620ca7",
+        "title": "Silicon Design Engineer",
+        "active": true,
+        "date_updated": 1794881163,
+        "date_posted": 1794873840,
+        "url": "https://careers.amd.com/jobs/95823?icims=1&lang=en-us",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/AMD",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
