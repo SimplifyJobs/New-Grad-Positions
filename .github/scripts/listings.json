@@ -4091,28 +4091,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Thales",
-        "id": "f56e0913-e68e-4e3a-9633-4063a7980b06",
-        "title": "Embedded Software Research Engineer",
-        "active": false,
-        "date_updated": 1774143705,
-        "date_posted": 1774143705,
-        "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Reading/Junior-Embedded-Software-Research-Engineer_R0301491-2",
-        "locations": [
-            "Reading, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Thales",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Freedom Technology Solutions Group",
         "id": "de2dabaf-389f-4f67-bf9d-1414cfa393fe",
@@ -289354,7 +289332,7 @@
         "company_name": "Super Micro Computer",
         "id": "2b21a21e-b388-48a6-b976-8e1e8d63ea76",
         "title": "Power DC-DC Hardware Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1789089211,
         "date_posted": 1789088974,
         "url": "https://jobs.supermicro.com/job/San-Jose-Hardware-Design-Engineer-Cali/1428831000/?ats=successfactors",
