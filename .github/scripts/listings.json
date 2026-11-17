@@ -70614,7 +70614,7 @@
         "company_name": "Honeywell",
         "id": "e5120578-f019-43c6-9320-1c5f4685d5d8",
         "title": "Embedded Engineer 1 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1778708501,
         "date_posted": 1778623547,
         "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/140055",
@@ -233071,7 +233071,7 @@
         "company_name": "Goldman Sachs",
         "id": "ebecfe1f-3890-4cf8-8663-d7b118197e24",
         "title": "New Analyst - Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1786806911,
         "date_posted": 1786767937,
         "url": "https://higher.gs.com/roles/171569?type=students",
@@ -264037,7 +264037,7 @@
         "company_name": "WisdomTree",
         "id": "8c9206af-791c-43de-a648-2e50a3be300b",
         "title": "AI Solutions Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1788401529,
         "date_posted": 1788401513,
         "url": "https://jobs.lever.co/wisdomtree/621718c3-779f-4e9c-9681-be75dafc427e/apply",
@@ -281368,7 +281368,7 @@
         "company_name": "Wachter",
         "id": "ecc381e3-c967-4ac1-87a4-8bacaef3c518",
         "title": "Audio Visual Staging and Configuration Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1788522749,
         "date_posted": 1785794814,
         "url": "https://jobs.lever.co/wachter/5a23a293-dff8-4013-b152-a7d5c9118668/apply",
@@ -294149,7 +294149,7 @@
         "company_name": "Charles Schwab",
         "id": "d6e19b01-22aa-46ab-a8b0-95bb1092f446",
         "title": "Associate Java Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1789510983,
         "date_posted": 1789510088,
         "url": "https://career-schwab.icims.com/jobs/126708/job?mobile=true&needsRedirect=false",
@@ -296306,7 +296306,7 @@
         "company_name": "Decagon",
         "id": "eb717389-3150-4f85-8d1c-5a85b13eea1d",
         "title": "Member of Technical Staff New Grad - 2027 Start",
-        "active": true,
+        "active": false,
         "date_updated": 1789599267,
         "date_posted": 1789597393,
         "url": "https://jobs.ashbyhq.com/decagon/a8ff946f-d6b1-4059-bc9f-fe6b11504f2f/application?embed=true",
@@ -308821,7 +308821,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "8241dd7c-e911-4078-85d3-5095ff275c0d",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1790778048,
         "date_posted": 1790777682,
         "url": "https://careers-gdms.icims.com/jobs/75205/job?mobile=true&needsRedirect=false",
@@ -355782,7 +355782,7 @@
         "company_name": "Raydar",
         "id": "ccbad166-ed29-434d-8d0e-eff6be00e081",
         "title": "Applied AI Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793313001,
         "date_posted": 1793312985,
         "url": "https://apply.workable.com/raydar/j/89F1DF6904/apply",
@@ -355989,7 +355989,7 @@
         "company_name": "Raydar",
         "id": "e11c9e14-dd3e-4850-85fd-d8ae8e81d0e3",
         "title": "Hardware Embedded Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793313001,
         "date_posted": 1793312990,
         "url": "https://apply.workable.com/raydar/j/69354E1C00/apply",
@@ -356084,7 +356084,7 @@
         "company_name": "Raydar",
         "id": "ed53caa1-ded9-414a-9867-67d067689f25",
         "title": "Founding Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793313001,
         "date_posted": 1793312988,
         "url": "https://apply.workable.com/raydar/j/61ED3CA042/apply",
@@ -358566,7 +358566,7 @@
         "company_name": "NVIDIA",
         "id": "b059b2c4-f2e1-4658-a9f6-bb084462f46f",
         "title": "ASIC Verification Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1793446936,
         "date_posted": 1790553600,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-TX-Austin/ASIC-Verification-Engineer---New-College-Grad-2027_JR2026343",
@@ -359229,7 +359229,7 @@
         "company_name": "Phlo",
         "id": "ee9c6075-0a08-4dbf-83ca-218f932bd79e",
         "title": "Junior Product Owner",
-        "active": true,
+        "active": false,
         "date_updated": 1793633762,
         "date_posted": 1793621545,
         "url": "https://phlo.careers.hibob.com/jobs/0ac8f855-d719-4d6e-a74c-8a100d7e0cb3",
@@ -376322,6 +376322,290 @@
             "Detroit, MI"
         ],
         "company_url": "https://simplify.jobs/c/Blue-Cross-Blue-Shield-Of-Michigan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TricorBraun",
+        "id": "4860a106-027d-45e0-8b46-2a7285c11641",
+        "title": "Product Data Associate",
+        "active": true,
+        "date_updated": 1794873242,
+        "date_posted": 1793059200,
+        "url": "https://tricorbraun.wd115.myworkdayjobs.com/careers/job/Chicago-DE/Data-Analyst-Associate_R-101875",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/TricorBraun",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SAM",
+        "id": "b00805b0-7d51-4f9e-ab9a-b30cdafb7294",
+        "title": "Lidar Technician 1",
+        "active": true,
+        "date_updated": 1794873288,
+        "date_posted": 1794858600,
+        "url": "https://careers.sam.biz/jobs/8253?icims=1&lang=en-us",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/SAM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Silna Health",
+        "id": "cb7f4a74-22dc-4d4d-9e2b-545993a511a8",
+        "title": "AI Deployment Analyst",
+        "active": true,
+        "date_updated": 1794872881,
+        "date_posted": 1794787200,
+        "url": "https://jobs.ashbyhq.com/silnahealth.com/61222b3c-70fd-4e80-8903-468d96070833/application?embed=true",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Silna-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fortinet",
+        "id": "333b9ad5-4fc1-4f10-98d9-51e89662d322",
+        "title": "Embedded Software Engineer - Early Careers",
+        "active": true,
+        "date_updated": 1794872912,
+        "date_posted": 1794872784,
+        "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24969",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fortinet",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fortinet",
+        "id": "1efbbe00-3419-4e1e-8db8-ae31e660ddbc",
+        "title": "Early Careers: Software Engineer",
+        "active": true,
+        "date_updated": 1794872881,
+        "date_posted": 1794872784,
+        "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24960",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fortinet",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Z1 Tech",
+        "id": "db760eeb-1dca-424c-9880-1d786564b04a",
+        "title": "Drone Building & Assembly Assistant",
+        "active": true,
+        "date_updated": 1794872701,
+        "date_posted": 1794872552,
+        "url": "https://jobs.lever.co/z1tech/bb973c83-4401-4c7f-bee5-3adc58ba1a74/apply",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Z1-Tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Axon",
+        "id": "e7c5babf-f308-4d76-9e86-5e8063b5f0ad",
+        "title": "Hardware Validation Automation Analyst 1",
+        "active": true,
+        "date_updated": 1794872223,
+        "date_posted": 1794866178,
+        "url": "https://job-boards.greenhouse.io/axon/jobs/8201576003",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Axon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CrossCountry Consulting",
+        "id": "e516341f-94fb-46d4-acbf-424091977db5",
+        "title": "Junior Forward Deployed Software Engineer",
+        "active": true,
+        "date_updated": 1794872025,
+        "date_posted": 1794871977,
+        "url": "https://jobs.lever.co/crosscountry-consulting/5f8a920b-77ed-4200-b37d-1f5d68c1bc21/apply",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/CrossCountry-Consulting",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CrossCountry Consulting",
+        "id": "b8d5facb-1c08-4c2f-b1e4-6d803ca1e682",
+        "title": "Junior Forward Deployed Software Engineer",
+        "active": true,
+        "date_updated": 1794872027,
+        "date_posted": 1794871977,
+        "url": "https://jobs.lever.co/crosscountry-consulting/dc96666d-77b0-4bc8-b209-a0b9250324a0/apply",
+        "locations": [
+            "Georgia"
+        ],
+        "company_url": "https://simplify.jobs/c/CrossCountry-Consulting",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CrossCountry Consulting",
+        "id": "240c8b54-b581-4a55-8ff5-c992035db71d",
+        "title": "Junior Forward Deployed Software Engineer",
+        "active": true,
+        "date_updated": 1794872032,
+        "date_posted": 1794871977,
+        "url": "https://jobs.lever.co/crosscountry-consulting/80bd96d8-b824-40ef-9cfe-01860583c4fe/apply",
+        "locations": [
+            "McLean, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CrossCountry-Consulting",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Symbotic",
+        "id": "69f5a8df-73e6-472d-b6d0-048a78eb3197",
+        "title": "Software Engineer - Core Systems & Platform Services",
+        "active": true,
+        "date_updated": 1794871801,
+        "date_posted": 1794787200,
+        "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Software-Engineer--Core-Systems---Platform-Services_R8392",
+        "locations": [
+            "Wilmington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Symbotic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Microsoft",
+        "id": "89e4ecd6-c458-4f6b-9022-33c0b81a8a6b",
+        "title": "Physical Design Engineer",
+        "active": true,
+        "date_updated": 1794871834,
+        "date_posted": 1794871655,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557070650",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Microsoft",
+        "id": "e225362a-3608-44aa-ae93-8c06b023ccd7",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1794871826,
+        "date_posted": 1794871653,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557074534",
+        "locations": [
+            "Remote in USA",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GHD",
+        "id": "bff455d1-b0e0-4a6a-8c63-08d5882fc38d",
+        "title": "Graduate Developer",
+        "active": true,
+        "date_updated": 1794871801,
+        "date_posted": 1794871735,
+        "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/29481",
+        "locations": [
+            "Farmington Hills, MI",
+            "King of Prussia, PA",
+            "Houston, TX",
+            "Dallas, TX",
+            "Rosemont, IL",
+            "Golden, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/GHD",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
