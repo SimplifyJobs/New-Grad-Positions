@@ -304012,7 +304012,7 @@
         "company_name": "ABB",
         "id": "d60aa1f1-7edf-4114-8ff6-293dff4175b4",
         "title": "Manufacturing Systems Engineer - Applications Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1790262361,
         "date_posted": 1783166699,
         "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Stonehouse-Gloucestershire-United-Kingdom/Manufacturing-Systems-Engineer---Applications-Specialist_JR00036050",
@@ -376714,6 +376714,128 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Joy Baking Group",
+        "id": "f3ce5b57-c912-400a-9320-e837fda505df",
+        "title": "Data Analytics Engineer",
+        "active": true,
+        "date_updated": 1794900246,
+        "date_posted": 1790553600,
+        "url": "https://careers-joybakinggroup.icims.com/jobs/1472/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Hermitage, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Joy-Baking-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Context Labs",
+        "id": "d9f6c287-7df3-4748-9a8a-87c8f7c2cafb",
+        "title": "Data Scientist - Energy (Oil & Gas)",
+        "active": true,
+        "date_updated": 1794900246,
+        "date_posted": 1794900157,
+        "url": "https://contextlabs.bamboohr.com/careers/187/",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Context-Labs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Senstar",
+        "id": "bc32dce0-623b-4453-a722-d1334b981b58",
+        "title": "Machine Learning Developer",
+        "active": true,
+        "date_updated": 1794899884,
+        "date_posted": 1794899818,
+        "url": "https://senstar.bamboohr.com/careers/183/",
+        "locations": [
+            "Waterloo, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Senstar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Wavelynx",
+        "id": "6cafda24-d41c-4e73-be08-1909655e4d75",
+        "title": "RMA Technician",
+        "active": true,
+        "date_updated": 1794899537,
+        "date_posted": 1794899364,
+        "url": "https://wavelynx.bamboohr.com/careers/78/",
+        "locations": [
+            "Broomfield, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Wavelynx",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "NV5 Global",
+        "id": "60c28da3-9bbb-4e44-8d5b-488be30460ae",
+        "title": "Associate Technician",
+        "active": true,
+        "date_updated": 1794899524,
+        "date_posted": 1792454400,
+        "url": "https://uscareers-nv5jobs.icims.com/jobs/25768/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Corvallis, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/NV5-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "All Options",
+        "id": "b3f04cf5-0577-4553-9fe1-4f87f8db62b8",
+        "title": "Graduate Quantitative Researcher",
+        "active": true,
+        "date_updated": 1794899164,
+        "date_posted": 1794899057,
+        "url": "https://alloptions.bamboohr.com/careers/86/",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/All-Options",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
