@@ -356970,7 +356970,7 @@
         "company_name": "RTI International",
         "id": "d56cc19f-886c-4018-82d6-852700f3065d",
         "title": "Early-Career Marketing Intelligence Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1793398682,
         "date_posted": 1793371980,
         "url": "https://careers.rti.org/jobs/13685?icims=1",
@@ -372276,7 +372276,7 @@
         "company_name": "RTX",
         "id": "84233195-c78a-453a-b511-5847d39d555b",
         "title": "Associate Software Engineer 1 - CDS / Engine System Software",
-        "active": true,
+        "active": false,
         "date_updated": 1794469356,
         "date_posted": 1794355200,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Associate-Software-Engineer-I---CDS---Engine-System-Software--Onsite-_01884197",
@@ -376837,5 +376837,122 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Kraun Electric",
+        "id": "d1eb1835-b3a8-4b81-b754-d7ce73824f78",
+        "title": "Junior Software Developer",
+        "active": true,
+        "date_updated": 1794902292,
+        "date_posted": 1794902183,
+        "url": "https://kraunelectric.bamboohr.com/careers/98/",
+        "locations": [
+            "St. Catharines, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Kraun-Electric",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ceox",
+        "id": "7f2961f6-f10f-4069-9a3e-eaf45f42ba2b",
+        "title": "Graduate Data & Analytics Consultant",
+        "active": true,
+        "date_updated": 1794902048,
+        "date_posted": 1794902044,
+        "url": "https://ceox.bamboohr.com/careers/88/",
+        "locations": [
+            "Guildford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Ceox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Fantom",
+        "id": "ae1ec61d-333f-47da-8b9c-8bf931b6d07b",
+        "title": "Software Engineer Level 0",
+        "active": true,
+        "date_updated": 1794901502,
+        "date_posted": 1794901487,
+        "url": "https://jobs.lever.co/fantom-corporation/814d8302-21a4-420c-90d2-925644524af7/apply",
+        "locations": [
+            "Hanover, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Fantom",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Augurian",
+        "id": "3e1f4ef6-4325-4bd1-9fa4-f048a7c95281",
+        "title": "Analyst \u2013 Analytics",
+        "active": true,
+        "date_updated": 1794901502,
+        "date_posted": 1794901372,
+        "url": "https://augurian.bamboohr.com/careers/73/",
+        "locations": [
+            "St Paul, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Augurian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Flexspring",
+        "id": "0bf4cae8-4a3d-4d82-9311-227e8a099564",
+        "title": "AI Model Training and Deployment Developer New Grad",
+        "active": true,
+        "date_updated": 1794901165,
+        "date_posted": 1794901132,
+        "url": "https://flexspring.bamboohr.com/careers/71/",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Flexspring",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Envitia",
+        "id": "2c3cb4b4-cc02-4358-ae49-4aafcc5218cd",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1794901142,
+        "date_posted": 1794901014,
+        "url": "https://envitia.bamboohr.com/careers/187/",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Envitia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
