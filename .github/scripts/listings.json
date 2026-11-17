@@ -117560,7 +117560,7 @@
         "company_name": "TikTok",
         "id": "bb7aa421-4cfb-4baa-9fc0-bea49fa9b593",
         "title": "CV/NLP/Multimodal Large Language Models Machine Learning Engineer Graduate - Tiktok-Trust and Safety",
-        "active": true,
+        "active": false,
         "date_updated": 1781504958,
         "date_posted": 1781503888,
         "url": "https://lifeattiktok.com/search/7517107684337748242",
@@ -305416,7 +305416,7 @@
         "company_name": "HumanSignal",
         "id": "ac0c8721-2392-4dcf-8e91-1a09095f52d6",
         "title": "Field Data Collection Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1790376304,
         "date_posted": 1790375080,
         "url": "https://job-boards.greenhouse.io/humansignal/jobs/6208927004",
@@ -306663,7 +306663,7 @@
         "company_name": "RTX",
         "id": "c26dbb43-0dc8-46a2-9570-58074dec9a76",
         "title": "Systems Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1790699838,
         "date_posted": 1789344000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB2--50-Apple-Hill-Dr--SUDBURY-BLDG-Tewksbury-Tb2-200-Sudbury/Systems-Engineer-I--Onsite_01874571",
@@ -325290,7 +325290,7 @@
         "company_name": "Applied Materials",
         "id": "bd560af3-c9e1-48d9-bd21-769ee1f62e1b",
         "title": "Systems Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791584109,
         "date_posted": 1791504000,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Systems-Engineer--New-College-Grad--Bachelor-s-Master-s--Santa-Clara--CA-_R2629143",
@@ -361371,7 +361371,7 @@
         "company_name": "MSA Safety",
         "id": "9e33637f-f543-4b41-abf9-d8f6c4c8ffea",
         "title": "Embedded Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793786761,
         "date_posted": 1786680161,
         "url": "https://careers.msasafety.com/jobs/10038?icims=1",
@@ -377044,5 +377044,119 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "InterImage",
+        "id": "9d85e1dd-dd78-4128-9da0-f6f57c3ab6bf",
+        "title": "Software Engineer Level 0",
+        "active": true,
+        "date_updated": 1794929221,
+        "date_posted": 1794929185,
+        "url": "https://apply.workable.com/interimage/j/89601AD3BE/apply",
+        "locations": [
+            "Fort Meade, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/InterImage",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "InterImage",
+        "id": "aad4a739-4738-464f-93e9-d6107d98da4a",
+        "title": "Hardware Engineer Level 0",
+        "active": true,
+        "date_updated": 1794929221,
+        "date_posted": 1794929185,
+        "url": "https://apply.workable.com/interimage/j/F38279AE12/apply",
+        "locations": [
+            "Fort Meade, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/InterImage",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Peraton",
+        "id": "a32f67ff-5d44-4e8f-946d-3bf4be9d7b8b",
+        "title": "Entry-Level Software Engineer - Ignite Innovator Program",
+        "active": true,
+        "date_updated": 1794928913,
+        "date_posted": 1794873600,
+        "url": "https://careers-peraton.icims.com/jobs/173920/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Blacksburg, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "7985a6db-2fb0-40b5-a65a-e1e092ba6600",
+        "title": "Engineering Technician A",
+        "active": true,
+        "date_updated": 1794928367,
+        "date_posted": 1794928229,
+        "url": "https://jobs.l3harris.com/job/Salt-Lake-City-Engineering-Technician-A-UT-84116/1451310200/?ats=successfactors",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RWS",
+        "id": "30fc8415-4e14-4a28-9332-08ef81f52b54",
+        "title": "Search Engine Evaluator - Chinese Simplified",
+        "active": true,
+        "date_updated": 1794927961,
+        "date_posted": 1794927953,
+        "url": "https://jobs.lever.co/rws/6f52d194-f4ff-4c34-b7b5-02f8648e4291/apply",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/RWS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pathos",
+        "id": "108f8361-3490-48b9-8adb-90224c6628f4",
+        "title": "Member of Technical Staff - AI",
+        "active": true,
+        "date_updated": 1794928170,
+        "date_posted": 1794927975,
+        "url": "https://ats.rippling.com/pathos/jobs/9e3f9d30-9b33-412a-9ebd-97e69539489a",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Pathos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
