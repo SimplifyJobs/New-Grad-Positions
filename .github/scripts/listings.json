@@ -262155,7 +262155,7 @@
         "company_name": "Accenture",
         "id": "9a334ffd-3252-4f69-a5fc-d3e16083784e",
         "title": "Associate Software Engineer - Pega",
-        "active": true,
+        "active": false,
         "date_updated": 1788298421,
         "date_posted": 1788298375,
         "url": "https://boards.greenhouse.io/accenturefederalservices/jobs/4710190006",
@@ -262596,7 +262596,7 @@
         "company_name": "Valon",
         "id": "99404c39-7108-4b92-89ba-eb3166763456",
         "title": "Software Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1788302161,
         "date_posted": 1788302094,
         "url": "https://jobs.ashbyhq.com/Valon/e08ad09a-4408-4210-8c1b-da6510f83324/application?embed=true",
@@ -311846,7 +311846,7 @@
         "company_name": "Harvey",
         "id": "867c063f-636d-4f77-bf08-decee4955762",
         "title": "Software Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1790980993,
         "date_posted": 1790979923,
         "url": "https://jobs.ashbyhq.com/harvey/b0996df6-6b6e-42be-a4f9-0084536068f5/application?embed=true",
@@ -337081,7 +337081,7 @@
         "company_name": "RTX",
         "id": "95b3dfd1-411e-4ccf-bb03-ce35e28541c5",
         "title": "Product Development Electrical Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1792534741,
         "date_posted": 1792454400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Product-Development-Electrical-Engineer-I--Onsite-_01880626",
@@ -355949,7 +355949,7 @@
         "company_name": "Raydar",
         "id": "915fc350-2ce2-47d6-9dab-8e17db9d1f5d",
         "title": "Full-Stack Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793313001,
         "date_posted": 1793312989,
         "url": "https://apply.workable.com/raydar/j/247E466DF2/apply",
@@ -356100,7 +356100,7 @@
         "company_name": "Raydar",
         "id": "90767c2b-3a0c-4ba9-9f58-da9bd55c74ef",
         "title": "Product Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793313001,
         "date_posted": 1793312993,
         "url": "https://apply.workable.com/raydar/j/C05807495F/apply",
@@ -367900,7 +367900,7 @@
         "company_name": "Microsoft",
         "id": "f8dff735-83eb-4c12-bafc-e9568cf30001",
         "title": "Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1794267618,
         "date_posted": 1794267495,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557053863",
@@ -376573,6 +376573,165 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Valnet Freelance",
+        "id": "d368fd11-ce02-47aa-9e65-d577e546d4d3",
+        "title": "AI Operations Analyst - Digital Publishing & Social Media",
+        "active": true,
+        "date_updated": 1794883862,
+        "date_posted": 1794883840,
+        "url": "https://valnetconcept.applytojob.com/apply/Zen8WsV71B/AI-Operations-Analyst-Digital-Publishing-Social-Media",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Valnet-Freelance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Roblox",
+        "id": "7ecc58ea-032d-416e-b399-32ebdff54d06",
+        "title": "Data Scientist \u2013 PhD Early Career - Safety",
+        "active": true,
+        "date_updated": 1794883885,
+        "date_posted": 1794871843,
+        "url": "https://careers.roblox.com/jobs/8384186?gh_jid=8384186",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Roblox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Microsoft",
+        "id": "542753ed-5d89-4aa7-855f-a20530ae5084",
+        "title": "Software Engineer Agentic Security",
+        "active": true,
+        "date_updated": 1794883882,
+        "date_posted": 1794883795,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557074643",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wyetech",
+        "id": "d679fa04-c74e-4987-a9aa-2e381ad6fa52",
+        "title": "Software Engineer 0 or 1",
+        "active": true,
+        "date_updated": 1794883550,
+        "date_posted": 1794883475,
+        "url": "https://wyetech.applytojob.com/apply/7d200RlbqP/Software-Engineer-Skill-Level-0-Or-1",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Wyetech-LLC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "f8f9da4a-dbe9-4d1e-8954-a6cd4fae6a8b",
+        "title": "Logistics Product Strategy & Operations Graduate",
+        "active": true,
+        "date_updated": 1794883143,
+        "date_posted": 1794883048,
+        "url": "https://lifeattiktok.com/search/7706618594172881205",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Barracuda Networks",
+        "id": "89e5e67c-49e5-443f-b6a4-fc60ce1120e1",
+        "title": "Quality Assurance Technician 1",
+        "active": true,
+        "date_updated": 1794883143,
+        "date_posted": 1794883101,
+        "url": "https://jobs.jobvite.com/barracuda-networks-inc/job/oa3ZAfww?nl=1&nl=1&fr=false",
+        "locations": [
+            "San Jose, CA",
+            "Campbell, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/BarracudaNetworks",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "UBDS Group",
+        "id": "61348b7f-3934-4dbc-b672-452755b3be37",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1794883143,
+        "date_posted": 1794883090,
+        "url": "https://apply.workable.com/ubds/j/6E026BBF3E/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/UBDS-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Laborie Medical Technologies",
+        "id": "cea336b4-1147-402b-9c76-6b7ed2757eee",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1794883014,
+        "date_posted": 1794882903,
+        "url": "https://jobs.jobvite.com/laborie/job/oQOXAfwV?nl=1&nl=1&fr=false",
+        "locations": [
+            "Portsmouth, NH"
+        ],
+        "company_url": "https://simplify.jobs/c/Laborie-Medical-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
