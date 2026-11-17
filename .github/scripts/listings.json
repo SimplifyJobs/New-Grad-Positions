@@ -3,78 +3,6 @@
         "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
-        "id": "b61f8e76-4cce-41aa-8d49-ce2c8b95be4f",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1774189001,
-        "date_posted": 1774189001,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054600",
-        "locations": [
-            "Kelso, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "76e1294b-7c1b-45b4-aa89-29bd2c739ec8",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1774188725,
-        "date_posted": 1774188725,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054594",
-        "locations": [
-            "Edinburgh, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "69cd5e8e-8abc-4ee9-aa67-43dfd6232652",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1774188725,
-        "date_posted": 1774188725,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054573",
-        "locations": [
-            "Cardiff, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "31efa654-e62f-4119-8fed-790be0f9b004",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1774188907,
-        "date_posted": 1774188907,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054576",
-        "locations": [
-            "Milton Keynes, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
         "id": "abc8c51d-b3db-4d5f-b74f-7a5cf6399af0",
         "title": "Trading Assistant",
         "active": false,
@@ -366578,7 +366506,7 @@
         "company_name": "Lumentum",
         "id": "4c35ea86-4881-4a1a-8263-44df9a6b8c5b",
         "title": "Process Automation Software Engineer - MEMS",
-        "active": true,
+        "active": false,
         "date_updated": 1794018786,
         "date_posted": 1793923200,
         "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Process-Automation-Software-Engineer---MEMS_20261527",
