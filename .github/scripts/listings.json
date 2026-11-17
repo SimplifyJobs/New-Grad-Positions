@@ -368374,7 +368374,7 @@
         "company_name": "Eagle Wireless",
         "id": "f145045a-af90-4af6-844d-430a822643df",
         "title": "MES Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1794296759,
         "date_posted": 1794296658,
         "url": "https://ats.rippling.com/eagle-wireless/jobs/98f304e6-3067-4d28-ba94-4c48d5c92434",
@@ -377094,6 +377094,27 @@
         "degrees": [
             "Associate's",
             "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "The Aerospace Corporation",
+        "id": "a7a6f270-cb5a-49a2-b84f-581a17205d38",
+        "title": "Electronic Components Failure Analysis Engineer",
+        "active": true,
+        "date_updated": 1794913390,
+        "date_posted": 1793577600,
+        "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/Electronic-Components-Failure-Analysis-Engineer--AMTS-MTS-_R017092",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Aerospace-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
