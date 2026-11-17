@@ -3,6 +3,9 @@ import re
 from datetime import date, datetime, timezone, timedelta
 import random
 import os
+import time
+import urllib.request
+import urllib.error
 
 # SIMPLIFY_BUTTON = "https://i.imgur.com/kvraaHg.png"
 SIMPLIFY_BUTTON = "https://i.imgur.com/MXdpmi0.png" # says apply
@@ -10,6 +13,13 @@ SHORT_APPLY_BUTTON = "https://i.imgur.com/fbjwDvo.png"
 SQUARE_SIMPLIFY_BUTTON = "https://i.imgur.com/aVnQdox.png"
 LONG_APPLY_BUTTON = "https://i.imgur.com/G5Bzlx3.png"
 INACTIVE_THRESHOLD_MONTHS = 4
+
+# Wayback Machine "Archived" button
+WAYBACK_LOGO = "https://archive.org/favicon.ico"
+WAYBACK_SAVE_URL = "https://web.archive.org/save/"
+WAYBACK_USER_AGENT = "New-Grad-Positions-Bot/1.0 (+https://github.com/SimplifyJobs/New-Grad-Positions)"
+WAYBACK_MAX_PER_RUN = 6
+WAYBACK_DELAY_SECONDS = 20
 
 # Set of Simplify company URLs to block from appearing in the README
 # Add Simplify company URLs to block them (e.g., "https://simplify.jobs/c/Jerry")
@@ -89,9 +99,16 @@ def getSponsorship(listing):
         return " 🇺🇸"
     return ""
 
+def getArchiveButton(listing):
+    wayback_url = listing.get("wayback_url")
+    if not wayback_url:
+        return ""
+    return f' <a href="{wayback_url}"><img src="{WAYBACK_LOGO}" width="16" height="16" alt="Archived" title="View on the Wayback Machine"></a>'
+
 def getLink(listing):
+    archive_button = getArchiveButton(listing)
     if not listing["active"]:
-        return "🔒"
+        return "🔒" + archive_button
     link = listing["url"]
     if "?" not in link:
         link += "?utm_source=Simplify&ref=Simplify"
@@ -100,13 +117,14 @@ def getLink(listing):
     # return f'<a href="{link}" style="display: inline-block;"><img src="{SHORT_APPLY_BUTTON}" width="160" alt="Apply"></a>'
 
     if listing["source"] != "Simplify":
-        return f'<a href="{link}"><img src="{LONG_APPLY_BUTTON}" width="100" alt="Apply"></a>'
-    
+        return f'<a href="{link}"><img src="{LONG_APPLY_BUTTON}" width="100" alt="Apply"></a>{archive_button}'
+
     simplifyLink = f"https://simplify.jobs/p/{listing['id']}?utm_source=GHList"
     return (
         f'<div align="center">'
         f'<a href="{link}"><img src="{SHORT_APPLY_BUTTON}" width="52" alt="Apply"></a> '
         f'<a href="{simplifyLink}"><img src="{SQUARE_SIMPLIFY_BUTTON}" width="28" alt="Simplify"></a>'
+        f'{archive_button}'
         f'</div>'
     )
     
@@ -254,6 +272,68 @@ def getListingsFromJSON(filename=".github/scripts/listings.json"):
         print("Recieved " + str(len(listings)) +
               " listings from listings.json")
         return listings
+
+def saveListingsToJSON(listings, filename=".github/scripts/listings.json"):
+    # Write to a temp file first so a failure mid-dump can't leave listings.json truncated
+    temp_filename = filename + ".tmp"
+    try:
+        with open(temp_filename, "w") as f:
+            json.dump(listings, f, indent=4)
+        os.replace(temp_filename, filename)
+    except Exception:
+        if os.path.exists(temp_filename):
+            os.remove(temp_filename)
+        raise
+
+class WaybackRateLimited(Exception):
+    pass
+
+def save_to_wayback(url, timeout=15):
+    """Best-effort request asking the Wayback Machine to capture url now.
+    Returns the archived URL, or None if the capture couldn't be confirmed."""
+    # urllib drops any #fragment before sending, and Wayback hands back a
+    # fragment-less snapshot URL, so keep it aside and re-attach it to the result.
+    target, _, fragment = url.partition("#")
+    suffix = "#" + fragment if fragment else ""
+    request = urllib.request.Request(WAYBACK_SAVE_URL + target, headers={"User-Agent": WAYBACK_USER_AGENT})
+    try:
+        with urllib.request.urlopen(request, timeout=timeout) as response:
+            content_location = response.headers.get("Content-Location")
+            if content_location:
+                return "https://web.archive.org" + content_location + suffix
+            if response.geturl().startswith("https://web.archive.org/web/"):
+                return response.geturl() + suffix
+            return None
+    except urllib.error.HTTPError as e:
+        if e.code == 429:
+            raise WaybackRateLimited()
+        print(f"Wayback: could not archive {url} (HTTP {e.code})")
+        return None
+    except Exception as e:
+        print(f"Wayback: could not archive {url} ({type(e).__name__}: {e})")
+        return None
+
+def archiveNewListings(listings, max_attempts=WAYBACK_MAX_PER_RUN, delay_seconds=WAYBACK_DELAY_SECONDS):
+    """Archive active listings that don't have a wayback_url yet until rate-limited.
+    Mutates listings in place. Stops early if the Wayback Machine rate-limits us."""
+    candidates = [l for l in listings if l.get("active") and not l.get("wayback_url")]
+    candidates.sort(key=lambda l: l["date_posted"], reverse=True)
+
+    archived_count = 0
+    for i, listing in enumerate(candidates[:max_attempts]):
+        if i > 0:
+            time.sleep(delay_seconds)
+        try:
+            wayback_url = save_to_wayback(listing["url"])
+        except WaybackRateLimited:
+            print("Wayback Machine rate-limited us, stopping archive attempts for this run")
+            break
+        if wayback_url:
+            listing["wayback_url"] = wayback_url
+            archived_count += 1
+
+    print(f"Archived {archived_count} listing(s) to the Wayback Machine this run")
+    return listings
 
 def create_category_table(listings, category_name):
     category_listings = [listing for listing in listings if listing["category"] == category_name]
