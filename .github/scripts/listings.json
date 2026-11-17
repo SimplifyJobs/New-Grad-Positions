@@ -70054,7 +70054,7 @@
         "company_name": "TSC",
         "id": "952ea53b-46d2-468c-a4ee-c7ea0ae0051d",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1778710584,
         "date_posted": 1778709926,
         "url": "https://tsc.wd12.myworkdayjobs.com/en-US/TSC-Careers/job/Silver-Spring-MD/Software-Engineer-I_JR2567-1",
@@ -195881,7 +195881,7 @@
         "company_name": "Pennsylvania State University",
         "id": "d49d4a3f-dcd1-4699-9cad-00b2bbc628dc",
         "title": "Simulation Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1785498009,
         "date_posted": 1783163790,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Simulation-Software-Engineer_REQ_0000076942-2",
@@ -377158,5 +377158,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Peraton",
+        "id": "31812f33-8341-4662-afc6-55ed8d3f06cd",
+        "title": "Entry-Level Software Engineer - Ignite Innovator Program",
+        "active": true,
+        "date_updated": 1794930701,
+        "date_posted": 1794924300,
+        "url": "https://peraton.jibeapply.com/jobs/173920?icims=1&lang=en-us",
+        "locations": [
+            "Blacksburg, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
