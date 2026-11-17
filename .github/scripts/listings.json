@@ -237958,7 +237958,7 @@
         "company_name": "Dark Wolf Solutions",
         "id": "de930e2a-dc89-4d37-9ba8-a81206dce5c6",
         "title": "Junior Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787092561,
         "date_posted": 1787092382,
         "url": "https://job-boards.greenhouse.io/darkwolfsolutions/jobs/7886212003",
@@ -277008,7 +277008,7 @@
         "company_name": "Appalachian Regional Healthcare",
         "id": "da047806-6762-490b-bf1e-0fc6c4d9bbea",
         "title": "Decision Support Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1788466522,
         "date_posted": 1784930753,
         "url": "https://careers-arh.icims.com/jobs/38911/job?mobile=true&needsRedirect=false",
@@ -278215,7 +278215,7 @@
         "company_name": "General Matter",
         "id": "df5178c3-1535-4962-aac1-d88d87dc2a97",
         "title": "Test Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1788488120,
         "date_posted": 1786574744,
         "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5375985008",
@@ -294082,7 +294082,7 @@
         "company_name": "Anduril",
         "id": "54a452ec-d813-473c-a8f2-93fbfec8afb3",
         "title": "Electrical Engineer - Space Emerging Talent",
-        "active": false,
+        "active": true,
         "date_updated": 1789511041,
         "date_posted": 1789509904,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236639007",
@@ -297532,7 +297532,7 @@
         "company_name": "Advantage Solutions",
         "id": "037afac3-dd3a-45ea-8c5b-37f8d3df7743",
         "title": "Client Dedicated Coordinator",
-        "active": false,
+        "active": true,
         "date_updated": 1789682765,
         "date_posted": 1789682733,
         "url": "https://canadacareers-asm.icims.com/jobs/441050/job?mobile=true&needsRedirect=false",
@@ -349594,7 +349594,7 @@
         "company_name": "Intuit",
         "id": "a279fba6-3495-4e9c-ac89-769269250310",
         "title": "Software Developer 1 - API Management Platform",
-        "active": true,
+        "active": false,
         "date_updated": 1793140462,
         "date_posted": 1793140376,
         "url": "https://jobs.intuit.com/job/toronto/software-developer-1-api-management-platform/27595/102521440064",
@@ -357946,7 +357946,7 @@
         "company_name": "Cambridge Consultants",
         "id": "ba7a8de1-55e9-4707-ac9c-b356de90fd5e",
         "title": "Graduate Software Engineer - Defence & Security - 2027 start",
-        "active": false,
+        "active": true,
         "date_updated": 1793428382,
         "date_posted": 1790848250,
         "url": "https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4908188101",
@@ -370710,7 +370710,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "08b6aa04-6182-4358-9dac-780dc740bfee",
         "title": "Associate Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1794410121,
         "date_posted": 1794406140,
         "url": "https://ice.jibeapply.com/jobs/14039?icims=1&lang=en-us",
@@ -370930,7 +370930,7 @@
         "company_name": "Intercontinental Exchange",
         "id": "b9a9ef3f-b90a-467e-8fdb-3a2eedd155ab",
         "title": "Associate Software Developer",
-        "active": false,
+        "active": true,
         "date_updated": 1794411181,
         "date_posted": 1794355200,
         "url": "https://careers-ice.icims.com/jobs/14039/job?mobile=true&needsRedirect=false",
@@ -375324,7 +375324,7 @@
         "company_name": "Memorial Hermann",
         "id": "9b37da7c-1632-4670-9db7-30096a616586",
         "title": "Application Programmer/Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1794671281,
         "date_posted": 1794528000,
         "url": "https://memorialhermann.wd5.myworkdayjobs.com/external/job/Medical-Plaza-North/Application-Programmer-Analyst_100189268",
@@ -377160,5 +377160,465 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BIS Safety Software",
+        "id": "df6d7124-b0b8-40d5-9430-2cda4c946adb",
+        "title": "Junior Data Analyst",
+        "active": true,
+        "date_updated": 1794958021,
+        "date_posted": 1794957889,
+        "url": "https://jobs.lever.co/bis/ce37713b-9922-4a73-999a-f0b8e544540b/apply",
+        "locations": [
+            "Sherwood Park, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BIS-Safety-Software",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Laansu",
+        "id": "5455b937-ca16-4e56-89ad-4f0bd88daaf6",
+        "title": "Junior Software Developer",
+        "active": true,
+        "date_updated": 1794957841,
+        "date_posted": 1794957796,
+        "url": "https://laansu.applytojob.com/apply/IiHJSaTASV/Junior-Software-Developer",
+        "locations": [
+            "Sterling, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Laansu",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Woolpert",
+        "id": "94216abb-4765-4f03-a928-739582ae52c6",
+        "title": "Topographic Aerial Sensor Operator",
+        "active": true,
+        "date_updated": 1794957481,
+        "date_posted": 1794956990,
+        "url": "https://job-boards.greenhouse.io/woolpert/jobs/4470641009",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Woolpert",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CDM Smith",
+        "id": "de591e99-9d3d-45c9-9665-3f57076a48d7",
+        "title": "Artificial Intelligence/Machine Learning Developer",
+        "active": true,
+        "date_updated": 1794957503,
+        "date_posted": 1794930840,
+        "url": "https://careers.cdmsmith.com/jobs/4994?icims=1&lang=en-us",
+        "locations": [
+            "Fairfax, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CDM-Smith",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ActioNet",
+        "id": "b3ce4886-89d3-4e57-85da-6a05df4a1349",
+        "title": "Junior Developer",
+        "active": true,
+        "date_updated": 1794957302,
+        "date_posted": 1794957172,
+        "url": "https://jobs.jobvite.com/actionet-review/job/ofYQzfwm?nl=1&nl=1&fr=false",
+        "locations": [
+            "Rosslyn, Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/ActioNet",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Waste Management",
+        "id": "ea459d56-dfe3-4724-b223-3585d6921435",
+        "title": "Analyst 1 \u2013 Business Intelligence",
+        "active": true,
+        "date_updated": 1794957151,
+        "date_posted": 1794957069,
+        "url": "https://emcm.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/WMCareers/job/2355959",
+        "locations": [
+            "Windsor, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/Waste-Management",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Microchip Technology",
+        "id": "2f44c662-b26c-432c-8491-65321c6b1ce5",
+        "title": "Engineer 1 - Verification",
+        "active": true,
+        "date_updated": 1794957073,
+        "date_posted": 1794873600,
+        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/AZ---Chandler/Engineer-I---Verification_R4899-26",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Microchip-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Compunetix",
+        "id": "e8190c98-a39a-44ab-9105-3baf68033a2b",
+        "title": "Junior Hardware Engineer",
+        "active": true,
+        "date_updated": 1794956941,
+        "date_posted": 1794956855,
+        "url": "https://jobs.jobvite.com/compunetix/job/ol3oAfw6?nl=1&nl=1&fr=false",
+        "locations": [
+            "Monroeville, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Compunetix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Compunetix",
+        "id": "5ddb911a-674b-4f51-90af-01a951c5e2e6",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1794956941,
+        "date_posted": 1794956856,
+        "url": "https://jobs.jobvite.com/compunetix/job/o25QAfwh?nl=1&nl=1&fr=false",
+        "locations": [
+            "Monroeville, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Compunetix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ARRISE",
+        "id": "c899d2eb-d856-48b7-a3a9-a04c7935c5e7",
+        "title": "Senior Business Insights Manager",
+        "active": true,
+        "date_updated": 1794956941,
+        "date_posted": 1794956762,
+        "url": "https://jobs.jobvite.com/pragmaticplay/job/oxQ1AfwI?nl=1&nl=1&fr=false",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/ARRISE",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "JP Morgan Chase",
+        "id": "065058c2-54dc-4886-8c9b-b8b3487fa044",
+        "title": "Product Manager - Investor Access - Analyst",
+        "active": true,
+        "date_updated": 1794956941,
+        "date_posted": 1794956801,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810015",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Avnet",
+        "id": "f7965581-8ca9-4da8-8273-9da0edf45509",
+        "title": "Business Intelligence Analyst",
+        "active": true,
+        "date_updated": 1794956761,
+        "date_posted": 1794873600,
+        "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Lexington-Kentucky-United-States-Of-America/Business-Intelligence-Analyst_JR-024939-1",
+        "locations": [
+            "Lexington, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/Avnet",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Red Alpha",
+        "id": "e37fbead-b8f8-4d77-8a81-1322770f04fa",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1794956761,
+        "date_posted": 1794956664,
+        "url": "https://jobs.jobvite.com/redalpha/job/oOfSofw3?nl=1&nl=1&fr=false",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Red-Alpha",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Red Alpha",
+        "id": "d48f4133-284f-47da-9dc5-fc700d4535a8",
+        "title": "Software Engineer Level 0",
+        "active": true,
+        "date_updated": 1794956761,
+        "date_posted": 1794956666,
+        "url": "https://jobs.jobvite.com/redalpha/job/oNLpAfwh?nl=1&nl=1&fr=false",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Red-Alpha",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Red Alpha",
+        "id": "c2dbdc89-7a19-4c74-9f9c-754a722c7489",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1794956761,
+        "date_posted": 1794956664,
+        "url": "https://jobs.jobvite.com/redalpha/job/ocbSofwn?nl=1&nl=1&fr=false",
+        "locations": [
+            "Columbia, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Red-Alpha",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Red Alpha",
+        "id": "00fdcfd6-755a-42a2-8263-944d35b10eb5",
+        "title": "Entry to Mid-Level Software Engineer",
+        "active": true,
+        "date_updated": 1794956761,
+        "date_posted": 1794956664,
+        "url": "https://jobs.jobvite.com/redalpha/job/ouIosfwM?nl=1&nl=1&fr=false",
+        "locations": [
+            "Columbia, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Red-Alpha",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Bright Silicon Technologies",
+        "id": "5d35a984-4755-466b-b004-9fd76dda24e1",
+        "title": "Embedded Systems Engineer",
+        "active": true,
+        "date_updated": 1794956905,
+        "date_posted": 1794956660,
+        "url": "https://brightsilicontechnologies.applytojob.com/apply/lUavU6VUxj/Embedded-Systems-Engineer-Early-Career",
+        "locations": [
+            "Pleasanton, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bright-Silicon-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Red Alpha",
+        "id": "3efcc74f-837e-4304-9aeb-354126ca3e5b",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1794956761,
+        "date_posted": 1794956665,
+        "url": "https://jobs.jobvite.com/redalpha/job/oy0ZpfwG?nl=1&nl=1&fr=false",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Red-Alpha",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TMS International",
+        "id": "715c0bbc-df0d-495d-96ff-9e0f78a79a06",
+        "title": "Manufacturing Systems Software Engineer",
+        "active": true,
+        "date_updated": 1794956865,
+        "date_posted": 1794956637,
+        "url": "https://tmsinternationalrawmaterialsandoptmization.applytojob.com/apply/a0i667jprM/Software-Engineer",
+        "locations": [
+            "Hammond, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/TMS-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AMD",
+        "id": "ec5f8d6e-cdc4-4e53-9800-74e07162cebc",
+        "title": "RMA FA Technician - GPU Returns Debug",
+        "active": true,
+        "date_updated": 1794956761,
+        "date_posted": 1794945360,
+        "url": "https://careers.amd.com/jobs/98132?icims=1&lang=en-us",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/AMD",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Parkland Health",
+        "id": "0d0f7d65-803e-4567-a73b-de5c5a1442f1",
+        "title": "Information Technology Application Systems Associate - Pharmacy",
+        "active": true,
+        "date_updated": 1794956761,
+        "date_posted": 1794873600,
+        "url": "https://wd12.myworkdaysite.com/recruiting/parklandhospital/Parkland_Careers/job/8435-Stemmons-Bldg/Information-Technology-Application-Systems-Associate----Pharmacy_990604-1",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Parkland-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Virtu Financial",
+        "id": "02939f60-613d-484c-89e0-8418680bc77a",
+        "title": "Hardware Platform Engineer",
+        "active": true,
+        "date_updated": 1794956761,
+        "date_posted": 1794956595,
+        "url": "https://job-boards.greenhouse.io/virtu/jobs/8469926002",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Virtu-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Element Materials Technology",
+        "id": "b2888a94-4144-4765-bbe4-c9058f0c12df",
+        "title": "Electrical Technician 1",
+        "active": true,
+        "date_updated": 1794956684,
+        "date_posted": 1794873600,
+        "url": "https://element-ext-us.icims.com/jobs/20526/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Pittsfield, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Element-Materials-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
