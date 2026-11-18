@@ -1,42 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "acd447ac-a946-428a-ae1c-e667516afa71",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1774246535,
-        "date_posted": 1774246535,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054631",
-        "locations": [
-            "Southampton, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "8c2c1474-d244-4a7c-83bd-df201770ee39",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1774246305,
-        "date_posted": 1774246305,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054630",
-        "locations": [
-            "Oxford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Dordt University",
         "id": "11fe83a7-b87c-49ca-94a3-d179ba81b551",
@@ -229412,7 +229376,7 @@
         "company_name": "TikTok",
         "id": "3ad6da02-7c30-41b3-8959-9c636059dfcc",
         "title": "Product Manager Graduate - Content and Service Ads",
-        "active": true,
+        "active": false,
         "date_updated": 1786680001,
         "date_posted": 1786679842,
         "url": "https://lifeattiktok.com/search/7673333697095469317",
@@ -238417,7 +238381,7 @@
         "company_name": "TikTok",
         "id": "41eb13a2-e04a-495a-8e9a-3d83273bbb01",
         "title": "Product Manager Graduate - Content and Service - Search Ads",
-        "active": true,
+        "active": false,
         "date_updated": 1787102102,
         "date_posted": 1787102089,
         "url": "https://lifeattiktok.com/search/7675440171819960629",
@@ -374476,7 +374440,7 @@
         "company_name": "Microsoft",
         "id": "3aee7711-aa7b-4592-8a52-0ad74d7c0fba",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1794613727,
         "date_posted": 1794613657,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557072925",
