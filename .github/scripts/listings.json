@@ -2,72 +2,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Varian",
-        "id": "872ef665-34e8-4294-9f67-aad9120fd712",
-        "title": "Medical Imaging Field Engineer",
-        "active": false,
-        "date_updated": 1774276746,
-        "date_posted": 1774276746,
-        "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/CYA-GR/Medical-Imaging-Field-Engineer---Denver--CO_R-27225-1",
-        "locations": [
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/670da3c5-bce0-4621-b519-da7ce7d528e6",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Leidos",
-        "id": "1ce855a9-3cca-4301-8c03-5c85200429ef",
-        "title": "Junior Software Engineer",
-        "active": false,
-        "date_updated": 1774277045,
-        "date_posted": 1774277045,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Newport-News-VA/Junior-Software-Engineer_R-00178995",
-        "locations": [
-            "Orlando, FL",
-            "Lexington, MA",
-            "Morgantown, WV",
-            "Omaha, NE",
-            "Charlottesville, VA",
-            "Newport News, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Henry Schein",
-        "id": "b69141cd-f220-4925-a27c-f1a31f8468ee",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1774276424,
-        "date_posted": 1774276424,
-        "url": "https://henryschein.wd1.myworkdayjobs.com/External_Careers/job/Iowa-United-States---Remote/Software-Engineer-II_R132081",
-        "locations": [
-            "Ames, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/Henry-Schein",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Moog ",
         "id": "11dfd2b4-515f-4f2a-8cb0-8feb48cc775c",
         "title": "Electronic Technician",
@@ -83,27 +17,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Intel",
-        "id": "618c3741-068e-4e8b-9e03-f0e8e4ce48f5",
-        "title": "SoC Logic Design Engineer",
-        "active": false,
-        "date_updated": 1774277851,
-        "date_posted": 1774277851,
-        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-US/SOC-Logic-Design-Engineer_JR0281880",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Intel",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -347255,7 +347168,7 @@
         "company_name": "The Wharton School",
         "id": "838440a9-118a-45fa-a769-329e95332ca1",
         "title": "Predoctoral Research Specialist - Rodney White Center for Financial Research - Wharton School",
-        "active": true,
+        "active": false,
         "date_updated": 1793063882,
         "date_posted": 1789430400,
         "url": "https://wd1.myworkdaysite.com/recruiting/upenn/Wharton/job/SteinbergDietrich-Hall---3rd-Floor/Predoctoral-Research-Specialist--Rodney-White-Center-for-Financial-Research--Wharton-School_JR00127509",
