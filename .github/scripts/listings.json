@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Moog ",
-        "id": "11dfd2b4-515f-4f2a-8cb0-8feb48cc775c",
-        "title": "Electronic Technician",
-        "active": false,
-        "date_updated": 1774278232,
-        "date_posted": 1774278232,
-        "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Johnson-City-TN/Electronic-Technician_R-26-16775",
-        "locations": [
-            "Johnson City, TN"
-        ],
-        "company_url": "https://simplify.jobs/c/Moog",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "b1cd3f6e-e0d3-4b1c-b238-25074185e0a6",
@@ -363069,7 +363049,7 @@
         "company_name": "Element Materials Technology",
         "id": "a8b8629e-bdbd-43e5-bfac-9649c08ade7c",
         "title": "Seasonal SAR Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1793867762,
         "date_posted": 1792018800,
         "url": "https://element-ext-row.icims.com/jobs/20112/job?mobile=true&needsRedirect=false",
@@ -363792,7 +363772,7 @@
         "company_name": "Two Sigma",
         "id": "69a2b80e-0007-44a1-9f87-b52f905dcc1b",
         "title": "Systematic Strategies Oversight Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1793892602,
         "date_posted": 1793892601,
         "url": "https://twosigma.avature.net/careers/JobDetail/14405",
@@ -365446,7 +365426,7 @@
         "company_name": "Intel",
         "id": "bdb0207c-3202-40fe-b709-7747795a55f5",
         "title": "Software Performance Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1794008760,
         "date_posted": 1793923200,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Performance-Engineer_JR0288983",
@@ -377962,6 +377942,26 @@
             "Montreal, QC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/GIRO-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Berkshire Hathaway Energy",
+        "id": "6613bded-9926-49a7-bc7f-60a11f1a05ee",
+        "title": "Software Engineer - Bhepg",
+        "active": true,
+        "date_updated": 1795014543,
+        "date_posted": 1795014388,
+        "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10006023",
+        "locations": [
+            "Omaha, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/Berkshire-Hathaway-Energy",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
