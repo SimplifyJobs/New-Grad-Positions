@@ -378203,5 +378203,25 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ocado Group",
+        "id": "62d93e6f-71a3-48d6-b3e2-5ac426543920",
+        "title": "Hardware Engineering Graduate - Robotics & Automation",
+        "active": true,
+        "date_updated": 1794999819,
+        "date_posted": 1794992954,
+        "url": "https://careers.ocadogroup.com/jobs/details?gh_jid=5036245101&gh_jid=5036245101",
+        "locations": [
+            "Hatfield, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Ocado-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
