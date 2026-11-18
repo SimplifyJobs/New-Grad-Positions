@@ -126,7 +126,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Junior Software Developer</td>
 <td>St. Catharines, ON, Canada</td>
 <td><div align="center"><a href="https://kraunelectric.bamboohr.com/careers/98/?utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/d1eb1835-b3a8-4b81-b754-d7ce73824f78?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>0d</td>
+<td>1d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Wyetech-LLC?utm_source=GHList&utm_medium=company">Wyetech</a></strong></td>
@@ -2636,7 +2636,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>IT Software Engineer 1 - Robotic Process Automation</td>
 <td>Newport News, VA</td>
 <td>🔒</td>
-<td>15d</td>
+<td>16d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Unity?utm_source=GHList&utm_medium=company">Unity</a></strong></td>
@@ -11428,7 +11428,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Junior Business Advisor - Data & Analytics</td>
 <td>Vancouver, BC, Canada</td>
 <td><div align="center"><a href="https://careers-vch.icims.com/jobs/170905/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify"><img src="https://i.imgur.com/fbjwDvo.png" width="52" alt="Apply"></a> <a href="https://simplify.jobs/p/39bc7fa0-ba92-4df7-ac19-d435a4486444?utm_source=GHList"><img src="https://i.imgur.com/aVnQdox.png" width="28" alt="Simplify"></a></div></td>
-<td>12d</td>
+<td>13d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Cardinal-Health?utm_source=GHList&utm_medium=company">Cardinal Health</a></strong></td>
@@ -12076,7 +12076,7 @@ Use this repo to share and keep track of entry-level software, tech, CS, PM, qua
 <td>Junior Business Advisor - Data & Analytics</td>
 <td>Vancouver, BC, Canada</td>
 <td>🔒</td>
-<td>12d</td>
+<td>13d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/First-National-Bank?utm_source=GHList&utm_medium=company">First National Bank</a></strong></td>
