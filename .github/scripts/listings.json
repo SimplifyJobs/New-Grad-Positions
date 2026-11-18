@@ -240839,7 +240839,7 @@
         "company_name": "TikTok",
         "id": "c9dff2be-8f4e-4123-866d-9dac43703bd2",
         "title": "Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics",
-        "active": true,
+        "active": false,
         "date_updated": 1787190481,
         "date_posted": 1787190346,
         "url": "https://lifeattiktok.com/search/7675844938504702213",
@@ -291334,7 +291334,7 @@
         "company_name": "CarGurus",
         "id": "9649a700-aad9-49a9-a690-64df830139bc",
         "title": "Associate Marketing Data Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1789405296,
         "date_posted": 1789405046,
         "url": "https://careers.cargurus.com/us/en/job/8195874?gh_jid=8195874",
@@ -378128,5 +378128,59 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ID Plans",
+        "id": "7740081c-352f-43aa-8157-7d66734b20a1",
+        "title": "Field Data Specialist",
+        "active": true,
+        "date_updated": 1794985628,
+        "date_posted": 1794985389,
+        "url": "https://idplans1.bamboohr.com/careers/318/",
+        "locations": [
+            "Columbia, SC"
+        ],
+        "company_url": "https://simplify.jobs/c/ID-Plans",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ID Plans",
+        "id": "51cd4751-c195-4e57-b130-ba4a16667d27",
+        "title": "Field Data Specialist",
+        "active": true,
+        "date_updated": 1794985651,
+        "date_posted": 1794985389,
+        "url": "https://idplans1.bamboohr.com/careers/316/",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/ID-Plans",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ID Plans",
+        "id": "22af8e8d-d2ef-40ad-b2e6-7a8b880340ac",
+        "title": "Field Data Specialist",
+        "active": true,
+        "date_updated": 1794985627,
+        "date_posted": 1794985389,
+        "url": "https://idplans1.bamboohr.com/careers/319/",
+        "locations": [
+            "Reno, NV"
+        ],
+        "company_url": "https://simplify.jobs/c/ID-Plans",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
