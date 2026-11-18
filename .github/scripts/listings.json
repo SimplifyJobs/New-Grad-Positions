@@ -222406,7 +222406,7 @@
         "company_name": "9to9 Software Solutions",
         "id": "7c378aeb-7ed5-4825-a428-ffb19f70e2fe",
         "title": "Entry Level Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1786497147,
         "date_posted": 1786496809,
         "url": "https://jobs.smartrecruiters.com/9to9SoftwareSolutionsLLC/743999677188473",
@@ -348364,7 +348364,7 @@
         "company_name": "Octasic",
         "id": "40d9cb1c-4889-42ab-9f06-5cb268a44a28",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1793111427,
         "date_posted": 1793111295,
         "url": "https://ats.rippling.com/octasic-inc/jobs/305ddc8c-b484-41d0-97dc-6c6940cf0570",
@@ -353119,7 +353119,7 @@
         "company_name": "Rendezvous Robotics",
         "id": "94dc85b2-2ec3-4362-b122-8cb281a218be",
         "title": "Avionics Engineer \u2013 Early Career",
-        "active": true,
+        "active": false,
         "date_updated": 1793256481,
         "date_posted": 1792693834,
         "url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4464258009",
@@ -378060,6 +378060,46 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "304f32e2-fcf6-4a65-9220-0d88ea6a8440",
+        "title": "Logistics Product Manager Graduate - Supply Chain and Logistics",
+        "active": true,
+        "date_updated": 1794967921,
+        "date_posted": 1794967873,
+        "url": "https://lifeattiktok.com/search/7704910847553931573",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Executive Title Agency",
+        "id": "03450e61-5413-4d01-ab76-a00ce4e99e0f",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1794967561,
+        "date_posted": 1794967450,
+        "url": "https://apply.workable.com/executive-title-agency/j/BB739F3FED/apply",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Executive-Title-Agency",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
