@@ -1,26 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "LSEG",
-        "id": "da782d85-4fc8-4a12-bb32-b4ce9b1f8eaa",
-        "title": "Engineering Graduate Programme",
-        "active": false,
-        "date_updated": 1774258747,
-        "date_posted": 1774258747,
-        "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/New-York-City-United-States/Engineering-Graduate-Programme--New-York-Office-_R0111560",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/LSEG",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "date_updated": 1774531713,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": false,
@@ -372020,7 +371999,7 @@
         "company_name": "R3 Continuum",
         "id": "4423003a-51d9-4306-89c5-849002dd6341",
         "title": "Data Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1794476378,
         "date_posted": 1786058281,
         "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4391300",
@@ -378217,5 +378196,44 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ASM International",
+        "id": "7ff1037a-0d70-4c8f-8e2a-19d7d8f52893",
+        "title": "Software Engineer \u2013 Early Career",
+        "active": true,
+        "date_updated": 1794995826,
+        "date_posted": 1793979266,
+        "url": "https://www.asm.com/open-vacancies/?gh_jid=5019821101",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/ASM-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Continuum Resource Network",
+        "id": "5e4dbc47-130c-4f5f-8c7a-2e3603c813bc",
+        "title": "Vehicle Installation Technician",
+        "active": true,
+        "date_updated": 1794995281,
+        "date_posted": 1793312378,
+        "url": "https://apply.workable.com/continuum-resource-network/j/986F678599/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Continuum-Resource-Network",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
