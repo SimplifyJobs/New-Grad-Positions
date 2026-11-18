@@ -362216,7 +362216,7 @@
         "company_name": "Cisco",
         "id": "d6bc4342-27bd-4e74-b6eb-7f98e7706f2e",
         "title": "Software Engineer Full Stack / Backend 1",
-        "active": true,
+        "active": false,
         "date_updated": 1793846773,
         "date_posted": 1793750400,
         "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/Austin-Texas-US/Software-Engineer-Full-Stack---Backend-I--Full-Time----United-States_2028784",
@@ -378182,5 +378182,107 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Elutions",
+        "id": "de573e13-9b7e-457d-861a-dfc661eb9976",
+        "title": "Domain Engineer",
+        "active": true,
+        "date_updated": 1794988445,
+        "date_posted": 1794988417,
+        "url": "https://elutions.bamboohr.com/careers/184/",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Elutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Elutions",
+        "id": "4aee94bd-d68e-4a74-8abf-ff47974b009f",
+        "title": "Domain Engineer",
+        "active": true,
+        "date_updated": 1794988445,
+        "date_posted": 1794988417,
+        "url": "https://elutions.bamboohr.com/careers/172/",
+        "locations": [
+            "Tampa, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Elutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Arcadion",
+        "id": "c0ee6fb3-e347-4bbf-ab4d-d8651f68b82e",
+        "title": "Junior AI Developer",
+        "active": true,
+        "date_updated": 1794987544,
+        "date_posted": 1794987486,
+        "url": "https://arcadion.bamboohr.com/careers/52/",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Arcadion",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Torch Technologies",
+        "id": "0e5bab81-2a1e-4d4d-8960-3f6bbb527ab9",
+        "title": "Entry-Level Modeling & Simulation Software Engineer",
+        "active": true,
+        "date_updated": 1794987544,
+        "date_posted": 1794873600,
+        "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Entry-Level-Modeling---Simulation-Software-Engineer_R2206-1",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Torch-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bloom Ads",
+        "id": "52842b72-580a-4029-af03-19bd23fbd290",
+        "title": "Data Analytics Coordinator",
+        "active": true,
+        "date_updated": 1794987185,
+        "date_posted": 1794987049,
+        "url": "https://bloomadsglobalmedia.bamboohr.com/careers/141/",
+        "locations": [
+            "Woodland Hills, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bloom-Ads",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
