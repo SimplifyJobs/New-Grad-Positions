@@ -1,41 +1,5 @@
 [
     {
-        "date_updated": 1777381615,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [],
-        "url": "https://www.smxtech.com/jobs/smxtech/junior-software-engineer-ts-sci-ci-poly-5157-chantilly-va/",
-        "company_name": "SMX",
-        "title": "Junior Software Engineer",
-        "locations": [
-            "Chantilly, VA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "d099ed9d-c72f-456c-9249-48e68ec9d0fa",
-        "date_posted": 1774263580,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1774263622,
-        "sponsorship": "Other",
-        "active": true,
-        "degrees": [],
-        "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5085231007",
-        "company_name": "Geneva Trading",
-        "title": "Junior Software Engineer",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "8c0be7dd-c4ae-4fd4-89fe-775e3e1c919a",
-        "date_posted": 1774263622,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Hardware",
         "company_name": "Westinghouse Electric Company",
@@ -373351,7 +373315,7 @@
         "company_name": "Smiths Detection Group",
         "id": "fff1b8bb-96b2-4bc3-b140-bed6e24957e6",
         "title": "Data Analyst Apprentice",
-        "active": true,
+        "active": false,
         "date_updated": 1794526226,
         "date_posted": 1794497044,
         "url": "https://jobs.smartrecruiters.com/SmithsGroup2/744000161324881",
@@ -378201,5 +378165,43 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RWS",
+        "id": "d93bf150-6eaf-4740-a919-c6482aca181c",
+        "title": "AI Voice Recording Contributor - Scottish",
+        "active": true,
+        "date_updated": 1794998163,
+        "date_posted": 1792593151,
+        "url": "https://jobs.lever.co/rws/e8ba867c-9479-41f2-a5a1-088a9f7daacb/apply",
+        "locations": [
+            "Scotland, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/RWS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Clean Harbors",
+        "id": "ff2baa06-7c73-4bb0-8f5d-6c093d2fcf28",
+        "title": "Associate Data & Analytics Developer",
+        "active": true,
+        "date_updated": 1794999084,
+        "date_posted": 1789078924,
+        "url": "https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/165185",
+        "locations": [
+            "Norwell, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Clean-Harbors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
