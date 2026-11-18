@@ -1,105 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "CAI",
-        "id": "8439c535-205c-4d27-884f-75e1c4e143c8",
-        "title": "Toll Equipment Technician 1",
-        "active": false,
-        "date_updated": 1774307686,
-        "date_posted": 1774307686,
-        "url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/FL-CLIENT-STATE/Toll-Equipment-Technician-I_R7384",
-        "locations": [
-            "Pompano Beach, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/CAI-Io",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Johnson Controls",
-        "id": "f654c310-ebb2-443a-9826-a655fa56f6f2",
-        "title": "Electrical Tester",
-        "active": false,
-        "date_updated": 1774307103,
-        "date_posted": 1774307103,
-        "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Nisku-Alberta-Canada/Electrical-Tester_WD30265281",
-        "locations": [
-            "Nisku, AB, Canada",
-            "Edmonton, AB, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Johnson-Controls",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Micron Technology",
-        "id": "8df2d245-477e-4269-b40d-573251fc0cde",
-        "title": "New College Grad - Software Development Engineer",
-        "active": false,
-        "date_updated": 1774307342,
-        "date_posted": 1774307342,
-        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Software-Development-Engineer_JR95528",
-        "locations": [
-            "Boise, ID"
-        ],
-        "company_url": "https://simplify.jobs/c/Micron-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Mastercard",
-        "id": "0ca2ab86-eecb-4aef-99a3-14eed0f6cf55",
-        "title": "Senior Specialist - Product Management",
-        "active": false,
-        "date_updated": 1774307340,
-        "date_posted": 1774307340,
-        "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/London-England-Angel-Lane/Senior-Specialist--Product-Management_R-272492-1",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Mastercard",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Northrop Grumman",
-        "id": "a9e86141-2124-4e4b-a6dc-a2ae0711ffe5",
-        "title": "Electronics Engineer - Ground System Architect/Integrator",
-        "active": false,
-        "date_updated": 1774307185,
-        "date_posted": 1774307185,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Engineer-Electronics-2-3---Ground-System-Architect-Integrator_R10226811",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "1d78cc9d-9e06-470f-a10c-62a29e8f6e68",
@@ -135,44 +36,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Micron Technology",
-        "id": "a98b821b-1716-49da-ab97-71af1604cca2",
-        "title": "New College Grad",
-        "active": false,
-        "date_updated": 1774307341,
-        "date_posted": 1774307341,
-        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---SIG-Building/Embedded-Software-Engineer_JR95855",
-        "locations": [
-            "Boise, ID"
-        ],
-        "company_url": "https://simplify.jobs/c/Micron-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Jabil",
-        "id": "50421f1b-8c4b-46d2-8b26-62ad27e52d39",
-        "title": "Conversions Diagnostic Technician 1 - Shift",
-        "active": false,
-        "date_updated": 1774307197,
-        "date_posted": 1774307197,
-        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/CVG200-Conversions-Diagnostic-Technician-I---401-Shift_J2444082",
-        "locations": [
-            "Florence, KY"
-        ],
-        "company_url": "https://simplify.jobs/c/Jabil",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -2244,27 +2107,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Northrop Grumman",
-        "id": "02d09ab3-f9ac-4273-9a3c-084eb748d273",
-        "title": "Software Developer",
-        "active": false,
-        "date_updated": 1774427595,
-        "date_posted": 1774307148,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Nebraska-Bellevue/Software-Developer--AHT-_R10226987",
-        "locations": [
-            "Offutt AFB, NE"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -200996,7 +200838,7 @@
         "company_name": "TikTok",
         "id": "14c4e2a5-5770-4049-a3a3-c771ff4b31f4",
         "title": "Product Owner Graduate - TikTok Local Services",
-        "active": false,
+        "active": true,
         "date_updated": 1785739171,
         "date_posted": 1785737707,
         "url": "https://lifeattiktok.com/search/7667573398700165429",
@@ -337489,7 +337331,7 @@
         "company_name": "Curtiss-Wright",
         "id": "bcd91c49-57ee-49ef-912f-7a444e4e3741",
         "title": "Graduate Electronics Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792668966,
         "date_posted": 1787702400,
         "url": "https://curtisswright.wd1.myworkdayjobs.com/cw_external_career_site/job/UK-Wimborne-Nuclear/Electronics-Engineer_JR12401-1",
@@ -350039,7 +349881,7 @@
         "company_name": "Intel",
         "id": "c76bdf45-b985-490a-83f2-38586bb77ae5",
         "title": "Compiler Engineer for AI DSLs",
-        "active": true,
+        "active": false,
         "date_updated": 1793225765,
         "date_posted": 1793145600,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/Compiler-Engineer-for-AI-DSLs_JR0288433",
@@ -367282,7 +367124,7 @@
         "company_name": "Fidelity National Information Services",
         "id": "c1ff6cc7-a1ca-4fa9-8175-f705039e837f",
         "title": "Mainframe Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1794325017,
         "date_posted": 1794268800,
         "url": "https://fis.wd5.myworkdayjobs.com/searchjobs/job/US-GA-CMH-ONE-RIVERFRONT/Mainframe-Software-Engineer-I_JR0310604-1",
@@ -374473,7 +374315,7 @@
         "company_name": "Blue Cross Blue Shield of Michigan",
         "id": "7dc878bb-f892-42c9-abb4-a751b4676661",
         "title": "Analyst Trainee - Data Analysis - Customer Service",
-        "active": false,
+        "active": true,
         "date_updated": 1794870361,
         "date_posted": 1794870218,
         "url": "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15154",
@@ -374752,7 +374594,7 @@
         "company_name": "GHD",
         "id": "bff455d1-b0e0-4a6a-8c63-08d5882fc38d",
         "title": "Graduate Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1794871801,
         "date_posted": 1794871735,
         "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/29481",
@@ -375819,7 +375661,7 @@
         "company_name": "Avnet",
         "id": "f7965581-8ca9-4da8-8273-9da0edf45509",
         "title": "Business Intelligence Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1794956761,
         "date_posted": 1794873600,
         "url": "https://wd1.myworkdaysite.com/recruiting/avnet/External/job/Lexington-Kentucky-United-States-Of-America/Business-Intelligence-Analyst_JR-024939-1",
@@ -377103,6 +376945,191 @@
         "sponsorship": "Other",
         "degrees": [
             "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Lawrence Livermore National Laboratory (LLNL)",
+        "id": "b7ec9df6-51ee-4637-b702-7ae0ef77c256",
+        "title": "Numerical Program Analysis for Scientific Computing Postdoctoral Researcher",
+        "active": true,
+        "date_updated": 1795044063,
+        "date_posted": 1795021460,
+        "url": "https://jobs.smartrecruiters.com/LLNL/3743990016939826",
+        "locations": [
+            "Livermore, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LLNL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "5bce0f5e-7f7c-40fd-ad1c-423dc0bdc951",
+        "title": "GPU Silicon Triage Engineer",
+        "active": true,
+        "date_updated": 1795043893,
+        "date_posted": 1795043772,
+        "url": "https://jobs.apple.com/en-us/details/200695767",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qualcomm",
+        "id": "eab9c205-6c6a-4491-b7d6-17c5680822d2",
+        "title": "ASIC Design Engineer - Multiple Teams",
+        "active": true,
+        "date_updated": 1795043530,
+        "date_posted": 1795043367,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446722200741",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "EBQ",
+        "id": "30dfa4e8-f30b-42d3-b8c1-3e46cd7c0099",
+        "title": "Data Management Specialist",
+        "active": true,
+        "date_updated": 1795043530,
+        "date_posted": 1795043364,
+        "url": "https://ebq.bamboohr.com/careers/164/",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/EBQ",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qualcomm",
+        "id": "98a9daff-023f-45ed-84b2-ce60de130dd3",
+        "title": "ASIC Design Verification Engineer - Multiple Teams",
+        "active": true,
+        "date_updated": 1795043530,
+        "date_posted": 1795043366,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446722200616",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Kira Learning",
+        "id": "00d1d6f1-5e80-44eb-8ad7-81cda1883638",
+        "title": "Software Engineer Entry Level",
+        "active": true,
+        "date_updated": 1795043579,
+        "date_posted": 1794960000,
+        "url": "https://jobs.ashbyhq.com/kira/d92f1ac9-1abb-448c-b039-22643d9bb8a7/application?embed=true",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Kira-Learning",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Keysight Technologies",
+        "id": "cae2bac1-48ca-4ed4-81e5-98fa2587e13f",
+        "title": "AI Productivity Specialist - Corporate Communications",
+        "active": true,
+        "date_updated": 1795043342,
+        "date_posted": 1795032600,
+        "url": "https://jobs.keysight.com/jobs/58059?icims=1&lang=en-us",
+        "locations": [
+            "Santa Rosa, CA",
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "LG Electronics",
+        "id": "4ba11b3a-4425-4949-8164-3be8151e4d10",
+        "title": "Development Engineer HW",
+        "active": true,
+        "date_updated": 1795043374,
+        "date_posted": 1795035444,
+        "url": "https://job-boards.greenhouse.io/lgelectronics/jobs/5487006008",
+        "locations": [
+            "Troy, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/LG-Electronics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CACI",
+        "id": "6af8c893-078d-4b0c-895a-7fe8105ba976",
+        "title": "Software Engineer Skill Level 0",
+        "active": true,
+        "date_updated": 1792760224,
+        "date_posted": 1782956251,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/Annapolis-Junction-MD-US/Software-Engineer-Skill-Level-0_323580",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
