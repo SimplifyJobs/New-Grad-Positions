@@ -1,77 +1,5 @@
 [
     {
-        "date_updated": 1774531713,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://boeing.wd1.myworkdayjobs.com/external_careers/job/USA---Tukwila-WA/Entry-Level-Software-Test---Verification-Engineer_JR2026500201-1",
-        "company_name": "Boeing",
-        "title": "Entry-Level Software Test & Verification Engineer",
-        "locations": [
-            "Tukwila, WA"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "71dc01cc-d2df-4f85-9c45-c40a011d1a60",
-        "date_posted": 1774260465,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1775482024,
-        "sponsorship": "U.S. Citizenship is Required",
-        "active": false,
-        "degrees": [],
-        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Aberdeen-Proving-Ground-MD/Business-Process-Analyst-and-Knowledge-Management-Specialist_R0236027",
-        "company_name": "Booz Allen",
-        "title": "Software Engineer, Junior",
-        "locations": [
-            "Aberdeen Proving Ground, MD"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "301e98b5-f248-4d91-bcb8-387cda7a7e43",
-        "date_posted": 1774260606,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1775482024,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/Software-Engineer--Apprentice_2605991",
-        "company_name": "CIBC",
-        "title": "Software Engineer, Apprentice",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "category": "Software Engineering",
-        "source": "AlmondCroffle",
-        "id": "cd110600-5863-4921-836c-acc2cd94c3f6",
-        "date_posted": 1774260764,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1775482024,
-        "sponsorship": "Other",
-        "active": false,
-        "degrees": [],
-        "url": "https://acclaimtechnicalservices.applytojob.com/apply/wSEBbEB4WT/AIML-DevOps-Engineer-20260064",
-        "company_name": "Acclaim Technical Services",
-        "title": "AI/ML DevOps Engineer",
-        "locations": [
-            "Chantilly, VA"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "AlmondCroffle",
-        "id": "ae213b97-8fcd-46d9-a137-c35e8018c493",
-        "date_posted": 1774261404,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1777381615,
         "sponsorship": "U.S. Citizenship is Required",
         "active": false,
@@ -206751,7 +206679,7 @@
         "company_name": "TikTok",
         "id": "a95e2aef-eedb-4dc4-8505-c965b1303c5a",
         "title": "Data Scientist Graduate - TikTok Product",
-        "active": false,
+        "active": true,
         "date_updated": 1785835263,
         "date_posted": 1785835211,
         "url": "https://lifeattiktok.com/search/7669654422861383941",
@@ -240751,7 +240679,7 @@
         "company_name": "TikTok",
         "id": "c9dff2be-8f4e-4123-866d-9dac43703bd2",
         "title": "Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics",
-        "active": false,
+        "active": true,
         "date_updated": 1787190481,
         "date_posted": 1787190346,
         "url": "https://lifeattiktok.com/search/7675844938504702213",
@@ -370730,7 +370658,7 @@
         "company_name": "Northrop Grumman",
         "id": "42f44307-aff3-43e3-a668-7c1e8f770572",
         "title": "Associate Software Engineer - Pathways",
-        "active": true,
+        "active": false,
         "date_updated": 1794411759,
         "date_posted": 1794355200,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Pathways---Boulder-CO_R10260171",
@@ -378232,6 +378160,44 @@
             "SF"
         ],
         "company_url": "https://simplify.jobs/c/Continuum-Resource-Network",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Susquehanna International Group",
+        "id": "a2c7c3af-ac62-4ac5-841d-58cb33ef3910",
+        "title": "Market Surveillance Data and Technology Analyst",
+        "active": true,
+        "date_updated": 1794996750,
+        "date_posted": 1793750400,
+        "url": "https://careers-sig.icims.com/jobs/11693/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Bala Cynwyd, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Susquehanna",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "EQL Tech",
+        "id": "981500f0-50ca-42b6-9612-97edf956e5a3",
+        "title": "Founding Full Stack Engineer - Fintech & Edtech",
+        "active": true,
+        "date_updated": 1794996914,
+        "date_posted": 1793313333,
+        "url": "https://apply.workable.com/eqltech/j/E001CE3E7F/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/EQL-Tech",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
