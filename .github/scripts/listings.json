@@ -378049,5 +378049,25 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Keenfinity",
+        "id": "02457355-83c8-45e1-8704-4c435c270e27",
+        "title": "Engineering Technician",
+        "active": true,
+        "date_updated": 1795017626,
+        "date_posted": 1795013599,
+        "url": "https://jobs.smartrecruiters.com/Keenfinity/744000162320679",
+        "locations": [
+            "Fairport, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Keenfinity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
     }
 ]
