@@ -1,67 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Duke Energy",
-        "id": "775849f3-52b5-4fe3-bc39-e0a6c4cc20b1",
-        "title": "Geographic Information System Technologist 1",
-        "active": false,
-        "date_updated": 1774306510,
-        "date_posted": 1774306510,
-        "url": "https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/Natural-Gas-GIS-Technologist-I_R38969",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Duke-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Nissan",
-        "id": "05b25413-9fde-4648-a4c2-97ab46f206d1",
-        "title": "Data Analyst",
-        "active": false,
-        "date_updated": 1774306081,
-        "date_posted": 1774306081,
-        "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Data-Analyst-1_R00204613-1",
-        "locations": [
-            "Franklin, TN"
-        ],
-        "company_url": "https://simplify.jobs/c/Nissan",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "fce174fb-699d-44f2-8bcc-b271734302b2",
-        "title": "Flight Management Software Engineer 1",
-        "active": false,
-        "date_updated": 1774305149,
-        "date_posted": 1774305149,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Flight-Management-Software-Engineer-I--Onsite-_01792047-2",
-        "locations": [
-            "Cedar Rapids, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "CAI",
         "id": "8439c535-205c-4d27-884f-75e1c4e143c8",
@@ -119,46 +58,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "CACI",
-        "id": "6af8c893-078d-4b0c-895a-7fe8105ba976",
-        "title": "Software Engineer",
-        "active": true,
-        "date_updated": 1774306885,
-        "date_posted": 1774306885,
-        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-MD-Annapolis-Junction/Software-Engineer-Skill-Level-0_323580",
-        "locations": [
-            "Annapolis Junction, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/CACI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "26d34176-3de1-431c-8ee6-1cc675c27174",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1774306265,
-        "date_posted": 1774306265,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/XMLNAME-2026-Full-time---Software-Engineer-I---Onsite--MA-_01831719",
-        "locations": [
-            "Marlborough, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Mastercard",
         "id": "0ca2ab86-eecb-4aef-99a3-14eed0f6cf55",
@@ -197,64 +96,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Red Bull Advanced Technologies",
-        "id": "4813158d-5529-4a52-99d7-6da25db64b5e",
-        "title": "Electronics Test and Inspection Technician",
-        "active": false,
-        "date_updated": 1774305237,
-        "date_posted": 1774305237,
-        "url": "https://redbulltechnology.wd3.myworkdayjobs.com/RB_Racing/job/Milton-Keynes/Electronics-Test---Inspection-Technician_R0006053",
-        "locations": [
-            "Milton Keynes, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Red-Bull-Advanced-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Microchip Technology",
-        "id": "8d19586e-d843-492b-8970-77052c9d15aa",
-        "title": "Engineer 1 - Hardware - Electrical",
-        "active": false,
-        "date_updated": 1774306521,
-        "date_posted": 1774306521,
-        "url": "https://wd5.myworkdaysite.com/recruiting/microchiphr/External/job/MA---Beverly-Tozer/Engineer-I---Hardware--Electrical-_R1193-26",
-        "locations": [
-            "Peabody, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Microchip-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Pine Rest",
-        "id": "6c783eb5-ac6a-4794-95df-4b6fccc273e7",
-        "title": "Bachelor Level Clinical Coordinator",
-        "active": false,
-        "date_updated": 1774306087,
-        "date_posted": 1774306087,
-        "url": "https://pinerest.wd5.myworkdayjobs.com/en-US/PineRest/job/Grand-Rapids-MI/Bachelor-Level-Clinical-Coordinator--PHP-Adult--BM-_JR104523",
-        "locations": [
-            "Grand Rapids, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Pine-Rest",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -247509,7 +247350,7 @@
         "company_name": "Analog Devices",
         "id": "7b3404a7-c130-4dd8-b4c3-2edeb5fe414d",
         "title": "Associate Design Verification Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787682422,
         "date_posted": 1787616000,
         "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-TX-Dallas-Tollway/Associate-Design-Verification-Engineer_R265415",
@@ -347767,7 +347608,7 @@
         "company_name": "Databricks",
         "id": "992ceb83-2b59-4901-b82d-8ca2b8edc498",
         "title": "Software Engineer New Grad - Distributed Data Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1793141117,
         "date_posted": 1793141063,
         "url": "https://boards.greenhouse.io/embed/job_app?token=6865704002",
@@ -353664,7 +353505,7 @@
         "company_name": "neurohire.ai",
         "id": "87c40439-ed10-4b6a-99b3-511100982f8f",
         "title": "Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1793314082,
         "date_posted": 1793314036,
         "url": "https://apply.workable.com/neurohire-dot-a-i/j/01ECE8E2C4/apply",
@@ -359926,7 +359767,7 @@
         "company_name": "ShadowDragon",
         "id": "7c16f1bd-bd39-4a42-a12c-2e49647c85cd",
         "title": "Junior AI/Machine Learning Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793787170,
         "date_posted": 1793787093,
         "url": "https://ats.rippling.com/shadowdragon/jobs/69df1efd-5f05-4a79-9432-30925eb6db3c",
@@ -369670,7 +369511,7 @@
         "company_name": "Northrop Grumman",
         "id": "93533abf-e9f8-4a3a-bab6-590bb73a1669",
         "title": "Associate Software Engineer - Pathways",
-        "active": true,
+        "active": false,
         "date_updated": 1794438988,
         "date_posted": 1794355200,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Associate-Software-Engineer---Pathways---Colorado-Springs_R10260174",
