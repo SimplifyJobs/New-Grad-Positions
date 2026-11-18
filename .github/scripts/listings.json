@@ -2,118 +2,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Westinghouse Electric Company",
-        "id": "c2bd9083-a616-4f70-85f2-d33856b9b75b",
-        "title": "Instrumentation & Control Engineer 1",
-        "active": false,
-        "date_updated": 1774275588,
-        "date_posted": 1774275588,
-        "url": "https://careers.westinghousenuclear.com/job/New-Stanton-I&C-Engineer-I-PA-15672/1375657000/?ats=successfactors",
-        "locations": [
-            "New Stanton, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Westinghouse-Electric-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "9a946cca-b61b-417a-b5c1-853452aee28f",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1774275473,
-        "date_posted": 1774275473,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054686",
-        "locations": [
-            "Girvan, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "34cb758c-9455-4223-a50f-5533a42938f8",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1774275711,
-        "date_posted": 1774275711,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054658",
-        "locations": [
-            "Derby, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Wood Mackenzie",
-        "id": "888cb698-0ce3-4d83-8159-b1c4a9b927b1",
-        "title": "Data Analyst - Oil and Gas",
-        "active": false,
-        "date_updated": 1774274696,
-        "date_posted": 1774274696,
-        "url": "https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Mexico-City-MX/Data-Analyst---Oil-and-Gas_JR2637",
-        "locations": [
-            "Calgary, AB, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Wood-Mackenzie",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Westinghouse Electric Company",
-        "id": "ce2000ae-fffb-4166-b535-d4467f6a3caa",
-        "title": "1&C Software Engineer 1",
-        "active": false,
-        "date_updated": 1774274762,
-        "date_posted": 1774274762,
-        "url": "https://careers.westinghousenuclear.com/job/Warrendale-I&C-Software-Engineer-1-OR/1375639500/?ats=successfactors",
-        "locations": [
-            "Cranberry Twp, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Westinghouse-Electric-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "13db05c1-151f-4138-a4db-38585fcf423f",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1774275280,
-        "date_posted": 1774275280,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054704",
-        "locations": [
-            "Leeds, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Varian",
         "id": "872ef665-34e8-4294-9f67-aad9120fd712",
         "title": "Medical Imaging Field Engineer",
@@ -175,65 +63,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "SpecterOps",
-        "id": "8549ce2c-6cfd-42ae-b753-67c629e7d138",
-        "title": "Associate Product Manager - BloodHound Enterprise",
-        "active": false,
-        "date_updated": 1774276224,
-        "date_posted": 1774276224,
-        "url": "https://job-boards.greenhouse.io/specterops/jobs/8468953002",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/SpecterOps",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Elsevier",
-        "id": "7dc79cb7-5143-4333-89ba-f866ac724544",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1774275784,
-        "date_posted": 1774275784,
-        "url": "https://relx.wd3.myworkdayjobs.com/ElsevierJobs/job/Philadelphia-PA/Software-Engineer-I_R110970",
-        "locations": [
-            "Philadelphia, PA",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Elsevier",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Ensign-Bickford Aerospace & Defense Company",
-        "id": "52a8aef6-27c3-42ae-91db-64ac88874f03",
-        "title": "Development Technician",
-        "active": false,
-        "date_updated": 1774276119,
-        "date_posted": 1774276119,
-        "url": "https://ebi.wd5.myworkdayjobs.com/ebadcareers/job/Simsbury-CT/Development-Technician_REQ107097",
-        "locations": [
-            "Simsbury, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/Ensign-Bickford-Aerospace-Defense-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
         ]
     },
     {
@@ -1266,24 +1095,6 @@
         "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
-        "id": "28d1f1fa-a6a1-4ddd-97fb-cc75b7115e41",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1774275251,
-        "date_posted": 1774275251,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054207",
-        "locations": [
-            "Tunbridge Wells, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
         "id": "5d070aaf-53f9-44d2-9a2f-3fdf84b607aa",
         "title": "Trading Assistant",
         "active": false,
@@ -1606,26 +1417,6 @@
             "Westlake Village, CA"
         ],
         "company_url": "https://simplify.jobs/c/Marvell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "General Dynamics UK",
-        "id": "db03c5bd-7f19-46fe-a9fb-54b88589315f",
-        "title": "Technologist 1 - Iudc.06",
-        "active": false,
-        "date_updated": 1774275381,
-        "date_posted": 1774275381,
-        "url": "https://jobs.smartrecruiters.com/GDMSI/744000116189020",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -306603,7 +306394,7 @@
         "company_name": "Early Warning",
         "id": "b81ad8d8-409c-4563-b87b-1aa4661b4937",
         "title": "Software Engineer - Java - Paze",
-        "active": false,
+        "active": true,
         "date_updated": 1790720282,
         "date_posted": 1790640000,
         "url": "https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/Scottsdale/Software-Engineer---Java--Paze_REQ2026933",
@@ -378218,6 +378009,46 @@
             "Hatfield, UK"
         ],
         "company_url": "https://simplify.jobs/c/Ocado-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GIRO",
+        "id": "8da7e607-788f-4d80-ad68-62014bf8575f",
+        "title": "Junior C++ Developer",
+        "active": true,
+        "date_updated": 1795011485,
+        "date_posted": 1792368000,
+        "url": "https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Dveloppeur-ou-Dveloppeuse-C---junior_R-100000346",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/GIRO-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GIRO",
+        "id": "02dc8172-98b9-4eae-87c0-88f943e02b14",
+        "title": "Front-End Web Developer",
+        "active": true,
+        "date_updated": 1795011485,
+        "date_posted": 1792368000,
+        "url": "https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Dveloppeur-ou-Dveloppeuse-web--Front-end_R-100000287",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/GIRO-Inc",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
