@@ -290882,7 +290882,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "cd83664d-cb72-48b7-84e1-793e51b160b5",
         "title": "Engineer/Analyst Graduate",
-        "active": false,
+        "active": true,
         "date_updated": 1789407797,
         "date_posted": 1789407572,
         "url": "https://careers.jhuapl.edu/jobs/59998?icims=1",
@@ -371756,7 +371756,7 @@
         "company_name": "Varsity Brands",
         "id": "dcd493ac-2ca5-4ee6-9b28-1e1c02169ed1",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1794496150,
         "date_posted": 1791158400,
         "url": "https://varsitybrands.wd503.myworkdayjobs.com/externalcareersite/job/TX---Farmers-Branch/Software-Engineer---Early-Career_JR113366-1",
@@ -377962,6 +377962,88 @@
             "Omaha, NE"
         ],
         "company_url": "https://simplify.jobs/c/Berkshire-Hathaway-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Element Materials Technology",
+        "id": "c2c9c73e-4111-429b-bb3b-0e6c102de3e0",
+        "title": "Seasonal SAR Technician",
+        "active": true,
+        "date_updated": 1795017423,
+        "date_posted": 1794960000,
+        "url": "https://element-ext-row.icims.com/jobs/20726/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Guildford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Element-Materials-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "1321e6b9-2b52-48a9-adb5-a52294d8f498",
+        "title": "Associate, Integration and Test Engineering",
+        "active": true,
+        "date_updated": 1795017075,
+        "date_posted": 1795016904,
+        "url": "https://jobs.l3harris.com/job/Wilmington-Associate,-Integration-&-Test-Engineering-MA-01887/1446383600/?ats=successfactors",
+        "locations": [
+            "Wilmington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Adyen",
+        "id": "3731ea17-7b7f-45a8-9f5e-995882d14ed6",
+        "title": "Junior Full-Stack Developer - Docs Experience Engineering Team",
+        "active": true,
+        "date_updated": 1795016722,
+        "date_posted": 1795016524,
+        "url": "https://job-boards.greenhouse.io/adyen/jobs/8068230",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Adyen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Cummins",
+        "id": "3f41f4ba-396e-475d-9a5c-3a7ee8e5470f",
+        "title": "Electronic Systems Engineer - Software",
+        "active": true,
+        "date_updated": 1795016013,
+        "date_posted": 1795015832,
+        "url": "https://fa-espx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2440078",
+        "locations": [
+            "Galesburg, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Cummins",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
