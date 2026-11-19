@@ -1,109 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Unilever",
-        "id": "5bfb2341-d09b-4834-9787-9915ace5b848",
-        "title": "CD Excellence Data Engineering Associate",
-        "active": false,
-        "date_updated": 1774318909,
-        "date_posted": 1774318909,
-        "url": "https://unilever.wd3.myworkdayjobs.com/Unilever_Experienced_Professionals/job/Remote---USA/CD-Excellence-Data-Engineering-Associate_R-1178161-1",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Unilever",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "The Boeing Company",
-        "id": "2806f8bf-a4cf-46aa-888b-3dc1ca433f1c",
-        "title": "Intelligence Systems Electrical Hardware Design Engineer \u2013 Associate or Mid-Level",
-        "active": false,
-        "date_updated": 1774317877,
-        "date_posted": 1774317877,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Huntington-Beach-CA/Intelligence-Systems-Electrical-Hardware-Design-Engineer--Associate-or-Mid-Level-_JR2026502198-1",
-        "locations": [
-            "Huntington Beach, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Leidos",
-        "id": "8741a52e-0aaf-43bb-949a-85b23902a433",
-        "title": "Software Engineer TS/SCI Poly",
-        "active": true,
-        "date_updated": 1774318559,
-        "date_posted": 1774318559,
-        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Engineer-TS-SCI-Poly_R-00179080",
-        "locations": [
-            "Aurora, CO",
-            "Annapolis Junction, MD",
-            "Alexandria, VA",
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Leidos",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Marvell",
-        "id": "ab9a3a31-c7cb-4dd5-9d3d-357f211a1037",
-        "title": "Firmware Engineer",
-        "active": false,
-        "date_updated": 1774319409,
-        "date_posted": 1774319409,
-        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Westlake-Village-CA/Firmware-Engineer_2601000-1",
-        "locations": [
-            "Santa Clara, CA",
-            "Westlake Village, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Marvell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Marvell",
-        "id": "86572f6d-7cc1-425d-a248-95218f9edf61",
-        "title": "Firmware Engineer",
-        "active": false,
-        "date_updated": 1774319257,
-        "date_posted": 1774319257,
-        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Westlake-Village-CA/Firmware-Engineer_2601000",
-        "locations": [
-            "Santa Clara, CA",
-            "Westlake Village, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Marvell",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Matic",
         "id": "e74e3fc9-35d6-462a-9f2c-ad5c20129ded",
@@ -361776,7 +361673,7 @@
         "company_name": "Navitus Health Solutions",
         "id": "5532adc0-e591-4a48-ad49-19801b0d6b15",
         "title": "Business Intelligence Specialist - Business Intelligence",
-        "active": true,
+        "active": false,
         "date_updated": 1793867715,
         "date_posted": 1793059200,
         "url": "https://careers-navitus.icims.com/jobs/6924/job?mobile=true&needsRedirect=false",
@@ -370944,7 +370841,7 @@
         "company_name": "Renishaw",
         "id": "544e5f1d-658a-4b55-a669-54e2c78097cf",
         "title": "Manufacturing Systems Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1794497986,
         "date_posted": 1793750400,
         "url": "https://renishaw.wd3.myworkdayjobs.com/Renishaw/job/Miskin-UK/Manufacturing-Systems-Analyst_R10084-1",
@@ -377159,6 +377056,26 @@
             "Olathe, KS"
         ],
         "company_url": "https://simplify.jobs/c/Garmin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Wood Mackenzie",
+        "id": "ca750484-0d9b-4d3a-8cb8-2d0dde6e60a8",
+        "title": "Research Associate - Upstream",
+        "active": true,
+        "date_updated": 1795054326,
+        "date_posted": 1794960000,
+        "url": "https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Edinburgh-GB/Research-Associate---Upstream_JR3524",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Wood-Mackenzie",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
