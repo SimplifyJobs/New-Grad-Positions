@@ -271471,7 +271471,7 @@
         "company_name": "CROSSMARK",
         "id": "4b1adb4b-1cb6-497c-9708-44e00d3f7ec3",
         "title": "Data Collector",
-        "active": true,
+        "active": false,
         "date_updated": 1788448695,
         "date_posted": 1787016580,
         "url": "https://jobs.smartrecruiters.com/CROSSMARK1/113716924",
@@ -373810,7 +373810,7 @@
         "company_name": "DLR Group",
         "id": "720ede4f-6de1-46ec-87eb-bc9beaa1785b",
         "title": "Smart Building Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1794871463,
         "date_posted": 1794864429,
         "url": "https://job-boards.greenhouse.io/dlrgroup/jobs/5464779008",
@@ -377116,5 +377116,43 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Super Micro Computer",
+        "id": "2f26dbb7-f29f-4f57-bede-ddd673581370",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1795080612,
+        "date_posted": 1789509772,
+        "url": "https://jobs.supermicro.com/job/San-Jose-Software-Engineer-Cali/1430200500/?ats=successfactors",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Super-Micro-Computer",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Stefanini",
+        "id": "3a07929e-9ad6-4069-93ff-172599f7ff8f",
+        "title": "Hardware Technician",
+        "active": true,
+        "date_updated": 1795080791,
+        "date_posted": 1786601425,
+        "url": "https://jobs.smartrecruiters.com/Stefanini1/743999657685960",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Stefanini",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
