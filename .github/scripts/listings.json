@@ -1,63 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Varda Space",
-        "id": "5eb608c8-9d70-443a-afa4-1d9f1c707413",
-        "title": "Thermal Hardware Engineer - Passive & Active Control Systems",
-        "active": false,
-        "date_updated": 1774316511,
-        "date_posted": 1774316511,
-        "url": "https://job-boards.greenhouse.io/vardaspace/jobs/7676393003",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Varda-Space",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Collectors",
-        "id": "d4fbecd4-6b7c-4516-be1c-5d0fbbb865b6",
-        "title": "Trading Card Specialist",
-        "active": false,
-        "date_updated": 1774316121,
-        "date_posted": 1774316121,
-        "url": "https://collectorsuniverse.wd1.myworkdayjobs.com/collectors/job/Plano-TX/Trading-Card-Specialist_JR104497",
-        "locations": [
-            "Plano, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Collectors",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "1df84de5-28ce-47c6-81cb-b868d86d3220",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1774315974,
-        "date_posted": 1774315974,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054823",
-        "locations": [
-            "Cardiff, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Unilever",
         "id": "5bfb2341-d09b-4834-9787-9915ace5b848",
@@ -1502,27 +1445,6 @@
             "Sacramento, CA"
         ],
         "company_url": "https://simplify.jobs/c/American-Institutes-For-Research",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Vestmark",
-        "id": "12cd9f1c-268d-4322-bc0c-3a181fcebdcc",
-        "title": "Associate Product Manager",
-        "active": false,
-        "date_updated": 1774391385,
-        "date_posted": 1774316515,
-        "url": "https://job-boards.greenhouse.io/vestmark/jobs/7736701",
-        "locations": [
-            "Cambridge, MA",
-            "Wakefield, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Vestmark",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -344467,7 +344389,7 @@
         "company_name": "UCSF",
         "id": "25f0ff56-0ef3-4cea-8a0f-ae88483a537f",
         "title": "Research Data Analyst 1",
-        "active": true,
+        "active": false,
         "date_updated": 1792830121,
         "date_posted": 1792546312,
         "url": "https://iazuqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10078",
