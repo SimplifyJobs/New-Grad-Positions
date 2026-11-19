@@ -376972,5 +376972,48 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intelliforce-IT Solutions Group",
+        "id": "083e6445-1a17-4269-9f2f-106e6805b161",
+        "title": "Junior Software Engineer - Prime",
+        "active": true,
+        "date_updated": 1795103642,
+        "date_posted": 1795103606,
+        "url": "https://intelliforceitsolutionsgroup.applytojob.com/apply/kocWKm5EhT/Junior-Software-Engineer-Prime",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Intelliforce-IT-Solutions-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Journal Technologies",
+        "id": "3784cbeb-dad8-41ce-84ae-f3a2f77d09e2",
+        "title": "Junior Data Integration Developer",
+        "active": true,
+        "date_updated": 1795103314,
+        "date_posted": 1795103133,
+        "url": "https://ats.rippling.com/journaltech/jobs/c16c782e-f2e0-490a-b3fc-061a5df2fa8d",
+        "locations": [
+            "LA",
+            "Victoria, BC, Canada",
+            "Remote in USA",
+            "Logan, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Journal-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
