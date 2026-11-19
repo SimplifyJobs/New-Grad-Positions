@@ -1,80 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "1d78cc9d-9e06-470f-a10c-62a29e8f6e68",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1774315620,
-        "date_posted": 1774315620,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054824",
-        "locations": [
-            "Glasgow, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Nucor",
-        "id": "051af717-a9f1-4e74-9cc1-015f7b64d961",
-        "title": "Systems Engineer 2",
-        "active": false,
-        "date_updated": 1774315533,
-        "date_posted": 1774315533,
-        "url": "https://jobs.nucor.com/job/San-Bernardino-Systems-Engineer-II-CA-92408/1375979700/?ats=successfactors",
-        "locations": [
-            "San Bernardino, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Nucor",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "fde9cebf-9a6e-44d8-a60e-751c2ad75965",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1774315620,
-        "date_posted": 1774315620,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054827",
-        "locations": [
-            "Crawley, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "95cbc307-2e4b-4a7c-aac5-9ebe462c2d81",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1774315627,
-        "date_posted": 1774315627,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054826",
-        "locations": [
-            "Crawley, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Varda Space",
         "id": "5eb608c8-9d70-443a-afa4-1d9f1c707413",
@@ -92,26 +18,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Google",
-        "id": "4881d8bc-fb89-4121-bf03-16c5713b617f",
-        "title": "Product Manager 1 - Youtube Ads - GenAI Creatives",
-        "active": false,
-        "date_updated": 1774315467,
-        "date_posted": 1774315467,
-        "url": "https://www.google.com/about/careers/applications/jobs/results/104663663926747846",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Google",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -128178,7 +128084,7 @@
         "company_name": "TikTok",
         "id": "0fb303dc-84aa-40cc-8e77-f66f910edbf9",
         "title": "Graduate Machine Learning Engineer - Global E-commerce Recommendation/Search - PhD",
-        "active": true,
+        "active": false,
         "date_updated": 1775082964,
         "date_posted": 1775081616,
         "url": "https://lifeattiktok.com/search/7550798923146250504",
@@ -344057,7 +343963,7 @@
         "company_name": "Citi",
         "id": "137833a6-d0c0-4d94-bb13-3d3f2bab8c3e",
         "title": "Application Development Technology Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1792795566,
         "date_posted": 1792713600,
         "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Technology--Application-Development--Full-Time-Analyst--Mississauga--Canada--2027_261003395",
@@ -376417,7 +376323,7 @@
         "company_name": "Executive Title Agency",
         "id": "03450e61-5413-4d01-ab76-a00ce4e99e0f",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1794967561,
         "date_posted": 1794967450,
         "url": "https://apply.workable.com/executive-title-agency/j/BB739F3FED/apply",
