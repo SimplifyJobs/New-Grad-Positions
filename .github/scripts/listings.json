@@ -1,154 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "cfbe1dea-403c-4149-90d8-06bd6c408518",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1774361802,
-        "date_posted": 1774361802,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054511",
-        "locations": [
-            "Camberley, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "c6213ab4-fe7a-41c1-b884-5d8beae9130f",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1774361762,
-        "date_posted": 1774361762,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054894",
-        "locations": [
-            "Wellington, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Virtu Financial",
-        "id": "5ee1aa64-799d-4f16-8aef-44c051856ca4",
-        "title": "ETF Pricing Analyst",
-        "active": false,
-        "date_updated": 1774362019,
-        "date_posted": 1774362019,
-        "url": "https://job-boards.greenhouse.io/virtu/jobs/8453259002",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Virtu-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "368e6f79-573a-4617-9138-610d1c0ef491",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1774361763,
-        "date_posted": 1774361763,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054906",
-        "locations": [
-            "Liverpool, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "c746a5e7-c60f-4d32-a2a7-5e31ff1c2a4b",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1774361757,
-        "date_posted": 1774361757,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054892",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "769c945e-7f03-42dd-90ff-f95fac556eef",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1774361476,
-        "date_posted": 1774361476,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054897",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "4d1cce2d-8f0b-4465-a0ad-56dae254328f",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1774361481,
-        "date_posted": 1774361481,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054914",
-        "locations": [
-            "Camberley, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Genomics England",
-        "id": "0521bef1-8eba-472a-8136-53ac2e53e9ae",
-        "title": "Data Architect",
-        "active": false,
-        "date_updated": 1774361592,
-        "date_posted": 1774361592,
-        "url": "https://jobs.smartrecruiters.com/GenomicsEngland/744000116372429",
-        "locations": [
-            "London, UK",
-            "Leeds, UK",
-            "Cambridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Genomics-England",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Sierra Nevada Corporation",
         "id": "293197cf-7929-4cdb-ba8c-39b81b6d4a3e",
@@ -1688,26 +1540,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "22995c8b-eaa0-44a6-aba6-fcb0ef65ed86",
-        "title": "Manufacturing Technician B",
-        "active": false,
-        "date_updated": 1774428875,
-        "date_posted": 1774362280,
-        "url": "https://jobs.l3harris.com/job/Rochester-Manufacturing-Technician-B-NY-14610-1839/1376067100/?ats=successfactors",
-        "locations": [
-            "Rochester, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Uncountable",
         "id": "2be85ed6-1f10-412c-b779-90d1f55bbd99",
@@ -3071,24 +2903,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "8c9b269f-5ef7-4c43-9f3b-e5eeb5154d9b",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1774361476,
-        "date_posted": 1774361476,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400053486",
-        "locations": [
-            "Wellington, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -21609,25 +21423,6 @@
         "degrees": [
             "PhD"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Welocalize",
-        "id": "ffbbf8e5-7486-4c5f-a961-cc9320e764cf",
-        "title": "Urdu Culture and Language Expert",
-        "active": false,
-        "date_updated": 1775644741,
-        "date_posted": 1774361141,
-        "url": "https://jobs.lever.co/welocalize/a4579bca-b2ce-4a7a-80b3-015cff5f0381/apply",
-        "locations": [
-            "Remote in India",
-            "Remote in UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Welocalize",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -95341,28 +95136,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "InterSystems",
-        "id": "8c4cb617-aece-4c16-b7e3-90df8e469072",
-        "title": "Graduate Application Specialist",
-        "active": false,
-        "date_updated": 1780392131,
-        "date_posted": 1774362523,
-        "url": "https://www.intersystems.com/careers/careers-search/?gh_jid=7676948003",
-        "locations": [
-            "Edinburgh, UK",
-            "Slough, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/InterSystems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Flatiron Health",
         "id": "e2052cb0-de30-4673-ae90-6fb2129078b5",
@@ -95395,27 +95168,6 @@
             "Phoenix, AZ"
         ],
         "company_url": "https://simplify.jobs/c/Intel",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "InterSystems",
-        "id": "c5bf9211-6c60-4edb-8401-bda8ea0f5bc7",
-        "title": "Graduate Application Specialist",
-        "active": false,
-        "date_updated": 1780392847,
-        "date_posted": 1774362520,
-        "url": "https://www.intersystems.com/careers/careers-search/?gh_jid=7676945003",
-        "locations": [
-            "Edinburgh, UK",
-            "Slough, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/InterSystems",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
