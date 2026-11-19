@@ -1,70 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Sierra Nevada Corporation",
-        "id": "293197cf-7929-4cdb-ba8c-39b81b6d4a3e",
-        "title": "Engineering Technician 1",
-        "active": false,
-        "date_updated": 1774362758,
-        "date_posted": 1774362758,
-        "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Engineering-Technician-I_R0029584",
-        "locations": [
-            "Hagerstown, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Sierra-Nevada-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ABB",
-        "id": "110c7016-1aba-4d14-9703-da38d63336ed",
-        "title": "Data Analyst Internal Audit",
-        "active": false,
-        "date_updated": 1774362793,
-        "date_posted": 1774362793,
-        "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Sesto-San-Giovanni-Milano-Italy/Data-Analyst-Internal-Audit_JR00028628-1",
-        "locations": [
-            "Milton Keynes, UK",
-            "Paris, France",
-            "Madrid, Spain",
-            "Milan, Metropolitan City of Milan, Italy"
-        ],
-        "company_url": "https://simplify.jobs/c/ABB",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "University of Rochester",
-        "id": "0d55e77b-50cf-4253-beb8-c9b69e5148a3",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1774362826,
-        "date_posted": 1774362826,
-        "url": "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Laboratory-for-Laser-Energetics/Software-Engineer-I_R269734",
-        "locations": [
-            "Rochester, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Rochester",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Accenture",
         "id": "1dc34802-3e5f-4e29-981d-7a29634b4efb",
@@ -283262,7 +283198,7 @@
         "company_name": "Equifax",
         "id": "a471e22f-cd94-4bfa-b76d-bc9b5fe6adfb",
         "title": "Data Analytics Associate - Rotational Development Program",
-        "active": true,
+        "active": false,
         "date_updated": 1788916384,
         "date_posted": 1788825600,
         "url": "https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/Data-Analytics-Rotational-Development-Associate_J00178985-2",
@@ -366635,7 +366571,7 @@
         "company_name": "Microsoft",
         "id": "95b92e89-25c1-4495-824f-baca5e01db7d",
         "title": "Data Center Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1794353091,
         "date_posted": 1794352865,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557059002",
