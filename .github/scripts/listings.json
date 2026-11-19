@@ -90287,7 +90287,7 @@
         "company_name": "Virtu Financial",
         "id": "f65657ff-9f42-4256-ac69-c3a4b36628ea",
         "title": "Software Engineer - Desktop Frontend Developer - C#/Winforms",
-        "active": true,
+        "active": false,
         "date_updated": 1779948920,
         "date_posted": 1777932683,
         "url": "https://job-boards.greenhouse.io/virtu/jobs/8516902002",
@@ -186226,7 +186226,7 @@
         "company_name": "Tax Relief Advocates",
         "id": "1ae4d477-2ac5-41f7-848a-cf5ccb939aa2",
         "title": "Junior Machine Learning Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1785191941,
         "date_posted": 1785190849,
         "url": "https://job-boards.greenhouse.io/taxreliefadvocates/jobs/4759563008",
@@ -261473,7 +261473,7 @@
         "company_name": "Textron",
         "id": "eb438002-306c-48ff-9b02-f87947b2219d",
         "title": "Software Engineer 1 - Weapons",
-        "active": true,
+        "active": false,
         "date_updated": 1788314688,
         "date_posted": 1788314489,
         "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=344818",
@@ -377126,6 +377126,211 @@
             "Annapolis Junction, MD"
         ],
         "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wyetech",
+        "id": "592bc9fb-3dbc-479f-806b-a75a99099e6a",
+        "title": "Software Engineer 0 \u2013 Full Stack Development",
+        "active": true,
+        "date_updated": 1795046056,
+        "date_posted": 1795045863,
+        "url": "https://wyetech.applytojob.com/apply/orUQyoZnAb/SWE0Software-Engineer",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Wyetech-LLC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Zoox",
+        "id": "88d084be-2fbe-4e84-bc8e-0cac901f9f1d",
+        "title": "Contract Student Worker - Software Engineer - 40hrs/wk",
+        "active": true,
+        "date_updated": 1795045863,
+        "date_posted": 1795045791,
+        "url": "https://jobs.lever.co/zoox/839d987e-2236-4efe-8753-ee208b8d4e29/apply",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Zoox",
+        "id": "26fa4e32-b501-44ab-87b3-253fe6adc3a1",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1795045892,
+        "date_posted": 1795045790,
+        "url": "https://jobs.lever.co/zoox/c6d372ce-1203-4d34-bd3e-f637e7d23483/apply",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Digital.ai",
+        "id": "b96379c9-c34a-4ef5-a898-e3414fe92d08",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1795045687,
+        "date_posted": 1795045586,
+        "url": "https://digitalai.bamboohr.com/careers/75/",
+        "locations": [
+            "Lafayette, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/DigitalAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AMERICAN SYSTEMS",
+        "id": "7e24a675-8376-493c-8560-693edc7937da",
+        "title": "Java Developer 1",
+        "active": true,
+        "date_updated": 1795045729,
+        "date_posted": 1794960000,
+        "url": "https://careers-americansystems.icims.com/jobs/5620/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Lakewood, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/AMERICAN-SYSTEMS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AMERICAN SYSTEMS",
+        "id": "4ecb09f4-bcc0-41f0-8b85-2464f49e8d57",
+        "title": "Java Developer 1",
+        "active": true,
+        "date_updated": 1795045717,
+        "date_posted": 1793145600,
+        "url": "https://careers-americansystems.icims.com/jobs/5162/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Folsom, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AMERICAN-SYSTEMS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Boston Scientific",
+        "id": "87235934-6062-4c59-ae25-377ea9397e49",
+        "title": "Health AI Engineer 1 - Data Science & Business Intelligence",
+        "active": true,
+        "date_updated": 1795045142,
+        "date_posted": 1795045036,
+        "url": "https://bostonscientific.eightfold.ai/careers/job/563602813942507",
+        "locations": [
+            "Marlborough, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Boston-Scientific",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CWILL",
+        "id": "b65e240a-f399-4061-8610-406adb24d562",
+        "title": "AI Agent R&D Trainee - Full-Stack Engineer - Bilingual Mandarin",
+        "active": true,
+        "date_updated": 1795044967,
+        "date_posted": 1795044843,
+        "url": "https://apply.workable.com/cwill-us/j/1BC6285A3C/apply",
+        "locations": [
+            "Cary, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/CWILL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Altamira Technologies",
+        "id": "61de138e-6fce-43d0-9e91-1044af2182f4",
+        "title": "Entry Level Intelligence Analyst",
+        "active": true,
+        "date_updated": 1795044967,
+        "date_posted": 1795044885,
+        "url": "https://jobs.jobvite.com/altamiracorps/job/o0p7AfwQ?nl=1&nl=1&fr=false",
+        "locations": [
+            "Aurora, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Altamira-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Garmin",
+        "id": "2e4cef90-d98e-4e0c-a8a1-e785d4cdb9ea",
+        "title": "Test Software Engineer 1 - Aviation",
+        "active": true,
+        "date_updated": 1795044967,
+        "date_posted": 1795017420,
+        "url": "https://careers.garmin.com/jobs/20379?icims=1&lang=en-us",
+        "locations": [
+            "Olathe, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Garmin",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
