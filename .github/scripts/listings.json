@@ -338118,7 +338118,7 @@
         "company_name": "Liminal (Menyala)",
         "id": "eba5276d-5b21-4699-a535-ccc06b21084c",
         "title": "Product Management Apprentice",
-        "active": true,
+        "active": false,
         "date_updated": 1792716842,
         "date_posted": 1784519414,
         "url": "https://liminal.careers.hibob.com/jobs/2fd6df7d-cb2d-45a3-8564-0b71d06b0bf8",
@@ -377125,5 +377125,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "E.ON Next",
+        "id": "8894cd4e-a3f7-4c90-a0ae-9e561bec531d",
+        "title": "Technical Development Technician",
+        "active": true,
+        "date_updated": 1795074306,
+        "date_posted": 1794960000,
+        "url": "https://eonnext.wd3.myworkdayjobs.com/EON_Next_Careers/job/Wednesbury-Depot/Technical-Development-Technician_JR104291-2",
+        "locations": [
+            "Wednesbury, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/EON-Next",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
