@@ -233504,7 +233504,7 @@
         "company_name": "CROSSMARK",
         "id": "2d8cdf9d-b9eb-4ced-ac4c-3a895bc5ec3e",
         "title": "Data Collector",
-        "active": true,
+        "active": false,
         "date_updated": 1787016781,
         "date_posted": 1787016580,
         "url": "https://jobs.smartrecruiters.com/CROSSMARK1/113714633",
@@ -271507,7 +271507,7 @@
         "company_name": "CROSSMARK",
         "id": "087c2d13-e2ad-4aa1-87a3-58a0a561639e",
         "title": "Data Collection Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1788448695,
         "date_posted": 1787016594,
         "url": "https://jobs.smartrecruiters.com/CROSSMARK1/111737956",
@@ -377033,5 +377033,88 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Apple",
+        "id": "07baff59-c50a-4fc1-b101-cdf0b86ff995",
+        "title": "OS Software Engineer - Evaluation",
+        "active": true,
+        "date_updated": 1795079351,
+        "date_posted": 1791853806,
+        "url": "https://jobs.apple.com/en-us/details/200688625",
+        "locations": [
+            "Cupertino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Neros Technologies",
+        "id": "0b32f280-2b81-498a-ba41-0e228f7b638b",
+        "title": "AI-Native Electrical Engineer - PCB Design",
+        "active": true,
+        "date_updated": 1795079529,
+        "date_posted": 1786565470,
+        "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5209589007",
+        "locations": [
+            "Torrance, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Neros-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Lyft",
+        "id": "01f581df-ff1b-4b67-a134-b125e39c9921",
+        "title": "Android Software Engineer - Lyft Urban Solutions",
+        "active": true,
+        "date_updated": 1795079351,
+        "date_posted": 1787950624,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/8743513002?gh_jid=8743513002",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Lyft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Medpace",
+        "id": "0cfbb61c-d1bc-419f-84c0-28ddb50ae557",
+        "title": "Shiny App Developer",
+        "active": true,
+        "date_updated": 1795079529,
+        "date_posted": 1785967854,
+        "url": "https://careers.medpace.com/jobs/12908?icims=1&lang=en-us",
+        "locations": [
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Medpace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
