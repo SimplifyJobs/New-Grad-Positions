@@ -1,29 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Accenture",
-        "id": "1dc34802-3e5f-4e29-981d-7a29634b4efb",
-        "title": "Data Management Analyst",
-        "active": false,
-        "date_updated": 1774364649,
-        "date_posted": 1774364649,
-        "url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Kronberg-Campus-Kronberg-1/Data-Management-Analyst--all-genders-_R00320320",
-        "locations": [
-            "Hamburg, Germany",
-            "Neukirchen-Vluyn, Germany",
-            "Frankfurt, Germany",
-            "Stuttgart, Germany",
-            "Berlin, Germany",
-            "Munich, Germany"
-        ],
-        "company_url": "https://simplify.jobs/c/Accenture-FS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Softheon",
         "id": "f91e50dc-b9ca-4493-84b8-e48c1a67fd07",
@@ -360421,7 +360398,7 @@
         "company_name": "Prime Controls",
         "id": "bb33bcfe-706f-4fe2-8f45-37fb6b013c8d",
         "title": "Enterprise Automation Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1793867041,
         "date_posted": 1792713600,
         "url": "https://careers-primecontrols.icims.com/jobs/2282/job?mobile=true&needsRedirect=false",
@@ -376882,5 +376859,118 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GM Financial",
+        "id": "5f157b72-b656-478b-b0b1-7df9204accbe",
+        "title": "Pricing Analytics Analyst",
+        "active": true,
+        "date_updated": 1795102036,
+        "date_posted": 1795101849,
+        "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261306",
+        "locations": [
+            "Fort Worth, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/GM-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Formlabs",
+        "id": "3c7db22b-52a4-42bb-9a52-c6a049a6a76d",
+        "title": "Embedded Software Engineer",
+        "active": true,
+        "date_updated": 1795102067,
+        "date_posted": 1795099044,
+        "url": "https://careers.formlabs.com/job/8402093/apply/?gh_jid=8402093",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Formlabs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Element Materials Technology",
+        "id": "14472c25-caa0-4532-b1f8-1ae52233a0c6",
+        "title": "SAR Test Technician",
+        "active": true,
+        "date_updated": 1795101878,
+        "date_posted": 1795046400,
+        "url": "https://element-ext-row.icims.com/jobs/20376/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Guildford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Element-Materials-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "American Express",
+        "id": "976fab88-afe9-480e-a47e-a7c75c416b28",
+        "title": "Analyst \u2013 Product Management",
+        "active": true,
+        "date_updated": 1795101309,
+        "date_posted": 1795101204,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016885",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Southern Water",
+        "id": "f9a19849-db6d-4ded-9163-493e5569306e",
+        "title": "Architecture Analyst",
+        "active": true,
+        "date_updated": 1795101132,
+        "date_posted": 1795100998,
+        "url": "https://wd3.myworkdaysite.com/recruiting/southernwater/SouthernWater/job/Worthing/Architecture-Analyst_JR8674-1",
+        "locations": [
+            "Worthing, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Southern-Water",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Huntington Ingalls Industries",
+        "id": "1443baaf-82fc-4773-8906-b4efefc773c9",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1795100915,
+        "date_posted": 1795100759,
+        "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1452128000/?ats=successfactors",
+        "locations": [
+            "Newport News, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Huntington-Ingalls-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
