@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Northrop Grumman",
-        "id": "d84a48c4-d282-49ba-8fe4-114aa65b32da",
-        "title": "Inspector \u2013 Level 2 or 3",
-        "active": false,
-        "date_updated": 1774347372,
-        "date_posted": 1774347372,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Minnesota-Plymouth/Inspector--Level-2-or-3-_R10225937-1",
-        "locations": [
-            "Wayzata, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "cfbe1dea-403c-4149-90d8-06bd6c408518",
@@ -271345,7 +271327,7 @@
         "company_name": "CROSSMARK",
         "id": "aaa70d5e-f9aa-42af-84d5-7f4cd33e4488",
         "title": "Events Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1788447793,
         "date_posted": 1787016977,
         "url": "https://jobs.smartrecruiters.com/CROSSMARK1/91355827",
@@ -271435,7 +271417,7 @@
         "company_name": "CROSSMARK",
         "id": "78f4cbe8-99fd-4731-881d-5a76c611d88d",
         "title": "Data Collector",
-        "active": true,
+        "active": false,
         "date_updated": 1788448695,
         "date_posted": 1787016581,
         "url": "https://jobs.smartrecruiters.com/CROSSMARK1/113714866",
@@ -372784,7 +372766,7 @@
         "company_name": "Microsoft",
         "id": "970abbb2-7906-4686-914b-09bd6d622dd5",
         "title": "Software Engineer - Microsoft Business Operations",
-        "active": true,
+        "active": false,
         "date_updated": 1794623250,
         "date_posted": 1794623047,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557073410",
@@ -377154,5 +377136,45 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "REI Systems",
+        "id": "98a47c6e-06dd-4d9d-95c5-02197443ddc8",
+        "title": "Junior Associate Software Engineer - Java Full Stack",
+        "active": true,
+        "date_updated": 1795083343,
+        "date_posted": 1793864468,
+        "url": "https://careers-reisystems.icims.com/jobs/3511/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Sterling, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/REI-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Stefanini",
+        "id": "87c2e736-8797-423e-8b2c-09dd0f6eee3b",
+        "title": "Laboratory Technician",
+        "active": true,
+        "date_updated": 1795082947,
+        "date_posted": 1786601424,
+        "url": "https://jobs.smartrecruiters.com/Stefanini1/743999657686194",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Stefanini",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
     }
 ]
