@@ -157417,7 +157417,7 @@
         "company_name": "Motorola",
         "id": "8e8910ff-d27c-4f3c-871e-d348e505c0c5",
         "title": "Web Interface Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1784070903,
         "date_posted": 1783987200,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Web-Interface-Software-Engineer_R66626",
@@ -206986,7 +206986,7 @@
         "company_name": "Qualcomm",
         "id": "9bcddcb5-7dfc-4804-9f8f-af292c00da3f",
         "title": "Senior ASIC Design Engineer - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1785910681,
         "date_posted": 1785910529,
         "url": "https://qualcomm.eightfold.ai/careers/job/446720188752",
@@ -354835,7 +354835,7 @@
         "company_name": "Kairos Power",
         "id": "2c9669bc-815a-4c3c-82bf-77b804b9fe70",
         "title": "Firmware Development Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1793398147,
         "date_posted": 1793380723,
         "url": "https://job-boards.greenhouse.io/kairospower/jobs/6193295004",
@@ -377076,6 +377076,50 @@
             "Edinburgh, UK"
         ],
         "company_url": "https://simplify.jobs/c/Wood-Mackenzie",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qualcomm",
+        "id": "05c2c1f1-af4c-4299-9e8a-f24cfcfa0927",
+        "title": "Embedded Audio Software Engineer - Software Engineering",
+        "active": true,
+        "date_updated": 1795055985,
+        "date_posted": 1795055909,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446722197774",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leidos",
+        "id": "8741a52e-0aaf-43bb-949a-85b23902a433",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1792836009,
+        "date_posted": 1781951726,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Engineer-TS-SCI-Poly_R-00179080",
+        "locations": [
+            "Aurora, CO",
+            "Annapolis Junction, MD",
+            "Alexandria, VA",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
