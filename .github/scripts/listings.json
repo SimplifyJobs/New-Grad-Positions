@@ -52748,7 +52748,7 @@
         "company_name": "TikTok",
         "id": "ce48ddb5-e8b7-4b5f-a82f-62cc7945f2b7",
         "title": "Research Scientist - Tiktok Recommendation - Nextgen LLM",
-        "active": true,
+        "active": false,
         "date_updated": 1777622221,
         "date_posted": 1777425028,
         "url": "https://lifeattiktok.com/search/7633605978976520453",
@@ -337517,7 +337517,7 @@
         "company_name": "Fortinet",
         "id": "d6d9aa9b-d516-4a21-b8ba-e2b4ba217313",
         "title": "Software Developer - Agent Security",
-        "active": true,
+        "active": false,
         "date_updated": 1792748705,
         "date_posted": 1779228473,
         "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22907",
@@ -371625,7 +371625,7 @@
         "company_name": "Convex Insurance",
         "id": "ccd6257e-1f03-4d37-9425-421ce95b805c",
         "title": "Graduate Operations Analyst - Data Quality",
-        "active": true,
+        "active": false,
         "date_updated": 1794826287,
         "date_posted": 1791471847,
         "url": "https://convexin.pinpointhq.com/en/postings/36c3f82a-c462-4962-9650-62308e301a28?ats=pinpointhq",
@@ -376295,6 +376295,84 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/Maven-Securities",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "MD Analytics",
+        "id": "3ec7ee81-1de6-4ca7-93a4-97dc32c878f1",
+        "title": "Market Research Associate",
+        "active": true,
+        "date_updated": 1795171688,
+        "date_posted": 1795171654,
+        "url": "https://mdanalytics.bamboohr.com/careers/85/",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/MD-Analytics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "MD Analytics",
+        "id": "6f129a70-0018-45e9-bb15-72686c167afe",
+        "title": "Market Research Associate",
+        "active": true,
+        "date_updated": 1795171726,
+        "date_posted": 1795171654,
+        "url": "https://mdanalytics.bamboohr.com/careers/86/",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/MD-Analytics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "MD Analytics",
+        "id": "655bf32a-a0d6-4409-b3b2-96c9340396af",
+        "title": "Market Research Associate",
+        "active": true,
+        "date_updated": 1795171688,
+        "date_posted": 1795171655,
+        "url": "https://mdanalytics.bamboohr.com/careers/87/",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/MD-Analytics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Legatics",
+        "id": "9f36d850-2518-446d-9ca9-7e32dea61b62",
+        "title": "Product Manager",
+        "active": true,
+        "date_updated": 1795170607,
+        "date_posted": 1791843470,
+        "url": "https://apply.workable.com/legatics/j/B7C1F5E0C3/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Legatics",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
