@@ -40410,7 +40410,7 @@
         "company_name": "AcuityMD",
         "id": "965243dc-f0f0-4c79-9b26-39cab8571d71",
         "title": "Data Program Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1776734159,
         "date_posted": 1774477964,
         "url": "https://job-boards.greenhouse.io/acuitymd/jobs/5819631004",
@@ -174719,7 +174719,7 @@
         "company_name": "Lamons",
         "id": "9d44d17c-cfaf-4424-8979-f0c3a7869863",
         "title": "Business Intelligence Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1784788068,
         "date_posted": 1784787167,
         "url": "https://lamons.applytojob.com/apply/6SA4nACfmW/Business-Intelligence-Analyst",
@@ -283271,7 +283271,7 @@
         "company_name": "Emerson Electric",
         "id": "9fa325c2-bea8-4db5-afa3-180f13d773d5",
         "title": "Embedded Firmware Development Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1789002950,
         "date_posted": 1789002755,
         "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009554",
@@ -292139,7 +292139,7 @@
         "company_name": "General Motors",
         "id": "a8e4e44b-ba83-4836-a64a-8e2f97e258a5",
         "title": "Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1789598773,
         "date_posted": 1789516800,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Austin-Texas-United-States-of-America/Data-Engineer---Data-Software-Engineering-and-Cloud-Platforms--Early-Career_JR-202620428",
@@ -375901,5 +375901,29 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ATA Engineering",
+        "id": "a8001fb2-9680-4964-8743-9e22282fe768",
+        "title": "Engineering Software Programmer",
+        "active": true,
+        "date_updated": 1795143062,
+        "date_posted": 1795142907,
+        "url": "https://ataengineering.applytojob.com/apply/ivXsyvzO4I/Engineering-Software-Programmer",
+        "locations": [
+            "Lakewood, CO",
+            "Huntsville, AL",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ATA-Engineering",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     }
 ]
