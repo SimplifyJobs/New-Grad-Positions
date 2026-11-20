@@ -1,30 +1,5 @@
 [
     {
-        "date_updated": 1777381615,
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://jobs.ashbyhq.com/nascent/8454aeb0-fc8d-4fb0-9143-ea0d0a192efb",
-        "company_name": "Nascent",
-        "title": "Agentic Ops Intern",
-        "locations": [
-            "Toronto, ON, CAN",
-            "Austin, TX",
-            "Chicago, IL",
-            "Miami, FL",
-            "New York, NY",
-            "San Francisco, CA",
-            "Vancouver, BC, CAN",
-            "Victoria, BC, CAN"
-        ],
-        "category": "Software Engineering",
-        "source": "kira-park",
-        "id": "df484943-2be8-4359-a3a8-e17cccd3fe16",
-        "date_posted": 1774467598,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "source": "Simplify",
         "category": "Software",
         "company_name": "Twitch",
@@ -280281,7 +280256,7 @@
         "company_name": "True Anomaly",
         "id": "e29a2127-9a11-4cb0-8c98-68102aede2b4",
         "title": "Software Engineer 1 New Grad - Elixir",
-        "active": true,
+        "active": false,
         "date_updated": 1788908203,
         "date_posted": 1788907745,
         "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5232802007",
@@ -360087,7 +360062,7 @@
         "company_name": "neurohire.ai",
         "id": "e286c81e-9d91-47e7-9629-9185635680de",
         "title": "Software AI Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793920150,
         "date_posted": 1793920089,
         "url": "https://apply.workable.com/neurohire-dot-a-i/j/E5A5756725/apply",
