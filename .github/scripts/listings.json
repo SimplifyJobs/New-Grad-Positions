@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Northrop Grumman",
-        "id": "8fe0b23c-3194-4d7e-8372-219b099e4244",
-        "title": "Engineering Technician - Level 2 or Level 3",
-        "active": false,
-        "date_updated": 1774403973,
-        "date_posted": 1774403973,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Kennedy-Space-Center/Engineering-Technician---Level-2-or-Level-3_R10227070",
-        "locations": [
-            "Cape Canaveral, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Gartner",
         "id": "b7d0b0eb-f2ba-411b-abcd-3db5654b9050",
@@ -374602,7 +374584,7 @@
         "company_name": "Adyen",
         "id": "3731ea17-7b7f-45a8-9f5e-995882d14ed6",
         "title": "Junior Full-Stack Developer - Docs Experience Engineering Team",
-        "active": true,
+        "active": false,
         "date_updated": 1795016722,
         "date_posted": 1795016524,
         "url": "https://job-boards.greenhouse.io/adyen/jobs/8068230",
