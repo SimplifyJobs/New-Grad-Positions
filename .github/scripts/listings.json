@@ -158087,7 +158087,7 @@
         "company_name": "Cybernetic Labs",
         "id": "d24846e3-7ab0-4dc5-8419-0d070719ad82",
         "title": "Full-Stack Software Engineer New Grad - Product",
-        "active": true,
+        "active": false,
         "date_updated": 1784164669,
         "date_posted": 1784164199,
         "url": "https://jobs.ashbyhq.com/netic/bab5d1e5-e31b-42f0-9cef-334b1f17fed3/application?embed=true",
@@ -285894,7 +285894,7 @@
         "company_name": "OneImaging",
         "id": "d35dd23b-846b-4263-be1b-ff94fdfab2e5",
         "title": "Associate Software Engineer - UF Only",
-        "active": true,
+        "active": false,
         "date_updated": 1789166181,
         "date_posted": 1789165995,
         "url": "https://job-boards.greenhouse.io/oneimaging/jobs/4403125009",
@@ -308597,7 +308597,7 @@
         "company_name": "SpaceX",
         "id": "cad7a15f-e678-4d62-9441-0ce4a150ddc7",
         "title": "Wireless Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791066601,
         "date_posted": 1784587535,
         "url": "https://boards.greenhouse.io/spacex/jobs/8637826002",
@@ -323350,7 +323350,7 @@
         "company_name": "Netic",
         "id": "c922394e-fefa-48bc-88e6-16e52ab6de44",
         "title": "Software Engineer - Gap Year",
-        "active": true,
+        "active": false,
         "date_updated": 1791854281,
         "date_posted": 1791854120,
         "url": "https://jobs.ashbyhq.com/netic/e645059a-a2e8-4cfd-84e8-085d92da6e62/application?embed=true",
@@ -375903,6 +375903,163 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Apple",
+        "id": "b3468972-56ab-4076-a1ee-c523f1a719cd",
+        "title": "AR/VR Software Engineer - Spatial System UI - Vision Products Software",
+        "active": true,
+        "date_updated": 1795159630,
+        "date_posted": 1795159460,
+        "url": "https://jobs.apple.com/en-us/details/200696147",
+        "locations": [
+            "Sunnyvale, CA",
+            "Boulder, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Litmus",
+        "id": "7144d3f5-2136-4096-8ad3-54c3376e858e",
+        "title": "Founding Member of Technical Staff",
+        "active": true,
+        "date_updated": 1795159474,
+        "date_posted": 1794873600,
+        "url": "https://jobs.ashbyhq.com/litmushiring/7693e9a2-bc0f-4b43-a5dc-cb2bb27683b3/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Litmushiring",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Zepto Life Technology",
+        "id": "3b40bb90-ae9c-4d47-ac95-d8dd6c416a99",
+        "title": "Software Developer 1",
+        "active": true,
+        "date_updated": 1795159278,
+        "date_posted": 1795159138,
+        "url": "https://zeptolife.bamboohr.com/careers/143/",
+        "locations": [
+            "St Paul, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Zepto-Life-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Wiser",
+        "id": "33e87f4a-4d46-48f7-b16e-48e0cb0ff624",
+        "title": "Product Manager",
+        "active": true,
+        "date_updated": 1795159262,
+        "date_posted": 1794475106,
+        "url": "https://wiser.teamtailor.com/jobs/8708593-product-manager?ats=teamtailor",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Wiser",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Wiser",
+        "id": "34c5b296-6333-4ba6-bc9b-8a973608af2e",
+        "title": "Product Associate",
+        "active": true,
+        "date_updated": 1795159262,
+        "date_posted": 1794938962,
+        "url": "https://wiser.teamtailor.com/jobs/8757835-product-associate?ats=teamtailor",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Wiser",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rise Internet",
+        "id": "2826d282-8f4d-4136-ac55-8b63c5942327",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1795158743,
+        "date_posted": 1795158577,
+        "url": "https://workforcenow.adp.com/job?cid=025c6b1c-d982-48ca-a361-edd0625dd097&jobId=9204447887026_1",
+        "locations": [
+            "Texas",
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Rise-Internet",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qualcomm",
+        "id": "2be0835e-fbfd-4ad1-8ee5-e83ce56a660b",
+        "title": "DSP Applications Software Engineer - ASICS Engineering",
+        "active": true,
+        "date_updated": 1795158367,
+        "date_posted": 1795158320,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446722230518",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Omnimed",
+        "id": "09da3dd8-927e-4026-9b1d-ef76a8121304",
+        "title": "ML Developer - Junior or Intermediate",
+        "active": true,
+        "date_updated": 1795158448,
+        "date_posted": 1795158267,
+        "url": "https://omnimed.bamboohr.com/careers/73/",
+        "locations": [
+            "Cookshire-Eaton, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Omnimed",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
