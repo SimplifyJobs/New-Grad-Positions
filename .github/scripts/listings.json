@@ -171136,7 +171136,7 @@
         "company_name": "The Aerospace Corporation",
         "id": "27dd8f63-add0-47df-9055-44b5b46d4138",
         "title": "Radiation Effects Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1784678584,
         "date_posted": 1782562532,
         "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2026-Radiation-Effects-Scientist_R015186",
@@ -376391,6 +376391,28 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/OctaiPipe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Plante Moran",
+        "id": "c21bd349-b504-43f2-9a51-97475ad313a4",
+        "title": "Financial Data and Analytics Consultant",
+        "active": true,
+        "date_updated": 1795177263,
+        "date_posted": 1794528000,
+        "url": "https://plantemoran.wd1.myworkdayjobs.com/pmexternalcareers/job/Southfield/Financial-Data-and-Analytics-Consultant_JR-03521",
+        "locations": [
+            "Chicago, IL",
+            "Southfield, MI",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Plante-Moran",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
