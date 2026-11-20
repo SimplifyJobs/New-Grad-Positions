@@ -1,84 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Uncountable",
-        "id": "2be85ed6-1f10-412c-b779-90d1f55bbd99",
-        "title": "Product Manager \u2013 New Grad",
-        "active": true,
-        "date_updated": 1774430144,
-        "date_posted": 1774430144,
-        "url": "https://jobs.ashbyhq.com/uncountable/1f8425be-cd39-4397-a9c1-6511ecfc39fc/application",
-        "locations": [
-            "SF",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Uncountable",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Insitro",
-        "id": "baa0fed1-65c0-4289-9a52-b9b37a1d6a89",
-        "title": "Senior Machine Learning Scientist - Oligonucleotides",
-        "active": false,
-        "date_updated": 1774429883,
-        "date_posted": 1774429883,
-        "url": "https://jobs.ashbyhq.com/insitro/1abf3c50-9587-4cab-857b-b2f18de01617/application",
-        "locations": [
-            "San Bruno, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Insitro",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Uncountable",
-        "id": "4c7af976-72a8-4a39-a281-f5661002ac5a",
-        "title": "Scientific Data Engineer",
-        "active": true,
-        "date_updated": 1774429873,
-        "date_posted": 1774429873,
-        "url": "https://jobs.ashbyhq.com/uncountable/48cbdfbc-c377-49bd-b39b-4c2d77357135/application",
-        "locations": [
-            "SF",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Uncountable",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "abcec084-a86f-472c-9f79-5ceb80369826",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1774429475,
-        "date_posted": 1774429475,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055001",
-        "locations": [
-            "Reading, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "PPG Industries",
         "id": "0054b252-49f9-46d3-8064-1d73bc306ff6",
@@ -361710,7 +361632,7 @@
         "company_name": "Charles Schwab",
         "id": "206ba36a-050c-448b-b880-2b4c5ab214d4",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1794006363,
         "date_posted": 1793923200,
         "url": "https://career-schwab.icims.com/jobs/127949/job?mobile=true&needsRedirect=false",
@@ -376297,6 +376219,43 @@
             "Phoenix, AZ"
         ],
         "company_url": "https://simplify.jobs/c/Honeywell-Aerospace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Formlabs",
+        "id": "227ae520-56a7-44bc-8495-2677c99cce9f",
+        "title": "Revenue Strategy & Analytics Lead",
+        "active": true,
+        "date_updated": 1795166642,
+        "date_posted": 1794509279,
+        "url": "https://careers.formlabs.com/job/8383697/apply/?gh_jid=8383697",
+        "locations": [
+            "Somerville, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Formlabs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AMI Labs",
+        "id": "0e4a29a8-5d79-4895-8da7-1eed594dff30",
+        "title": "Robot Operator",
+        "active": true,
+        "date_updated": 1795166113,
+        "date_posted": 1793836800,
+        "url": "https://jobs.ashbyhq.com/ami/51fb97ed-e0fc-4702-ba02-c2c916e1b7fe/application?embed=true",
+        "locations": [
+            "Montreal, QC, Canada",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/AMI-Labs",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
