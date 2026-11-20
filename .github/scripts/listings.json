@@ -1,43 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GE Vernova",
-        "id": "ab35e488-89b3-4837-b046-16edca29ff2c",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1774452095,
-        "date_posted": 1774452095,
-        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Rugby/Software-Engineer_R5035038-1",
-        "locations": [
-            "Rugby, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Vernova",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "CACI",
-        "id": "775d44ff-b2d8-4be6-b44b-f7f57268a803",
-        "title": "Full Stack Web Application Developer",
-        "active": false,
-        "date_updated": 1774450921,
-        "date_posted": 1774450921,
-        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-NY-Rome/Full-Stack-Web-Application-Developer_323706",
-        "locations": [
-            "Rome, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/CACI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
         "date_updated": 1777381615,
         "sponsorship": "Does Not Offer Sponsorship",
         "active": false,
@@ -108241,7 +108203,7 @@
         "company_name": "Innodata",
         "id": "c62908a1-dbf8-411d-953d-5b7cd882c7f1",
         "title": "Generative AI Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1781170202,
         "date_posted": 1781169538,
         "url": "https://job-boards.greenhouse.io/innodatainc/jobs/4224824009",
@@ -283690,7 +283652,7 @@
         "company_name": "AllianceBernstein",
         "id": "ee7309ba-fb23-49f4-bcd1-cb34d3b4d7b4",
         "title": "Derivative Valuation Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1789078501,
         "date_posted": 1788998400,
         "url": "https://abglobal.wd1.myworkdayjobs.com/alliancebernsteincareers/job/Nashville-Tennessee/Derivative-Valuation-Analyst_R0019733-2",
@@ -321683,7 +321645,7 @@
         "company_name": "Mini-Circuits",
         "id": "d856f183-f660-451c-8972-276b01c7158b",
         "title": "Test Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791595081,
         "date_posted": 1791595001,
         "url": "https://jobs.jobvite.com/mini-circuits-review/job/opcWAfwR?nl=1&nl=1&fr=false",
@@ -376178,6 +376140,102 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nephila Capital",
+        "id": "43b6056a-64f9-4a6f-8ac2-5ebd422c1a53",
+        "title": "Technology Associate",
+        "active": true,
+        "date_updated": 1795188242,
+        "date_posted": 1795188075,
+        "url": "https://nephila.bamboohr.com/careers/107/",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Nephila-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nephila Capital",
+        "id": "414e035f-278d-4400-814d-740ffda95605",
+        "title": "Technology Associate",
+        "active": true,
+        "date_updated": 1795188242,
+        "date_posted": 1795188076,
+        "url": "https://nephila.bamboohr.com/careers/104/",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Nephila-Capital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "USAN",
+        "id": "0465505f-4e77-4a73-ac70-00d3069cce3f",
+        "title": "Application Developer New Grad",
+        "active": true,
+        "date_updated": 1795187913,
+        "date_posted": 1795187876,
+        "url": "https://usan.bamboohr.com/careers/204/",
+        "locations": [
+            "Norcross, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/USAN",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Systems Planning and Analysis",
+        "id": "2624ed0f-9c5d-47c2-9cea-8e77199913ae",
+        "title": "Junior Modeling and Simulation Engineer",
+        "active": true,
+        "date_updated": 1795187549,
+        "date_posted": 1795185960,
+        "url": "https://spa.jibeapply.com/jobs/23894?icims=1&lang=en-us",
+        "locations": [
+            "Alexandria, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/System-Planning-And-Analysis",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Man Group",
+        "id": "58072455-6a87-4c49-af22-7171aae178e7",
+        "title": "Solutions Graduate Analyst",
+        "active": true,
+        "date_updated": 1795186987,
+        "date_posted": 1795174172,
+        "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/5039979101",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Man-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
