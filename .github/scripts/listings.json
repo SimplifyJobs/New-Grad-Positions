@@ -1,80 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Twitch",
-        "id": "bed6f7ea-e6e8-4d84-b025-7ee242811892",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1774401489,
-        "date_posted": 1774401489,
-        "url": "https://job-boards.greenhouse.io/twitch/jobs/8472708002",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Twitch",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "963196d0-1d1c-4fe4-924a-1b21afd245f4",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1774401429,
-        "date_posted": 1774401429,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054991",
-        "locations": [
-            "Dorchester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "7c7aa94e-1e21-4d61-bf1b-25d3c0b37289",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1774401349,
-        "date_posted": 1774401349,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054992",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "a8284ef6-d96e-4eed-92c7-231feb343cc5",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1774401066,
-        "date_posted": 1774401066,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054994",
-        "locations": [
-            "Basingstoke, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Northrop Grumman",
         "id": "8fe0b23c-3194-4d7e-8372-219b099e4244",
@@ -375480,7 +375406,7 @@
         "company_name": "Huntington Ingalls Industries",
         "id": "1443baaf-82fc-4773-8906-b4efefc773c9",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1795100915,
         "date_posted": 1795100759,
         "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1452128000/?ats=successfactors",
