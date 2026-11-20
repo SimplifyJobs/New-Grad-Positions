@@ -289949,7 +289949,7 @@
         "company_name": "Anduril",
         "id": "54a452ec-d813-473c-a8f2-93fbfec8afb3",
         "title": "Electrical Engineer - Space Emerging Talent",
-        "active": true,
+        "active": false,
         "date_updated": 1789511041,
         "date_posted": 1789509904,
         "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236639007",
@@ -376259,5 +376259,45 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AlphaSense",
+        "id": "47161aef-37ce-4d61-a297-b519aa462510",
+        "title": "Channel and Customer Research Analyst",
+        "active": true,
+        "date_updated": 1795167724,
+        "date_posted": 1794957886,
+        "url": "https://job-boards.greenhouse.io/alphasense/jobs/8468733002",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/AlphaSense",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "45b5195b-a064-4da9-9bdf-39f740fd1050",
+        "title": "Gate-level Noise - Signal Integrity - STA CAD Engineer",
+        "active": true,
+        "date_updated": 1795167724,
+        "date_posted": 1793661707,
+        "url": "https://jobs.apple.com/en-us/details/200692988",
+        "locations": [
+            "Austin, TX",
+            "Cupertino, CA",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
