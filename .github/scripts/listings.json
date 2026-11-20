@@ -258574,7 +258574,7 @@
         "company_name": "American Express",
         "id": "a6080c21-a844-48d7-bcc9-8a240ddd19e1",
         "title": "Software Engineer 1 - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1788310503,
         "date_posted": 1788310288,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012796",
@@ -285510,7 +285510,7 @@
         "company_name": "Motorola",
         "id": "6c48d7cb-d59c-4c94-99b5-5a897366072a",
         "title": "Android Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1789165441,
         "date_posted": 1789084800,
         "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Software-Engineer_R62561",
@@ -349494,7 +349494,7 @@
         "company_name": "First Due",
         "id": "735db69e-c591-4f36-8a68-480a6492a64b",
         "title": "Cloud Security Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793284022,
         "date_posted": 1786663150,
         "url": "https://job-boards.greenhouse.io/localitymediallcdbafirstdue/jobs/4364212009",
@@ -359454,7 +359454,7 @@
         "company_name": "General Dynamics",
         "id": "ece66f40-33f4-4979-934e-e82d24067c02",
         "title": "SONAR Systems Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793868483,
         "date_posted": 1793332800,
         "url": "https://careers-gdeb.icims.com/jobs/21251/job?mobile=true&needsRedirect=false",
@@ -371103,7 +371103,7 @@
         "company_name": "Super Micro Computer",
         "id": "93219a1e-b155-44dd-b405-06d535ebab99",
         "title": "Engineering Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1794653641,
         "date_posted": 1790039294,
         "url": "https://jobs.supermicro.com/job/San-Jose-Engineering-Technician-Cali/1432310700/?ats=successfactors",
@@ -374788,7 +374788,7 @@
         "company_name": "CACI",
         "id": "6af8c893-078d-4b0c-895a-7fe8105ba976",
         "title": "Software Engineer Skill Level 0",
-        "active": true,
+        "active": false,
         "date_updated": 1792760224,
         "date_posted": 1782956251,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/Annapolis-Junction-MD-US/Software-Engineer-Skill-Level-0_323580",
@@ -376061,5 +376061,244 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sante",
+        "id": "b84e71f0-da1d-40e1-809e-312f13a0dd2c",
+        "title": "AI Engineer",
+        "active": true,
+        "date_updated": 1795161446,
+        "date_posted": 1795161279,
+        "url": "https://workforcenow.adp.com/job?cid=6045a3c5-9cfb-4d71-9c06-80a911514305&jobId=274361596777_1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Sante",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Veregy",
+        "id": "170ea5f1-bc19-47e4-9ad8-3a638921c9aa",
+        "title": "Energy Engineer",
+        "active": true,
+        "date_updated": 1795160915,
+        "date_posted": 1795160843,
+        "url": "https://workforcenow.adp.com/job?cid=c5bf927d-75b0-4e6e-8d59-de5517866227&jobId=9201302533317_48",
+        "locations": [
+            "Hoffman Estates, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Veregy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Our Next Energy",
+        "id": "1c9414e6-675d-4ad3-98cc-64b92729c91d",
+        "title": "Electrical Engineer",
+        "active": true,
+        "date_updated": 1795160730,
+        "date_posted": 1795160618,
+        "url": "https://recruiting.ultipro.com/our1002onxe/JobBoard/5c7eeefc-e61c-417a-8468-f976a704a34d/OpportunityDetail?opportunityId=369d3ee2-d483-4b00-8814-7e984530877f",
+        "locations": [
+            "Novi, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Our-Next-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Honeywell Aerospace",
+        "id": "f0885220-6817-4024-8e1b-6c94e820f385",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1795159883,
+        "date_posted": 1795159688,
+        "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/99125642",
+        "locations": [
+            "Clearwater, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell-Aerospace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Honeywell Aerospace",
+        "id": "e3c785ce-b794-49bf-ba72-a27d6352a5ce",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1795159871,
+        "date_posted": 1795159676,
+        "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/127431",
+        "locations": [
+            "Clearwater, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell-Aerospace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Honeywell Aerospace",
+        "id": "d1ff3811-40e9-4c27-bea2-4157e6878b14",
+        "title": "Hardware Engineer 1",
+        "active": true,
+        "date_updated": 1795159878,
+        "date_posted": 1795159684,
+        "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/126722",
+        "locations": [
+            "Clearwater, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell-Aerospace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Honeywell Aerospace",
+        "id": "76a9cb30-d7ec-4cf8-b5e0-1db37dce88c5",
+        "title": "Information Systems & Data Science New Grad",
+        "active": true,
+        "date_updated": 1795159890,
+        "date_posted": 1795159698,
+        "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120249",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell-Aerospace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Honeywell Aerospace",
+        "id": "67b563de-9d90-4f4b-b20e-2f5948926ed5",
+        "title": "Software Engineering New Grad",
+        "active": true,
+        "date_updated": 1795159889,
+        "date_posted": 1795159699,
+        "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120524",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell-Aerospace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Honeywell Aerospace",
+        "id": "28aae0c2-d80b-44a5-a6a7-7ecabb7e51af",
+        "title": "Software Engineer Recent Grad",
+        "active": true,
+        "date_updated": 1795159895,
+        "date_posted": 1795159699,
+        "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120265",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell-Aerospace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Honeywell Aerospace",
+        "id": "320d1fae-6a88-4f28-9e44-2e0964f36e00",
+        "title": "Lead Engineering Technician 2",
+        "active": true,
+        "date_updated": 1795159820,
+        "date_posted": 1795159637,
+        "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/129374",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell-Aerospace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Honeywell Aerospace",
+        "id": "2c866a58-ed65-4b57-a267-8a7016c38c72",
+        "title": "Embedded Software Engineer 1 - Flight Management System",
+        "active": true,
+        "date_updated": 1795159839,
+        "date_posted": 1795159655,
+        "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/128476",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell-Aerospace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Honeywell Aerospace",
+        "id": "1ee6b911-af9a-4bec-9760-e01128302906",
+        "title": "Engineering Technician 1",
+        "active": true,
+        "date_updated": 1795159834,
+        "date_posted": 1795159652,
+        "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/128838",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell-Aerospace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
