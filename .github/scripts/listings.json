@@ -1,50 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Truist Bank",
-        "id": "7c0a95cd-bfe8-415e-920d-89dfef223748",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1774450620,
-        "date_posted": 1774450620,
-        "url": "https://truist.wd1.myworkdayjobs.com/en-US/Careers/job/Richmond-VA/Software-Engineer-I_R0112713",
-        "locations": [
-            "Raleigh, NC",
-            "Goldsboro, NC",
-            "Richmond, VA",
-            "Charlotte, NC",
-            "Greensboro, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Truist-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Manulife Financial",
-        "id": "85ddb335-4515-4887-9db2-1cc9c38b3a2a",
-        "title": "Graduate Recruitment Opportunities - Data Analyst",
-        "active": false,
-        "date_updated": 1774449956,
-        "date_posted": 1774449956,
-        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Graduate-Recruitment-Opportunities--GRO-----Data-Analyst_JR25081566",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Manulife-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "GE Vernova",
         "id": "ab35e488-89b3-4837-b046-16edca29ff2c",
@@ -65178,26 +65134,6 @@
         "degrees": [
             "Bachelor's",
             "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Voyager Technologies",
-        "id": "de74f6c5-bad1-4dab-8c03-cfb04b3b4793",
-        "title": "Machine Learning Engineer",
-        "active": false,
-        "date_updated": 1778721121,
-        "date_posted": 1774449113,
-        "url": "https://job-boards.greenhouse.io/voyagertechnologiesinc/jobs/4173800009",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Voyager-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
