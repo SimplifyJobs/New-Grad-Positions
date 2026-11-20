@@ -281207,7 +281207,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "ae44ea5a-496c-4667-9de2-6578c285889c",
         "title": "Graduate Software Engineer - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1788916394,
         "date_posted": 1788916115,
         "url": "https://careers.jhuapl.edu/jobs/59653?icims=1",
@@ -353335,7 +353335,7 @@
         "company_name": "Integration Innovation (i3)",
         "id": "7d4ee985-9d3b-40be-9364-3d7f5c9cee84",
         "title": "Entry Level Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793426942,
         "date_posted": 1787318460,
         "url": "https://i3-corps.jibeapply.com/jobs/5218?icims=1",
@@ -376232,6 +376232,88 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Man-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Autura",
+        "id": "ca927922-9673-414a-8960-8831fbc52367",
+        "title": "Data Operations Associate",
+        "active": true,
+        "date_updated": 1795190406,
+        "date_posted": 1795184750,
+        "url": "https://autura.com/careers?gh_jid=5470341008",
+        "locations": [
+            "Houston, TX",
+            "Cleveland, OH",
+            "Dallas, TX",
+            "Kansas City, MO",
+            "Chattanooga, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Autura",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "3e9edcfe-72f3-4bd8-a8d7-7e6ec89ee04e",
+        "title": "Associate, FPGA Firmware Electrical Engineering",
+        "active": true,
+        "date_updated": 1795190434,
+        "date_posted": 1795190328,
+        "url": "https://jobs.l3harris.com/job/Fort-Wayne-Associate,-FPGA-Firmware-Electrical-Engineering-IN-46818/1452529600/?ats=successfactors",
+        "locations": [
+            "Fort Wayne, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "333cec62-e680-42cd-a429-54e92cbe28c8",
+        "title": "Associate FPGA Firmware Electrical Engineering",
+        "active": true,
+        "date_updated": 1795190441,
+        "date_posted": 1795190328,
+        "url": "https://jobs.l3harris.com/job/Fort-Wayne-Associate,-FPGA-Firmware-Electrical-Engineering-IN-46818/1452528900/?ats=successfactors",
+        "locations": [
+            "Fort Wayne, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "0e961056-83ab-48ac-b418-5d457f9c4031",
+        "title": "Associate Embedded Software Engineer",
+        "active": true,
+        "date_updated": 1795190445,
+        "date_posted": 1795190327,
+        "url": "https://jobs.l3harris.com/job/Fort-Wayne-Associate,-Embedded-Software-Engineer-IN-46818/1452529800/?ats=successfactors",
+        "locations": [
+            "Fort Wayne, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
