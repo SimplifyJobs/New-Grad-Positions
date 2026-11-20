@@ -304329,7 +304329,7 @@
         "company_name": "RTX",
         "id": "3b38426e-3cc3-4a96-9277-6756b25e6d6f",
         "title": "Systems Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1790765461,
         "date_posted": 1790208000,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/Systems-Engineer-I-onsite_01877314",
@@ -341649,7 +341649,7 @@
         "company_name": "ServiceNow",
         "id": "8f92f713-831e-414a-9cc3-067cf3b3ba4f",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792793353,
         "date_posted": 1792790698,
         "url": "https://jobs.smartrecruiters.com/ServiceNow/744000157571919",
@@ -368569,7 +368569,7 @@
         "company_name": "Wash U",
         "id": "50eedce1-4c09-47bb-a737-7be6bc79d1a8",
         "title": "Data Analyst - Transplant Nephrology",
-        "active": true,
+        "active": false,
         "date_updated": 1794498713,
         "date_posted": 1794441600,
         "url": "https://wustl.wd1.myworkdayjobs.com/external/job/Remote/Data-Analyst--PRN-Remote----Transplant-Nephrology_JR98521",
@@ -375821,5 +375821,85 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Lawrence Livermore National Laboratory (LLNL)",
+        "id": "1cfa73c2-75bd-4a2f-a201-ee0518493881",
+        "title": "Electronics Technologist/Senior Electronics Technologist",
+        "active": true,
+        "date_updated": 1795141658,
+        "date_posted": 1795133219,
+        "url": "https://jobs.smartrecruiters.com/LLNL/3743990016985196",
+        "locations": [
+            "Livermore, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/LLNL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's",
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ranovus",
+        "id": "ae89ea3f-9dcb-4a89-85a3-45b45bcbd9f6",
+        "title": "Laser Designer",
+        "active": true,
+        "date_updated": 1795141087,
+        "date_posted": 1795141028,
+        "url": "https://ranovus.bamboohr.com/careers/91/",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ranovus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ford Motor Company",
+        "id": "dc85fafc-3d6e-48bf-8e8b-3b6f0720a8a3",
+        "title": "Product Development Engineer",
+        "active": true,
+        "date_updated": 1795140363,
+        "date_posted": 1795140332,
+        "url": "https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/74623",
+        "locations": [
+            "Sunrise, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Ford-Motor-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SAAZ Micro",
+        "id": "bdc9d862-889f-415e-929a-98dd3e61c544",
+        "title": "Hardware Design Engineer",
+        "active": true,
+        "date_updated": 1795140363,
+        "date_posted": 1795140321,
+        "url": "https://saaz.bamboohr.com/careers/47/",
+        "locations": [
+            "Camarillo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SAAZ-Micro",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
