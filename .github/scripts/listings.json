@@ -2,27 +2,6 @@
     {
         "source": "Simplify",
         "category": "Product",
-        "company_name": "Gartner",
-        "id": "b7d0b0eb-f2ba-411b-abcd-3db5654b9050",
-        "title": "Associate Digital Product Manager",
-        "active": false,
-        "date_updated": 1774419354,
-        "date_posted": 1774419354,
-        "url": "https://gartner.wd5.myworkdayjobs.com/EXT/job/Fort-Myers-FL/Associate-Digital-Product-Manager_106994",
-        "locations": [
-            "Fort Myers, FL",
-            "Irving, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Gartner",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
         "company_name": "Uncountable",
         "id": "2be85ed6-1f10-412c-b779-90d1f55bbd99",
         "title": "Product Manager \u2013 New Grad",
@@ -229647,7 +229626,7 @@
         "company_name": "KeyBank",
         "id": "477f4a29-918e-4971-aa80-59cac674f192",
         "title": "Analytics and Quantitative Modeling Rotational Analyst - Rotational Program",
-        "active": true,
+        "active": false,
         "date_updated": 1787005248,
         "date_posted": 1786924800,
         "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-Analytics-and-Quantitative-Modeling-Rotational-Analyst-Program--Cleveland_R-41381-1",
@@ -258735,7 +258714,7 @@
         "company_name": "American Express",
         "id": "482d2483-2739-4860-9f2a-b5903674a731",
         "title": "Software Engineer 2 - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "date_updated": 1788310502,
         "date_posted": 1788310286,
         "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012940",
