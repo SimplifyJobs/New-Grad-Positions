@@ -2,26 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "PPG Industries",
-        "id": "0054b252-49f9-46d3-8064-1d73bc306ff6",
-        "title": "Database Engineer",
-        "active": false,
-        "date_updated": 1774434369,
-        "date_posted": 1774434369,
-        "url": "https://ppg.wd5.myworkdayjobs.com/PPG_CAREERS/job/MYS---Shah-Alam-Office/Database-Engineer_JR261987-1",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/PPG-Industries",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Freedom Technology Solutions Group",
         "id": "de2dabaf-389f-4f67-bf9d-1414cfa393fe",
         "title": "Junior Software Engineer",
@@ -258371,7 +258351,7 @@
         "company_name": "MSA Safety",
         "id": "9492fbb5-6ba8-4a99-98aa-2aa3b23f3c52",
         "title": "Data Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1788301802,
         "date_posted": 1788301743,
         "url": "https://careers.msasafety.com/jobs/9987?icims=1",
@@ -345600,7 +345580,7 @@
         "company_name": "Alchemi",
         "id": "905eb459-d660-44a9-a5fb-815dd3ae4d15",
         "title": "AI Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793150461,
         "date_posted": 1792540800,
         "url": "https://jobs.ashbyhq.com/alchemi/0b6d993e-e29f-4102-a055-34db1f2797a0/application?embed=true",
@@ -375138,7 +375118,7 @@
         "company_name": "REI Systems",
         "id": "98a47c6e-06dd-4d9d-95c5-02197443ddc8",
         "title": "Junior Associate Software Engineer - Java Full Stack",
-        "active": true,
+        "active": false,
         "date_updated": 1795083343,
         "date_posted": 1793864468,
         "url": "https://careers-reisystems.icims.com/jobs/3511/job?mobile=true&needsRedirect=false",
@@ -376299,5 +376279,24 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Maven Securities",
+        "id": "9661f3ca-f890-400c-bd57-43b702989daa",
+        "title": "Graduate Floor Trader",
+        "active": true,
+        "date_updated": 1795170106,
+        "date_posted": 1794407913,
+        "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8352763",
+        "locations": [
+            "London, UK",
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Maven-Securities",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
