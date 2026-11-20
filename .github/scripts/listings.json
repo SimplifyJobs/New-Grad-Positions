@@ -339550,7 +339550,7 @@
         "company_name": "Ciena",
         "id": "70a2bd03-052e-4163-b668-0d7b79766e19",
         "title": "Product Validation Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1792765086,
         "date_posted": 1790553600,
         "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Quebec/Ingnieur-de-Validation-de-Composant--Product-Validation-Engineer---New-Grad_R031778",
@@ -376417,6 +376417,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ferrovial",
+        "id": "f374347b-d673-45e7-a373-d37ffa4acf3d",
+        "title": "Traffic & Revenue Junior Engineer Trainee",
+        "active": true,
+        "date_updated": 1795177995,
+        "date_posted": 1791239184,
+        "url": "https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Manassas-VA/Traffic---Revenue-Junior-Engineer_JR18196",
+        "locations": [
+            "Manassas, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ferrovial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
