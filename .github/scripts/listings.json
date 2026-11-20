@@ -52748,7 +52748,7 @@
         "company_name": "TikTok",
         "id": "ce48ddb5-e8b7-4b5f-a82f-62cc7945f2b7",
         "title": "Research Scientist - Tiktok Recommendation - Nextgen LLM",
-        "active": false,
+        "active": true,
         "date_updated": 1777622221,
         "date_posted": 1777425028,
         "url": "https://lifeattiktok.com/search/7633605978976520453",
@@ -376376,5 +376376,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "OctaiPipe",
+        "id": "348cb0a1-79a7-4cad-858e-d29776e28fd6",
+        "title": "Applied Scientist - Machine Learning",
+        "active": true,
+        "date_updated": 1795173125,
+        "date_posted": 1795173047,
+        "url": "https://octaipipe.bamboohr.com/careers/49/",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/OctaiPipe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
