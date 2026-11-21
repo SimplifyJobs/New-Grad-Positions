@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "CAE",
-        "id": "e602e285-3ca0-4f92-9a23-d5a2d721b622",
-        "title": "Interoperability Engineer",
-        "active": false,
-        "date_updated": 1774490503,
-        "date_posted": 1774490503,
-        "url": "https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Interoperability-Engineer_121020",
-        "locations": [
-            "Arlington, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/CAE",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "John Deere",
         "id": "6b1de7dd-a0be-4bf2-8cee-7f7a58788046",
@@ -320027,7 +320006,7 @@
         "company_name": "Vizient",
         "id": "26c69754-b42a-4afd-807e-41e2dfe8b206",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791585195,
         "date_posted": 1791504000,
         "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer_35387R-1",
@@ -365490,7 +365469,7 @@
         "company_name": "Symbotic",
         "id": "31b75627-f15f-4daf-9210-cdf8faf6d7b6",
         "title": "Robotics Software Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1794438778,
         "date_posted": 1794355200,
         "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/New-Grad--Robotics-Software-Engineer_R8496",
