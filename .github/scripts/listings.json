@@ -376179,5 +376179,46 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Secureframe",
+        "id": "99cd5349-8e9e-40e3-966e-f41ccfd17d61",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1795276482,
+        "date_posted": 1795219200,
+        "url": "https://jobs.ashbyhq.com/secureframe/ab69f040-9b87-4420-9150-edc6e4f54cfb/application?embed=true",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Secureframe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Welocalize",
+        "id": "71a95f5f-3d72-4966-a93b-85a96d82d818",
+        "title": "Robotics Teleoperator",
+        "active": true,
+        "date_updated": 1795276121,
+        "date_posted": 1794960000,
+        "url": "https://welocalize.wd1.myworkdayjobs.com/welocalize/job/CA-Client-Field-Office-San-Fran-Bay-Area/Project-Dorado---Robotics-Teleoperator_R0008071",
+        "locations": [
+            "California"
+        ],
+        "company_url": "https://simplify.jobs/c/Welocalize",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
