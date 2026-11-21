@@ -333760,7 +333760,7 @@
         "company_name": "Booz Allen",
         "id": "5dd20db4-2a48-4210-930a-e6630cac52bc",
         "title": "Systems Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792708272,
         "date_posted": 1792627200,
         "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/McLean-VA/University--Systems-Engineer_R0252284",
@@ -376344,5 +376344,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "STV",
+        "id": "a9aa286f-c542-45dc-9d63-93177017ce83",
+        "title": "Data Analyst 1",
+        "active": true,
+        "date_updated": 1795261520,
+        "date_posted": 1794355200,
+        "url": "https://stvinc.wd5.myworkdayjobs.com/stv/job/Empire-State-Building-New-York-New-York/Senior-PMO-Specailist_JR6518",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/STV",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
