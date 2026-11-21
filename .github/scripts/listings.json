@@ -1,96 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "b3207fe4-2174-4bb3-9237-0b2210c5f9fb",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1774515978,
-        "date_posted": 1774515978,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055106",
-        "locations": [
-            "Leeds, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "9b9b4546-07fb-4b6f-9600-e85f56563671",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1774515900,
-        "date_posted": 1774515900,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055087",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "5d977906-dbb8-430c-93bd-5bd132c49632",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1774515904,
-        "date_posted": 1774515904,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055121",
-        "locations": [
-            "Bury Saint Edmunds, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "4aecb92d-d495-4f49-83ed-52965177d9d8",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1774515920,
-        "date_posted": 1774515920,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400054920",
-        "locations": [
-            "Newbury, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "34959a52-d426-40c1-a759-3c17de5f06e7",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1774515951,
-        "date_posted": 1774515951,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055089",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Walmart",
         "id": "09f5a8bb-8ba3-421e-b908-c40335880d43",
@@ -367535,7 +367445,7 @@
         "company_name": "Microsoft",
         "id": "1b5051b7-313d-427c-b1cf-b2e7fa4b5947",
         "title": "Electrical Engineer - Schie",
-        "active": true,
+        "active": false,
         "date_updated": 1794538642,
         "date_posted": 1794538490,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557023168",
@@ -376290,6 +376200,26 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "TechInsights",
+        "id": "15746f23-ad9c-4dc5-987a-a9d633549696",
+        "title": "Image Processing Technician",
+        "active": true,
+        "date_updated": 1795252685,
+        "date_posted": 1795130420,
+        "url": "https://techinsights.applytojob.com/apply/4Xi7qkXulH/Image-Processing-Technician",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TechInsights",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Certificate"
         ]
     }
 ]
