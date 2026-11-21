@@ -1,46 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Adelphi Real World",
-        "id": "95b7e244-eb3c-4e91-add9-7c8e2fd4ad1e",
-        "title": "Programmer",
-        "active": false,
-        "date_updated": 1774535715,
-        "date_posted": 1774535715,
-        "url": "https://job-boards.greenhouse.io/adelphirealworld/jobs/5165398008",
-        "locations": [
-            "Buxton, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Adelphi-Real-World",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Omnicom Health",
-        "id": "e8167110-b3d8-492f-b3c1-9bda852eef82",
-        "title": "Programmer",
-        "active": false,
-        "date_updated": 1774535657,
-        "date_posted": 1774535657,
-        "url": "https://job-boards.greenhouse.io/omnicomhealth/jobs/5147698008",
-        "locations": [
-            "Buxton, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Omnicom-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Bank of America",
         "id": "27cab98e-30cf-460f-8523-e89f0004f2d9",
