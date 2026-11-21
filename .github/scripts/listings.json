@@ -376221,5 +376221,25 @@
         "degrees": [
             "Certificate"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Fortive",
+        "id": "63ecd76d-d1d6-46e9-a5eb-af36be00b584",
+        "title": "Associate, Data Analytics and Engineering Track",
+        "active": true,
+        "date_updated": 1795254683,
+        "date_posted": 1791325302,
+        "url": "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10881",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fortive",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
