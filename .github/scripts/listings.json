@@ -2,90 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "CACI",
-        "id": "9427d3df-0a08-43e3-84e9-ea665657e819",
-        "title": "Software Engineer 1 - TS/SCI w/Poly",
-        "active": false,
-        "date_updated": 1774509170,
-        "date_posted": 1774509170,
-        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-MD-Columbia/XMLNAME-305536-Software-Engineer-1--TS-SCI-w-Poly-_311676-1",
-        "locations": [
-            "Columbia, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/CACI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Northrop Grumman",
-        "id": "df6ecf03-50bf-4a5e-982e-937c787bb296",
-        "title": "Software Engineer - Emulator",
-        "active": false,
-        "date_updated": 1774508952,
-        "date_posted": 1774508952,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Engineer-Software---Emulator--Melbourne-Florida-_R10223780",
-        "locations": [
-            "Melbourne, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Northrop Grumman",
-        "id": "9861d04f-e296-4c22-be94-f7e9a742b622",
-        "title": "DMSMS Component Engineer 2/3",
-        "active": false,
-        "date_updated": 1774508939,
-        "date_posted": 1774508939,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Northridge/DMSMS-Component-Engineer-2-or-3_R10208528",
-        "locations": [
-            "Northridge, LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Northrop Grumman",
-        "id": "03f95600-120c-414f-a353-6806dc7f1271",
-        "title": "Sentinel - Systems Engineer/Principal Systems Engineer",
-        "active": false,
-        "date_updated": 1774508829,
-        "date_posted": 1774508829,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel---Systems-Engineer-Principal-Systems-Engineer---18144-_R10225915",
-        "locations": [
-            "Hill AFB, UT",
-            "Colorado Springs, CO",
-            "Offutt AFB, NE"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Intel",
         "id": "e54e1312-e3f5-43a6-8538-716bbb05c8ec",
         "title": "Development Tools Software Engineer",
@@ -103,24 +19,6 @@
             "Bachelor's",
             "Master's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "General Dynamics Information Technology",
-        "id": "6f5ec2bf-09b4-48bd-9828-b629d875492d",
-        "title": "Junior Power Platform Developer",
-        "active": false,
-        "date_updated": 1774510231,
-        "date_posted": 1774510231,
-        "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-FL-MacDill-AFB/Junior-Power-Platform-Developer_RQ217213-1",
-        "locations": [
-            "Tampa, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/GDIT",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -150408,7 +150306,7 @@
         "company_name": "Rhoda AI",
         "id": "774ac260-ffd1-4911-a1dc-51cc4512de83",
         "title": "Electrical Hardware Engineer Associate",
-        "active": false,
+        "active": true,
         "date_updated": 1783981500,
         "date_posted": 1783980718,
         "url": "https://jobs.ashbyhq.com/rhoda-ai/70677a34-7232-45c1-bdcc-e12801ccfef3/application",
@@ -376350,6 +376248,49 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Gradient MSP",
+        "id": "b98f5eb8-103b-4503-af0d-7e7d64d11f97",
+        "title": "Junior Full Stack Developer",
+        "active": true,
+        "date_updated": 1795245662,
+        "date_posted": 1795245517,
+        "url": "https://gradientmsp.bamboohr.com/careers/72/",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Gradient-MSP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Microsoft",
+        "id": "d03ce5dc-6ab1-4714-be30-d442af8d7e1d",
+        "title": "Silicon Design Engineer",
+        "active": true,
+        "date_updated": 1795244887,
+        "date_posted": 1795244736,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557075162",
+        "locations": [
+            "Washington",
+            "Redmond, WA",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
