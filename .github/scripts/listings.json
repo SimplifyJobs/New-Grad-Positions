@@ -363008,7 +363008,7 @@
         "company_name": "Vizient",
         "id": "4eb69d88-9d79-4e01-80a1-bd85252cc29f",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1794325861,
         "date_posted": 1794268800,
         "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer--Hybrid-_35388R",
@@ -371386,7 +371386,7 @@
         "company_name": "Laansu",
         "id": "5455b937-ca16-4e56-89ad-4f0bd88daaf6",
         "title": "Junior Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1794957841,
         "date_posted": 1794957796,
         "url": "https://laansu.applytojob.com/apply/IiHJSaTASV/Junior-Software-Developer",
@@ -376415,5 +376415,41 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Owl.co",
+        "id": "d0788ec8-3e54-4b3b-b05b-dd30bb01733e",
+        "title": "Data Quality Analyst",
+        "active": true,
+        "date_updated": 1795227502,
+        "date_posted": 1791914794,
+        "url": "https://owlco.na.teamtailor.com/jobs/719055-part-time-data-quality-analyst?ats=teamtailor",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Owl-Co",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Washington Nationals",
+        "id": "69cfe444-3d22-40fd-af5f-c2c0079f99fb",
+        "title": "Junior Analyst - Player Projections",
+        "active": true,
+        "date_updated": 1795226942,
+        "date_posted": 1795226790,
+        "url": "https://washnats.rec.pro.ukg.net/MON1001WNBC/JobBoard/769be41b-7ab1-40e5-b837-33d7c87b5787/OpportunityDetail?opportunityId=8f5e2151-1a4e-4167-a96c-2ddc0b90b925",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Washington-Nationals",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
