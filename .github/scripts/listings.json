@@ -315045,7 +315045,7 @@
         "company_name": "Systems Planning and Analysis",
         "id": "a54c604c-7d2b-4184-8be8-d1c7ead6f9f7",
         "title": "Junior Targeting Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1791370478,
         "date_posted": 1790932032,
         "url": "https://spa.jibeapply.com/jobs/23563?icims=1",
@@ -323191,7 +323191,7 @@
         "company_name": "Trove Brands",
         "id": "aa4c7794-175b-4ae7-bf8f-4aed8e487ed3",
         "title": "Brand Marketing Associate - Core & Campaign",
-        "active": true,
+        "active": false,
         "date_updated": 1791941467,
         "date_posted": 1791941339,
         "url": "https://job-boards.greenhouse.io/trovebrands/jobs/4450961009",
@@ -325291,7 +325291,7 @@
         "company_name": "Zipline",
         "id": "87734593-8df4-4646-b129-60db438b12f4",
         "title": "Electrical Engineer - Avionics",
-        "active": true,
+        "active": false,
         "date_updated": 1792075502,
         "date_posted": 1792075380,
         "url": "https://www.zipline.com/open-roles/8034605003?gh_jid=8034605003",
@@ -344324,7 +344324,7 @@
         "company_name": "Shield AI",
         "id": "797cabf2-d3af-4a36-82e0-5a51bfa2b71e",
         "title": "Engineer 1 New Grad - Electrical Integration & Test",
-        "active": false,
+        "active": true,
         "date_updated": 1793167940,
         "date_posted": 1792540800,
         "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/278bdf33-85f0-49ab-a448-567e7e362ca2/application?embed=true",
@@ -361107,7 +361107,7 @@
         "company_name": "National Laboratory of the Rockies",
         "id": "4957c257-64c5-4224-bb33-b22955a73c55",
         "title": "Postdoctoral Researcher in Numerical Optimization and Experimental Design",
-        "active": true,
+        "active": false,
         "date_updated": 1794265391,
         "date_posted": 1794182400,
         "url": "https://nrel.wd5.myworkdayjobs.com/NLR/job/Golden-CO/Postdoctoral-Researcher-in-Numerical-Optimization-and-Experimental-Design_R14605",
@@ -376241,5 +376241,108 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Applied Engineering",
+        "id": "79e776f8-34ef-4c18-9385-a94306716e3c",
+        "title": "Electrical Engineer: Embedded Software",
+        "active": true,
+        "date_updated": 1795255206,
+        "date_posted": 1795123263,
+        "url": "https://www.go-applied.com/careers/openings/?gh_jid=4515468009",
+        "locations": [
+            "West Bend, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Engineering",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capgemini",
+        "id": "78b37fbd-305b-4198-8167-595160398a9c",
+        "title": "Associate Application Consultant",
+        "active": true,
+        "date_updated": 1795255227,
+        "date_posted": 1790029611,
+        "url": "https://careers.capgemini.com/job/Atlanta,-GA-Domain-Associate-Application-Consultant-GA-30301/1439772633/?ats=successfactors",
+        "locations": [
+            "Houston, TX",
+            "Dallas, TX",
+            "Chicago, IL",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Capgemini",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Kobalt Labs",
+        "id": "85c54102-e81e-473e-9444-313292ad97d8",
+        "title": "Software Engineer - Full Stack",
+        "active": true,
+        "date_updated": 1795256105,
+        "date_posted": 1789430400,
+        "url": "https://jobs.ashbyhq.com/kobalt%20labs/0c96afd7-4469-4121-9232-847e8f8f4502/application?embed=true",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Kobalt-Labs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Normal Computing",
+        "id": "6f13a743-47ce-489b-8a21-ebca0f8116e1",
+        "title": "AI Research Resident - Algorithms Codesign",
+        "active": true,
+        "date_updated": 1795255382,
+        "date_posted": 1793059200,
+        "url": "https://jobs.ashbyhq.com/normalcomputing/edfcbcf6-047f-4c12-801b-c78b199e0080/application?embed=true",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/NormalComputing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Fortive",
+        "id": "8538f494-2533-4ecb-9e17-16987ba715b8",
+        "title": "Associate, Product Development Track - Global Leadership Development Program",
+        "active": true,
+        "date_updated": 1795255589,
+        "date_posted": 1791498922,
+        "url": "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10913",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Fortive",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
