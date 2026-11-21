@@ -1,46 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "FOX",
-        "id": "7d545c0e-cee5-46e3-b3a6-5018cc6246b5",
-        "title": "Product Manager - FOX Forward Deployed",
-        "active": false,
-        "date_updated": 1774508063,
-        "date_posted": 1774508063,
-        "url": "https://fox.wd1.myworkdayjobs.com/Domestic/job/Los-Angeles-California-USA/Product-Manager--FOX-Forward-Deployed_R50031861",
-        "locations": [
-            "LA",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/FOX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Hitachi",
-        "id": "38a1f1a9-1e97-4284-90ab-abae02639798",
-        "title": "Digital R&D Engineer - Monitoring & Communications",
-        "active": false,
-        "date_updated": 1774506840,
-        "date_posted": 1774506840,
-        "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Raleigh-North-Carolina-United-States/Digital-R-D-Engineer---Monitoring---Communications_R0120962",
-        "locations": [
-            "Raleigh, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/Hitachi",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "CACI",
         "id": "9427d3df-0a08-43e3-84e9-ea665657e819",
@@ -125,26 +85,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Smithfield Foods",
-        "id": "3fa708f8-0bc9-414b-ac30-5e78572c2c1a",
-        "title": "Associate R&D Technologist",
-        "active": false,
-        "date_updated": 1774508140,
-        "date_posted": 1774508140,
-        "url": "https://smithfieldfoods.wd1.myworkdayjobs.com/Careers/job/Smithfield-VA/Associate-R-D-Technologist_R-2026-3114",
-        "locations": [
-            "Newport News, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Smithfield-Foods",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Intel",
         "id": "e54e1312-e3f5-43a6-8538-716bbb05c8ec",
@@ -162,27 +102,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "The Boeing Company",
-        "id": "9bb0f352-a5f8-4d33-90de-5a7811efdf29",
-        "title": "Wire Design and Install Engineer - Electrical/Electronic Installation Design",
-        "active": false,
-        "date_updated": 1774507890,
-        "date_posted": 1774507890,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Ridley-Park-PA/Wire-Design---Install-Engineer--Electrical-Electronic-Installation-Design-_JR2026492086-1",
-        "locations": [
-            "Chester, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
         ]
     },
     {
@@ -325045,7 +324964,7 @@
         "company_name": "American Electric Power",
         "id": "836c9597-251e-4f23-9233-6c0632f40401",
         "title": "TSOE Tools & Analytics Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792017003,
         "date_posted": 1791936000,
         "url": "https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/New-Albany-OH/TSOE-Tools---Analytics-Engineer_R19939",
@@ -338928,7 +338847,7 @@
         "company_name": "Zurich Insurance",
         "id": "9d24638b-f231-499f-8fe9-a3fab5242bd1",
         "title": "Machine Learning Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792774263,
         "date_posted": 1792536005,
         "url": "https://www.careers.zurich.com/job/Waterloo-Machine-Learning-Engineer-ON/1375404257/?ats=successfactors",
@@ -343718,7 +343637,7 @@
         "company_name": "Elveo",
         "id": "913c7106-5fff-4cfb-baa8-e22f46406cf1",
         "title": "Flight Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793150822,
         "date_posted": 1789171200,
         "url": "https://jobs.ashbyhq.com/elveo/5ff6f792-dbe9-49ed-80df-52f0079e0189/application?embed=true",
