@@ -1,122 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "John Deere",
-        "id": "6b1de7dd-a0be-4bf2-8cee-7f7a58788046",
-        "title": "Data & Analytics Development Program 2 - Data Analytics",
-        "active": false,
-        "date_updated": 1774505850,
-        "date_posted": 1774505850,
-        "url": "https://johndeere.eightfold.ai/careers/job/137478485888",
-        "locations": [
-            "Grimes, IA",
-            "Davenport, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/John-Deere",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "CGS Federal (Contact Government Services)",
-        "id": "22d2ca38-32fd-4f0c-9358-01e40037ac66",
-        "title": "ServiceNow Architect - Sna - Junior",
-        "active": true,
-        "date_updated": 1774505937,
-        "date_posted": 1774505937,
-        "url": "https://jobs.lever.co/cgsfederal/af321f10-50ca-48d6-b807-51428a5aee7a/apply",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/CGS-Federal",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "f555c800-ea95-4954-b42a-10bbce693b97",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1774505211,
-        "date_posted": 1774505211,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055113",
-        "locations": [
-            "Bristol, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "b23e526d-5a98-4935-a185-67a0a4742218",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1774505247,
-        "date_posted": 1774505247,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055112",
-        "locations": [
-            "Thirsk, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Akamai Technologies",
-        "id": "3fb0dee8-2275-4691-9672-8e5da715afde",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1774505193,
-        "date_posted": 1774505193,
-        "url": "https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2703",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Akamai",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Twist Bioscience",
-        "id": "a566e905-3e97-4824-bc90-5963020e636d",
-        "title": "Software Engineer Technician",
-        "active": false,
-        "date_updated": 1774506251,
-        "date_posted": 1774506251,
-        "url": "https://job-boards.greenhouse.io/twistbioscience/jobs/7697911",
-        "locations": [
-            "Tualatin, OR"
-        ],
-        "company_url": "https://simplify.jobs/c/TwistBioscience",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "FOX",
         "id": "7d545c0e-cee5-46e3-b3a6-5018cc6246b5",
@@ -153,26 +37,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Benefis Health System",
-        "id": "8f6675c7-0dcd-463d-8c40-cfc1b0b0494a",
-        "title": "Business Systems Analyst",
-        "active": false,
-        "date_updated": 1774506517,
-        "date_posted": 1774506517,
-        "url": "https://benefis.wd1.myworkdayjobs.com/bhs/job/Great-Falls-MT/Business-Systems-Analyst--Exempt-_JR105340",
-        "locations": [
-            "Great Falls, MT"
-        ],
-        "company_url": "https://simplify.jobs/c/Benefis-Health-System",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
         ]
     },
     {
@@ -367459,7 +367323,7 @@
         "company_name": "Freddie Mac",
         "id": "4cf8e0f2-d8ef-407b-acc7-745e843eb21b",
         "title": "Servicing Efficiency and Transformation Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1794525012,
         "date_posted": 1794441600,
         "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Servicing--Efficiency-and-Transformation--SET--Associate_JR17559",
