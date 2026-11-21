@@ -360469,7 +360469,7 @@
         "company_name": "Old Republic Title",
         "id": "7f130807-a283-464e-bc70-343196c30308",
         "title": "Associate Developer - C#/.Net",
-        "active": false,
+        "active": true,
         "date_updated": 1794267542,
         "date_posted": 1794182400,
         "url": "https://oldrepublic.wd1.myworkdayjobs.com/oldrepublictitle/job/FL-Orlando-6545-Corporate-Ctr-Blvd/Associate-Developer---C--NET_R-4410",
@@ -375455,6 +375455,26 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/JCrew",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "SpaceX",
+        "id": "f75e670e-0ebd-4fa6-becc-0a39d4e975d2",
+        "title": "New Graduate Engineer - Electrical",
+        "active": true,
+        "date_updated": 1795302362,
+        "date_posted": 1795285210,
+        "url": "https://boards.greenhouse.io/spacex/jobs/8957873002",
+        "locations": [
+            "Hawthorne, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/SpaceX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
