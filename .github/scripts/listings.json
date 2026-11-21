@@ -334411,7 +334411,7 @@
         "company_name": "MBDA",
         "id": "d58876b5-ca27-4081-9aa7-36c853104e07",
         "title": "Software Engineering Level 6 Degree Apprentice",
-        "active": true,
+        "active": false,
         "date_updated": 1792718915,
         "date_posted": 1792713600,
         "url": "https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Bristol/Software-Engineering-Level-6-Degree-Apprenticeship-2027_R39416",
@@ -368374,7 +368374,7 @@
         "company_name": "Keysight Technologies",
         "id": "a99d96d3-8116-41b2-b34c-e16cbf88122b",
         "title": "IT Engineer - Software",
-        "active": true,
+        "active": false,
         "date_updated": 1794612064,
         "date_posted": 1794594600,
         "url": "https://jobs.keysight.com/jobs/56558?icims=1&lang=en-us",
@@ -376489,6 +376489,84 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Affirm",
+        "id": "fa86354f-1840-4ba4-bf14-30fe76413447",
+        "title": "Software Engineer 1 - Fullstack - Disputes Platform",
+        "active": true,
+        "date_updated": 1795230073,
+        "date_posted": 1795218634,
+        "url": "https://job-boards.greenhouse.io/affirm/jobs/8196691003",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Affirm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Affirm",
+        "id": "0a654eeb-ff73-4b76-839e-172219e789e4",
+        "title": "Software Engineer 1 - Backend - Streaming Infra",
+        "active": true,
+        "date_updated": 1795230079,
+        "date_posted": 1795223351,
+        "url": "https://job-boards.greenhouse.io/affirm/jobs/8201471003",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Affirm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Affirm",
+        "id": "1dcb493b-6303-4588-bbca-137c506354f5",
+        "title": "Software Engineer 1 - Backend - Streaming Infra",
+        "active": true,
+        "date_updated": 1795230067,
+        "date_posted": 1795223349,
+        "url": "https://job-boards.greenhouse.io/affirm/jobs/8201469003",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Affirm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Toyota",
+        "id": "a8173e49-9529-464c-ac9f-d73516392948",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1795230003,
+        "date_posted": 1795132800,
+        "url": "https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer_10340846",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Toyota",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
