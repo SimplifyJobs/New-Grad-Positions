@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Bank of America",
-        "id": "27cab98e-30cf-460f-8523-e89f0004f2d9",
-        "title": "Trading Assistant Commodities",
-        "active": false,
-        "date_updated": 1774538055,
-        "date_posted": 1774538055,
-        "url": "https://ghr.wd1.myworkdayjobs.com/lateral-emea/job/London/Trading-Assistant-Commodities_26011521-2",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Bank-Of-America",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "General Dynamics UK",
         "id": "2b9d485a-b648-4c5a-b636-dae08803d280",
@@ -376135,6 +376115,69 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cadence Design Systems",
+        "id": "7da54211-7443-4a5b-86bd-e49ac0409028",
+        "title": "Software Engineer Recent Grad - Verification IP Team",
+        "active": true,
+        "date_updated": 1795274661,
+        "date_posted": 1795046400,
+        "url": "https://cadence.wd1.myworkdayjobs.com/University_Talent_NCG/job/SAN-JOSE/Software-Engineering--Verification-IP-Team--Recent-Grad-2026-_R55884",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cadence-Design-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Veolia",
+        "id": "a86a8e03-2ee2-4791-8566-53feaf4ff217",
+        "title": "Digital Transformation Graduate",
+        "active": true,
+        "date_updated": 1795274462,
+        "date_posted": 1794960000,
+        "url": "https://veoliauki.wd3.myworkdayjobs.com/VESCareers/job/London/Digital-Transformation-Graduate_JR33710",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Veolia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Walmart",
+        "id": "7ad57a9d-6cf2-4dea-bbb4-f6ad41b8a491",
+        "title": "Software Engineer 3",
+        "active": true,
+        "date_updated": 1795274353,
+        "date_posted": 1794960000,
+        "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-VIZIO-SERVICES-DENVER-CO-DENVER-Home-Office/XMLNAME--USA--Software-Engineer-III_R-2674054-1",
+        "locations": [
+            "Seattle, WA",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
