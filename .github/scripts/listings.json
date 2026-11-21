@@ -1,82 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "b3eee282-d04c-4b17-aba8-78b51ce7f517",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1774487738,
-        "date_posted": 1774487738,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055108",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "af090965-08de-49a0-b427-8032a6a5d646",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1774487846,
-        "date_posted": 1774487846,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055105",
-        "locations": [
-            "Gloucester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Welocalize",
-        "id": "7f01cd88-1ca9-4440-8d4f-cc6e0a8e8897",
-        "title": "Generative AI Data Analyst",
-        "active": false,
-        "date_updated": 1774487491,
-        "date_posted": 1774487491,
-        "url": "https://jobs.lever.co/welocalize/5f0e65d9-dde1-4bb9-a2d1-cbf3ef4ae4ab/apply",
-        "locations": [
-            "California"
-        ],
-        "company_url": "https://simplify.jobs/c/Welocalize",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Axon",
-        "id": "07ccc626-d5d2-4c71-bf84-cd2381ab55be",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1774488219,
-        "date_posted": 1774488219,
-        "url": "https://job-boards.greenhouse.io/axon/jobs/7624132003",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Axon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "CAE",
         "id": "e602e285-3ca0-4f92-9a23-d5a2d721b622",
@@ -266721,7 +266645,7 @@
         "company_name": "Field AI",
         "id": "08e56e83-1160-4acc-8180-8c63cbf2f259",
         "title": "Sensor Systems Engineer - Autonomous Vehicles - Federal",
-        "active": true,
+        "active": false,
         "date_updated": 1787818879,
         "date_posted": 1778479623,
         "url": "https://jobs.lever.co/field-ai/c0932811-6a6e-45b4-bced-4d0efe50d427/apply",
@@ -269820,27 +269744,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Xaira Therapeutics",
-        "id": "e206907f-f6ed-4950-95c4-7966cc489f29",
-        "title": "AI in Residence",
-        "active": false,
-        "date_updated": 1788458959,
-        "date_posted": 1774488659,
-        "url": "https://job-boards.greenhouse.io/xairatherapeutics/jobs/5089321007",
-        "locations": [
-            "San Bruno, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Xaira-Therapeutics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
     },
     {
         "source": "Simplify",
@@ -318646,7 +318549,7 @@
         "company_name": "Howden",
         "id": "0189dc69-ca60-4a14-861c-099c1754d6db",
         "title": "Data Analyst Apprentice",
-        "active": true,
+        "active": false,
         "date_updated": 1791508685,
         "date_posted": 1791504000,
         "url": "https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/Cheltenham---St-James-House/Data-Analyst-Apprenticeship-Programme-2027---Cheltenham_R0019722-1",
