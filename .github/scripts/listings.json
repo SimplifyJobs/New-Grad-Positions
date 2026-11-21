@@ -368320,7 +368320,7 @@
         "company_name": "Thoughtworks",
         "id": "e594916c-1936-470f-8780-c44e4a1da22f",
         "title": "Graduate Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1794613543,
         "date_posted": 1793232000,
         "url": "https://jobs.ashbyhq.com/c898d712-c4ab-4157-954a-5df226a781e2/b6bcff88-eb9a-4df1-8695-bc4e7dc1dbc7/application?embed=true",
@@ -376323,6 +376323,24 @@
             "Irvine, CA"
         ],
         "company_url": "https://simplify.jobs/c/Fortive",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Starbridge",
+        "id": "fbcc1432-da10-41dc-8e7a-16058604cc38",
+        "title": "Software Engineer - Federal",
+        "active": true,
+        "date_updated": 1795260422,
+        "date_posted": 1794787200,
+        "url": "https://jobs.ashbyhq.com/starbridge/7a86e5d3-0871-4a1f-a65d-bfadb7be3b4d/application?embed=true",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Starbridge",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
