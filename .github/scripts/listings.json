@@ -349559,7 +349559,7 @@
         "company_name": "Drug Hunter",
         "id": "f4af57a4-772f-4045-a16e-196a9e74444d",
         "title": "Research Associate - Data Curation",
-        "active": true,
+        "active": false,
         "date_updated": 1793313721,
         "date_posted": 1793313611,
         "url": "https://apply.workable.com/drug-hunter/j/A2FD4EB245/apply",
@@ -350792,7 +350792,7 @@
         "company_name": "Formlabs",
         "id": "e466a05a-bb0b-489e-b0d5-8532c71138b9",
         "title": "Electrical Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793353010,
         "date_posted": 1793212730,
         "url": "https://careers.formlabs.com/job/8331686/apply/?gh_jid=8331686",
@@ -369511,7 +369511,7 @@
         "company_name": "Shield AI",
         "id": "f6f476c2-5053-433d-91b6-ffe423294891",
         "title": "Electrical Engineer - Hardware Test",
-        "active": true,
+        "active": false,
         "date_updated": 1794654001,
         "date_posted": 1793318400,
         "url": "https://jobs.ashbyhq.com/shield/16b044e7-02e2-4657-9b87-782a76b127b1/application?embed=true",
@@ -370357,7 +370357,7 @@
         "company_name": "Blue Cross Blue Shield of Michigan",
         "id": "7dc878bb-f892-42c9-abb4-a751b4676661",
         "title": "Analyst Trainee - Data Analysis - Customer Service",
-        "active": true,
+        "active": false,
         "date_updated": 1794870361,
         "date_posted": 1794870218,
         "url": "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15154",
@@ -374259,7 +374259,7 @@
         "company_name": "ATA Engineering",
         "id": "a8001fb2-9680-4964-8743-9e22282fe768",
         "title": "Engineering Software Programmer",
-        "active": true,
+        "active": false,
         "date_updated": 1795143062,
         "date_posted": 1795142907,
         "url": "https://ataengineering.applytojob.com/apply/ivXsyvzO4I/Engineering-Software-Programmer",
@@ -376257,6 +376257,281 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Park Place Technologies",
+        "id": "8a5e4d83-0b62-4cc5-85b7-3453496bfd1f",
+        "title": "Production Technician 1",
+        "active": true,
+        "date_updated": 1795219405,
+        "date_posted": 1795219267,
+        "url": "https://recruiting.ultipro.com/par1035pptl/JobBoard/179139af-1fdc-4996-a0b2-37363c5ff9cc/OpportunityDetail?opportunityId=28889260-f251-47f5-9efa-8406175f0863",
+        "locations": [
+            "Grand Rapids, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Park-Place-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Acuity Insurance",
+        "id": "60f62ecc-1d9d-4e4c-87e1-9a10484f7ca7",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1795219340,
+        "date_posted": 1795219217,
+        "url": "https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=2621ceb4-172b-4f80-b042-b76aab90a2df",
+        "locations": [
+            "Wisconsin"
+        ],
+        "company_url": "https://simplify.jobs/c/Acuity-Insurance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TransCore",
+        "id": "c7a67833-979c-4af3-83e1-d17ea4ec0a14",
+        "title": "Software Engineer 1 - SQL Development",
+        "active": true,
+        "date_updated": 1795219271,
+        "date_posted": 1795219109,
+        "url": "https://recruiting2.ultipro.com/TRA1034TNSC/JobBoard/0885e26f-46c3-45cc-8f3a-b849c09d3bdd/OpportunityDetail?opportunityId=3ce5c847-8e02-470d-aed6-9630544aa893",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/TransCore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Laansu",
+        "id": "f7c334e4-cf93-44b4-a838-64e47a83f8c1",
+        "title": "Junior Software Developer",
+        "active": true,
+        "date_updated": 1795219221,
+        "date_posted": 1795219150,
+        "url": "https://laansu.applytojob.com/apply/VlgxKiBUqZ/Junior-Software-Developer",
+        "locations": [
+            "Sterling, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Laansu",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "MSU Federal Credit Union",
+        "id": "c9344731-46ee-48eb-bbf4-b01acf1ad7f1",
+        "title": "Software Engineer - Front-End/Full Stack - Mobile/Website/Core",
+        "active": true,
+        "date_updated": 1795219221,
+        "date_posted": 1795219120,
+        "url": "https://recruiting.ultipro.com/MIC1007/JobBoard/24c0bd68-a7ff-5460-0b4e-fe75a81b0396/OpportunityDetail?opportunityId=8c5ed6c6-dd4a-4bd3-88cb-7af4a764b2d3",
+        "locations": [
+            "Michigan",
+            "Illinois"
+        ],
+        "company_url": "https://simplify.jobs/c/MSU-Federal-Credit-Union",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Boomi",
+        "id": "b1420411-70ed-41dd-8ab7-cc36058133d3",
+        "title": "Data & AI Analyst - Talent Acquisition",
+        "active": true,
+        "date_updated": 1795219221,
+        "date_posted": 1795205314,
+        "url": "https://job-boards.greenhouse.io/boomilp/jobs/6263422004",
+        "locations": [
+            "Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Boomi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TransCore",
+        "id": "7752d5d7-f2e3-41e1-97f6-3db5eabe12c1",
+        "title": "Associate Product Manager",
+        "active": true,
+        "date_updated": 1795219221,
+        "date_posted": 1795219109,
+        "url": "https://recruiting2.ultipro.com/TRA1034TNSC/JobBoard/0885e26f-46c3-45cc-8f3a-b849c09d3bdd/OpportunityDetail?opportunityId=55e32159-4c95-48ea-bb03-01dbca8391c3",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/TransCore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CTDI",
+        "id": "d952bc5e-be2a-4bdb-85c5-0643c649b6e2",
+        "title": "Repair Technician - Tech B",
+        "active": true,
+        "date_updated": 1795219221,
+        "date_posted": 1795219054,
+        "url": "https://recruiting.ultipro.com/COM1019CTDI1/JobBoard/ab728dae-48cf-43af-8869-6b591e5d9495/OpportunityDetail?opportunityId=a9ac5625-6b96-4eb4-9dc6-c0fccfd67f85",
+        "locations": [
+            "West Chester, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/CTDI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CTDI",
+        "id": "e5b191e2-7bee-4d2a-adf4-c89bf027229e",
+        "title": "System Test Engineer",
+        "active": true,
+        "date_updated": 1795219221,
+        "date_posted": 1795219053,
+        "url": "https://recruiting.ultipro.com/COM1019CTDI1/JobBoard/ab728dae-48cf-43af-8869-6b591e5d9495/OpportunityDetail?opportunityId=fec39bd2-a7b7-4cf9-a68a-45c863229082",
+        "locations": [
+            "Logan Township, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/CTDI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CTDI",
+        "id": "663edc8e-3012-46f5-a141-53797eaa949d",
+        "title": "Assistant Tech",
+        "active": true,
+        "date_updated": 1795219221,
+        "date_posted": 1795219053,
+        "url": "https://recruiting.ultipro.com/COM1019CTDI1/JobBoard/ab728dae-48cf-43af-8869-6b591e5d9495/OpportunityDetail?opportunityId=124c21d8-eefb-4a2b-a429-3e1e1fa19982",
+        "locations": [
+            "Flower Mound, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/CTDI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Merchants Insurance Group",
+        "id": "419a0a33-b552-4692-82c7-d3806143183d",
+        "title": "Junior SQL Developer",
+        "active": true,
+        "date_updated": 1795219252,
+        "date_posted": 1795219058,
+        "url": "https://recruiting.ultipro.com/mer1018mmic/JobBoard/1b36f9bd-51dd-d343-e324-b2b56c792814/OpportunityDetail?opportunityId=47ed54ca-64f0-4dd1-8ffd-c275f0cf58db",
+        "locations": [
+            "Buffalo, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Merchants-Insurance-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CTDI",
+        "id": "adb3213c-0d6d-4cc0-adfc-62bc2dea9890",
+        "title": "Assistant Tech",
+        "active": true,
+        "date_updated": 1795219221,
+        "date_posted": 1795219052,
+        "url": "https://recruiting.ultipro.com/COM1019CTDI1/JobBoard/ab728dae-48cf-43af-8869-6b591e5d9495/OpportunityDetail?opportunityId=a67d3f3a-9bab-4175-a789-18816ce1a02d",
+        "locations": [
+            "West Chester, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/CTDI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CTDI",
+        "id": "15402210-fa0b-42bb-96e4-cf3bf623650c",
+        "title": "System Test Engineer",
+        "active": true,
+        "date_updated": 1795219221,
+        "date_posted": 1795219056,
+        "url": "https://recruiting.ultipro.com/COM1019CTDI1/JobBoard/ab728dae-48cf-43af-8869-6b591e5d9495/OpportunityDetail?opportunityId=a86d8648-00d7-4293-aad8-b2569d952ea5",
+        "locations": [
+            "Hebron, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/CTDI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CTDI",
+        "id": "8ae93602-52cb-4b60-8ede-2e86757eac36",
+        "title": "Robotics Engineer",
+        "active": true,
+        "date_updated": 1795219221,
+        "date_posted": 1795219052,
+        "url": "https://recruiting.ultipro.com/COM1019CTDI1/JobBoard/ab728dae-48cf-43af-8869-6b591e5d9495/OpportunityDetail?opportunityId=168662f8-1340-4fdc-a4c4-10f604134f65",
+        "locations": [
+            "West Chester, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/CTDI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
