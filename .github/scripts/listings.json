@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Walmart",
-        "id": "09f5a8bb-8ba3-421e-b908-c40335880d43",
-        "title": "Senior Software Engineer",
-        "active": false,
-        "date_updated": 1774521987,
-        "date_posted": 1774521987,
-        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Sunnyvale-CA/Senior-Software-Engineer_R-2451411-1",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Walmart",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Huntington Ingalls Industries",
         "id": "8ab3a618-d166-4ac3-be7a-2c36bf2d952d",
@@ -363661,7 +363643,7 @@
         "company_name": "Shield AI",
         "id": "a30d1d5c-8782-400c-b224-073781eec8ae",
         "title": "Engineer 1 New Grad - Electrical Integration & Test",
-        "active": false,
+        "active": true,
         "date_updated": 1794362946,
         "date_posted": 1792540800,
         "url": "https://jobs.ashbyhq.com/shield/278bdf33-85f0-49ab-a448-567e7e362ca2/application?embed=true",
