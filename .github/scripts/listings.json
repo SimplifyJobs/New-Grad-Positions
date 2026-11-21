@@ -376451,5 +376451,44 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "8a87ec30-d332-4788-beaf-d8fe3b0ef037",
+        "title": "Data Collection Operator - Optimus",
+        "active": true,
+        "date_updated": 1795228743,
+        "date_posted": 1795228676,
+        "url": "https://www.tesla.com/careers/search/job/266837",
+        "locations": [
+            "Lathrop, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "EisnerAmper",
+        "id": "91e04d19-b6ad-443f-8742-2cf4fd1eb19c",
+        "title": "Outsourcing IT Staff 1",
+        "active": true,
+        "date_updated": 1795228235,
+        "date_posted": 1795132800,
+        "url": "https://eisneramper.wd1.myworkdayjobs.com/EisnerAmperEarlyCareers/job/Iselin/XMLNAME-2026-Outsourcing-IT-Staff-I_Req-9694",
+        "locations": [
+            "Iselin, Woodbridge Township, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/EisnerAmper",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
