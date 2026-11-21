@@ -222575,7 +222575,7 @@
         "company_name": "Kyndryl",
         "id": "7894345d-6677-46a0-b561-523670a2aa56",
         "title": "Associate AI Engineer - Early Career Consult Program",
-        "active": true,
+        "active": false,
         "date_updated": 1786678404,
         "date_posted": 1786579200,
         "url": "https://kyndryl.wd5.myworkdayjobs.com/KyndrylEarlyCareers/job/USDALFRI---Dallas-Frisco-AI-HUB-FRI/Early-Career-Consult-Program---Associate-AI-Engineer_R-66739",
@@ -286441,7 +286441,7 @@
         "company_name": "OneImaging",
         "id": "8c0fb250-98e8-4bab-9869-2339235ac275",
         "title": "Associate Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1789415101,
         "date_posted": 1789414927,
         "url": "https://job-boards.greenhouse.io/oneimaging/jobs/4404708009",
@@ -302819,7 +302819,7 @@
         "company_name": "EvenUp",
         "id": "5d0c84fa-1994-4946-a104-4a9b317a3f9c",
         "title": "Software Engineer New Grad - AI Entities",
-        "active": false,
+        "active": true,
         "date_updated": 1790778540,
         "date_posted": 1790778062,
         "url": "https://jobs.ashbyhq.com/evenup/19eb22cd-9540-49ed-840b-6422714413b5/application?embed=true",
@@ -346252,7 +346252,7 @@
         "company_name": "RTX",
         "id": "bb8cf360-cda0-4fdc-8d19-309a28f92ccd",
         "title": "Digital Hardware Design Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1793225342,
         "date_posted": 1793145600,
         "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Digital-Hardware-Design-Engineer-1--Onsite-_01869154-2",
@@ -356846,7 +356846,7 @@
         "company_name": "Vizient",
         "id": "dd22de65-f2ed-491a-906d-0db1329ac27f",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793845982,
         "date_posted": 1793750400,
         "url": "https://vizient.wd1.myworkdayjobs.com/Vizient_Careers/job/Irving-TX-75062-Vizient-Corporate-HQ/Associate-Software-Engineer--Hybrid-_35731R-1",
@@ -365087,7 +365087,7 @@
         "company_name": "GlobalFoundries",
         "id": "d5b231df-b44c-40e0-988d-f6a55a204225",
         "title": "AI Processor Hardware/Software Integration Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1794409734,
         "date_posted": 1794355200,
         "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Richardson/AI-Processor-Hardware-Software-Integration-Engineer--2027-New-College-Graduate-_JR-2604093",
@@ -370614,7 +370614,7 @@
         "company_name": "Microsoft",
         "id": "e225362a-3608-44aa-ae93-8c06b023ccd7",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1794871826,
         "date_posted": 1794871653,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557074534",
@@ -375591,6 +375591,668 @@
             "United States"
         ],
         "company_url": "https://simplify.jobs/c/Varian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Trimont",
+        "id": "d8b1d436-8cf4-4446-bf74-98f594102146",
+        "title": "Technology Analyst Program",
+        "active": true,
+        "date_updated": 1795219082,
+        "date_posted": 1795218971,
+        "url": "https://recruiting.ultipro.com/TRI1039TRES/JobBoard/551314d5-926b-4475-808f-39d0e0248aed/OpportunityDetail?opportunityId=d6e6af65-2ea6-432c-939d-392a67e7bdf9",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Trimont",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Alchemy",
+        "id": "95a5494d-7e7c-40f3-a76d-2c2234eaf50c",
+        "title": "Data Analyst Supply Chain & Logistics",
+        "active": true,
+        "date_updated": 1795218842,
+        "date_posted": 1795218744,
+        "url": "https://recruiting.ultipro.com/ALC1004TELCO/JobBoard/e3a8eb11-96c0-4968-9120-a910524a61db/OpportunityDetail?opportunityId=deead4e5-f3c3-48ec-bacd-6d920b1967b9",
+        "locations": [
+            "Bloomington, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Wearealchemy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Zscaler",
+        "id": "bb4df03f-cdf9-493c-8743-3f139dc83df3",
+        "title": "Software Development Engineer",
+        "active": true,
+        "date_updated": 1795218665,
+        "date_posted": 1795196320,
+        "url": "https://job-boards.greenhouse.io/zscaler/jobs/5283494007",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zscaler",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Phoenix Defense",
+        "id": "db05776a-2628-4410-af1f-982cb5c9fb72",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1795218698,
+        "date_posted": 1795218553,
+        "url": "https://recruiting2.ultipro.com/pho1004phox/JobBoard/acd90700-5979-43ba-b9f1-2d34847188e0/OpportunityDetail?opportunityId=887af972-6506-40d8-a121-db264168ce36",
+        "locations": [
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Phx-Defense",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Miami HEAT",
+        "id": "4006027f-3be8-442a-8529-8299edff8f47",
+        "title": "Front-End Web Developer",
+        "active": true,
+        "date_updated": 1795218484,
+        "date_posted": 1795218473,
+        "url": "https://recruiting.ultipro.com/mia1004mhlp/JobBoard/b34868a3-6ce1-4a28-b8fb-afb1cd5be9d3/OpportunityDetail?opportunityId=8e02edd4-aa49-4769-87af-48efdcbc9984",
+        "locations": [
+            "Miami, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Miami-HEAT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RosaicLabs",
+        "id": "e051df4a-7e35-43a4-88e4-fcd17159864a",
+        "title": "CPU Architecture & Performance Engineer",
+        "active": true,
+        "date_updated": 1795218484,
+        "date_posted": 1795218401,
+        "url": "https://jobs.lever.co/rosaiclabs/bbf2eea2-aaea-4e70-8d03-d4f29ef41ffc/apply",
+        "locations": [
+            "Austin, TX",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/RosaicLabs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Keplar",
+        "id": "fdecba0c-d4eb-4bba-839b-1dce5788c465",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1795218540,
+        "date_posted": 1795132800,
+        "url": "https://jobs.ashbyhq.com/keplar/9da9bb8e-d7f1-4247-b6da-8392ebc852bd/application?embed=true",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Waterloo, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Keplar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Banner Engineering",
+        "id": "5773aa18-84d6-46cd-afa8-3c91cf105a1b",
+        "title": "Electronic Technician - R&D Engineering",
+        "active": true,
+        "date_updated": 1795218484,
+        "date_posted": 1795218413,
+        "url": "https://recruiting.ultipro.com/ban1010/JobBoard/e9066a66-c3b9-e25c-d036-116705c05e46/OpportunityDetail?opportunityId=95433ee1-dbae-4f1b-a12c-88c3a0a1e4d4",
+        "locations": [
+            "Plymouth, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/BannerEngineering",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "HF Sinclair",
+        "id": "ab356f01-4587-4b1b-b407-a555c82de193",
+        "title": "Rotational Development Program Associate - Commercial",
+        "active": true,
+        "date_updated": 1795218307,
+        "date_posted": 1795218155,
+        "url": "https://careers.hfsinclair.com/job/Dallas-Rotational-Development-Program-Associate-Commercial-TX-75219/1452738700/?ats=successfactors",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/HF-Sinclair",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "SWJ TECHNOLOGY",
+        "id": "d077012c-9191-4566-8bca-46dab580cc8d",
+        "title": "Junior AI Vision & Automation Engineer - Automotive Manufacturing",
+        "active": true,
+        "date_updated": 1795218307,
+        "date_posted": 1795218223,
+        "url": "https://swjtechnology.applytojob.com/apply/sdXb4mCfYl/Junior-AI-Vision-Automation-Engineer-Automotive-Manufacturing",
+        "locations": [
+            "Vance, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/SWJ-TECHNOLOGY",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NRG Energy",
+        "id": "d6290d7e-a3d6-4a84-85be-bb58375f1b65",
+        "title": "AI-Enabled Developer Analyst 1",
+        "active": true,
+        "date_updated": 1795218347,
+        "date_posted": 1795218199,
+        "url": "https://careers.nrgenergy.com/nrg/job/Houston-Developer-Analyst-I-TX-77010/1452758500/?ats=successfactors",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/NRG-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Vertex Service Partners",
+        "id": "5bada924-bfa1-45b0-bc76-6760f3c95365",
+        "title": "Junior AI Engineer",
+        "active": true,
+        "date_updated": 1795218307,
+        "date_posted": 1795208627,
+        "url": "https://job-boards.greenhouse.io/vertexservicepartners/jobs/4517555009",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Vertex-Service-Partners",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Milliman",
+        "id": "b6b9eec8-f1ef-4f9a-b177-9dcf697a5de9",
+        "title": "Client Engineer 1",
+        "active": true,
+        "date_updated": 1795218169,
+        "date_posted": 1795217973,
+        "url": "https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=15f57ffc-5a1e-4431-8c7b-b7177171d600",
+        "locations": [
+            "Seattle, WA",
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Milliman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Milliman",
+        "id": "34c90968-1e0d-4992-9d8d-19dae0551aea",
+        "title": "AI Product Engineer",
+        "active": true,
+        "date_updated": 1795218123,
+        "date_posted": 1795217973,
+        "url": "https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=caa572e4-f514-48c0-80c6-620b7465a91e",
+        "locations": [
+            "Brookfield, WI",
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Milliman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Milliman",
+        "id": "18bba3cb-0f88-4e35-a154-125d4dca9c2c",
+        "title": "Pharmacy Informatics Analyst",
+        "active": true,
+        "date_updated": 1795218123,
+        "date_posted": 1795217974,
+        "url": "https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=cca0cbdd-4bd8-42d2-ab28-fdddd51a4259",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Milliman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Further",
+        "id": "f11946f7-14e3-4390-a450-2ee51c300695",
+        "title": "Entry-Level AI/Data Engineer",
+        "active": true,
+        "date_updated": 1795218020,
+        "date_posted": 1795194223,
+        "url": "https://job-boards.greenhouse.io/furtherearlycareer/jobs/8932674002",
+        "locations": [
+            "Cleveland, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Further",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Further",
+        "id": "12f49243-5918-4a1a-a9fe-886177ea3f6f",
+        "title": "Graduate Program: Entry Level Analyst",
+        "active": true,
+        "date_updated": 1795218019,
+        "date_posted": 1795194303,
+        "url": "https://job-boards.greenhouse.io/furtherearlycareer/jobs/8906228002",
+        "locations": [
+            "Cleveland, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Further",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Further",
+        "id": "d652a6ec-f5ba-492d-8d33-a78eec19f57a",
+        "title": "Analytics Developer New Grad",
+        "active": true,
+        "date_updated": 1795218019,
+        "date_posted": 1795194477,
+        "url": "https://job-boards.greenhouse.io/furtherearlycareer/jobs/8932692002",
+        "locations": [
+            "Cleveland, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Further",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Further",
+        "id": "29d166bb-6682-4439-8684-406f6714ed82",
+        "title": "Entry Level Developer New Grad",
+        "active": true,
+        "date_updated": 1795218019,
+        "date_posted": 1795194169,
+        "url": "https://job-boards.greenhouse.io/furtherearlycareer/jobs/8906198002",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Further",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wellabe",
+        "id": "90c98689-b6d9-4277-80b6-6d8d648b6546",
+        "title": "Software Engineer 1/2/3",
+        "active": true,
+        "date_updated": 1795218006,
+        "date_posted": 1795217892,
+        "url": "https://recruiting.ultipro.com/ame1065/JobBoard/cdfdf806-e3aa-dfb4-4c6e-c7c656217b40/OpportunityDetail?opportunityId=2bb4b550-39c1-4e1c-9123-39b08c6f0fd7",
+        "locations": [
+            "Des Moines, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Wellabe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "E Ink",
+        "id": "1a6f307a-296e-42d1-96ba-43281eee7644",
+        "title": "Research Engineer",
+        "active": true,
+        "date_updated": 1795217942,
+        "date_posted": 1795217778,
+        "url": "https://recruiting.ultipro.com/EIN1000EINK/JobBoard/a41773f4-adab-4192-88a9-8bc27fbad529/OpportunityDetail?opportunityId=ef5f69d2-4e60-4dc8-8611-5fa0b1821171",
+        "locations": [
+            "Billerica, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/E-Ink",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Meso Scale Diagnostics",
+        "id": "74e33dd0-8efa-4031-85f9-1c1245d2b16a",
+        "title": "Systems Engineer 1",
+        "active": true,
+        "date_updated": 1795217788,
+        "date_posted": 1795217619,
+        "url": "https://recruiting.ultipro.com/mes1002messd/JobBoard/888390fa-f9e8-4b6f-9977-7e3a214369f0/OpportunityDetail?opportunityId=4afe2054-c4ea-4476-bdf0-2f322aa52b6d",
+        "locations": [
+            "Gaithersburg, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Meso-Scale-Diagnostics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Multiply",
+        "id": "0320e571-fd57-4040-a1f8-de0c4b0c6e47",
+        "title": "Early Software Engineer - AI-Native",
+        "active": true,
+        "date_updated": 1795217762,
+        "date_posted": 1795132800,
+        "url": "https://jobs.ashbyhq.com/multiplyai/5b30aa69-b2a6-480b-b5b9-3ad5d67f1a55/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Multiply",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Los Angeles Dodgers",
+        "id": "cd348513-af72-40c0-953b-54cf68937e91",
+        "title": "Analyst, International Baseball Strategy & Information",
+        "active": true,
+        "date_updated": 1795217656,
+        "date_posted": 1795217554,
+        "url": "https://recruiting.ultipro.com/LOS1000LADOD/JobBoard/5365ad6e-23ff-4703-bb77-1e9451fb855e/OpportunityDetail?opportunityId=20423a68-4102-4a60-929a-d562b37746ca",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Los-Angeles-Dodgers",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Applied Research Associates",
+        "id": "0a60bd15-52b9-4fce-9079-8d04767929b9",
+        "title": "Autonomy Engineer",
+        "active": true,
+        "date_updated": 1795217581,
+        "date_posted": 1795217534,
+        "url": "https://recruiting.ultipro.com/APP1010ARAI/JobBoard/07442cec-d18e-4589-ab15-8342edc29af7/OpportunityDetail?opportunityId=31bb25e4-a32f-485c-8659-e9409cc97d3a",
+        "locations": [
+            "Warrendale, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Research-Associates",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Applied Research Associates",
+        "id": "da08120f-fe09-44c5-919e-ee601f21b6d4",
+        "title": "Staff 1 Software Engineer",
+        "active": true,
+        "date_updated": 1795217581,
+        "date_posted": 1795217534,
+        "url": "https://recruiting.ultipro.com/APP1010ARAI/JobBoard/07442cec-d18e-4589-ab15-8342edc29af7/OpportunityDetail?opportunityId=923c2342-5cd6-4f6d-834d-1c45797da2af",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Research-Associates",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Applied Research Associates",
+        "id": "e917de7d-f112-4b08-9a96-bbc8d93b52aa",
+        "title": "Staff 1 Computer Vision Deep Learning Engineer",
+        "active": true,
+        "date_updated": 1795217581,
+        "date_posted": 1795217534,
+        "url": "https://recruiting.ultipro.com/APP1010ARAI/JobBoard/07442cec-d18e-4589-ab15-8342edc29af7/OpportunityDetail?opportunityId=9e7169e8-7591-4d2a-a610-fdf24cdafe3d",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Research-Associates",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Applied Research Associates",
+        "id": "bef19ba6-9123-4bff-bece-00cc943cd954",
+        "title": "Junior Software Developer",
+        "active": true,
+        "date_updated": 1795217581,
+        "date_posted": 1795217533,
+        "url": "https://recruiting.ultipro.com/APP1010ARAI/JobBoard/07442cec-d18e-4589-ab15-8342edc29af7/OpportunityDetail?opportunityId=4a45b594-2e7f-4042-9976-8a3b808265ca",
+        "locations": [
+            "Albuquerque, NM"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Research-Associates",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Diversified Services Network",
+        "id": "f7351fa7-b0be-4ecd-bf79-70ccb33ac7f7",
+        "title": "Embedded Software Engineer",
+        "active": true,
+        "date_updated": 1795217627,
+        "date_posted": 1795217488,
+        "url": "https://apply.workable.com/dsn/j/AAF21352DA/apply",
+        "locations": [
+            "Mossville, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Diversified-Services-Network",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Southern Farm Bureau Life Insurance",
+        "id": "d28b9736-6a4d-4227-9b8b-e81b003fc8b3",
+        "title": "HRIS & Business Analyst",
+        "active": true,
+        "date_updated": 1795217581,
+        "date_posted": 1795217511,
+        "url": "https://recruiting2.ultipro.com/sou1016sfbli/JobBoard/adba73e4-f371-45d0-a5d2-32260abcd2f8/OpportunityDetail?opportunityId=abed3f0c-14c2-41d9-afcd-7b36857e97ba",
+        "locations": [
+            "Jackson, MS"
+        ],
+        "company_url": "https://simplify.jobs/c/Southern-Farm-Bureau-Life-Insurance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Applied Research Associates",
+        "id": "020aad10-8fa5-4fd9-8303-8212861425d6",
+        "title": "Printed Circuit Board Technician",
+        "active": true,
+        "date_updated": 1795217581,
+        "date_posted": 1795217528,
+        "url": "https://recruiting.ultipro.com/APP1010ARAI/JobBoard/07442cec-d18e-4589-ab15-8342edc29af7/OpportunityDetail?opportunityId=229d3813-b74d-4c8d-84bc-a3c79374f71a",
+        "locations": [
+            "Lafayette, CO",
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Research-Associates",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Octasic",
+        "id": "4dd82a48-3ca5-45db-b880-b35d197c6d50",
+        "title": "Software Developer - Research & Development",
+        "active": true,
+        "date_updated": 1795217629,
+        "date_posted": 1795217490,
+        "url": "https://ats.rippling.com/octasic-inc/jobs/37d213b7-ac06-4ec0-9656-8dea3beff50f",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Octasic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "USAble Life",
+        "id": "c02e9825-8b2c-416f-be37-b45081975537",
+        "title": "Web Developer 1 or 2",
+        "active": true,
+        "date_updated": 1795217502,
+        "date_posted": 1795217362,
+        "url": "https://recruiting.ultipro.com/USA1002USAL/JobBoard/003df104-d0d0-4233-8068-07ba35aacc79/OpportunityDetail?opportunityId=1699a66a-9f61-40ed-9973-aa7b91dd0306",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/USAble-Life",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
