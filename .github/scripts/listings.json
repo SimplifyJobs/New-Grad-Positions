@@ -357468,7 +357468,7 @@
         "company_name": "Amazon",
         "id": "e7b2cc70-862f-4045-bc00-627e408d80b1",
         "title": "Systems Development Engineer - AWS Commerce Platform-ADC",
-        "active": true,
+        "active": false,
         "date_updated": 1794008702,
         "date_posted": 1794008658,
         "url": "https://amazon.jobs/en/jobs/10598815/systems-development-engineer-aws-commerce-platform-adc",
@@ -373964,7 +373964,7 @@
         "company_name": "Capgemini",
         "id": "78b37fbd-305b-4198-8167-595160398a9c",
         "title": "Associate Application Consultant",
-        "active": true,
+        "active": false,
         "date_updated": 1795255227,
         "date_posted": 1790029611,
         "url": "https://careers.capgemini.com/job/Atlanta,-GA-Domain-Associate-Application-Consultant-GA-30301/1439772633/?ats=successfactors",
@@ -374358,5 +374358,49 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Capgemini",
+        "id": "7f616cc7-7a1e-4ab1-bf9e-a9473d79d170",
+        "title": "Associate Application Consultant",
+        "active": true,
+        "date_updated": 1795341854,
+        "date_posted": 1790720330,
+        "url": "https://careers.capgemini.com/job/Atlanta,-GA-Campus-Associate-Application-Consultant-GA-30301/1442487633/?ats=successfactors",
+        "locations": [
+            "Houston, TX",
+            "Dallas, TX",
+            "Chicago, IL",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Capgemini",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "PopStroke Holdings LLC",
+        "id": "540890f4-99dd-4745-8713-4eba3390050d",
+        "title": "Associate Business Analyst",
+        "active": true,
+        "date_updated": 1795341097,
+        "date_posted": 1794007088,
+        "url": "https://ats.rippling.com/popstroke-job-board-1924/jobs/2d809e59-f51d-4f5f-ac31-e3268675febc",
+        "locations": [
+            "Jupiter, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/PopStroke-Holdings-LLC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
