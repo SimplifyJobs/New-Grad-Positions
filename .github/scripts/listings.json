@@ -296030,7 +296030,7 @@
         "company_name": "CCC Intelligent Solutions",
         "id": "eca8ea10-de85-4351-8b0b-063c1196b4da",
         "title": "Financial Intelligence Analyst - Financial Intelligence",
-        "active": false,
+        "active": true,
         "date_updated": 1790287585,
         "date_posted": 1790287585,
         "url": "https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Financial-Intelligence-Analyst_0014859",
@@ -341349,7 +341349,7 @@
         "company_name": "Elveo",
         "id": "913c7106-5fff-4cfb-baa8-e22f46406cf1",
         "title": "Flight Software Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1793150822,
         "date_posted": 1789171200,
         "url": "https://jobs.ashbyhq.com/elveo/5ff6f792-dbe9-49ed-80df-52f0079e0189/application?embed=true",
@@ -374466,6 +374466,64 @@
             "LA"
         ],
         "company_url": "https://simplify.jobs/c/Warner-Music",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Specialized",
+        "id": "7d8ea47b-88e2-4a96-81f6-aec39f336660",
+        "title": "Early Career Equipment Product & Launch Manager",
+        "active": true,
+        "date_updated": 1795313889,
+        "date_posted": 1795046400,
+        "url": "https://specialized.wd5.myworkdayjobs.com/Specialized_External_Career_Site/job/United-States-CA-Morgan-Hill-Office/Early-Career-Equipment-Product---Launch-Manager_R0012128",
+        "locations": [
+            "Morgan Hill, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Specialized",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Specialized",
+        "id": "54a2e01d-6edb-4b24-a780-7cb263d5acaf",
+        "title": "Early Career Data Engineer",
+        "active": true,
+        "date_updated": 1795313889,
+        "date_posted": 1795046400,
+        "url": "https://specialized.wd5.myworkdayjobs.com/Specialized_External_Career_Site/job/United-States-CA-Morgan-Hill-Office/Early-Career-Data-Engineer_R0012117",
+        "locations": [
+            "Morgan Hill, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Specialized",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Thrivent",
+        "id": "685ea293-f489-4728-b4a4-d93353232d73",
+        "title": "Associate Investment Data Integrity Analyst",
+        "active": true,
+        "date_updated": 1795313168,
+        "date_posted": 1795046400,
+        "url": "https://thrivent.wd5.myworkdayjobs.com/external/job/MN---Minneapolis/Associate-Investment-Data-Integrity-Analyst_REQ-49083",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Thrivent",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
