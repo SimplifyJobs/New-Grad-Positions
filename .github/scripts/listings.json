@@ -374030,5 +374030,94 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hottinger Br\u00fcel & Kjaer",
+        "id": "72136a19-06f8-432f-b3e2-323acdbab78b",
+        "title": "Electrical Engineer",
+        "active": true,
+        "date_updated": 1795363022,
+        "date_posted": 1795132800,
+        "url": "https://spectris.wd3.myworkdayjobs.com/en-US/HBK_Careers/job/Willow-Grove-PA/Electrical-Engineer_19466",
+        "locations": [
+            "Willow Grove, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/HBK",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "The Federal Reserve System",
+        "id": "526401b4-cc59-44dc-99c0-07554269037a",
+        "title": "Quantitative Fellow",
+        "active": true,
+        "date_updated": 1795362515,
+        "date_posted": 1794787200,
+        "url": "https://rb.wd5.myworkdayjobs.com/FRS/job/Minneapolis-MN/Quantitative-Fellowship-Program---Federal-Reserve-System_R-0000034088",
+        "locations": [
+            "Boston, MA",
+            "Washington, DC",
+            "SF",
+            "Cleveland, OH",
+            "Philadelphia, PA",
+            "Richmond, VA",
+            "Charlotte, NC",
+            "St. Louis, MO",
+            "NYC",
+            "Minneapolis, MN",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Federal-Reserve-System",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AVEVA",
+        "id": "33793173-a059-4e1f-9a86-655c9b134751",
+        "title": "Software Developer Graduate",
+        "active": true,
+        "date_updated": 1795362121,
+        "date_posted": 1794873600,
+        "url": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Cambridge-United-Kingdom/Software-Developer-Graduate---UK_R015080-1",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/AVEVA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GrayMatter Robotics",
+        "id": "300a3078-84ab-4ba2-a881-d74186eb9064",
+        "title": "Forward Deployed Engineer",
+        "active": true,
+        "date_updated": 1795361941,
+        "date_posted": 1794960000,
+        "url": "https://jobs.ashbyhq.com/graymatter-robotics/7f806a1c-2874-4a0b-a64c-d8e8e87822bf/application?embed=true",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/GrayMatterRobotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
