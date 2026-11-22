@@ -373204,5 +373204,41 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Calyx Containers",
+        "id": "f1ba0289-d24f-4662-94ca-892ed2c86b56",
+        "title": "Junior Software Developer - Print & Packaging",
+        "active": true,
+        "date_updated": 1795390022,
+        "date_posted": 1795389910,
+        "url": "https://calyxcontainers.applytojob.com/apply/HHSphZTCc2/Junior-Software-Developer-Print-Packaging",
+        "locations": [
+            "West Valley City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Calyx-Containers",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "MinuteBox",
+        "id": "3e7f8274-fbfb-4302-b323-38553f2d3f8b",
+        "title": "Product Manager Associate",
+        "active": true,
+        "date_updated": 1795389122,
+        "date_posted": 1795389001,
+        "url": "https://minutebox.bamboohr.com/careers/66/",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/MinuteBox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
