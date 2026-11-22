@@ -359211,7 +359211,7 @@
         "company_name": "Lumentum",
         "id": "4c35ea86-4881-4a1a-8263-44df9a6b8c5b",
         "title": "Process Automation Software Engineer - MEMS",
-        "active": false,
+        "active": true,
         "date_updated": 1794018786,
         "date_posted": 1793923200,
         "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Process-Automation-Software-Engineer---MEMS_20261527",
@@ -375475,6 +375475,26 @@
             "Hawthorne, CA"
         ],
         "company_url": "https://simplify.jobs/c/SpaceX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Warner Music",
+        "id": "68d6c337-e1cb-4679-948a-7e186b4bef19",
+        "title": "Analyst, Data Analytics",
+        "active": true,
+        "date_updated": 1795305261,
+        "date_posted": 1795046400,
+        "url": "https://wmg.wd1.myworkdayjobs.com/WMGUS/job/USA---Los-Angeles---777-S-Santa-Fe-Ave/Analyst--Automation_R-028700",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Warner-Music",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
