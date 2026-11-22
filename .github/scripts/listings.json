@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Walmart",
-        "id": "500a32cf-a47b-4078-a4e8-ccb810d73c1d",
-        "title": "Senior Data Scientist",
-        "active": false,
-        "date_updated": 1774575213,
-        "date_posted": 1774575213,
-        "url": "https://walmart.wd5.myworkdayjobs.com/Non-WorkdayInternal/job/Sunnyvale-CA/Senior-Data-Scientist_R-2451223",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Walmart",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Particle Measuring Systems",
         "id": "e74737b4-5ac1-4906-83b4-611af17ecbe0",
