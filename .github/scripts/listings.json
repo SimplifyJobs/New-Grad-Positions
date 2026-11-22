@@ -1,135 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "9cc6ef2b-afb7-4d30-9e9f-4202aa1e7828",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1774602297,
-        "date_posted": 1774602297,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055228",
-        "locations": [
-            "Stoke-on-Trent, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Walmart",
-        "id": "6472efaf-f621-4e0d-a06b-7cda61c1132f",
-        "title": "Senior Software Engineer",
-        "active": false,
-        "date_updated": 1774602700,
-        "date_posted": 1774602700,
-        "url": "https://walmart.wd5.myworkdayjobs.com/Non-WorkdayInternal/job/Sunnyvale-CA/Senior-Software-Engineer_R-2451283",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Walmart",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "be21fa03-78e0-4b70-8bec-8428539a1fc1",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1774602294,
-        "date_posted": 1774602294,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055226",
-        "locations": [
-            "Cardiff, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "4512542b-5d77-402f-9ec0-e0f90721ab3b",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1774602295,
-        "date_posted": 1774602295,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055234",
-        "locations": [
-            "Essex, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "2301a3a9-1923-43a7-b68a-a4731326ac93",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1774602294,
-        "date_posted": 1774602294,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055229",
-        "locations": [
-            "Hereford, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "1030ec14-82a7-4231-919f-265af4785d0c",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1774602294,
-        "date_posted": 1774602294,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055231",
-        "locations": [
-            "Glasgow, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "0acd2cdb-0579-40f5-a9c6-f854871c7257",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1774602297,
-        "date_posted": 1774602297,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055233",
-        "locations": [
-            "Glasgow, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Sysmex",
         "id": "82152bb1-abd5-48b9-b073-bad23cdaa4c9",
@@ -374469,5 +374340,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Trimble",
+        "id": "0bba7d5f-0e21-4ecf-b1f6-065b75490dbc",
+        "title": "Junior to Mid-Level Front-End React Engineer",
+        "active": true,
+        "date_updated": 1795339263,
+        "date_posted": 1793844322,
+        "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/UK---Remote/React-Frontend-Engineer_R57662-1",
+        "locations": [
+            "Remote in UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Trimble",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
