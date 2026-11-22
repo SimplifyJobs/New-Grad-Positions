@@ -1,17 +1,14 @@
-import json
 from datetime import datetime
-import os
+
 import util
-import re
 
 
 def main():
-
     listings = util.getListingsFromJSON()
 
     util.checkSchema(listings)
     filtered = util.filterListings(listings, earliest_date=1748761200)
-    
+
     util.sortListings(filtered)
     util.embedTable(filtered)
 

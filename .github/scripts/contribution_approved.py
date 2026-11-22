@@ -3,7 +3,7 @@ import sys
 import uuid
 import subprocess
 from datetime import datetime
-from typing import Union, Optional
+from typing import Optional
 import util
 import re
 

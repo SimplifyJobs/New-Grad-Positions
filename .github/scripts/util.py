@@ -1,7 +1,6 @@
 import json
 import re
-from datetime import date, datetime, timezone, timedelta
-import random
+from datetime import datetime
 import os
 
 # SIMPLIFY_BUTTON = "https://i.imgur.com/kvraaHg.png"
@@ -136,7 +135,6 @@ def convert_markdown_to_html(text):
     return text
 
 def create_md_table(listings):
-    table = ""
     # Use HTML table with CSS for better width control and spacing
     # This provides much better column width control than markdown tables
     table = '<table style="width: 100%; border-collapse: collapse;">\n'
@@ -421,7 +419,6 @@ def embedTable(listings):
                         category_info = CATEGORIES[category_key]
                         newText += create_category_table(listings, category_info["name"])
                 newText += "\n"
-                table_section_replaced = True
                 continue
             
             if in_table_section:
@@ -437,13 +434,9 @@ def embedTable(listings):
         f.write(newText)
 
 def sortListings(listings):
-    oldestListingFromCompany = {}
     linkForCompany = {}
 
     for listing in listings:
-        date_posted = listing["date_posted"]
-        if listing["company_name"].lower() not in oldestListingFromCompany or oldestListingFromCompany[listing["company_name"].lower()] > date_posted:
-            oldestListingFromCompany[listing["company_name"].lower()] = date_posted
         if listing["company_name"] not in linkForCompany or len(listing["company_url"]) > 0:
             linkForCompany[listing["company_name"]] = listing["company_url"]
 
