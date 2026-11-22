@@ -1,167 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "La-Z-Boy",
-        "id": "79a7c274-4eac-4b37-817c-9cbb551c60b1",
-        "title": "Upholstery Designer 2",
-        "active": false,
-        "date_updated": 1774583714,
-        "date_posted": 1774573530,
-        "url": "https://lazboy.wd1.myworkdayjobs.com/lzbcareers/job/Dayton-TN/Upholstery-Designer-II_JR132188",
-        "locations": [
-            "Athens, TN"
-        ],
-        "company_url": "https://simplify.jobs/c/La-Z-Boy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "SanMar",
-        "id": "a30cd359-5ba4-4854-99aa-67b62a5d5636",
-        "title": "Associate Business Systems Analyst",
-        "active": false,
-        "date_updated": 1774573446,
-        "date_posted": 1774573446,
-        "url": "https://boards.greenhouse.io/sanmar/jobs/5091361007",
-        "locations": [
-            "King County, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/SanMar",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Manulife Financial",
-        "id": "fe9a6726-1e04-47a9-8561-1734dd66e55f",
-        "title": "Market Data Analyst",
-        "active": false,
-        "date_updated": 1774573468,
-        "date_posted": 1774573468,
-        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Toronto-Ontario/Market-Data-Analyst_JR26030549-2",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Manulife-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Diamondback Energy",
-        "id": "64919cfc-a018-4033-9854-9a1cfc9b9b93",
-        "title": "Data Integration Analyst",
-        "active": false,
-        "date_updated": 1774573955,
-        "date_posted": 1774573955,
-        "url": "https://diamondbackenergy.wd12.myworkdayjobs.com/DBE/job/Oklahoma-City-OK/Data-Integration-Analyst_R100601-1",
-        "locations": [
-            "Oklahoma City, OK"
-        ],
-        "company_url": "https://simplify.jobs/c/Diamondback-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "The Boeing Company",
-        "id": "ddcebab4-33c4-414c-be91-91da8f63e074",
-        "title": "Embedded Software Engineer-Product Developer \u2013 Experienced or Senior - Associate",
-        "active": false,
-        "date_updated": 1774574691,
-        "date_posted": 1774574691,
-        "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/United-States---Remote/Embedded-Software-Engineer-Product-Developer--Associate--Experienced-or-Senior--Virtual_JR2026490951-1",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Boeing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "0410cd16-fd9c-4bc8-b4ef-355d5389226c",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1774573686,
-        "date_posted": 1774573686,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055221",
-        "locations": [
-            "Christchurch, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "True Anomaly",
-        "id": "012f8912-e1b8-4cbc-bc55-3467b6abe6d0",
-        "title": "Flight Software Engineer 1",
-        "active": false,
-        "date_updated": 1774584987,
-        "date_posted": 1774573928,
-        "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5090441007",
-        "locations": [
-            "Long Beach, CA",
-            "Denver, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/TrueAnomaly",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "b25fa423-15c3-4e8f-aa1d-499ceb463b10",
-        "title": "Fulltime Digital Design Engineer 1",
-        "active": false,
-        "date_updated": 1774586844,
-        "date_posted": 1774574588,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/XMLNAME-2026--Fulltime--Digital-Design-Engineer-I---Onsite-_01812416",
-        "locations": [
-            "Tucson, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Walmart",
         "id": "500a32cf-a47b-4078-a4e8-ccb810d73c1d",
@@ -179,46 +18,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Life Fitness",
-        "id": "79a4df81-c89c-4b7f-8604-2e6ce985da17",
-        "title": "Embedded Software Engineer 1",
-        "active": false,
-        "date_updated": 1774587050,
-        "date_posted": 1774574837,
-        "url": "https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Schaumburg-IL-60173/Embedded-Software-Engineer-I_JR-024894",
-        "locations": [
-            "Hoffman Estates, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Life-Fitness",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Varian",
-        "id": "51a386f8-00a0-4d48-98ae-039422601eeb",
-        "title": "Field Service Representative HW",
-        "active": false,
-        "date_updated": 1774587071,
-        "date_posted": 1774574834,
-        "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/ATL-NP/Field-Service-Rep-HW---Metro-Atlanta-Area_R-26624-1",
-        "locations": [
-            "Georgia"
-        ],
-        "company_url": "https://simplify.jobs/c/670da3c5-bce0-4621-b519-da7ce7d528e6",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -4391,30 +4190,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Liberty Mutual",
-        "id": "f6e118e6-1ef7-4ce7-881c-9e70e6666094",
-        "title": "Analyst - Data Science - Earnix Design",
-        "active": false,
-        "date_updated": 1775000341,
-        "date_posted": 1774573603,
-        "url": "https://careers-libertymutual.icims.com/jobs/74991/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Boston, MA",
-            "Seattle, WA",
-            "Plano, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Liberty-Mutual",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Mattel",
         "id": "51651f7f-ecc9-4a4e-a049-94b1403024e3",
@@ -7809,24 +7584,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Invisible Technologies AI",
-        "id": "8f663b1f-0eef-4f71-b20e-f43f224a63a6",
-        "title": "AI Generalist",
-        "active": false,
-        "date_updated": 1775123821,
-        "date_posted": 1774574384,
-        "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4819324101",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Invisible-TechnologiesAI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -53771,24 +53528,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Vertiv",
-        "id": "7f31309d-ae96-4145-926a-c3d8e788e90c",
-        "title": "Customer Engineer 1",
-        "active": false,
-        "date_updated": 1778058462,
-        "date_posted": 1774573796,
-        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20265198",
-        "locations": [
-            "Kansas City, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/Vertiv",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Columbia Sportswear Company",
         "id": "7cae1f9f-9366-41d1-9b13-08f11ba842bc",
@@ -67115,42 +66854,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Invisible Technologies AI",
-        "id": "3e28ce6e-1005-4cd7-b423-8f680a64fe66",
-        "title": "German Translator - AI Trainer",
-        "active": false,
-        "date_updated": 1779093181,
-        "date_posted": 1774574444,
-        "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4651788101",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Invisible-TechnologiesAI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Invisible Technologies AI",
-        "id": "da453920-8fb6-4684-a7c5-4d6a106f6244",
-        "title": "German Speaker - AI Trainer Project",
-        "active": true,
-        "date_updated": 1779097321,
-        "date_posted": 1774574443,
-        "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4650955101",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Invisible-TechnologiesAI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -84812,24 +84515,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Clipboard Health",
-        "id": "240a825c-9ec7-4279-9962-397b2756b64a",
-        "title": "Software Engineer - Frontend",
-        "active": false,
-        "date_updated": 1779956298,
-        "date_posted": 1774573973,
-        "url": "https://jobs.ashbyhq.com/clipboard/b2e4a20e-4b36-44cb-ad57-604bb3f70fa1/application",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Clipboard-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "ByteDance",
         "id": "13994ae1-e484-4b8d-857a-36fdc5cddde3",
@@ -94167,24 +93852,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Gensyn",
-        "id": "60a58809-88a6-40a5-944b-b6ff6dc0423e",
-        "title": "Technical Product Manager",
-        "active": false,
-        "date_updated": 1780562701,
-        "date_posted": 1774574220,
-        "url": "https://job-boards.eu.greenhouse.io/gensyn/jobs/4660248101",
-        "locations": [
-            "Remote in UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Gensyn",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Nakupuna Companies",
         "id": "5345c16a-438d-4975-8898-474664467f00",
@@ -95878,26 +95545,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Anduril",
-        "id": "0a20816a-d18d-455c-9e1d-fe6a126bb513",
-        "title": "Product Operations Associate - Tier 1",
-        "active": false,
-        "date_updated": 1780622132,
-        "date_posted": 1774574788,
-        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5081383007",
-        "locations": [
-            "Irvine, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Anduril",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -121164,24 +120811,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "HumanSignal",
-        "id": "0851f607-53f8-49e3-a3b8-d428655610de",
-        "title": "AI Data Collector",
-        "active": false,
-        "date_updated": 1782281418,
-        "date_posted": 1774574279,
-        "url": "https://job-boards.greenhouse.io/humansignal/jobs/5823660004",
-        "locations": [
-            "United Kingdom"
-        ],
-        "company_url": "https://simplify.jobs/c/a3363565-517a-4196-b226-f0fcbdeb872a",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Micron Technology",
         "id": "c21179e5-5ab8-405f-8bcd-9c098e8bd858",
@@ -121402,24 +121031,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "HumanSignal",
-        "id": "34a047b0-746f-4fd2-9db6-e3fb43e612b0",
-        "title": "Data Collection Contributor",
-        "active": false,
-        "date_updated": 1782282421,
-        "date_posted": 1774574278,
-        "url": "https://job-boards.greenhouse.io/humansignal/jobs/5823639004",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/a3363565-517a-4196-b226-f0fcbdeb872a",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -124023,24 +123634,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "HumanSignal",
-        "id": "5b02377c-7b76-4ca1-b26d-de19f4a538fd",
-        "title": "Data Collection Contributor",
-        "active": false,
-        "date_updated": 1782281341,
-        "date_posted": 1774574277,
-        "url": "https://job-boards.greenhouse.io/humansignal/jobs/5823643004",
-        "locations": [
-            "Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/a3363565-517a-4196-b226-f0fcbdeb872a",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "EquipmentShare",
         "id": "67d00b54-f78c-4c8e-8f29-ac05af95af4d",
@@ -126527,26 +126120,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Canonical",
-        "id": "091aac0a-16e7-4c81-adec-16382c6fc6c1",
-        "title": "Web Frontend Engineer - Multiple Teams",
-        "active": false,
-        "date_updated": 1782275581,
-        "date_posted": 1774574323,
-        "url": "https://job-boards.greenhouse.io/canonical/jobs/5150422",
-        "locations": [
-            "Remote in UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Canonical",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Cox",
         "id": "01fe015d-acf0-4852-b4cd-a7ec12bb238b",
         "title": "Entry Level Software Engineer",
@@ -127618,24 +127191,6 @@
         "degrees": [
             "Associate's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "HumanSignal",
-        "id": "671f365b-eb59-48e7-933c-68292dc32976",
-        "title": "Data Collection Contributor",
-        "active": false,
-        "date_updated": 1782281341,
-        "date_posted": 1774574278,
-        "url": "https://job-boards.greenhouse.io/humansignal/jobs/5823641004",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/a3363565-517a-4196-b226-f0fcbdeb872a",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -190087,24 +189642,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Anima",
-        "id": "6cc1dadd-e02a-4477-8917-242924cc0c58",
-        "title": "Product Engineer",
-        "active": true,
-        "date_updated": 1785579662,
-        "date_posted": 1774573924,
-        "url": "https://jobs.ashbyhq.com/anima/785441b7-54ea-4840-bf27-b5e8bf71430c/application?embed=true",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Anima",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Northwestern Mutual",
         "id": "33863275-2a05-41ff-bedb-8b3c2e3b8867",
@@ -193545,24 +193082,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Kanshe Infotech",
-        "id": "b075f87f-70d6-4067-8b91-9fd15fa20351",
-        "title": "Python Fullstack Training",
-        "active": false,
-        "date_updated": 1785662101,
-        "date_posted": 1774573508,
-        "url": "https://jobs.smartrecruiters.com/Learnkwikcom/744000065800616",
-        "locations": [
-            "Newark, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Kanshe-Infotech",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -240609,24 +240128,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Skild AI",
-        "id": "d473ec11-b686-4332-be18-e73b4f13a5af",
-        "title": "Robot Operator",
-        "active": false,
-        "date_updated": 1787648072,
-        "date_posted": 1774574270,
-        "url": "https://job-boards.greenhouse.io/skildai-careers/jobs/5162957008",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Skild-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -315117,24 +314618,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Figure",
-        "id": "94d268ed-e8df-4894-94b2-2d401cb5075c",
-        "title": "Humanoid Robot Operator",
-        "active": true,
-        "date_updated": 1791412957,
-        "date_posted": 1774574406,
-        "url": "https://job-boards.greenhouse.io/figureai/jobs/4644962006",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Figure-AI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Chalk",
         "id": "30d31584-e527-4263-b462-ed87f955068d",
@@ -333796,74 +333279,6 @@
             "Master's",
             "PhD"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Parker",
-        "id": "c3cd7b0a-46da-4a24-a48f-e289628432d4",
-        "title": "Data Analyst 1",
-        "active": true,
-        "date_updated": 1792748924,
-        "date_posted": 1774574095,
-        "url": "https://jobs.ashbyhq.com/parker/72eb6232-71b2-430f-969a-82d0ac35b631/application?embed=true",
-        "locations": [
-            "Remote in Finland",
-            "Remote in Poland",
-            "Remote in Portugal",
-            "Remote in Russia",
-            "Remote in Czechia",
-            "Remote in Slovenia",
-            "Remote in Germany",
-            "Remote in Belgium",
-            "Remote in North Macedonia",
-            "Remote in Norway",
-            "Remote in Slovakia",
-            "Remote in Belarus",
-            "Remote in Iceland",
-            "Remote in Monaco",
-            "Remote in Guernsey",
-            "Remote in Jersey",
-            "Remote in UK",
-            "Remote in Ireland",
-            "Remote in Ukraine",
-            "Remote in Greece",
-            "Remote in Faroe Islands",
-            "Remote in Andorra",
-            "Remote in Netherlands",
-            "Remote in Svalbard and Jan Mayen",
-            "Remote in Liechtenstein",
-            "Remote in Hungary",
-            "Remote in San Marino",
-            "Remote in Holy See (Vatican City State)",
-            "Remote in Bulgaria",
-            "Remote in Denmark",
-            "Remote in Malta",
-            "Remote in Albania",
-            "Remote in Serbia",
-            "Remote in Moldova",
-            "Remote in Isle of Man",
-            "Remote in Spain",
-            "Remote in Luxembourg",
-            "Remote in Sweden",
-            "Remote in Switzerland",
-            "Remote in \u00c5land Islands",
-            "Remote in Gibraltar",
-            "Remote in Croatia",
-            "Remote in Montenegro",
-            "Remote in Romania",
-            "Remote in Latvia",
-            "Remote in Bosnia and Herzegovina",
-            "Remote in Austria",
-            "Remote in Italy",
-            "Remote in Lithuania",
-            "Remote in Estonia",
-            "Remote in France"
-        ],
-        "company_url": "https://simplify.jobs/c/Parker",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
