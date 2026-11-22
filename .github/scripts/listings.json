@@ -1,44 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Particle Measuring Systems",
-        "id": "e74737b4-5ac1-4906-83b4-611af17ecbe0",
-        "title": "Service Technician 1",
-        "active": false,
-        "date_updated": 1774617814,
-        "date_posted": 1774591742,
-        "url": "https://spectris.wd3.myworkdayjobs.com/PMS_Careers/job/Niwot-CO/Service-Technician-I_17688",
-        "locations": [
-            "Longmont, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Particle-Measuring-Systems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "b24c693e-6945-45f7-8918-0b59e8a3bf60",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1774591636,
-        "date_posted": 1774591636,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055099",
-        "locations": [
-            "Croydon, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "9cc6ef2b-afb7-4d30-9e9f-4202aa1e7828",
@@ -180,24 +142,6 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/HKEX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Peloton",
-        "id": "32f4fd2d-2b9b-4acc-b50d-ab4c506fc0b4",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1774618077,
-        "date_posted": 1774592147,
-        "url": "https://careers.onepeloton.com/en/all-jobs/?gh_jid=7733271",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Peloton",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -189557,32 +189501,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Prelim",
-        "id": "222309af-4985-4525-a1f9-8a183a6c64b0",
-        "title": "Software Engineer",
-        "active": false,
-        "date_updated": 1785574442,
-        "date_posted": 1774591742,
-        "url": "https://jobs.ashbyhq.com/prelim/62449307-e366-4c92-8d22-9a9f8ec11afa/application?embed=true",
-        "locations": [
-            "Boston, MA",
-            "Seattle, WA",
-            "SF",
-            "Austin, TX",
-            "Chicago, IL",
-            "NYC",
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Prelim",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "CMC Markets",
         "id": "0b696bca-e863-4471-a8e9-55eaf3576843",
@@ -353618,7 +353536,7 @@
         "company_name": "Keysight Technologies",
         "id": "564f421d-34c1-4db7-885e-4f6f0bd915df",
         "title": "Software Engineer-Semiconductor Technology - C#/.NET",
-        "active": true,
+        "active": false,
         "date_updated": 1793844724,
         "date_posted": 1793837460,
         "url": "https://jobs.keysight.com/jobs/56448?icims=1",
@@ -365848,7 +365766,7 @@
         "company_name": "Micron Technology",
         "id": "57be8f14-5089-420e-94ff-79756666f912",
         "title": "Design Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1794612295,
         "date_posted": 1794528000,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/New-College-Grad---Design-Engineer_JR117605",
