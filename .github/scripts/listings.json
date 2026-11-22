@@ -373162,5 +373162,47 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "True Anomaly",
+        "id": "915034b3-03ad-47dc-981c-25532141221f",
+        "title": "Software Engineer 1 New Grad - Full Stack",
+        "active": true,
+        "date_updated": 1792747129,
+        "date_posted": 1787703591,
+        "url": "https://job-boards.greenhouse.io/trueanomalyinc/jobs/5092069007",
+        "locations": [
+            "Long Beach, CA",
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/TrueAnomaly",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GlobalFoundries",
+        "id": "c6805667-f7a7-4da9-b10c-bc3a3281ac5c",
+        "title": "Tapeout Biz Products & Engineering New Grad",
+        "active": true,
+        "date_updated": 1794492382,
+        "date_posted": 1783165101,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Global-Tapeout-and-Mask-Operations--Biz-App-and-Data-Engineer--2026-New-College-Graduate-_JR-2502471-1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/GlobalFoundries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
