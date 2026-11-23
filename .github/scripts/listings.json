@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Aramsco",
-        "id": "4fc94c72-ee28-420e-a0fd-ead78c033716",
-        "title": "Product Maintenance Specialist",
-        "active": false,
-        "date_updated": 1774696037,
-        "date_posted": 1774693299,
-        "url": "https://aramsco.wd1.myworkdayjobs.com/aramscocareers/job/Decatur-IL/USAC--Product-Maintenance-Specialist_JR101581",
-        "locations": [
-            "Decatur, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Aramsco",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "d4e0ba0c-b058-4f5d-991a-33ec090bd8c0",
@@ -90,27 +70,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GE Healthcare",
-        "id": "9f19a190-1de6-44ee-9578-8986cb3a4272",
-        "title": "Field Service Engineer 1",
-        "active": false,
-        "date_updated": 1774734132,
-        "date_posted": 1774693232,
-        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-I---Milwaukee--WI_R4031301-1",
-        "locations": [
-            "Milwaukee, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Healthcare",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
-        ]
     },
     {
         "source": "Simplify",
@@ -274,27 +233,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "67f6ae04-0fd2-4b76-89b2-1d046e4a575a",
-        "title": "Program Protection Software Engineer 1 - Program Protection Software Engineer I",
-        "active": false,
-        "date_updated": 1774747560,
-        "date_posted": 1774693503,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/XMLNAME-2026-Full-time---Program-Protection-Software-Engineer-I---Onsite--MA-_01834028",
-        "locations": [
-            "Concord, MA",
-            "Tewksbury, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -526,46 +464,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "da6533e1-6645-4661-9f2e-ea6f70281500",
-        "title": "Systems Engineer 1",
-        "active": false,
-        "date_updated": 1774842137,
-        "date_posted": 1774693510,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/XMLNAME-2026-Systems-Engineer-I---Onsite---El-Segundo--CA_01828981",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Amentum",
-        "id": "7220a39d-8748-47cb-9c17-aadfdf525485",
-        "title": "Instrumentation Operator Repairer - Communications - Data",
-        "active": false,
-        "date_updated": 1774693829,
-        "date_posted": 1774693829,
-        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-FL-Canaveral/Instrumentation-Operator-Repairer---Communications--Data-_R0152707",
-        "locations": [
-            "Cape Canaveral, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Amentum",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Latitude AI",
         "id": "bc2e2d15-1bb1-4c44-8df2-d0e618e8106d",
@@ -598,27 +496,6 @@
             "Palmdale, CA"
         ],
         "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Dexcom",
-        "id": "d3532a08-9801-4e63-a195-f67372ada1db",
-        "title": "Packaging Engineer 2",
-        "active": false,
-        "date_updated": 1774693828,
-        "date_posted": 1774693828,
-        "url": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/Packaging-Engineer-2_JR115022",
-        "locations": [
-            "San Diego, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Dexcoma",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -669,47 +546,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "GE Healthcare",
-        "id": "7bae5a33-94e7-4ec2-b2c7-7aa45bfd02d6",
-        "title": "Field Service Engineer 1",
-        "active": false,
-        "date_updated": 1774693218,
-        "date_posted": 1774693218,
-        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Service-Engineer-1--Rockford--IL-_R4035771-2",
-        "locations": [
-            "Rockford, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Healthcare",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Pennsylvania State University",
-        "id": "95179e28-03f0-4005-94ef-1640d1556201",
-        "title": "Postdoctoral Scholar",
-        "active": false,
-        "date_updated": 1774693824,
-        "date_posted": 1774693824,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Scholar_REQ_0000053155-1",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Blue Origin",
         "id": "14217d4a-6772-41d3-90e5-661561fb2c56",
         "title": "Recovery Technician",
@@ -724,67 +560,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Pennsylvania State University",
-        "id": "3d07b9b0-3bff-441e-93e7-287fc7f034ad",
-        "title": "Postdoctoral Researcher - Exoplanet Observations",
-        "active": false,
-        "date_updated": 1774693820,
-        "date_posted": 1774693820,
-        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Postdoctoral-Researcher---Exoplanet-Observations_REQ_0000070892",
-        "locations": [
-            "State College, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Ciena",
-        "id": "cc2f2bd2-7e19-4323-beec-6820260a4c6e",
-        "title": "New Grad Research Scientist Engineer",
-        "active": false,
-        "date_updated": 1774842254,
-        "date_posted": 1774693731,
-        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/New-Grad--Research-Scientist-Engineer_R030469",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Ciena",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Abbott",
-        "id": "4e2b7ee3-d4b4-416a-b313-1bc3b3573201",
-        "title": "Test Development Engineer",
-        "active": false,
-        "date_updated": 1774693814,
-        "date_posted": 1774693814,
-        "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Sylmar/Test-Development-Engineer_31145955-1",
-        "locations": [
-            "Pacoima, LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Abbott",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -1145,47 +920,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "ae1162c8-2cc4-45f0-9bbd-1ebd452d87fc",
-        "title": "Raytheon Full Time - Systems Engineer II",
-        "active": false,
-        "date_updated": 1774776808,
-        "date_posted": 1774693503,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-RI-PORTSMOUTH-PS1--1847-W-Main-Rd--NIMITZ-BLDG/XMLNAME-2026-Raytheon-Full-Time---Systems-Engineer-II---Portsmouth--RI--Onsite-_01834033",
-        "locations": [
-            "Bristol, RI"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Montrose Environmental Group",
-        "id": "78e038af-d446-4729-9eb4-85f93edfbdd8",
-        "title": "Entry-Level Data Management Professional - Environmental Chemistry",
-        "active": false,
-        "date_updated": 1774693696,
-        "date_posted": 1774693696,
-        "url": "https://montrose.wd1.myworkdayjobs.com/meg/job/USA-PA-Valley-Forge/Entry-Level-Data-Management-Professional--Environmental-Chemistry-_R8079",
-        "locations": [
-            "Remote in USA",
-            "Phoenixville, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Montrose-Environmental-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
