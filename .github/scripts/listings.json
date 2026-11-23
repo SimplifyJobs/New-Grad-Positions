@@ -373144,5 +373144,29 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "JP Morgan Chase",
+        "id": "4080c80c-d1ea-43e0-a258-493945bb1294",
+        "title": "Consumer Banking Financial Product Analyst New Grad - Consumer & Community Banking - Financial Product Focused",
+        "active": true,
+        "date_updated": 1795420296,
+        "date_posted": 1795420092,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210810495",
+        "locations": [
+            "Columbus, OH",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Bachelor's",
+            "Master's",
+            "Master's"
+        ]
     }
 ]
