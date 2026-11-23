@@ -291986,7 +291986,7 @@
         "company_name": "Vanasse Hangen Brustlin",
         "id": "cfb9fca3-22b5-49d5-aa22-bdb43af80cbb",
         "title": "Transportation Safety Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1790172734,
         "date_posted": 1790172508,
         "url": "https://careers-vhb.icims.com/jobs/6362/job?mobile=true&needsRedirect=false",
@@ -366462,7 +366462,7 @@
         "company_name": "CDM Smith",
         "id": "de591e99-9d3d-45c9-9665-3f57076a48d7",
         "title": "Artificial Intelligence/Machine Learning Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1794957503,
         "date_posted": 1794930840,
         "url": "https://careers.cdmsmith.com/jobs/4994?icims=1&lang=en-us",
@@ -372601,5 +372601,109 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Ercot",
+        "id": "ffda4fd6-2852-46a5-8a35-2cb01c7e3d8a",
+        "title": "Market Operations Engineer/Analyst",
+        "active": true,
+        "date_updated": 1795449422,
+        "date_posted": 1795132800,
+        "url": "https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Austin-TX/Market-Operations-Engineer-Analyst_R2562-1",
+        "locations": [
+            "Taylor, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Ercot",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Vanasse Hangen Brustlin",
+        "id": "f40e5373-6ea4-4692-b638-358366d3f29a",
+        "title": "Entry Level Transportation Safety Analyst",
+        "active": true,
+        "date_updated": 1795449422,
+        "date_posted": 1795449272,
+        "url": "https://careers2-vhb.icims.com/jobs/6362/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Washington, DC",
+            "Raleigh, NC",
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Vanasse-Hangen-Brustlin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Enterprise Holdings",
+        "id": "08abb7cd-e955-459b-845d-51bc3b6726fe",
+        "title": "Data Scientist 1",
+        "active": true,
+        "date_updated": 1795448163,
+        "date_posted": 1795392000,
+        "url": "https://us-erac.icims.com/jobs/595973/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Enterprise-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "3574f73e-f7bb-48db-9405-472749c30a29",
+        "title": "Associate \u2013 Software Engineering",
+        "active": true,
+        "date_updated": 1795447987,
+        "date_posted": 1795447811,
+        "url": "https://jobs.l3harris.com/job/Yorba-Linda-Associate,-Software-Engineering-CA-92887/1452910400/?ats=successfactors",
+        "locations": [
+            "Yorba Linda, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Wyetech",
+        "id": "5b7a91e8-86e8-400b-98fc-90a9793ab6e4",
+        "title": "Software Engineer Level 0 - Full Stack Development",
+        "active": true,
+        "date_updated": 1795448022,
+        "date_posted": 1795447927,
+        "url": "https://wyetech.applytojob.com/apply/xzmg4UGLyj/SWE-0-Software-Engineer",
+        "locations": [
+            "Annapolis Junction, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Wyetech-LLC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
