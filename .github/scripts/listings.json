@@ -672,24 +672,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Austal USA",
-        "id": "27e2bbe5-a825-4469-904c-3d561f08dedc",
-        "title": "Test and Evaluation Engineer 1",
-        "active": false,
-        "date_updated": 1774844371,
-        "date_posted": 1774689042,
-        "url": "https://austalusa.wd1.myworkdayjobs.com/austal/job/Mobile-AL/Test---Evaluation-Engineer-I_R0011156-1",
-        "locations": [
-            "Mobile, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Austal-USA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Wells Fargo",
         "id": "523e2453-7640-4777-b087-4a06aad5624a",
@@ -772,26 +754,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "University of Southern California",
-        "id": "9af75743-2cd1-42b4-93e3-ccff68405dfc",
-        "title": "Postdoctoral Scholar - Research Associate",
-        "active": false,
-        "date_updated": 1774688740,
-        "date_posted": 1774688740,
-        "url": "https://usc.wd5.myworkdayjobs.com/ExternalUSCCareers/job/Los-Angeles-CA---University-Park-Campus/Postdoctoral-Scholar---Research-Associate_REQ20161632",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Southern-California",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Pennsylvania State University",
         "id": "95179e28-03f0-4005-94ef-1640d1556201",
         "title": "Postdoctoral Scholar",
@@ -829,49 +791,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Amgen",
-        "id": "cee9f2d0-ba92-4c60-a972-455be9372f3c",
-        "title": "Senior Manager \u2013 Technical Product Owner Regulatory AI",
-        "active": false,
-        "date_updated": 1774842199,
-        "date_posted": 1774688896,
-        "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Sr-Mgr---Technical-Product-Owner-Regulatory-AI_R-238777",
-        "locations": [
-            "Thousand Oaks, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Amgen",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "University of Texas at Austin",
-        "id": "b1960ddc-588d-4895-aae4-985dc2c5841a",
-        "title": "Postdoctoral Fellow",
-        "active": false,
-        "date_updated": 1774689307,
-        "date_posted": 1774689307,
-        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/AUSTIN-TX/Postdoctoral-Fellow---DD_R_00039400",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Pennsylvania State University",
         "id": "3d07b9b0-3bff-441e-93e7-287fc7f034ad",
@@ -889,24 +808,6 @@
         "degrees": [
             "PhD"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Marsh & McLennan",
-        "id": "2156c2fa-b344-4ebb-9af7-db23e5fd3d1e",
-        "title": "Full-Stack Engineer - Forward Deployed",
-        "active": false,
-        "date_updated": 1774842490,
-        "date_posted": 1774688977,
-        "url": "https://mmc.wd1.myworkdayjobs.com/en-US/MMC/job/London---Tower-Place-East/Full-Stack-Engineer--Forward-Deployed----Digital-Client-Experience----Marsh_R_343885-1",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Marsh-McLennan",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -947,26 +848,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "University of Texas at Austin",
-        "id": "41d690ba-a328-481e-87a4-a010f56e469d",
-        "title": "Postdoctoral Fellow",
-        "active": false,
-        "date_updated": 1774842442,
-        "date_posted": 1774689321,
-        "url": "https://utaustin.wd1.myworkdayjobs.com/UTstaff/job/UT-MAIN-CAMPUS/Postdoctoral-Fellow_R_00009657",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
         ]
     },
     {
