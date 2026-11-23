@@ -351,26 +351,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "Micron Technology",
-        "id": "e5d5daf6-bb3f-4534-aaef-7b1a18c5f7d6",
-        "title": "New College Grad - Semiconductor Verification Design Engineer - DRAM Products Group",
-        "active": false,
-        "date_updated": 1774693983,
-        "date_posted": 1774693983,
-        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Semiconductor-Verification-Design-Engineer--DRAM-Products-Group_JR89932-1",
-        "locations": [
-            "Boise, ID"
-        ],
-        "company_url": "https://simplify.jobs/c/Micron-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Western Digital",
         "id": "2305b147-6ef5-4a4d-beaf-61a57b3a4400",
         "title": "Media Tribology Design Engineer",
@@ -484,27 +464,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Northrop Grumman",
-        "id": "ecdec411-56e2-4d80-b216-82395e6a1b6b",
-        "title": "Engineer/Principal Engineer - Material Process",
-        "active": false,
-        "date_updated": 1774693949,
-        "date_posted": 1774693949,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Engineer-Principal-Engineer---Material-Process_R10224190",
-        "locations": [
-            "Palmdale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Wells Fargo",
         "id": "523e2453-7640-4777-b087-4a06aad5624a",
@@ -522,44 +481,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Western Digital",
-        "id": "264c2baf-a594-49a9-aace-e9a2b52b10fe",
-        "title": "HDD Applications Engineer",
-        "active": false,
-        "date_updated": 1774694300,
-        "date_posted": 1774694300,
-        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000117397567",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Digital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Blue Origin",
-        "id": "14217d4a-6772-41d3-90e5-661561fb2c56",
-        "title": "Recovery Technician",
-        "active": false,
-        "date_updated": 1774842762,
-        "date_posted": 1774693941,
-        "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Offshore-Recovery-Technician_R60395",
-        "locations": [
-            "Florida"
-        ],
-        "company_url": "https://simplify.jobs/c/Blue-Origin",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -5351,27 +5272,6 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Applied Materials",
-        "id": "6a2fb86d-9d24-4b38-b241-767e030c3a5e",
-        "title": "Modeling Engineer Plasma Process and Machine Learning",
-        "active": false,
-        "date_updated": 1775120200,
-        "date_posted": 1774694006,
-        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Modeling-Engineer--Plasma-Process-and-Machine-Learning_R2615878",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
         ]
     },
     {
