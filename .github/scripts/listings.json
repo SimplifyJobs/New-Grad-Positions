@@ -351604,7 +351604,7 @@
         "company_name": "V2X",
         "id": "e31996b1-f6fb-41bc-9c1e-bf4de88e9229",
         "title": "Hardware Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1793846758,
         "date_posted": 1793819280,
         "url": "https://careers.gov2x.com/jobs/63915?icims=1",
@@ -372704,6 +372704,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Renesas Electronics",
+        "id": "a78b73bc-e50a-4a4b-bca7-971936bb5149",
+        "title": "Graduate Digital Design Engineer",
+        "active": true,
+        "date_updated": 1795449616,
+        "date_posted": 1795443369,
+        "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000163235233",
+        "locations": [
+            "Edinburgh, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Renesas-Electronics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
