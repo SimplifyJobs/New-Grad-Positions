@@ -75,46 +75,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "SCAN",
-        "id": "089ca44a-cedd-4241-a6cf-7a46fb44998d",
-        "title": "Product Owner",
-        "active": false,
-        "date_updated": 1774660086,
-        "date_posted": 1774660086,
-        "url": "https://scanhealthplan.wd108.myworkdayjobs.com/scancareers/job/Long-Beach-Office-3800/Product-Owner---Clinical--SCAN-Temp-_JR2455",
-        "locations": [
-            "Long Beach, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/SCAN-Health-Plan",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Micron Technology",
-        "id": "fbff2d74-dc29-4748-ab3b-372ff1f3ebbf",
-        "title": "GEL Engineering Technician",
-        "active": false,
-        "date_updated": 1774660287,
-        "date_posted": 1774660287,
-        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/GEL-Engineering-Technician_JR96396",
-        "locations": [
-            "Boise, ID"
-        ],
-        "company_url": "https://simplify.jobs/c/Micron-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "931a6213-95f8-4f07-860b-1e130ddb0a1f",
@@ -130,27 +90,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Mercury Insurance",
-        "id": "0ece4bf0-caa8-4452-b5e3-54d67a797fc6",
-        "title": "Software Engineering Graduate Development Program",
-        "active": false,
-        "date_updated": 1774731996,
-        "date_posted": 1774660028,
-        "url": "https://careers-mercuryinsurance.icims.com/jobs/5984/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Mercury-Insurance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "source": "Simplify",
@@ -172,24 +111,6 @@
             "Bachelor's",
             "Associate's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "StubHub",
-        "id": "c0a55afc-bd94-42f0-ad0a-891cca049bdb",
-        "title": "Software Engineer 1",
-        "active": false,
-        "date_updated": 1774733460,
-        "date_posted": 1774660645,
-        "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4825412101",
-        "locations": [
-            "LA"
-        ],
-        "company_url": "https://simplify.jobs/c/StubHub",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -250,24 +171,6 @@
             "Bachelor's",
             "Master's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "StubHub",
-        "id": "ab7f6567-e7a7-4d94-ac46-6fde441699e3",
-        "title": "Software Engineer 1 - New Grad",
-        "active": false,
-        "date_updated": 1774746965,
-        "date_posted": 1774660643,
-        "url": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4825411101",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/StubHub",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -379,27 +282,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "ASM International",
-        "id": "bf310b19-eaff-4b3a-94df-ef7962e4f5df",
-        "title": "Engineer \u2013 Field Service",
-        "active": false,
-        "date_updated": 1774748518,
-        "date_posted": 1774660140,
-        "url": "https://www.asm.com/open-vacancies/?gh_jid=4501039101",
-        "locations": [
-            "Phoenix, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/ASM-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
     },
     {
         "source": "Simplify",
@@ -652,26 +534,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Rice University",
-        "id": "55510c87-2d05-49ff-b6b1-5d4b553b0a27",
-        "title": "Postdoctoral Associate - Bioengineering",
-        "active": false,
-        "date_updated": 1774841258,
-        "date_posted": 1774659777,
-        "url": "https://emdz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5690",
-        "locations": [
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Rice-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "55838092-bb6b-40d9-b169-41ad8e44e207",
@@ -748,26 +610,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Abbott",
-        "id": "c8f18450-08af-4675-8588-867fdc58840a",
-        "title": "Test Development Engineer",
-        "active": false,
-        "date_updated": 1774660169,
-        "date_posted": 1774660169,
-        "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers2/job/United-States---California---Sylmar/Test-Development-Engineer_31145955",
-        "locations": [
-            "Pacoima, LA"
-        ],
-        "company_url": "https://simplify.jobs/c/Abbott",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Latitude AI",
         "id": "bc2e2d15-1bb1-4c44-8df2-d0e618e8106d",
@@ -800,67 +642,6 @@
             "Palmdale, CA"
         ],
         "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Suncor",
-        "id": "a66afa72-5044-43a0-9b86-1f909d128ed5",
-        "title": "Financial Systems Analyst - Finance & Planning",
-        "active": false,
-        "date_updated": 1774660027,
-        "date_posted": 1774660027,
-        "url": "https://suncor.wd1.myworkdayjobs.com/Suncor_External/job/Calgary/Financial-Systems-Analyst--Finance---Planning-_R0015986-1",
-        "locations": [
-            "Calgary, AB, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Suncor",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "ABB",
-        "id": "2cbb9f41-95a7-4315-aa78-e33692e03f7c",
-        "title": "Manufacturing Quality Tester",
-        "active": false,
-        "date_updated": 1774660089,
-        "date_posted": 1774660089,
-        "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Mebane/Manufacturing-Quality-Tester-1_JR00006055-1",
-        "locations": [
-            "Mebane, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/ABB",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "ByteDance",
-        "id": "864af4f6-3292-4ecc-9131-99c07de4bdd5",
-        "title": "Software Development Engineer - Network Monitoring & Alerts",
-        "active": false,
-        "date_updated": 1774660236,
-        "date_posted": 1774660236,
-        "url": "https://jobs.bytedance.com/en/position/7399926633496365321/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -1048,26 +829,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "American Century Investments",
-        "id": "f975d194-0495-4d7c-b915-34805441aed2",
-        "title": "Associate Software Engineer",
-        "active": false,
-        "date_updated": 1774660051,
-        "date_posted": 1774660051,
-        "url": "https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Associate-Software-Engineer_R0005605",
-        "locations": [
-            "Kansas City, MO"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Century-Investments",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Amgen",
         "id": "cee9f2d0-ba92-4c60-a972-455be9372f3c",
@@ -1166,27 +927,6 @@
         "degrees": [
             "Master's",
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Mercury Insurance",
-        "id": "7afaf469-7787-4bcd-8483-ad0fafad358b",
-        "title": "Mercury Ignite AI and Automation Graduate Development Program - Data",
-        "active": false,
-        "date_updated": 1774842943,
-        "date_posted": 1774660023,
-        "url": "https://careers-mercuryinsurance.icims.com/jobs/5986/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Mercury-Insurance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
