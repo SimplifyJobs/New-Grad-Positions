@@ -373240,5 +373240,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Aegiq",
+        "id": "3a775c97-d10a-477c-9a68-6313fc2651cc",
+        "title": "Graduate Photonics Engineer - Test and Characterisation",
+        "active": true,
+        "date_updated": 1795391462,
+        "date_posted": 1795391317,
+        "url": "https://apply.workable.com/aegiq/j/1E795D764E/apply",
+        "locations": [
+            "Sheffield, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Aegiq",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
