@@ -324775,7 +324775,7 @@
         "company_name": "Bloom & Wild Group",
         "id": "caed4dae-1871-4dfa-b062-58a5944c98e0",
         "title": "Junior Full Stack Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792449276,
         "date_posted": 1792449271,
         "url": "https://jobs.lever.co/bloomon/7f832927-5c83-4fe9-9e7a-52de0fea57dd/apply",
@@ -336485,7 +336485,7 @@
         "company_name": "Abound",
         "id": "bfc8cf44-1c54-4c38-973e-01750042a84f",
         "title": "Product Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1793052363,
         "date_posted": 1792972800,
         "url": "https://jobs.ashbyhq.com/Abound/dfe15080-f428-4053-ac93-0a1a769634a1/application?embed=true",
@@ -372527,5 +372527,79 @@
             "Master's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ID Plans",
+        "id": "1e751383-c51c-4938-87f7-a5af778fe339",
+        "title": "Field Data Specialist",
+        "active": true,
+        "date_updated": 1795447639,
+        "date_posted": 1795447483,
+        "url": "https://idplans1.bamboohr.com/careers/312/",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/ID-Plans",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Vailexa",
+        "id": "477ae29f-1236-4865-bf0e-34b0477567a2",
+        "title": "Validation Testing Tech",
+        "active": true,
+        "date_updated": 1795447449,
+        "date_posted": 1795444134,
+        "url": "https://job-boards.greenhouse.io/vailexa/jobs/4517971009",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vailexa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Proton",
+        "id": "ffe2c596-48e2-47f4-8de7-213ac69b35b1",
+        "title": "Product Engineer",
+        "active": true,
+        "date_updated": 1795447262,
+        "date_posted": 1795446459,
+        "url": "https://job-boards.eu.greenhouse.io/proton/jobs/5044422101",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Proton-AG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "National Centre for Social Research",
+        "id": "8fdddced-ab2f-44cd-bf1d-4ea9fa6cacc6",
+        "title": "Data Manager",
+        "active": true,
+        "date_updated": 1795446902,
+        "date_posted": 1787738225,
+        "url": "https://natcen.pinpointhq.com/en/postings/2b62fea5-7b5e-4389-bd88-dc48686b7c23?ats=pinpointhq",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Centre-For-Social-Research",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
