@@ -150,50 +150,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "KLA",
-        "id": "e29161a2-e9c2-43c1-9bd1-9190e26d9ea0",
-        "title": "Product Install Engineer - Extensive Travel Required",
-        "active": false,
-        "date_updated": 1774691235,
-        "date_posted": 1774691235,
-        "url": "https://kla.wd1.myworkdayjobs.com/Search/job/USA-AZ-Chandler-KLA/Product-Install-Engineer---Extensive-90----Travel-Required_2634998",
-        "locations": [
-            "Milpitas, CA",
-            "Phoenix, AZ",
-            "Chandler, AZ",
-            "Richardson, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/KLA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Western Digital",
-        "id": "73252d47-cf23-400a-811d-a6277d35a113",
-        "title": "Electronics Design Engineer",
-        "active": false,
-        "date_updated": 1774746669,
-        "date_posted": 1774691913,
-        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000117397027",
-        "locations": [
-            "Rochester, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Digital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "a833a305-541e-4356-8d2d-5f10684d30f4",
@@ -729,26 +685,6 @@
         "degrees": [
             "Bachelor's",
             "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Vantor",
-        "id": "b2d8d486-3bc0-4ca7-9783-3239a563645a",
-        "title": "Research Analyst",
-        "active": false,
-        "date_updated": 1774691269,
-        "date_posted": 1774691269,
-        "url": "https://maxar.wd1.myworkdayjobs.com/Vantor/job/Tampa-FL/Intelligence-Analyst_R23548",
-        "locations": [
-            "Tampa, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Vantor",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -4146,26 +4082,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Northeastern University",
-        "id": "928da4e1-e6b1-46f4-8582-2a99f0a6de26",
-        "title": "Postdoctoral Research Fellow",
-        "active": false,
-        "date_updated": 1775039081,
-        "date_posted": 1774691013,
-        "url": "https://northeastern.wd1.myworkdayjobs.com/careers/job/Portland-ME/Postdoctoral-Research-Fellow_R121824",
-        "locations": [
-            "Portland, ME"
-        ],
-        "company_url": "https://simplify.jobs/c/Northeastern-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
     },
     {
         "source": "Simplify",
@@ -356597,7 +356513,7 @@
         "company_name": "Capgemini",
         "id": "6bec143b-993b-452d-9160-eaf0e3084331",
         "title": "Fabric / Power BI Analytics Consultant",
-        "active": false,
+        "active": true,
         "date_updated": 1794217683,
         "date_posted": 1793920492,
         "url": "https://careers.capgemini.com/job/London-Fabric-Power-BI-Analytics-Consultant/1454855333/?ats=successfactors",
