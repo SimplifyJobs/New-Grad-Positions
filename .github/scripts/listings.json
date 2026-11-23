@@ -245491,7 +245491,7 @@
         "company_name": "Verne Robotics",
         "id": "ca004f32-b456-4cae-ba94-82034c00e338",
         "title": "Robot Technician",
-        "active": true,
+        "active": false,
         "date_updated": 1787927401,
         "date_posted": 1787927299,
         "url": "https://jobs.ashbyhq.com/Verne%20Robotics/6659c10a-7b48-44f6-a3c4-0c0ab00c11c6/application?embed=true",
@@ -373101,6 +373101,48 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Aon",
+        "id": "773f9ad4-5385-43a7-9d8a-0d7589beeeab",
+        "title": "Early Careers Health Analytics Specialist",
+        "active": true,
+        "date_updated": 1795418306,
+        "date_posted": 1795399080,
+        "url": "https://jobs.aon.com/jobs/113794?icims=1&lang=en-us",
+        "locations": [
+            "Chicago, IL",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/AON",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Lattice Semiconductor",
+        "id": "0806705f-44b1-4c91-a264-9d64f360e6b8",
+        "title": "Junior BMC Firmware Engineer",
+        "active": true,
+        "date_updated": 1795417921,
+        "date_posted": 1795132800,
+        "url": "https://latticesemi.wd5.myworkdayjobs.com/latticesemiconductorscareers/job/Duluth-Georgia/Junior-BMC-Firmware-Engineer_R-103309",
+        "locations": [
+            "Duluth, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lattice-Semiconductor",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
