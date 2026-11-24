@@ -336074,7 +336074,7 @@
         "company_name": "Invenergy",
         "id": "c71839a1-a3ae-419c-9ab8-6377c3d0dc1f",
         "title": "Analyst \u2013 Geospatial - GIS",
-        "active": false,
+        "active": true,
         "date_updated": 1793052363,
         "date_posted": 1792972800,
         "url": "https://invenergyllc.wd1.myworkdayjobs.com/en-US/invenergycareers/job/Denver-CO/Analyst--Geospatial--GIS-_R11267-1",
@@ -336924,7 +336924,7 @@
         "company_name": "CoreWeave",
         "id": "70c66cee-4da9-4920-9fa3-bc55fae14123",
         "title": "Software Engineer - Inference",
-        "active": true,
+        "active": false,
         "date_updated": 1793090882,
         "date_posted": 1790374261,
         "url": "https://coreweave.com/careers/job?4703438006&board=coreweave&gh_jid=4703438006",
@@ -346567,7 +346567,7 @@
         "company_name": "Orbis Operations",
         "id": "844c1760-dfb8-4559-a3a8-832a2d23951c",
         "title": "Research Engineer - AI",
-        "active": false,
+        "active": true,
         "date_updated": 1793427484,
         "date_posted": 1792611351,
         "url": "https://job-boards.greenhouse.io/orbisoperations/jobs/4436220009",
@@ -358816,7 +358816,7 @@
         "company_name": "Shield AI",
         "id": "da4ae58c-6c11-41d7-99a0-e7d27d0773b8",
         "title": "Electrical Engineer - Test Equipment Design",
-        "active": true,
+        "active": false,
         "date_updated": 1794362764,
         "date_posted": 1793318400,
         "url": "https://jobs.ashbyhq.com/shield/c9344bba-d17d-4601-b6af-ebc4d4385a05/application?embed=true",
@@ -373358,5 +373358,126 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rubrik",
+        "id": "feab8bd7-d5d9-47f8-9192-0c9ccd70d7d5",
+        "title": "Software Engineer - Data Protection",
+        "active": true,
+        "date_updated": 1795562462,
+        "date_posted": 1795549078,
+        "url": "https://www.rubrik.com/company/careers/departments/job.8314058?gh_jid=8314058",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rubrik",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Eide Bailly",
+        "id": "08ed91de-26c8-449f-a4b1-c48f2f815636",
+        "title": "AI Engineer",
+        "active": true,
+        "date_updated": 1795562462,
+        "date_posted": 1795553700,
+        "url": "https://eidebailly.jibeapply.com/jobs/10092?icims=1&lang=en-us",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Eide-Bailly",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "American Council on Education",
+        "id": "9bf6d1ba-adef-4f74-9343-9e9d9dfba88e",
+        "title": "Associate \u2013 Data Insights and Policy Analysis",
+        "active": true,
+        "date_updated": 1795562290,
+        "date_posted": 1795562177,
+        "url": "https://recruiting.ultipro.com/AME1073/JobBoard/3ab22f45-0d00-7f95-def8-c8ca6a23d48f/OpportunityDetail?opportunityId=f1e43996-efa6-4910-8b46-cef7d4443d1d",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Council-On-Education",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Consolidated Edison",
+        "id": "5c47b2c0-c332-4e95-8bfe-c85a279da736",
+        "title": "Associate \u2013 Research & Development",
+        "active": true,
+        "date_updated": 1795562290,
+        "date_posted": 1795562159,
+        "url": "https://ejcu.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1033/job/1000518",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Consolidated-Edison",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Eide Bailly",
+        "id": "35bf28b6-d8d8-4227-9409-f3fbd75ac867",
+        "title": "AI Engineer",
+        "active": true,
+        "date_updated": 1795561742,
+        "date_posted": 1795553700,
+        "url": "https://careers.eidebailly.com/jobs/10092?icims=1&lang=en-us",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Eide-Bailly",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amazon",
+        "id": "16c2d7a3-1fe5-4717-afa8-6f92a77428c4",
+        "title": "Front-End Engineer",
+        "active": true,
+        "date_updated": 1795561569,
+        "date_posted": 1795561536,
+        "url": "https://amazon.jobs/en/jobs/10610793/front-end-engineer-2027-us",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
