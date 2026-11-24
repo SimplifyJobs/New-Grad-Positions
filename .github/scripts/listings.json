@@ -123944,7 +123944,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "ac3e9cad-2324-4beb-a175-1d9b537b0de9",
         "title": "Quantitative Researcher",
-        "active": false,
+        "active": true,
         "date_updated": 1782771302,
         "date_posted": 1782770787,
         "url": "https://careers-sig.icims.com/jobs/11015/job?mobile=true&needsRedirect=false",
@@ -206045,7 +206045,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "9176ab13-a88c-4083-a4e2-72bf78318423",
         "title": "Power Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1785580922,
         "date_posted": 1779113165,
         "url": "https://careers-sig.icims.com/jobs/10365/job?mobile=true&needsRedirect=false",
@@ -326357,7 +326357,7 @@
         "company_name": "Brain Co.",
         "id": "96705002-95d7-4a17-8292-87bbaea60a95",
         "title": "AI Platform Engineer New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1792545157,
         "date_posted": 1792544960,
         "url": "https://jobs.ashbyhq.com/brainco/4d39773e-f4c3-49c1-87c3-812a9804fb15/application?embed=true",
@@ -330264,7 +330264,7 @@
         "company_name": "Mach9",
         "id": "6b794bd6-24d6-4522-b680-dfd27d0b328a",
         "title": "ML Engineer - Research",
-        "active": true,
+        "active": false,
         "date_updated": 1792746182,
         "date_posted": 1780524628,
         "url": "https://jobs.ashbyhq.com/mach9/51061973-9726-4e8e-bba4-4bfa9e3ef004/application?embed=true",
@@ -351228,7 +351228,7 @@
         "company_name": "Myriad360",
         "id": "7b528d54-ffd1-46d0-b619-21281f247993",
         "title": "Junior AI and Automation Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1793846885,
         "date_posted": 1793812833,
         "url": "https://boards.greenhouse.io/myriad360/jobs/8930382002",
@@ -351725,7 +351725,7 @@
         "company_name": "Susquehanna International Group",
         "id": "79702bf6-af31-445f-97a0-9127d09059a3",
         "title": "Faculty Fellow",
-        "active": true,
+        "active": false,
         "date_updated": 1793865241,
         "date_posted": 1793865150,
         "url": "https://careers-sig.icims.com/jobs/9584/job?mobile=true&needsRedirect=false",
@@ -372295,7 +372295,7 @@
         "company_name": "National Centre for Social Research",
         "id": "8fdddced-ab2f-44cd-bf1d-4ea9fa6cacc6",
         "title": "Data Manager",
-        "active": true,
+        "active": false,
         "date_updated": 1795446902,
         "date_posted": 1787738225,
         "url": "https://natcen.pinpointhq.com/en/postings/2b62fea5-7b5e-4389-bd88-dc48686b7c23?ats=pinpointhq",
@@ -372417,7 +372417,7 @@
         "company_name": "Renesas Electronics",
         "id": "a78b73bc-e50a-4a4b-bca7-971936bb5149",
         "title": "Graduate Digital Design Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1795449616,
         "date_posted": 1795443369,
         "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000163235233",
@@ -373119,5 +373119,64 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "DMC Engineering",
+        "id": "554f65c8-7189-448f-98c8-ddc4539f0066",
+        "title": "Entry Level Software Engineer",
+        "active": true,
+        "date_updated": 1795516021,
+        "date_posted": 1794501635,
+        "url": "https://job-boards.greenhouse.io/dmcengineering_campus/jobs/5397642008",
+        "locations": [
+            "Seattle, WA",
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/DMC-Engineering",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Harvard University",
+        "id": "a9f6cff3-f5a6-47e8-87a3-fde3c84e0d88",
+        "title": "Predoctoral Research Associate in Finance - Division of Research and Faculty Development",
+        "active": true,
+        "date_updated": 1795515841,
+        "date_posted": 1794236561,
+        "url": "https://jobs.smartrecruiters.com/HarvardUniversity/3743990017045721",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Harvard-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Genesis AI",
+        "id": "8072071c-c38b-40fe-8b27-8b30cc00d04e",
+        "title": "Data Collection Operator",
+        "active": true,
+        "date_updated": 1795515121,
+        "date_posted": 1783328953,
+        "url": "https://jobs.ashbyhq.com/genesis/3804635c-b86b-430f-9314-c9c92c85e6df/application?embed=true",
+        "locations": [
+            "San Carlos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Genesis-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
