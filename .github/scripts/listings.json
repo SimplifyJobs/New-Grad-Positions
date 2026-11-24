@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Western Digital",
-        "id": "2305b147-6ef5-4a4d-beaf-61a57b3a4400",
-        "title": "Media Tribology Design Engineer",
-        "active": false,
-        "date_updated": 1774810051,
-        "date_posted": 1774810051,
-        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000117395868",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Digital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
         "id": "b020dc8b-9746-463b-9561-723d8f9d1b35",
@@ -351569,7 +351549,7 @@
         "company_name": "Empower Pharmacy",
         "id": "c423bdb8-fc59-4745-bc15-5224b565cc3a",
         "title": "Associate Software Engineer - Full Stack",
-        "active": true,
+        "active": false,
         "date_updated": 1793845813,
         "date_posted": 1793815283,
         "url": "https://careers.empowerpharmacy.com/jobs/?gh_jid=4479712009",
