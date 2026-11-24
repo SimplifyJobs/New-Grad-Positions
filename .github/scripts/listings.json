@@ -315664,7 +315664,7 @@
         "company_name": "The Hut Group",
         "id": "86e139d6-3ba5-4965-bf73-a9a2243099f6",
         "title": "Data Engineer - Customer",
-        "active": true,
+        "active": false,
         "date_updated": 1791814682,
         "date_posted": 1791814675,
         "url": "https://www.thg.com/talent/job-search?gh_jid=5003312101",
@@ -373416,5 +373416,43 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Proton",
+        "id": "6e231bdc-cec1-4ea5-83ac-0ba8f20c3e14",
+        "title": "Product Engineer - Linux",
+        "active": true,
+        "date_updated": 1795536010,
+        "date_posted": 1795529728,
+        "url": "https://job-boards.eu.greenhouse.io/proton/jobs/5047353101",
+        "locations": [
+            "London, UK",
+            "Barcelona, Spain",
+            "Geneva, Switzerland"
+        ],
+        "company_url": "https://simplify.jobs/c/Proton-AG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Proton",
+        "id": "38c7bca8-a829-421a-bb98-bfde7521a0d8",
+        "title": "Mobile Product Engineer",
+        "active": true,
+        "date_updated": 1795536010,
+        "date_posted": 1795528540,
+        "url": "https://job-boards.eu.greenhouse.io/proton/jobs/5047490101",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Proton-AG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
