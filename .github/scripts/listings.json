@@ -362377,7 +362377,7 @@
         "company_name": "City of New Braunfels",
         "id": "8c039dc3-d838-4ceb-aaf3-4e5e9e244dd8",
         "title": "GIS Technician 1/2/3",
-        "active": true,
+        "active": false,
         "date_updated": 1794527248,
         "date_posted": 1794441600,
         "url": "https://newbraunfels.wd12.myworkdayjobs.com/CONB/job/New-Braunfels-TX/GIS-Technician-I-II-III_R456",
@@ -373019,5 +373019,63 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Datalab USA",
+        "id": "2324a810-93c9-490d-bf45-95f28f9dda1f",
+        "title": "Production Programmer \u2013 Entry Level SQL Developer",
+        "active": true,
+        "date_updated": 1795506842,
+        "date_posted": 1795506715,
+        "url": "https://jobs.lever.co/datalabusa/df8bf76b-2626-4bb2-b4f2-dbefb165228a/apply",
+        "locations": [
+            "Germantown, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Datalab-USA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Karman Industries",
+        "id": "a90ed36b-6768-4c6a-9eca-82b729cc55ac",
+        "title": "Embedded Software Engineer",
+        "active": true,
+        "date_updated": 1795506151,
+        "date_posted": 1795478400,
+        "url": "https://jobs.ashbyhq.com/Karman%20Industries/79d3076d-9b38-4bbd-b956-2bd4d33254d2/application?embed=true",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Karman-Industries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Serko",
+        "id": "63544628-eb67-4de6-ba3c-597d09cbf355",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1795505762,
+        "date_posted": 1795505668,
+        "url": "https://apply.workable.com/serko-ltd/j/2BD3D4F4DE/apply",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Serko",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
