@@ -201317,7 +201317,7 @@
         "company_name": "Garmin",
         "id": "6ade9cd5-ab20-498c-8c37-b961d5cb92c1",
         "title": "Embedded Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1786025529,
         "date_posted": 1786025395,
         "url": "https://careers.garmin.com/jobs/19134?icims=1",
@@ -297385,7 +297385,7 @@
         "company_name": "Synhawk",
         "id": "8ffb7cb4-3135-424a-be7f-812eb7049a39",
         "title": "Member of Technical Staff: Junior AI Researcher",
-        "active": true,
+        "active": false,
         "date_updated": 1790760601,
         "date_posted": 1784596565,
         "url": "https://jobs.ashbyhq.com/synhawk/4f6cca01-cf7d-4cb6-8f18-b9c5acf7d540/application?embed=true",
@@ -364922,7 +364922,7 @@
         "company_name": "ManTech",
         "id": "ba5c5c84-8f73-4d59-9559-a55ddffd9c82",
         "title": "Junior Software Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1794871081,
         "date_posted": 1794870956,
         "url": "https://mantech.avature.net/en_US/careers/JobDetail/67115",
@@ -373254,6 +373254,163 @@
             "Gatineau, QC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Syntronic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ServiceRocket",
+        "id": "eeb75e34-7312-41f5-94fd-add6260be777",
+        "title": "Associate Service Delivery Engineer",
+        "active": true,
+        "date_updated": 1795535828,
+        "date_posted": 1795535686,
+        "url": "https://jobs.lever.co/servicerocket/2a00daa6-486e-4d14-8b90-5f78d5645fd8/apply",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/ServiceRocket",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CTDI",
+        "id": "b485eabd-10f7-43ba-a9f4-4336c607ef10",
+        "title": "Repair Technician",
+        "active": true,
+        "date_updated": 1795535828,
+        "date_posted": 1795535683,
+        "url": "https://recruiting.ultipro.com/COM1019CTDI1/JobBoard/ab728dae-48cf-43af-8869-6b591e5d9495/OpportunityDetail?opportunityId=ea4d76c2-f086-46b8-85ed-08deff051bff",
+        "locations": [
+            "Glenville, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/CTDI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CTDI",
+        "id": "526d369f-0bfe-4692-a5d5-1f0c1f548358",
+        "title": "Assistant Technician",
+        "active": true,
+        "date_updated": 1795535861,
+        "date_posted": 1795535683,
+        "url": "https://recruiting.ultipro.com/COM1019CTDI1/JobBoard/ab728dae-48cf-43af-8869-6b591e5d9495/OpportunityDetail?opportunityId=21c5d540-8fba-4647-86a4-3da37a2be0ce",
+        "locations": [
+            "Charlestown, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/CTDI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "JP Morgan Chase",
+        "id": "d78eb9fa-a618-4d48-978e-3a1aa5ea275d",
+        "title": "Software Engineer 1 - Multiple Teams",
+        "active": true,
+        "date_updated": 1795535679,
+        "date_posted": 1795535544,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803021",
+        "locations": [
+            "Newark, DE"
+        ],
+        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Howmet Aerospace",
+        "id": "abf26402-60f0-4129-a75c-24adec9f205b",
+        "title": "AI Engineer",
+        "active": true,
+        "date_updated": 1795535287,
+        "date_posted": 1795535152,
+        "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/120703",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Howmet-Aerospace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesco",
+        "id": "2dd99517-fa14-43a7-8617-8e1c39da3712",
+        "title": "Graduate Associate - Customer & Commercial Leadership Programme",
+        "active": true,
+        "date_updated": 1795534746,
+        "date_posted": 1795534652,
+        "url": "https://tesco.avature.net/en_GB/careers/JobDetail/221542",
+        "locations": [
+            "London, UK",
+            "Welwyn Garden City, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Garmin",
+        "id": "6c9dce25-ec5a-4637-afe0-983f59537a96",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1795534386,
+        "date_posted": 1795528800,
+        "url": "https://careers.garmin.com/jobs/19953?icims=1&lang=en-us",
+        "locations": [
+            "Chandler, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Garmin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Peraton",
+        "id": "81c02098-fabd-4911-9699-cabf8accf9c1",
+        "title": "Software Engineer - Ignite Innovator Pgm",
+        "active": true,
+        "date_updated": 1795534251,
+        "date_posted": 1795531380,
+        "url": "https://peraton.jibeapply.com/jobs/177377?icims=1&lang=en-us",
+        "locations": [
+            "Blacksburg, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
