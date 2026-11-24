@@ -3,62 +3,6 @@
         "source": "Simplify",
         "category": "Quant",
         "company_name": "Sainsbury's",
-        "id": "b020dc8b-9746-463b-9561-723d8f9d1b35",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1774822095,
-        "date_posted": 1774822095,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055541",
-        "locations": [
-            "Crawley, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "SpaceX",
-        "id": "595bfb80-2607-4516-a405-091558ac6697",
-        "title": "Environmental and Materials Compliance Engineer",
-        "active": false,
-        "date_updated": 1774841068,
-        "date_posted": 1774822228,
-        "url": "https://boards.greenhouse.io/spacex/jobs/8484560002",
-        "locations": [
-            "Bastrop, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/SpaceX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "55838092-bb6b-40d9-b169-41ad8e44e207",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1774822095,
-        "date_posted": 1774822095,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055368",
-        "locations": [
-            "Livingston, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
         "id": "fd7fd3d7-8eae-4197-b5c2-1c0702bfd6fc",
         "title": "Trading Assistant - Shift",
         "active": false,
@@ -72,26 +16,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Latitude AI",
-        "id": "bc2e2d15-1bb1-4c44-8df2-d0e618e8106d",
-        "title": "GIS Production Analyst",
-        "active": false,
-        "date_updated": 1774822780,
-        "date_posted": 1774822780,
-        "url": "https://job-boards.greenhouse.io/latitude/jobs/7764865",
-        "locations": [
-            "Pittsburgh, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/LatitudeAI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -230130,7 +230054,7 @@
         "company_name": "TikTok",
         "id": "5050a4ec-870d-44d2-894d-d2369c296564",
         "title": "Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics",
-        "active": true,
+        "active": false,
         "date_updated": 1787190481,
         "date_posted": 1787190347,
         "url": "https://lifeattiktok.com/search/7675843332462872885",
@@ -230171,7 +230095,7 @@
         "company_name": "TikTok",
         "id": "46147fdd-7fda-4c72-b739-309c869a3093",
         "title": "Machine Learning Engineer Graduate - Multiple Teams",
-        "active": true,
+        "active": false,
         "date_updated": 1787190481,
         "date_posted": 1787190346,
         "url": "https://lifeattiktok.com/search/7675841339440941317",
@@ -333484,7 +333408,7 @@
         "company_name": "Visa",
         "id": "6758a87a-3390-4a31-aedb-02d2e64ed054",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792770930,
         "date_posted": 1791849600,
         "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/SW-Engineer_REF089187W",
@@ -372543,7 +372467,7 @@
         "company_name": "Koddi",
         "id": "6892a744-f18f-447c-a687-ff8d35de4e66",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1795475881,
         "date_posted": 1795456757,
         "url": "https://job-boards.greenhouse.io/koddi/jobs/8944769002",
