@@ -166135,7 +166135,7 @@
         "company_name": "Quantum",
         "id": "e5892aa7-3c5f-4ce8-81b1-9c90e2a80f59",
         "title": "Graduate Commercial Insights Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1784712079,
         "date_posted": 1784711755,
         "url": "https://jobs.ashbyhq.com/quantum/24e8d551-3081-4356-a2ce-13235537e88d/application?embed=true",
@@ -324989,7 +324989,7 @@
         "company_name": "Saalex",
         "id": "fa86f83b-d953-4b1c-96dd-dfd4c96de55b",
         "title": "Junior Data Integrity Engineer - Avionics Software & Data Analysis",
-        "active": false,
+        "active": true,
         "date_updated": 1792489861,
         "date_posted": 1785979077,
         "url": "https://apply.workable.com/saalex/j/2D1B9D4A3C/apply",
@@ -373178,5 +373178,28 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Shield AI",
+        "id": "f633b964-2b4e-4cc9-909b-0de4e42c4cc6",
+        "title": "Engineer 2 New Grad - Software - Autonomy Capabilities",
+        "active": true,
+        "date_updated": 1795519475,
+        "date_posted": 1794355200,
+        "url": "https://jobs.ashbyhq.com/shield/24de5a65-86ce-4269-ad26-0a3e85b42eec/application?embed=true",
+        "locations": [
+            "Arlington County, Arlington, VA",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     }
 ]
