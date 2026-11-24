@@ -373201,5 +373201,63 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Dakota Kitchen & Bath",
+        "id": "5c11634c-c341-460d-aba4-a17d702ed50a",
+        "title": "Visual Basic Developer & Systems Support Specialist",
+        "active": true,
+        "date_updated": 1795533715,
+        "date_posted": 1795533636,
+        "url": "https://dakotakitchen.bamboohr.com/careers/215/",
+        "locations": [
+            "Sioux Falls, SD"
+        ],
+        "company_url": "https://simplify.jobs/c/Dakota-Kitchen-And-Bath",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Peraton",
+        "id": "20d5b7ca-5a34-4745-8405-ad5dbcbaa07b",
+        "title": "Software Engineering - Ignite Innovator Pgm",
+        "active": true,
+        "date_updated": 1795533307,
+        "date_posted": 1795478400,
+        "url": "https://careers-peraton.icims.com/jobs/177377/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Blacksburg, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Peraton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Syntronic",
+        "id": "25cd8e49-d652-4af4-bc04-405430bb8cad",
+        "title": "RF Test Developer",
+        "active": true,
+        "date_updated": 1795533124,
+        "date_posted": 1795532943,
+        "url": "https://jobs.lever.co/syntronic/3dc9b782-0ba9-4e59-a9ac-9567c81794b0/apply",
+        "locations": [
+            "Gatineau, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Syntronic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
