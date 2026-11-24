@@ -304915,7 +304915,7 @@
         "company_name": "CACI",
         "id": "caaee00c-197e-430a-b95b-f3d01ae0fb6a",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1791125464,
         "date_posted": 1783165052,
         "url": "https://caci.wd1.myworkdayjobs.com/external/job/Ypsilanti-MI-US/Software-Engineer_324349",
@@ -368685,7 +368685,7 @@
         "company_name": "Amazon",
         "id": "c185dc5d-2140-4347-aeb2-8fa0a89725d1",
         "title": "Test-do-not-apply",
-        "active": true,
+        "active": false,
         "date_updated": 1795131930,
         "date_posted": 1795131837,
         "url": "https://amazon.jobs/en/jobs/10507380/test-do-not-apply-t3-08-2026b-product-manager-alexa",
@@ -370266,7 +370266,7 @@
         "company_name": "Zscaler",
         "id": "bb4df03f-cdf9-493c-8743-3f139dc83df3",
         "title": "Software Development Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1795218665,
         "date_posted": 1795196320,
         "url": "https://job-boards.greenhouse.io/zscaler/jobs/5283494007",
@@ -370926,7 +370926,7 @@
         "company_name": "TransCore",
         "id": "c7a67833-979c-4af3-83e1-d17ea4ec0a14",
         "title": "Software Engineer 1 - SQL Development",
-        "active": true,
+        "active": false,
         "date_updated": 1795219271,
         "date_posted": 1795219109,
         "url": "https://recruiting2.ultipro.com/TRA1034TNSC/JobBoard/0885e26f-46c3-45cc-8f3a-b849c09d3bdd/OpportunityDetail?opportunityId=3ce5c847-8e02-470d-aed6-9630544aa893",
@@ -372976,5 +372976,48 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Microsoft",
+        "id": "0b03f09e-f8ed-4344-8984-f9e750cc2440",
+        "title": "Software Engineer-Securing AI",
+        "active": true,
+        "date_updated": 1795488879,
+        "date_posted": 1795488684,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393557073425",
+        "locations": [
+            "Redmond, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "X Development",
+        "id": "96d5032c-7603-4116-af57-e676879a678e",
+        "title": "AI/ML Engineer & Applied Researcher - Early Stage Projects",
+        "active": true,
+        "date_updated": 1795488669,
+        "date_posted": 1795485289,
+        "url": "https://x.company/careers/8959513002?gh_jid=8959513002",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/X-Development",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
     }
 ]
