@@ -208039,7 +208039,7 @@
         "company_name": "ByteDance",
         "id": "9b88d838-aaa3-44f6-ac6c-2f34e6d2a513",
         "title": "Data Lake Infrastructure & Data Analytics Research Engineer Graduate - Applied Machine Learning Ark",
-        "active": true,
+        "active": false,
         "date_updated": 1786401541,
         "date_posted": 1786401396,
         "url": "https://jobs.bytedance.com/en/position/7671108456554432773/detail",
@@ -263950,7 +263950,7 @@
         "company_name": "ByteDance",
         "id": "ec2b3d96-d582-4bd7-8b43-8b6e54f85283",
         "title": "Research Scientist - Quantum Chemistry - Global Frontier Tech Recruitment Program - 2027 Start - PhD",
-        "active": true,
+        "active": false,
         "date_updated": 1788454998,
         "date_posted": 1780610912,
         "url": "https://jobs.bytedance.com/en/position/7632426574734035253/detail",
@@ -267012,7 +267012,7 @@
         "company_name": "ByteDance",
         "id": "eede34f5-aa2a-4ae6-b182-e6f39969e693",
         "title": "AI Molecular Dynamics Algorithm Researcher Graduate - Seed AI for Science - Atomistic AI",
-        "active": true,
+        "active": false,
         "date_updated": 1788482362,
         "date_posted": 1786065257,
         "url": "https://jobs.bytedance.com/en/position/7670550401380878645/detail",
@@ -282044,7 +282044,7 @@
         "company_name": "Applied Materials",
         "id": "d4591906-92ca-469c-a235-d36eff8f6b06",
         "title": "Logistics Automation New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1789423933,
         "date_posted": 1789344000,
         "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Logistics-Automation-New-College-Grad--Bachelor-s--Santa-Clara--CA-_R2627714",
@@ -339616,7 +339616,7 @@
         "company_name": "Shield AI",
         "id": "74eb4b4b-ac29-4bdc-90f3-f70b743e4c06",
         "title": "Software Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1793167947,
         "date_posted": 1792713600,
         "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/986a26e9-0597-4402-85ee-0f05a6012902/application?embed=true",
@@ -353013,7 +353013,7 @@
         "company_name": "Shield AI",
         "id": "ebc371a4-4ac1-48dc-af70-51e49ba0f7d4",
         "title": "Electrical Engineer 1 New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1793876623,
         "date_posted": 1792022400,
         "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/10eb4e64-8f2d-473f-a53a-1dc53e90f1d6/application?embed=true",
@@ -371160,7 +371160,7 @@
         "company_name": "CTDI",
         "id": "8ae93602-52cb-4b60-8ede-2e86757eac36",
         "title": "Robotics Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1795219221,
         "date_posted": 1795219052,
         "url": "https://recruiting.ultipro.com/COM1019CTDI1/JobBoard/ab728dae-48cf-43af-8869-6b591e5d9495/OpportunityDetail?opportunityId=168662f8-1340-4fdc-a4c4-10f604134f65",
@@ -372775,5 +372775,224 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Shield AI",
+        "id": "fc715e2c-6fea-4801-9eac-1b9b6f433b3e",
+        "title": "Software Engineer 1 - Hardware Test",
+        "active": true,
+        "date_updated": 1795478275,
+        "date_posted": 1787616000,
+        "url": "https://jobs.ashbyhq.com/shield/f4f24ca8-3345-4078-bdfb-f4da4dbd30cc/application?embed=true",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Shield-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "onsemi",
+        "id": "4a58344a-f9f5-4b9b-97d1-6d458144d4ef",
+        "title": "Silicon Architect - Product and IP",
+        "active": true,
+        "date_updated": 1795478041,
+        "date_posted": 1795477961,
+        "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2507211",
+        "locations": [
+            "Scottsdale, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/Onsemi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "LHB",
+        "id": "83756d53-a795-4c09-a48e-acb453337919",
+        "title": "GIS Specialist Entry Level",
+        "active": true,
+        "date_updated": 1795478060,
+        "date_posted": 1795392000,
+        "url": "https://careers-lhbcorp.icims.com/jobs/2012/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Duluth, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/LHB",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's",
+            "Certificate"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GHD",
+        "id": "7b73b931-c375-4f99-a548-74efc93fbc1b",
+        "title": "Graduate Developer",
+        "active": true,
+        "date_updated": 1795478041,
+        "date_posted": 1795477886,
+        "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/29509",
+        "locations": [
+            "Farmington Hills, MI",
+            "King of Prussia, PA",
+            "Houston, TX",
+            "Dallas, TX",
+            "Philadelphia, PA",
+            "Rosemont, IL",
+            "Chicago, IL",
+            "Golden, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/GHD",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Duke University",
+        "id": "69114fcd-d06a-428b-b407-6370b353d25a",
+        "title": "Analytics Engineer - Department of Pharmacy",
+        "active": true,
+        "date_updated": 1795478058,
+        "date_posted": 1795477897,
+        "url": "https://careers.duke.edu/job/Durham-Developer-Analytics-Engineer-Department-of-Pharmacy-NC-27710/1431149100/?ats=successfactors",
+        "locations": [
+            "Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Duke-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "19c9469b-4c0e-4a88-9856-8040e5e5ecb5",
+        "title": "Associate Systems Engineer",
+        "active": true,
+        "date_updated": 1795477869,
+        "date_posted": 1795477752,
+        "url": "https://jobs.l3harris.com/job/Palm-Bay-Associate,-Systems-Engineer-FL-32905/1422832200/?ats=successfactors",
+        "locations": [
+            "Palm Bay, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "European Tour Group",
+        "id": "dfcc5ea8-76c9-4959-80a2-ddf7f9807586",
+        "title": "Partnerships Insights Executive",
+        "active": true,
+        "date_updated": 1795477682,
+        "date_posted": 1794960000,
+        "url": "https://europeantour.wd3.myworkdayjobs.com/europeantour/job/GBR-Wentworth-Office/Partnerships-Insights-Executive_JR-816",
+        "locations": [
+            "Virginia Water, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/European-Tour-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ID Plans",
+        "id": "02661dfe-13a7-41ed-958b-7de441c1307e",
+        "title": "Field Data Specialist",
+        "active": true,
+        "date_updated": 1795477720,
+        "date_posted": 1795477541,
+        "url": "https://idplans1.bamboohr.com/careers/314/",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/ID-Plans",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "INRIX",
+        "id": "d62df91e-0bd7-49eb-91f2-0d3965deda91",
+        "title": "Traffic Information Editor",
+        "active": true,
+        "date_updated": 1795477516,
+        "date_posted": 1795477453,
+        "url": "https://jobs.jobvite.com/inrix/job/o1SYzfwa?nl=1&nl=1&fr=false",
+        "locations": [
+            "Birmingham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/INRIX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Dukosi",
+        "id": "b2db4417-0386-4664-9ffc-25fa2ff7af11",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1795477501,
+        "date_posted": 1795477464,
+        "url": "https://dukosi.bamboohr.com/careers/117/",
+        "locations": [
+            "Edinburgh, UK",
+            "Germany"
+        ],
+        "company_url": "https://simplify.jobs/c/Dukosi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "WebAI",
+        "id": "84db8e17-900f-400d-8947-fe2a4d952995",
+        "title": "Junior Software Developer",
+        "active": true,
+        "date_updated": 1795477377,
+        "date_posted": 1795392000,
+        "url": "https://jobs.ashbyhq.com/webai/571ff25a-c3ad-44f5-8f35-f4a7944899df/application?embed=true",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/WebAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
