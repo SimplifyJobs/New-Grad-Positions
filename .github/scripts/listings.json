@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "f4a056c1-c7dd-488b-a3da-ac7238f7fdf5",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1774746461,
-        "date_posted": 1774746461,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055456",
-        "locations": [
-            "Exeter, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Western Digital",
         "id": "2305b147-6ef5-4a4d-beaf-61a57b3a4400",
@@ -341135,7 +341117,7 @@
         "company_name": "Itron",
         "id": "091bc5b9-615a-4966-ab8d-94132022ef32",
         "title": "Electrical Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793227501,
         "date_posted": 1793145600,
         "url": "https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Electrical-Engineer--May-June-2027-_JR102992",
@@ -345833,7 +345815,7 @@
         "company_name": "RTX",
         "id": "0b6b7fca-d59f-4d68-876b-15e06a9d2591",
         "title": "CCA/PCB Product Development Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1793398245,
         "date_posted": 1793318400,
         "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WD--2501-W-University-Dr--WING-D-BLDG/CCA-PCB-Product-Development-Engineer-I--Onsite-_01886239",
@@ -371682,7 +371664,7 @@
         "company_name": "J.Crew",
         "id": "13a0515c-5e6f-4021-bed0-229b0e023185",
         "title": "Associate Product Manager - Web Experience",
-        "active": true,
+        "active": false,
         "date_updated": 1795276904,
         "date_posted": 1794787200,
         "url": "https://jcrew.wd1.myworkdayjobs.com/FriendsFamilyCareers/job/New-York-NY-USA-Headquarters/Associate-Product-Manager_126672",
