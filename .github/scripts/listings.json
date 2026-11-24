@@ -120385,7 +120385,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "04b469a0-dcfe-4ba4-b011-d0cbc2f2f6bf",
         "title": "Quantitative Systematic Trader",
-        "active": false,
+        "active": true,
         "date_updated": 1782771302,
         "date_posted": 1782770788,
         "url": "https://careers-sig.icims.com/jobs/11019/job?mobile=true&needsRedirect=false",
@@ -299068,7 +299068,7 @@
         "company_name": "Capgemini",
         "id": "2c3fcb34-9459-42c5-8269-e05902759c20",
         "title": "Graduate Software Engineer Programme",
-        "active": true,
+        "active": false,
         "date_updated": 1790846018,
         "date_posted": 1790845822,
         "url": "https://careers.capgemini.com/job/Telford-Graduate-Software-Engineering-Programme-2027/1443168333/?ats=successfactors",
@@ -326420,7 +326420,7 @@
         "company_name": "RoboForce",
         "id": "236f1366-9b33-4f75-bc9b-0495fa17b755",
         "title": "AI Resident",
-        "active": true,
+        "active": false,
         "date_updated": 1792544768,
         "date_posted": 1792544648,
         "url": "https://job-boards.greenhouse.io/roboforce/jobs/5459229008",
@@ -373097,6 +373097,27 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Zoox",
+        "id": "1b670e5e-9edc-4255-93f8-5fdac2fb70ac",
+        "title": "Data Scientist - Program Manager",
+        "active": true,
+        "date_updated": 1795511902,
+        "date_posted": 1787263770,
+        "url": "https://jobs.lever.co/zoox/51838a63-2dde-44dc-9c3e-757f35b9690f/apply",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoox",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
