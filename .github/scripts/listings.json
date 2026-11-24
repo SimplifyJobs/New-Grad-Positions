@@ -365216,7 +365216,7 @@
         "company_name": "Microsoft",
         "id": "89e4ecd6-c458-4f6b-9022-33c0b81a8a6b",
         "title": "Physical Design Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1794871834,
         "date_posted": 1794871655,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557070650",
@@ -373077,5 +373077,26 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Schneider Electric",
+        "id": "20ddf038-1fb9-4dd1-8fea-ff90c3309e1c",
+        "title": "Engineer I - Software",
+        "active": true,
+        "date_updated": 1795507212,
+        "date_posted": 1795028820,
+        "url": "https://se.jibeapply.com/jobs/141336?icims=1&lang=en-us",
+        "locations": [
+            "Westmont, IL",
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Schneider-Electric",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
