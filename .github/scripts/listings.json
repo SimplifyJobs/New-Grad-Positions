@@ -373538,5 +373538,25 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Dell Technologies",
+        "id": "2565567e-75a7-4ed1-9ff8-0a0d63006997",
+        "title": "Forward Deployed AI Engineer - Technical Program Management - AI Delivery and Enablement",
+        "active": true,
+        "date_updated": 1795567880,
+        "date_posted": 1795567731,
+        "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/299999",
+        "locations": [
+            "Hopkinton, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Dell-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
