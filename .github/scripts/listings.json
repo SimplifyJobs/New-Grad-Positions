@@ -373643,5 +373643,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Prolucid Technologies",
+        "id": "5c2a2c7d-778c-41cb-b429-18f64a9e6331",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1795573119,
+        "date_posted": 1795573001,
+        "url": "https://apply.workable.com/prolucid-technologies/j/DBA98070BB/apply",
+        "locations": [
+            "Mississauga, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Prolucid-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
