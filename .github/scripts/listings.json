@@ -298004,7 +298004,7 @@
         "company_name": "Rivian",
         "id": "65631f60-2928-47c7-a3b3-2c66d4748283",
         "title": "Attributes Method Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1790808073,
         "date_posted": 1790807021,
         "url": "https://careers.rivian.com/jobs/34080?icims=1",
@@ -357460,7 +357460,7 @@
         "company_name": "Welo Global",
         "id": "3f7d5207-8a9e-454d-86b7-883d015efaec",
         "title": "Robotics Teleoperator",
-        "active": true,
+        "active": false,
         "date_updated": 1794323577,
         "date_posted": 1794323416,
         "url": "https://jobs.lever.co/weloglobal/0b79c7f3-3097-4545-a728-dbd2b78564b6/apply",
@@ -365110,7 +365110,7 @@
         "company_name": "Microsoft",
         "id": "542753ed-5d89-4aa7-855f-a20530ae5084",
         "title": "Software Engineer Agentic Security",
-        "active": true,
+        "active": false,
         "date_updated": 1794883882,
         "date_posted": 1794883795,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557074643",
@@ -373636,6 +373636,27 @@
         "url": "https://careers.rivian.com/jobs/30823?icims=1&lang=en-us",
         "locations": [
             "Tustin, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rivian",
+        "id": "6c91c0a6-9b78-4b47-9fec-622c9880789a",
+        "title": "Hardware-in-the-Loop Engineer 2 - Charging and Energy",
+        "active": true,
+        "date_updated": 1795600462,
+        "date_posted": 1785190339,
+        "url": "https://careers.rivian.com/jobs/32511?icims=1&lang=en-us",
+        "locations": [
+            "Torrance, CA"
         ],
         "company_url": "https://simplify.jobs/c/Rivian",
         "is_visible": true,
