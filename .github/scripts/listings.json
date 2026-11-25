@@ -1,41 +1,5 @@
 [
     {
-        "date_updated": 1777381615,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/22482",
-        "company_name": "Fortinet",
-        "title": "Associate Software Engineer (AI Agent Developer)",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "category": "Software Engineering",
-        "source": "Devonav",
-        "id": "1b2f0c70-b45d-421c-ac5e-a9eff5d0fd72",
-        "date_posted": 1774862402,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
-        "date_updated": 1775836066,
-        "sponsorship": "Offers Sponsorship",
-        "active": false,
-        "degrees": [],
-        "url": "https://www.turningpoint-healthcare.com/careers?gnk=job&gni=8a7885a89d02e553019d1c5d04ba00a1&gns=LinkedIn%2BLimited",
-        "company_name": "TurningPoint Healthcare Solutions",
-        "title": "AI Prompt Designer I",
-        "locations": [
-            "Lake Mary, FL"
-        ],
-        "category": "Data Science, AI & Machine Learning",
-        "source": "Devonav",
-        "id": "c981fb14-28e9-40df-be47-c84d940ba4bf",
-        "date_posted": 1774862590,
-        "company_url": "",
-        "is_visible": true
-    },
-    {
         "date_updated": 1775836066,
         "sponsorship": "Other",
         "active": false,
@@ -372786,7 +372750,7 @@
         "company_name": "Microsoft",
         "id": "0b03f09e-f8ed-4344-8984-f9e750cc2440",
         "title": "Software Engineer-Securing AI",
-        "active": true,
+        "active": false,
         "date_updated": 1795488879,
         "date_posted": 1795488684,
         "url": "https://apply.careers.microsoft.com/careers/job/1970393557073425",
@@ -373659,5 +373623,26 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Rivian",
+        "id": "230a36c8-fd73-4c8d-be1f-577d6095c6cf",
+        "title": "Electrical FA Engineer - Failure Analysis",
+        "active": true,
+        "date_updated": 1795598666,
+        "date_posted": 1778796466,
+        "url": "https://careers.rivian.com/jobs/30823?icims=1&lang=en-us",
+        "locations": [
+            "Tustin, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rivian",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
