@@ -220632,7 +220632,7 @@
         "company_name": "TikTok",
         "id": "8b2ac290-4592-4349-9f0f-52381aae132f",
         "title": "Data Scientist Graduate - Multimedia",
-        "active": false,
+        "active": true,
         "date_updated": 1786754881,
         "date_posted": 1786754854,
         "url": "https://lifeattiktok.com/search/7673672141010815237",
@@ -373529,5 +373529,65 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Renesas Electronics",
+        "id": "7990a8db-9d3d-4423-a393-04b9f03abc66",
+        "title": "Digital Engineer",
+        "active": true,
+        "date_updated": 1795622406,
+        "date_posted": 1795619056,
+        "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000163707500",
+        "locations": [
+            "Duluth, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Renesas-Electronics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "National Bank of Canada",
+        "id": "e85e893e-f310-407a-af83-a9f333559ca7",
+        "title": "Senior Fullstack Developer - Evolution AND Maintenance",
+        "active": true,
+        "date_updated": 1795622406,
+        "date_posted": 1795622288,
+        "url": "https://bnc.avature.net/en_CA/careers/JobDetail/36383",
+        "locations": [
+            "Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/National-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lila Sciences",
+        "id": "061af54f-dfd8-4cd1-a5a0-ebc1f12eb635",
+        "title": "ML Scientist - Retrieval & RAG for Scientific Literature",
+        "active": true,
+        "date_updated": 1795622406,
+        "date_posted": 1795621082,
+        "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4477299009",
+        "locations": [
+            "Cambridge, MA",
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Lila-Sciences",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
     }
 ]
