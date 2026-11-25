@@ -229974,7 +229974,7 @@
         "company_name": "TikTok",
         "id": "c9dff2be-8f4e-4123-866d-9dac43703bd2",
         "title": "Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics",
-        "active": true,
+        "active": false,
         "date_updated": 1787190481,
         "date_posted": 1787190346,
         "url": "https://lifeattiktok.com/search/7675844938504702213",
@@ -373664,5 +373664,24 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Meta",
+        "id": "142a2f4c-3de4-4789-b4df-46f7d23f7ad5",
+        "title": "ASIC Engineer - Performance Architecture and Modeling",
+        "active": true,
+        "date_updated": 1795574897,
+        "date_posted": 1795574808,
+        "url": "https://www.metacareers.com/jobs/1451659813754708",
+        "locations": [
+            "Austin, TX",
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
