@@ -354231,7 +354231,7 @@
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
         "id": "697c6f79-8bfb-4200-ad97-2a31888e79c4",
         "title": "Super Intelligence Platform Integration Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1794007262,
         "date_posted": 1794007032,
         "url": "https://jobs.smartrecruiters.com/LLNL/3743990016713536",
@@ -373618,6 +373618,26 @@
             "Hermitage, Nashville, TN"
         ],
         "company_url": "https://simplify.jobs/c/Deloitte",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Metropolitan Transportation Authority",
+        "id": "d1793677-6679-4021-a52b-75b87bbb2676",
+        "title": "Application Developer Analyst Levels 1\u20132",
+        "active": true,
+        "date_updated": 1795570574,
+        "date_posted": 1795570395,
+        "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/oHP8AfwY?nl=1&nl=1&fr=false",
+        "locations": [
+            "Jamaica, Queens, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Metropolitan-Transportation-Authority",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
