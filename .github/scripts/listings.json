@@ -310962,7 +310962,7 @@
         "company_name": "Qualcomm",
         "id": "83f2ee24-fd50-4520-b7ed-1b35f54ac8d7",
         "title": "SOC Design Verification Engineer - ASICS Engineering",
-        "active": true,
+        "active": false,
         "date_updated": 1791412957,
         "date_posted": 1791412075,
         "url": "https://qualcomm.eightfold.ai/careers/job/446721452589",
@@ -350995,7 +350995,7 @@
         "company_name": "Myriad360",
         "id": "7b528d54-ffd1-46d0-b619-21281f247993",
         "title": "Junior AI and Automation Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1793846885,
         "date_posted": 1793812833,
         "url": "https://boards.greenhouse.io/myriad360/jobs/8930382002",
@@ -364787,7 +364787,7 @@
         "company_name": "SAM",
         "id": "b00805b0-7d51-4f9e-ab9a-b30cdafb7294",
         "title": "Lidar Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1794873288,
         "date_posted": 1794858600,
         "url": "https://careers.sam.biz/jobs/8253?icims=1&lang=en-us",
@@ -368192,7 +368192,7 @@
         "company_name": "United Launch Alliance",
         "id": "b77f486a-2b51-4a28-aa1a-586e0eee73a6",
         "title": "Ground Software Avionics & Infrastructure Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1795130739,
         "date_posted": 1795130593,
         "url": "https://jobs.ulalaunch.com/job/Centennial-Ground-Software-(GSW)-Avionics-&-Infrastructure-Engineer-1-CO-80112/1452361700/?ats=successfactors",
@@ -370373,7 +370373,7 @@
         "company_name": "Wellabe",
         "id": "90c98689-b6d9-4277-80b6-6d8d648b6546",
         "title": "Software Engineer 1/2/3",
-        "active": true,
+        "active": false,
         "date_updated": 1795218006,
         "date_posted": 1795217892,
         "url": "https://recruiting.ultipro.com/ame1065/JobBoard/cdfdf806-e3aa-dfb4-4c6e-c7c656217b40/OpportunityDetail?opportunityId=2bb4b550-39c1-4e1c-9123-39b08c6f0fd7",
@@ -372062,7 +372062,7 @@
         "company_name": "National Centre for Social Research",
         "id": "8fdddced-ab2f-44cd-bf1d-4ea9fa6cacc6",
         "title": "Data Manager",
-        "active": false,
+        "active": true,
         "date_updated": 1795446902,
         "date_posted": 1787738225,
         "url": "https://natcen.pinpointhq.com/en/postings/2b62fea5-7b5e-4389-bd88-dc48686b7c23?ats=pinpointhq",
@@ -373665,5 +373665,43 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Endeavor Air",
+        "id": "94a655c9-6eae-422b-b1d9-3c513c0b99d4",
+        "title": "Data Analyst - Operations Analysis & Performance",
+        "active": true,
+        "date_updated": 1795601560,
+        "date_posted": 1795132800,
+        "url": "https://careers-endeavorair.icims.com/jobs/5807/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Endeavor-Air",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Formlabs",
+        "id": "b005b51d-d9c1-4b3b-9bf0-478b050cba83",
+        "title": "Engineering Technician",
+        "active": true,
+        "date_updated": 1795602250,
+        "date_posted": 1793110980,
+        "url": "https://careers.formlabs.com/job/8327414/apply/?gh_jid=8327414",
+        "locations": [
+            "Somerville, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Formlabs",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
