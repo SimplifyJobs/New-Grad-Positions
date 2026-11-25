@@ -373620,5 +373620,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TikTok",
+        "id": "b4da1054-8bb0-4994-ab28-a7d8190f5116",
+        "title": "Backend Software Engineer - Data Lifecycle Management",
+        "active": true,
+        "date_updated": 1795590901,
+        "date_posted": 1795590887,
+        "url": "https://lifeattiktok.com/search/7710030288165996805",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
