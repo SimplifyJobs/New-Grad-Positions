@@ -229870,7 +229870,7 @@
         "company_name": "TikTok",
         "id": "f3bdb586-bbfb-45b8-95e7-a64529d56300",
         "title": "Machine Learning Engineer Graduate - E-Commerce Supply Chain & Logistics - LLM/Agent",
-        "active": true,
+        "active": false,
         "date_updated": 1787190481,
         "date_posted": 1787190346,
         "url": "https://lifeattiktok.com/search/7675842865566222597",
@@ -373640,5 +373640,24 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Weekday AI",
+        "id": "640d60ae-93db-4f49-b271-4fcade3a7d7a",
+        "title": "AI Data Contributor",
+        "active": true,
+        "date_updated": 1795592714,
+        "date_posted": 1795592527,
+        "url": "https://apply.workable.com/weekday-1/j/FE232C4F67/apply",
+        "locations": [
+            "Remote in USA",
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Weekday-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
