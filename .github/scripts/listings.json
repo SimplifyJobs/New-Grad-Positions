@@ -369872,7 +369872,7 @@
         "company_name": "Tesla",
         "id": "8a87ec30-d332-4788-beaf-d8fe3b0ef037",
         "title": "Data Collection Operator - Optimus",
-        "active": false,
+        "active": true,
         "date_updated": 1795228743,
         "date_posted": 1795228676,
         "url": "https://www.tesla.com/careers/search/job/266837",
@@ -372776,6 +372776,173 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Synopsys",
+        "id": "b228458c-0462-48e8-ad2f-3b9f1352d8e0",
+        "title": "ASIC Digital Design Engineer",
+        "active": true,
+        "date_updated": 1795649267,
+        "date_posted": 1795649219,
+        "url": "https://synopsys.avature.net/careers/JobDetail/18860",
+        "locations": [
+            "Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Synopsys",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Sonos",
+        "id": "7b405193-1043-4b1d-81b4-45ecafc82cc5",
+        "title": "Junior Software Development Engineer - Web",
+        "active": true,
+        "date_updated": 1795649222,
+        "date_posted": 1795564800,
+        "url": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Junior-Software-Development-Engineer--Web_R2912",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Sonos",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ManTech",
+        "id": "65499680-60d8-4f06-a282-494e8dfc0715",
+        "title": "Junior Data Analyst",
+        "active": true,
+        "date_updated": 1795649047,
+        "date_posted": 1795649036,
+        "url": "https://mantech.avature.net/en_US/careers/JobDetail/67285",
+        "locations": [
+            "Ashburn, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/ManTech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Vestwell",
+        "id": "73abdb25-d3db-4ec4-8ebd-2716bebe3cae",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1795649074,
+        "date_posted": 1795634020,
+        "url": "https://job-boards.greenhouse.io/vestwell/jobs/8209363003",
+        "locations": [
+            "King of Prussia, PA",
+            "Austin, TX",
+            "Scottsdale, AZ",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Vestwell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Mayo Clinic",
+        "id": "1f3cf174-0d29-4a0b-b753-1b3118c3f541",
+        "title": "Embedded Analog Electrical Engineer",
+        "active": true,
+        "date_updated": 1795648868,
+        "date_posted": 1795648827,
+        "url": "https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/396397",
+        "locations": [
+            "Rochester, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Mayo-Clinic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Parallel Web Systems",
+        "id": "6237ff2d-7436-4949-9292-43ad6ca97359",
+        "title": "Early Career Software Engineer - Developer Experience",
+        "active": true,
+        "date_updated": 1795648683,
+        "date_posted": 1795564800,
+        "url": "https://jobs.ashbyhq.com/parallel/8b4ff118-444c-425a-b33b-f38d8338d87c/application?embed=true",
+        "locations": [
+            "Palo Alto, CA",
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Parallel-Web-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Two Sigma",
+        "id": "e4843efd-7da9-4f50-bcc0-09645323705d",
+        "title": "Quantitative Trader",
+        "active": true,
+        "date_updated": 1795648151,
+        "date_posted": 1795647999,
+        "url": "https://twosigma.avature.net/careers/JobDetail/14440",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Two-Sigma",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bluesight",
+        "id": "3b02378c-9648-415b-b534-23055904c610",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1795647964,
+        "date_posted": 1795647792,
+        "url": "https://jobs.lever.co/bluesight/8a3408a8-6909-4b66-92c1-98a5c80ba0a9/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Bluesight",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
