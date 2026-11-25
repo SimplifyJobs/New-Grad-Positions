@@ -1,44 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "fd7fd3d7-8eae-4197-b5c2-1c0702bfd6fc",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1774832906,
-        "date_posted": 1774832906,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055543",
-        "locations": [
-            "Leicester, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Wells Fargo",
-        "id": "523e2453-7640-4777-b087-4a06aad5624a",
-        "title": "Engineering Associate - Java Backend Services",
-        "active": false,
-        "date_updated": 1774832913,
-        "date_posted": 1774832913,
-        "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/SAN-LEANDRO-CA/Engineering-Associate---Java-Backend-Services_R-533150",
-        "locations": [
-            "San Leandro, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Wells-Fargo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "GE Aerospace",
         "id": "670550fc-9d27-4cfa-a143-df25ba650dff",
@@ -225210,7 +225172,7 @@
         "company_name": "Keysight Technologies",
         "id": "1e4e937c-cef0-4670-861d-a542daf1e8c0",
         "title": "ASIC Digital Design Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1787034781,
         "date_posted": 1787034629,
         "url": "https://jobs.keysight.com/jobs/53892?icims=1",
@@ -306509,7 +306471,7 @@
         "company_name": "Tesla",
         "id": "f3bb10c8-aadd-4033-be2f-c4b97195980a",
         "title": "Engineering Technician - Low Voltage Test",
-        "active": true,
+        "active": false,
         "date_updated": 1791240867,
         "date_posted": 1791238750,
         "url": "https://www.tesla.com/careers/search/job/284928",
@@ -355352,7 +355314,7 @@
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
         "id": "1394a2d1-a410-42ee-ba22-80962c84f4b1",
         "title": "Embedded Systems Engineer - Super Intelligence Integration",
-        "active": true,
+        "active": false,
         "date_updated": 1794018786,
         "date_posted": 1794007114,
         "url": "https://jobs.smartrecruiters.com/LLNL/3743990016713546",
@@ -370170,7 +370132,7 @@
         "company_name": "Zscaler",
         "id": "bb4df03f-cdf9-493c-8743-3f139dc83df3",
         "title": "Software Development Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1795218665,
         "date_posted": 1795196320,
         "url": "https://job-boards.greenhouse.io/zscaler/jobs/5283494007",
@@ -373553,6 +373515,109 @@
             "Hopkinton, MA"
         ],
         "company_url": "https://simplify.jobs/c/Dell-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Oracle",
+        "id": "dcfd7381-287a-4da3-80dd-921874660ecc",
+        "title": "Systems Engineer 1",
+        "active": true,
+        "date_updated": 1795569856,
+        "date_posted": 1795569665,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350415",
+        "locations": [
+            "Kansas City, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Oracle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Veeva Systems",
+        "id": "d9f3f34d-35aa-4d1f-833f-71728fed4a1d",
+        "title": "Associate Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1795569777,
+        "date_posted": 1795569636,
+        "url": "https://jobs.lever.co/veeva/7272b636-1a5e-4e4b-a0af-763d2951429f/apply",
+        "locations": [
+            "Raleigh, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Veeva-Systems",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "DeciBio Consulting",
+        "id": "be7d94f5-0ffa-4eba-b80c-68e443b4235b",
+        "title": "Life Science Data Analyst",
+        "active": true,
+        "date_updated": 1795569664,
+        "date_posted": 1795565397,
+        "url": "https://www.decibio.com/careers/open-positions?gh_jid=8961111002",
+        "locations": [
+            "London, UK",
+            "LA",
+            "Oakland, CA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/DeciBio-Consulting",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Beyond New Horizons",
+        "id": "2c8b5a58-c9ab-4efb-be82-8047d25e6570",
+        "title": "ID&C Software Engineer",
+        "active": true,
+        "date_updated": 1795569776,
+        "date_posted": 1795478400,
+        "url": "https://careers-bnh.icims.com/jobs/26055/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Tullahoma, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Beyond-New-Horizons",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Deloitte",
+        "id": "8897b0b8-300d-49d6-ae33-16dbce5038e7",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1795569455,
+        "date_posted": 1795569265,
+        "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Internal-Services-Associate-Software-Engineering-Summer-Fall-2027/376512",
+        "locations": [
+            "Hermitage, Nashville, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Deloitte",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
