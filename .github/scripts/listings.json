@@ -364621,7 +364621,7 @@
         "company_name": "CrossCountry Consulting",
         "id": "e516341f-94fb-46d4-acbf-424091977db5",
         "title": "Junior Forward Deployed Software Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1794872025,
         "date_posted": 1794871977,
         "url": "https://jobs.lever.co/crosscountry-consulting/5f8a920b-77ed-4200-b37d-1f5d68c1bc21/apply",
@@ -373436,6 +373436,78 @@
             "Parkland, FL"
         ],
         "company_url": "https://simplify.jobs/c/Appodeal",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Capgemini",
+        "id": "9856510f-e264-447d-8706-a84c99212288",
+        "title": "AI Associate",
+        "active": true,
+        "date_updated": 1795620251,
+        "date_posted": 1795620097,
+        "url": "https://careers.capgemini.com/job/London-AI-Associate/1460717733/?ats=successfactors",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Capgemini",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Capgemini",
+        "id": "825e16cd-c856-48c5-946d-2e0dd477ab63",
+        "title": "AI Associate",
+        "active": true,
+        "date_updated": 1795620251,
+        "date_posted": 1795620098,
+        "url": "https://careers.capgemini.com/job/London-AI-Associate/1460719933/?ats=successfactors",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Capgemini",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Capgemini",
+        "id": "6ba204c0-ceb7-4580-9d79-b61a4fcdf294",
+        "title": "AI Associate",
+        "active": true,
+        "date_updated": 1795620251,
+        "date_posted": 1795620093,
+        "url": "https://careers.capgemini.com/job/London-AI-Associate/1460648933/?ats=successfactors",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Capgemini",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Capgemini",
+        "id": "44325c51-6951-4d2c-99a0-dce267a3de41",
+        "title": "AI Engineer",
+        "active": true,
+        "date_updated": 1795620251,
+        "date_posted": 1795620087,
+        "url": "https://careers.capgemini.com/job/London-AI-Engineer/1460584633/?ats=successfactors",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Capgemini",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
