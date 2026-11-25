@@ -220104,7 +220104,7 @@
         "company_name": "WeRide",
         "id": "e1e46d1c-0205-405e-8063-32075566d4d4",
         "title": "Software Engineer Intern - Perception/Computer Vision",
-        "active": true,
+        "active": false,
         "date_updated": 1786746096,
         "date_posted": 1786745731,
         "url": "https://jobs.lever.co/weride/5cde0d09-ba2d-408d-947e-4a42028cd4f7/apply",
@@ -220144,7 +220144,7 @@
         "company_name": "WeRide",
         "id": "94d01de5-9fda-4158-938a-a669c956dc3e",
         "title": "Software Engineer New Grad - Algorithm",
-        "active": true,
+        "active": false,
         "date_updated": 1786746095,
         "date_posted": 1786745733,
         "url": "https://jobs.lever.co/weride/5a7cbc83-2381-482e-9d6d-e9c9d59ad63b/apply",
@@ -373478,6 +373478,65 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "SAIC",
+        "id": "6ef0c49b-ec88-4870-bc0c-248826ad42dc",
+        "title": "Computer Programmer Level 1",
+        "active": true,
+        "date_updated": 1795563565,
+        "date_posted": 1795563380,
+        "url": "https://eihu.fa.us8.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/2619464",
+        "locations": [
+            "Oklahoma City, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/SAIC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "CTG",
+        "id": "526d17a0-8473-48fb-99a3-4f3f2c7f740e",
+        "title": "Lab Technician",
+        "active": true,
+        "date_updated": 1795563361,
+        "date_posted": 1795551420,
+        "url": "https://careers.ctg.com/jobs/19554?icims=1&lang=en-us",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/CTG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Keysight Technologies",
+        "id": "9100a525-6544-40ae-a857-27aead1dfcae",
+        "title": "R&D BS / MS Electrical Engineer Power Electronics Hardware Design",
+        "active": true,
+        "date_updated": 1795563478,
+        "date_posted": 1795556280,
+        "url": "https://jobs.keysight.com/jobs/59478?icims=1&lang=en-us",
+        "locations": [
+            "Budd Lake, Mt Olive, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
