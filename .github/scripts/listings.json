@@ -355510,7 +355510,7 @@
         "company_name": "Longshot Space Technologies",
         "id": "ed4e92f2-433b-4afc-b17c-5abc1cad9d04",
         "title": "Electrical Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1794296410,
         "date_posted": 1794296211,
         "url": "https://ats.rippling.com/longshot/jobs/4392677a-3d26-4049-845d-bb7fb04246fd",
@@ -372979,6 +372979,26 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Welo Global",
+        "id": "a20fbd72-eae4-4051-ae1c-a1b21340ed3f",
+        "title": "Data Collection Operator",
+        "active": true,
+        "date_updated": 1795691740,
+        "date_posted": 1795691534,
+        "url": "https://jobs.lever.co/weloglobal/275c499e-b870-4465-91ed-1c852eae564c/apply",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Welo-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
