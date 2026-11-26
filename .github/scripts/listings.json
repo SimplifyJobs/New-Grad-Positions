@@ -369649,7 +369649,7 @@
         "company_name": "Applied Engineering",
         "id": "79e776f8-34ef-4c18-9385-a94306716e3c",
         "title": "Electrical Engineer: Embedded Software",
-        "active": true,
+        "active": false,
         "date_updated": 1795255206,
         "date_posted": 1795123263,
         "url": "https://www.go-applied.com/careers/openings/?gh_jid=4515468009",
@@ -372900,5 +372900,45 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Honeywell Aerospace",
+        "id": "47b10f30-3aec-4553-8aab-3e90e3fd26b2",
+        "title": "Electronic Design Engineer 1",
+        "active": true,
+        "date_updated": 1795685824,
+        "date_posted": 1795159655,
+        "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/128472",
+        "locations": [
+            "Colorado Springs, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Honeywell-Aerospace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Recidiviz",
+        "id": "43eac614-8780-4559-9469-e724025dd0af",
+        "title": "Data Analyst",
+        "active": true,
+        "date_updated": 1795685761,
+        "date_posted": 1790808159,
+        "url": "https://job-boards.greenhouse.io/recidiviz/jobs/4717510006",
+        "locations": [
+            "Oakland, CA",
+            "Remote in USA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Recidiviz",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
