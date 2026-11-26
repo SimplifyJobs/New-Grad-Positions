@@ -1,24 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Hewlett Packard (HP)",
-        "id": "3d1b7afa-b8e2-480d-8ea3-dd025fd955be",
-        "title": "Graduate Software Developer - C#",
-        "active": false,
-        "date_updated": 1774987381,
-        "date_posted": 1774947936,
-        "url": "https://hp.wd5.myworkdayjobs.com/EXTEU-AC-CareerSite/job/Cambridge-Cambridgeshire-United-Kingdom/Graduate-Software-Developer--C----2-year-Placement_3156191",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Cintas",
         "id": "1920c33f-707a-490b-967e-33d6f9dca58e",
@@ -1491,45 +1473,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Hewlett Packard (HP)",
-        "id": "23c36964-c163-43b5-9706-25b261bef199",
-        "title": "Graduate Software Developer - C#",
-        "active": false,
-        "date_updated": 1774987381,
-        "date_posted": 1774947907,
-        "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Cambridge-Cambridgeshire-United-Kingdom/Graduate-Software-Developer--C----2-year-Placement_3156191-1",
-        "locations": [
-            "Cambridge, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "NVIDIA",
-        "id": "cd638de2-97ec-4aa9-9737-4b64e4cccd75",
-        "title": "AI Chip Design Engineer \u2013 New College Grad",
-        "active": false,
-        "date_updated": 1775001058,
-        "date_posted": 1774947778,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Chip-Design-Engineer---New-College-Grad-2026_JR2015487",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
         ]
     },
     {
@@ -316838,7 +316781,7 @@
         "company_name": "Redwood Materials",
         "id": "33ae4f5c-d020-4d6b-b33d-591c0f7da237",
         "title": "Electrical Engineering Associate - Energy Storage",
-        "active": true,
+        "active": false,
         "date_updated": 1791957963,
         "date_posted": 1791957807,
         "url": "https://boards.greenhouse.io/redwoodmaterials/jobs/6223627004",
