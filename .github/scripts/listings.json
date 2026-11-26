@@ -310441,7 +310441,7 @@
         "company_name": "Niantic Spatial",
         "id": "aeab73a2-30a9-4a0b-a25d-d708a9901f29",
         "title": "AI Engineer - Computer Vision",
-        "active": true,
+        "active": false,
         "date_updated": 1791422461,
         "date_posted": 1791422387,
         "url": "https://jobs.ashbyhq.com/niantic-spatial/aa5cac58-e677-4238-9d90-f05f3da9cd4f/application?embed=true",
@@ -373159,6 +373159,48 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Scout AI",
+        "id": "ce4b0306-3a42-44c1-8789-44f4d7ba9f45",
+        "title": "AI Engineer New Grad - AI/ML and Agent Harnessing",
+        "active": true,
+        "date_updated": 1795661857,
+        "date_posted": 1795651200,
+        "url": "https://jobs.ashbyhq.com/scout-ai/ad3dd69f-f568-4a7c-abbf-280424bc63ed/application?embed=true",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Scout-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Scout AI",
+        "id": "9c007171-49c7-45fe-ae89-8fbe69996d96",
+        "title": "Software Engineer New Grad - Core Systems",
+        "active": true,
+        "date_updated": 1795661853,
+        "date_posted": 1795651200,
+        "url": "https://jobs.ashbyhq.com/scout-ai/7da1991b-f264-4465-8747-8cc5421a9897/application?embed=true",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Scout-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
