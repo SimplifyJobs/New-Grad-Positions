@@ -188476,7 +188476,7 @@
         "company_name": "TikTok",
         "id": "d8f41f3f-586c-4f20-8868-e9832e690e61",
         "title": "Machine Learning Engineer New Grad - Search Quality",
-        "active": true,
+        "active": false,
         "date_updated": 1785739173,
         "date_posted": 1785737709,
         "url": "https://lifeattiktok.com/search/7665793152026740997",
@@ -371669,6 +371669,26 @@
             "Santa Clara, CA"
         ],
         "company_url": "https://simplify.jobs/c/Welo-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Globus Medical",
+        "id": "9b137bce-428d-4766-833f-15595cdd2fdd",
+        "title": "Product Manager",
+        "active": true,
+        "date_updated": 1788459329,
+        "date_posted": 1781952929,
+        "url": "https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Audubon-PA/Product-Manager_JR106319",
+        "locations": [
+            "Audubon, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Globus-Medical",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
