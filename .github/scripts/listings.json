@@ -347419,7 +347419,7 @@
         "company_name": "Blackhawk Network Holdings",
         "id": "b1b0194a-88c7-43f5-a69c-3ec0133181a7",
         "title": "Associate Product Manager - Technology",
-        "active": true,
+        "active": false,
         "date_updated": 1793748470,
         "date_posted": 1793735700,
         "url": "https://blackhawknetwork.jibeapply.com/jobs/27263?icims=1",
@@ -371731,7 +371731,7 @@
         "company_name": "American Council on Education",
         "id": "9bf6d1ba-adef-4f74-9343-9e9d9dfba88e",
         "title": "Associate \u2013 Data Insights and Policy Analysis",
-        "active": true,
+        "active": false,
         "date_updated": 1795562290,
         "date_posted": 1795562177,
         "url": "https://recruiting.ultipro.com/AME1073/JobBoard/3ab22f45-0d00-7f95-def8-c8ca6a23d48f/OpportunityDetail?opportunityId=f1e43996-efa6-4910-8b46-cef7d4443d1d",
@@ -372937,6 +372937,25 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Recidiviz",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Framework",
+        "id": "8b6ac4f4-1ce1-463c-aaab-1cb87af4798e",
+        "title": "Senior Hardware Product Manager",
+        "active": true,
+        "date_updated": 1795688320,
+        "date_posted": 1795532689,
+        "url": "https://ats.rippling.com/framework/jobs/3902e646-7d7e-416b-bf96-3f231b65791d",
+        "locations": [
+            "Remote in USA",
+            "Taipei City, Taiwan"
+        ],
+        "company_url": "https://simplify.jobs/c/Framework",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
