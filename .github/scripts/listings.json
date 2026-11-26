@@ -372936,5 +372936,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cisco",
+        "id": "f11a83b2-59da-43ef-9f7c-3b67a7e3411c",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1795679821,
+        "date_posted": 1795679710,
+        "url": "https://careers.cisco.com/global/en/job/2030715",
+        "locations": [
+            "Research Triangle Park, Durham, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
