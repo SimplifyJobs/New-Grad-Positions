@@ -135689,7 +135689,7 @@
         "company_name": "Northwell Health",
         "id": "950a83e7-4064-4075-a2c6-735e8e2916d9",
         "title": "Associate Business Intelligence Analyst",
-        "active": false,
+        "active": true,
         "date_updated": 1783462326,
         "date_posted": 1783462098,
         "url": "https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/192607",
@@ -373199,6 +373199,26 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Dell Technologies",
+        "id": "aa031ee1-e663-49f6-9e69-d617595a1032",
+        "title": "Forward Deployed AI Engineer - Technical Program Management - AI Delivery and Enablement",
+        "active": true,
+        "date_updated": 1795651388,
+        "date_posted": 1795651363,
+        "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/300003",
+        "locations": [
+            "Hopkinton, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Dell-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
