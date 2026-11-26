@@ -373140,5 +373140,25 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "714f26ab-28dd-4f39-8b84-f3869099f68f",
+        "title": "Research Scientist - Trust and Safety - Vision Language Models",
+        "active": true,
+        "date_updated": 1792746182,
+        "date_posted": 1781503889,
+        "url": "https://lifeattiktok.com/search/7594895259798325557",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
     }
 ]
