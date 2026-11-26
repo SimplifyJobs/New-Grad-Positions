@@ -1,85 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Cintas",
-        "id": "1920c33f-707a-490b-967e-33d6f9dca58e",
-        "title": "Data Analyst 1",
-        "active": false,
-        "date_updated": 1775003259,
-        "date_posted": 1774966186,
-        "url": "https://careers.cintas.com/job/Mason-Data-Analyst-I-OH-45040/1376159600/?ats=successfactors",
-        "locations": [
-            "Mason, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Cintas",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CACI",
-        "id": "d4e48826-1a0a-4ed1-afbc-171228736814",
-        "title": "IT Data Specialist 1",
-        "active": false,
-        "date_updated": 1775003015,
-        "date_posted": 1774966177,
-        "url": "https://caci.wd1.myworkdayjobs.com/external/job/US-DC-Washington/IT-Data-Specialist-I_324024",
-        "locations": [
-            "Washington, DC"
-        ],
-        "company_url": "https://simplify.jobs/c/CACI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "L3Harris Technologies",
-        "id": "325c8b3d-72e3-4a87-8195-f4257c8b9c3b",
-        "title": "Associate Software Engineer",
-        "active": false,
-        "date_updated": 1775002914,
-        "date_posted": 1774966072,
-        "url": "https://jobs.l3harris.com/job/Yorba-Linda-Associate,-Software-Engineering-CA-92887/1378194100/?ats=successfactors",
-        "locations": [
-            "Yorba Linda, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Unison Infrastructure",
-        "id": "3a5d8442-ce3e-41d4-a5bd-5f139e595cb5",
-        "title": "Data Analyst",
-        "active": false,
-        "date_updated": 1775002752,
-        "date_posted": 1774966023,
-        "url": "https://jobs.lever.co/unisoninfra/a07d9083-6186-4301-ad1f-8589fc746e14/apply",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Unison-Infrastructure",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "RTX",
         "id": "fe66eba0-d148-468f-8566-77c510359ec1",
@@ -446,26 +367,6 @@
             "North Carolina"
         ],
         "company_url": "https://simplify.jobs/c/Ensora-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "WSFS Bank",
-        "id": "e99c663f-bc2c-4a8d-a534-a2949bbcb785",
-        "title": "Data Reporting Analyst",
-        "active": false,
-        "date_updated": 1775003471,
-        "date_posted": 1774965938,
-        "url": "https://wsfsbank.wd1.myworkdayjobs.com/wsfscareers/job/Philadelphia-PA/Data-Reporting-Analyst_R-103400-2",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/WSFS-Bank",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
