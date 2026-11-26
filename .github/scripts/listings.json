@@ -320087,7 +320087,7 @@
         "company_name": "Nutanix",
         "id": "65368a41-05c8-40d7-91eb-041dfe59df54",
         "title": "Staff Engineer - DataHub",
-        "active": false,
+        "active": true,
         "date_updated": 1792103401,
         "date_posted": 1790374523,
         "url": "https://jobs.jobvite.com/nutanix/job/omPOAfwj?nl=1&nl=1&fr=false",
@@ -372943,6 +372943,262 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "United Airlines",
+        "id": "a0de80ad-4719-4c2a-90bf-e6fd089a57e9",
+        "title": "Associate Analyst - Operations Performance & Analytics",
+        "active": true,
+        "date_updated": 1795650846,
+        "date_posted": 1795650739,
+        "url": "https://careers.united.com/us/en/job/WHQ00027108",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/United-Airlines",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CodeRabbit",
+        "id": "32abe7cb-25c6-4d4a-83a5-5f6a2e92ce96",
+        "title": "Software Engineer New Grad",
+        "active": true,
+        "date_updated": 1795650893,
+        "date_posted": 1795564800,
+        "url": "https://jobs.ashbyhq.com/coderabbit/50e51501-4421-496f-95ea-c793aed3bd51/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/CodeRabbit",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Qualcomm",
+        "id": "82605d39-fcdb-4e46-b2fe-27648a30b167",
+        "title": "Microprocessor Silicon Validation and Optimization Engineer - ASICS Engineering",
+        "active": true,
+        "date_updated": 1795650846,
+        "date_posted": 1795650822,
+        "url": "https://qualcomm.eightfold.ai/careers/job/446722155837",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "XPENG Motors",
+        "id": "5d0adbaf-c34b-4c5b-bcb0-cab03a0c3297",
+        "title": "Software Engineer New Grad - Computing Platform",
+        "active": true,
+        "date_updated": 1795650161,
+        "date_posted": 1795635534,
+        "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/8962912002",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/XPengMotors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "WELLSTAR Technologies",
+        "id": "779b777d-ce53-4d90-b231-5b6e23a2a5f7",
+        "title": "Junior Software Developer",
+        "active": true,
+        "date_updated": 1795649944,
+        "date_posted": 1795649786,
+        "url": "https://wellhealthtechnologiescorp.applytojob.com/apply/URnVV0S4yQ/Junior-Software-Developer",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/WELLSTAR-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "WELLSTAR Technologies",
+        "id": "3ef2f622-375f-44e5-a054-a49457ca5a68",
+        "title": "Junior Software Developer",
+        "active": true,
+        "date_updated": 1795649944,
+        "date_posted": 1795649786,
+        "url": "https://wellhealthtechnologiescorp.applytojob.com/apply/5kq5CE1n76/Junior-Software-Developer",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/WELLSTAR-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Plug Technologies",
+        "id": "88ccee9d-75ab-4ab8-82c4-c8d84636e492",
+        "title": "Product Analyst",
+        "active": true,
+        "date_updated": 1795649944,
+        "date_posted": 1795564800,
+        "url": "https://jobs.ashbyhq.com/plugmotors/6db37554-cd59-4546-b3d1-fb20bafecf97/application?embed=true",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/Plug-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Fin",
+        "id": "09fc3e4c-c685-4836-ae49-426f9b9aa225",
+        "title": "Senior Forward Deployed Product Manager",
+        "active": true,
+        "date_updated": 1795649768,
+        "date_posted": 1795622875,
+        "url": "https://job-boards.greenhouse.io/intercom/jobs/8417286",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Fin-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Banner Engineering",
+        "id": "5fbac00c-61a1-41b8-a784-07ad579a1384",
+        "title": "Electrical Technician",
+        "active": true,
+        "date_updated": 1795649794,
+        "date_posted": 1795649700,
+        "url": "https://recruiting.ultipro.com/ban1010/JobBoard/e9066a66-c3b9-e25c-d036-116705c05e46/OpportunityDetail?opportunityId=38ca288e-0b85-42f0-98c9-1848af2572db",
+        "locations": [
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/BannerEngineering",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nexvel",
+        "id": "c3d523ca-cf33-4248-9051-b9cabda4e549",
+        "title": "Vibe Coder - Marketing Tools",
+        "active": true,
+        "date_updated": 1795649588,
+        "date_posted": 1795649434,
+        "url": "https://apply.workable.com/nexvelsolutions/j/99E994E7BA/apply",
+        "locations": [
+            "Elkins Park, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Nexvel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Hunter Douglas",
+        "id": "5a223bfe-3fd9-4a90-be85-ac8a5d762772",
+        "title": "Product Specialist Associate",
+        "active": true,
+        "date_updated": 1795649407,
+        "date_posted": 1795648071,
+        "url": "https://jobs.hunterdouglas.com/division/hunterdouglas/job/8217408003?gh_jid=8217408003",
+        "locations": [
+            "Broomfield, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Hunter-Douglas",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ayo Semiconductor",
+        "id": "390edef6-73d0-4d70-a3d0-5d39d9f3ccb7",
+        "title": "Machine Learning Researcher",
+        "active": true,
+        "date_updated": 1795649407,
+        "date_posted": 1795564800,
+        "url": "https://jobs.ashbyhq.com/ayosemi/25ce1f36-356a-4a0e-95e0-24c3babb34ff/application?embed=true",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ayo-Semiconductor",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ayo Semiconductor",
+        "id": "013f8721-91a6-47be-9dcb-e03f3ed37b9c",
+        "title": "Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1795649407,
+        "date_posted": 1795564800,
+        "url": "https://jobs.ashbyhq.com/ayosemi/cc1d3968-2b15-4442-828c-7950077c3a8a/application?embed=true",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ayo-Semiconductor",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
