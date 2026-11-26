@@ -350781,7 +350781,7 @@
         "company_name": "Blackhawk Network Holdings",
         "id": "ec690411-3f8c-4226-b9e3-2060341f134b",
         "title": "Associate Product Manager - Technology",
-        "active": true,
+        "active": false,
         "date_updated": 1793868069,
         "date_posted": 1793664000,
         "url": "https://careers-blackhawknetwork.icims.com/jobs/27263/job?mobile=true&needsRedirect=false",
@@ -372959,5 +372959,26 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "K1",
+        "id": "ab501bad-862f-4f37-963c-78590ba637c1",
+        "title": "AI Engineer",
+        "active": true,
+        "date_updated": 1795689361,
+        "date_posted": 1790921742,
+        "url": "https://k1im.applytojob.com/apply/7yVsObIt1i/AI-Engineer",
+        "locations": [
+            "Manhattan Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/K1",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
