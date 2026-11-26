@@ -1,87 +1,5 @@
 [
     {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "NVIDIA",
-        "id": "cdac9585-1420-4450-ba80-1bdf21973134",
-        "title": "AI Chip Design Engineer \u2013 New College Grad",
-        "active": false,
-        "date_updated": 1774919900,
-        "date_posted": 1774919168,
-        "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Chip-Design-Engineer---New-College-Grad-2026_JR2015481",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/NVIDIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Lawrence Berkeley National Laboratory",
-        "id": "abc7d36a-19fc-41eb-9db3-1898aeb501ed",
-        "title": "Postdoctoral Scholar",
-        "active": false,
-        "date_updated": 1774919521,
-        "date_posted": 1774919336,
-        "url": "https://lbl.taleo.net/careersection/5/jobdetail.ftl?job=106272",
-        "locations": [
-            "Berkeley, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Lawrence-Berkeley-National-Laboratory",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "714f26ab-28dd-4f39-8b84-f3869099f68f",
-        "title": "Vision Language Models/Vision Language Models Research Scientist Graduate - Trust and Safety - PhD",
-        "active": true,
-        "date_updated": 1774919992,
-        "date_posted": 1774919590,
-        "url": "https://lifeattiktok.com/search/7594895259798325557",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Western Digital",
-        "id": "47f61955-2e98-438a-a30f-f7a35eec1e9f",
-        "title": "Software Development Engineer - Firmware",
-        "active": false,
-        "date_updated": 1774919521,
-        "date_posted": 1774919053,
-        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000117756527",
-        "locations": [
-            "Irvine, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Digital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
         "date_updated": 1774934795,
         "sponsorship": "U.S. Citizenship is Required",
         "active": true,
@@ -381,24 +299,6 @@
             "Cambridge, UK"
         ],
         "company_url": "https://simplify.jobs/c/Hewlett-Packard",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Mattel",
-        "id": "51651f7f-ecc9-4a4e-a049-94b1403024e3",
-        "title": "Model Shop Technician",
-        "active": false,
-        "date_updated": 1774987381,
-        "date_posted": 1774919042,
-        "url": "https://jobs.smartrecruiters.com/MattelInc/744000117760418",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Mattel",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
@@ -300594,7 +300494,7 @@
         "company_name": "SpaceX",
         "id": "06f2652b-d13a-433f-9b93-9a30c7780f51",
         "title": "Software Engineer - High Performance Computing - Starlink",
-        "active": true,
+        "active": false,
         "date_updated": 1791066961,
         "date_posted": 1781042862,
         "url": "https://boards.greenhouse.io/spacex/jobs/8578909002",
@@ -310479,7 +310379,7 @@
         "company_name": "Otter.ai",
         "id": "24901885-b792-4344-a66a-26907a743ebc",
         "title": "Software Engineer New Grad - Front-End",
-        "active": true,
+        "active": false,
         "date_updated": 1791412285,
         "date_posted": 1791411293,
         "url": "https://otter.ai/careers?gh_jid=8016078003",
