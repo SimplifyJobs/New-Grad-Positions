@@ -290566,7 +290566,7 @@
         "company_name": "EquipmentShare",
         "id": "76edf07b-c9a8-44b6-93f2-183e21308392",
         "title": "Master Data Management Parts Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1790699771,
         "date_posted": 1790690669,
         "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8211757",
@@ -364723,7 +364723,7 @@
         "company_name": "SECURE",
         "id": "7868367c-848d-462e-b40d-62be3816c7d3",
         "title": "Operations Intelligence Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1795216685,
         "date_posted": 1795132800,
         "url": "https://careers-canada-secure.icims.com/jobs/2465/job?mobile=true&needsRedirect=false",
@@ -369912,5 +369912,61 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Speechmatics",
+        "id": "793b09fb-9c1b-4d66-989e-e7432d05e30f",
+        "title": "Machine Learning Graduate - Futurevoices",
+        "active": true,
+        "date_updated": 1795821482,
+        "date_posted": 1795737600,
+        "url": "https://jobs.ashbyhq.com/speechmatics/dbc687b2-16f8-4c00-83f4-1f71fdac2238/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Speechmatics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Speechmatics",
+        "id": "04cfedf5-93bb-406c-a1d6-c509d96a04e3",
+        "title": "Machine Learning Graduate",
+        "active": true,
+        "date_updated": 1795821482,
+        "date_posted": 1795737600,
+        "url": "https://jobs.ashbyhq.com/speechmatics/143905a5-77ff-4e57-828f-6c1181b042b1/application?embed=true",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Speechmatics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "HireHawk",
+        "id": "f41572e6-04cd-4d41-9f8e-e95b73b9724b",
+        "title": "Associate Software Engineer",
+        "active": true,
+        "date_updated": 1795820766,
+        "date_posted": 1795820629,
+        "url": "https://apply.workable.com/hirehawk/j/E300AE4F78/apply",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/HireHawk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
