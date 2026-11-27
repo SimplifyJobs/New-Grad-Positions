@@ -364080,7 +364080,7 @@
         "company_name": "GIRO",
         "id": "8da7e607-788f-4d80-ad68-62014bf8575f",
         "title": "Junior C++ Developer",
-        "active": true,
+        "active": false,
         "date_updated": 1795011485,
         "date_posted": 1792368000,
         "url": "https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Dveloppeur-ou-Dveloppeuse-C---junior_R-100000346",
@@ -371414,5 +371414,23 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TerraSense Analytics",
+        "id": "97ebf31f-f840-4989-b355-6743f7db2edd",
+        "title": "Data Labeler 1",
+        "active": true,
+        "date_updated": 1795745121,
+        "date_posted": 1795745009,
+        "url": "https://terrasense.bamboohr.com/careers/105/",
+        "locations": [
+            "Kelowna, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TerraSense-Analytics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
