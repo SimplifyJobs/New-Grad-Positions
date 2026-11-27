@@ -370940,5 +370940,25 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tesco",
+        "id": "a2799120-9f46-4b31-b4da-12df7a0ad473",
+        "title": "Software Development Engineer 1",
+        "active": true,
+        "date_updated": 1795793619,
+        "date_posted": 1795793457,
+        "url": "https://tesco.avature.net/en_GB/careers/JobDetail/218753",
+        "locations": [
+            "United Kingdom"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
