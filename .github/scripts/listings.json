@@ -321249,7 +321249,7 @@
         "company_name": "Mendix",
         "id": "b8b208fc-1a24-46b3-a41b-b69249a8b359",
         "title": "Intelligence Center X Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1792488421,
         "date_posted": 1792488317,
         "url": "https://jobs.lever.co/mendix/3be1cbcf-1ab4-4309-a764-2c336d1f7f37/apply",
@@ -358104,7 +358104,7 @@
         "company_name": "Neko Health",
         "id": "8ec06333-5fb9-4e54-bd9b-f6524d48c54f",
         "title": "AI Acceleration Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1794497777,
         "date_posted": 1794497714,
         "url": "https://jobs.ashbyhq.com/neko-health/555d3020-e769-4d2d-bb64-d94107b1b79f/application?embed=true",
@@ -368741,7 +368741,7 @@
         "company_name": "AbbVie",
         "id": "91e76f54-acbb-48eb-a85d-21784efd168e",
         "title": "AI Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1795476061,
         "date_posted": 1795450318,
         "url": "https://jobs.smartrecruiters.com/AbbVie/3743990017034256",
@@ -371272,5 +371272,24 @@
             "Master's",
             "PhD"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Zeit AI (YC S24)",
+        "id": "90ef67d5-a23f-49e8-b43b-9793ee0b966d",
+        "title": "Forward-Deployed Engineer",
+        "active": true,
+        "date_updated": 1795775050,
+        "date_posted": 1795046400,
+        "url": "https://jobs.ashbyhq.com/zeit-ai/66203527-9373-4664-93d0-fa3078d7ca92/application?embed=true",
+        "locations": [
+            "London, UK",
+            "Munich, Germany"
+        ],
+        "company_url": "https://simplify.jobs/c/Zeit-AI-YC-S24",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
