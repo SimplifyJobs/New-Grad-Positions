@@ -370904,5 +370904,41 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Phoenix Software",
+        "id": "7cc64135-819c-4a5e-8a53-5c84fcf35b06",
+        "title": "Data and Support Analyst - ITAM/FinOps",
+        "active": true,
+        "date_updated": 1795793042,
+        "date_posted": 1795792881,
+        "url": "https://apply.workable.com/phoenix-software/j/61ACB83711/apply",
+        "locations": [
+            "Pocklington, York, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Phoenix-Software",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Intetics",
+        "id": "62efb85f-02c0-4ff5-b78b-81de93931067",
+        "title": "Field Researcher",
+        "active": true,
+        "date_updated": 1795792533,
+        "date_posted": 1795792485,
+        "url": "https://apply.workable.com/intetics-2/j/0F641629EC/apply",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Intetics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
