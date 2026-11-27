@@ -371432,5 +371432,43 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Orion Digital",
+        "id": "4def3c49-c217-4bc0-9d97-163c5f109d02",
+        "title": "Junior Full Stack AI Engineer",
+        "active": true,
+        "date_updated": 1795747503,
+        "date_posted": 1795747479,
+        "url": "https://mogo.applytojob.com/apply/yLhCvCiypq/Junior-Full-Stack-AI-Engineer",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Orion-Digital",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Synectic Solutions",
+        "id": "fc96342b-9d7c-4f3f-a93e-70d935ac86b4",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1795746812,
+        "date_posted": 1795746649,
+        "url": "https://synecsolu.applytojob.com/apply/kQT1OASGDG/Software-Engineer-I",
+        "locations": [
+            "Norco, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Synectic-Solutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
