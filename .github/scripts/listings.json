@@ -1,67 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Walt Disney Company",
-        "id": "730d06c8-ddd1-4c42-94b6-0f87a6423991",
-        "title": "Technical Assistant",
-        "active": false,
-        "date_updated": 1775035621,
-        "date_posted": 1775035180,
-        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/London-United-Kingdom/Technical-Assistant---ILM-London_10147405",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Disney",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "223865a7-17f7-46c1-a794-d5551ee04c53",
-        "title": "Trading Assistant",
-        "active": false,
-        "date_updated": 1775035621,
-        "date_posted": 1775034320,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400050870",
-        "locations": [
-            "Durham, UK",
-            "Thirsk, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Uline",
-        "id": "3d68a30a-72e2-4ba4-a0c2-7a8131abf8e8",
-        "title": "Data Analyst",
-        "active": false,
-        "date_updated": 1775035621,
-        "date_posted": 1775035094,
-        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Data-Analyst_R262681-1",
-        "locations": [
-            "Waukegan, IL",
-            "Milwaukee, WI",
-            "Pleasant Prairie, WI",
-            "Morton Grove, IL",
-            "Kenosha, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Uline",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Royal Bank of Canada",
         "id": "a9c884d1-cb70-46ec-b3fd-693b2d6470dc",
@@ -371310,6 +371249,28 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Artefact",
+        "id": "208cdd3d-13f7-4546-9b3e-5c76be89cbe1",
+        "title": "AI Applied Engineer",
+        "active": true,
+        "date_updated": 1795771272,
+        "date_posted": 1791987704,
+        "url": "https://job-boards.greenhouse.io/artefact/jobs/8421835002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Artefact",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
