@@ -132020,7 +132020,7 @@
         "company_name": "Northwell Health",
         "id": "950a83e7-4064-4075-a2c6-735e8e2916d9",
         "title": "Associate Business Intelligence Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1783462326,
         "date_posted": 1783462098,
         "url": "https://eppr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/192607",
@@ -369891,5 +369891,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "xAI",
+        "id": "a1090125-5984-4a8a-9e90-a82f10f7491d",
+        "title": "AI Tutor \u2013 Chinese",
+        "active": true,
+        "date_updated": 1794440702,
+        "date_posted": 1794440636,
+        "url": "https://job-boards.greenhouse.io/xai/jobs/5090180007",
+        "locations": [
+            "Remote in USA",
+            "Remote in UK",
+            "Remote in Australia",
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/XAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
