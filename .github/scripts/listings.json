@@ -1,151 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Northrop Grumman",
-        "id": "ffd71353-f2bb-429f-9cad-7e1df6da4197",
-        "title": "Test Conductor/Principal Test Conductor - Level",
-        "active": false,
-        "date_updated": 1775025721,
-        "date_posted": 1775023666,
-        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Test-Conductor-Principal-Test-Conductor--Level-2-3-_R10227966",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "TD Bank",
-        "id": "ec9f893b-5a9e-41e6-a17a-103b67088557",
-        "title": "Associate Software Engineer",
-        "active": false,
-        "date_updated": 1775025181,
-        "date_posted": 1775023585,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mississauga-Ontario/Associate-Software-Engineer_R_1480677",
-        "locations": [
-            "Mississauga, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD",
-            "Certificate"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "66729d57-3a29-40b5-8252-a50252c674ee",
-        "title": "Research Scientist in Large Language Model - Seed - Large Language Model",
-        "active": true,
-        "date_updated": 1775025695,
-        "date_posted": 1775023744,
-        "url": "https://jobs.bytedance.com/en/position/7623525222555961605/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "48be2a44-56ee-44d7-9686-82e5c633338a",
-        "title": "Machine Learning Engineer Graduate - Global E-commerce Recommendation/Search",
-        "active": false,
-        "date_updated": 1775025181,
-        "date_posted": 1775024031,
-        "url": "https://lifeattiktok.com/search/7550436740058581255",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Brookhaven Lab",
-        "id": "2cfba348-3a8a-44c3-804e-b7ade19789b2",
-        "title": "Post Doctoral Research Associate - Nuclear Data",
-        "active": false,
-        "date_updated": 1775025581,
-        "date_posted": 1775023638,
-        "url": "https://bnl.wd1.myworkdayjobs.com/externa/job/Upton-NY/Post-Doctoral-Reasearch-Associate--Nuclear-Data_JR102298",
-        "locations": [
-            "Shirley, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Brookhaven-Lab",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ByteDance",
-        "id": "2376dac8-17ba-4686-b74d-7e91d323e43e",
-        "title": "Research Scientist in Speech Foundation Model \u2013 Graduates - Multiple Teams",
-        "active": true,
-        "date_updated": 1775025181,
-        "date_posted": 1775023744,
-        "url": "https://jobs.bytedance.com/en/position/7623548379708197125/detail",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/ByteDance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Nationwide",
-        "id": "d52bc132-4ec5-477a-95e0-b9a093950ffb",
-        "title": "Associate Product Manager - Underwriting Strategy",
-        "active": false,
-        "date_updated": 1775025181,
-        "date_posted": 1775023454,
-        "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio/Associate-Product-Manager---Underwriting-Strategy_097340",
-        "locations": [
-            "Ohio"
-        ],
-        "company_url": "https://simplify.jobs/c/Nationwide",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "The Walt Disney Company",
         "id": "730d06c8-ddd1-4c42-94b6-0f87a6423991",
@@ -58953,46 +58808,6 @@
         "degrees": [
             "Master's",
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "b474b399-bc4e-4fed-a690-7c62e696ab51",
-        "title": "Machine Learning Engineer Graduate - Global E-commerce Recommendation/Search",
-        "active": false,
-        "date_updated": 1775025181,
-        "date_posted": 1775024592,
-        "url": "https://lifeattiktok.com/search/7550790814831511815",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "TikTok",
-        "id": "4b887fe0-6185-4f7c-b9a8-be7db867b577",
-        "title": "Machine Learning Engineer Graduate - Global E-commerce Recommendation/Search",
-        "active": false,
-        "date_updated": 1775025181,
-        "date_posted": 1775024595,
-        "url": "https://lifeattiktok.com/search/7550436166929025298",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -142144,24 +141959,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "xAI",
-        "id": "c948ab79-bcf5-45ab-8403-a13ee3af2241",
-        "title": "AI Tutor",
-        "active": false,
-        "date_updated": 1783981566,
-        "date_posted": 1775023514,
-        "url": "https://job-boards.greenhouse.io/xai/jobs/5090269007",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/XAI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Coherent ",
         "id": "795ce1f8-b4b1-4f7b-a7f3-f02c7d6715a9",
@@ -142789,24 +142586,6 @@
         "date_updated": 1783983058,
         "date_posted": 1775081158,
         "url": "https://job-boards.greenhouse.io/xai/jobs/5090180007",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/XAI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "xAI",
-        "id": "8c7583df-5a6a-4cc8-aa70-1f9c3e63c9c1",
-        "title": "AI Tutor \u2013 Finnish",
-        "active": false,
-        "date_updated": 1783982881,
-        "date_posted": 1775023510,
-        "url": "https://job-boards.greenhouse.io/xai/jobs/5090199007",
         "locations": [
             "Remote in USA"
         ],
@@ -143924,24 +143703,6 @@
             "Bachelor's",
             "Master's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "xAI",
-        "id": "8356b429-a6dd-461c-8902-4a9d9678ca19",
-        "title": "AI Tutor Punjabi",
-        "active": false,
-        "date_updated": 1783992813,
-        "date_posted": 1775023510,
-        "url": "https://job-boards.greenhouse.io/xai/jobs/5090246007",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/XAI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -341919,27 +341680,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "xAI",
-        "id": "409dfbad-b9e8-4879-b658-d5024592e208",
-        "title": "AI Tutor \u2013 Portuguese",
-        "active": false,
-        "date_updated": 1793349182,
-        "date_posted": 1775023511,
-        "url": "https://job-boards.greenhouse.io/xai/jobs/5090221007",
-        "locations": [
-            "Remote in USA",
-            "Remote in UK",
-            "Remote in Australia",
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/XAI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Formlabs",
         "id": "6d2d8f72-8478-41cb-84fa-214910aebb99",
@@ -348481,7 +348221,7 @@
         "company_name": "Oak View Group",
         "id": "61c72a27-aa2a-49b6-ad81-786a911fd7aa",
         "title": "Sports Stats Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1793867041,
         "date_posted": 1793862724,
         "url": "https://teamwork-ovg.icims.com/jobs/34469/job",
