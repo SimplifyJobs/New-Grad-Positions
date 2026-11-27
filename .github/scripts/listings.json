@@ -371470,5 +371470,45 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Toyota",
+        "id": "f5de8d35-3ebe-4a7b-9eac-bdc9b583dc88",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1795753261,
+        "date_posted": 1795564800,
+        "url": "https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer_10332851",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Toyota",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Toyota",
+        "id": "0c96f624-8843-4aa7-818e-5d2f023f18fd",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1795753261,
+        "date_posted": 1795564800,
+        "url": "https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer_10325070",
+        "locations": [
+            "Plano, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Toyota",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
