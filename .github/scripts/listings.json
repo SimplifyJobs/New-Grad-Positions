@@ -1,82 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "8949efe0-4165-4d55-a77a-78a36b3bf30a",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1775110861,
-        "date_posted": 1775110071,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055946",
-        "locations": [
-            "Midlothian, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Sainsbury's",
-        "id": "68399e57-9de5-47ce-a6a5-c37e31cd17ea",
-        "title": "Trading Assistant - Shift",
-        "active": false,
-        "date_updated": 1775110861,
-        "date_posted": 1775110067,
-        "url": "https://hdhe.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/400055943",
-        "locations": [
-            "Midlothian, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Sainsburys",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Applied Materials",
-        "id": "39e490e9-04e2-48ce-aed2-5de34b4cae97",
-        "title": "Modeling Engineer - Plasma Etch - Machine Learning",
-        "active": false,
-        "date_updated": 1775110861,
-        "date_posted": 1775110153,
-        "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Modeling-Engineer---Plasma-Etch--Machine-Learning_R2615879",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Applied-Materials",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Perplexity AI",
-        "id": "0d448d6a-92f4-4eed-bb7d-d10a315544a0",
-        "title": "Member of Technical Staff - AI Policy and Strategic Initiatives",
-        "active": false,
-        "date_updated": 1775111285,
-        "date_posted": 1775110180,
-        "url": "https://jobs.ashbyhq.com/Perplexity/0359ebb4-7cbd-4641-a6d1-1127823e2fd5/application",
-        "locations": [
-            "Washington, DC",
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/PerplexityAI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Legal & General",
         "id": "2cd4ebd8-d255-4ca4-ad6e-150ec4fe6788",
@@ -93,27 +17,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GE Healthcare",
-        "id": "7dd821db-bbd1-4e35-8fa2-d75c89d87bc6",
-        "title": "Field Engineer",
-        "active": false,
-        "date_updated": 1775120130,
-        "date_posted": 1775110012,
-        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Remote/Field-Engineer---Surgery-Imaging--New-Mexico-_R4037493-1",
-        "locations": [
-            "New Mexico"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Healthcare",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
         ]
     },
     {
