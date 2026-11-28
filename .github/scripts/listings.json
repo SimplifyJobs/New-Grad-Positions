@@ -2,30 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Uline",
-        "id": "d2442b70-ee06-4abe-90e4-9b14a0f6d84d",
-        "title": "Associate Ecommerce Data Analyst",
-        "active": false,
-        "date_updated": 1775121481,
-        "date_posted": 1775120729,
-        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Associate-eCommerce-Data-Analyst_R262768-1",
-        "locations": [
-            "Waukegan, IL",
-            "Milwaukee, WI",
-            "Pleasant Prairie, WI",
-            "Morton Grove, IL",
-            "Kenosha, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Uline",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "VELCO",
         "id": "9e38a26e-d134-40a8-b532-4b4ed6354205",
         "title": "OT Data Engineer",
@@ -2993,31 +2969,6 @@
             "Sunnyvale, CA"
         ],
         "company_url": "https://simplify.jobs/c/Uber",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Google",
-        "id": "575cf92d-dfb0-4aff-ac98-9253c62d7837",
-        "title": "Product Manager 1 - YouTube Ads Responsibility",
-        "active": false,
-        "date_updated": 1775291558,
-        "date_posted": 1775120776,
-        "url": "https://www.google.com/about/careers/applications/jobs/results/92907964775441094",
-        "locations": [
-            "Seattle, WA",
-            "San Bruno, CA",
-            "Kirkland, WA",
-            "NYC",
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Google",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -141092,7 +141043,7 @@
         "company_name": "Hudson River Trading",
         "id": "053e56c0-3d9e-4d1c-83c7-b891671a652c",
         "title": "Algorithm Developer New Grad - Quant Researcher",
-        "active": true,
+        "active": false,
         "date_updated": 1783982607,
         "date_posted": 1783981845,
         "url": "https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052050",
