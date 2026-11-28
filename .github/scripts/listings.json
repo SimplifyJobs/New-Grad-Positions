@@ -204017,7 +204017,7 @@
         "company_name": "Philips",
         "id": "8338439d-fe8e-4182-845a-a2718efed066",
         "title": "AI & Analytics Associate - Graduate Development Program",
-        "active": false,
+        "active": true,
         "date_updated": 1786469401,
         "date_posted": 1786406400,
         "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Full-Time--Graduate-Development-Program-AI---Analytics-Associate-Nashville--TN-or-Cambridge--MA-2026_587083",
@@ -229891,7 +229891,7 @@
         "company_name": "Pennsylvania State University",
         "id": "643187a2-24a5-4866-8cbb-5dd7214a4755",
         "title": "Operations Research Engineer Intern - Undersea Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1787581841,
         "date_posted": 1787529600,
         "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Operations-Research-Undersea-Systems-Analyst_REQ_0000081646-1",
@@ -249139,7 +249139,7 @@
         "company_name": "Micron Technology",
         "id": "54cabb56-5337-4344-9f40-9ad54dc468b3",
         "title": "Product Test Engineer New Grad",
-        "active": true,
+        "active": false,
         "date_updated": 1788413227,
         "date_posted": 1788048000,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Product-Test-Engineer_JR109985",
@@ -249604,7 +249604,7 @@
         "company_name": "Booz Allen",
         "id": "a0fdba6e-e9ce-48f1-80e7-8844cfa6cb5d",
         "title": "Quantum Research Professional",
-        "active": true,
+        "active": false,
         "date_updated": 1788417906,
         "date_posted": 1787788800,
         "url": "https://bah.wd1.myworkdayjobs.com/Confidential/job/Washington-DC/University--Quantum-Research-Professional_R0248108",
@@ -270467,7 +270467,7 @@
         "company_name": "Barclays",
         "id": "586167ce-912f-44b5-a84b-e767d2ba013e",
         "title": "Quantitative Analytics Associate Graduate - Risk Quantitative Analytics",
-        "active": true,
+        "active": false,
         "date_updated": 1788994314,
         "date_posted": 1788912000,
         "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Quantitative-Analytics-Associate-Graduate-Programme-London_JR-0000129352",
@@ -318405,7 +318405,7 @@
         "company_name": "Sallie Mae",
         "id": "6bd9b720-b688-4436-b0fe-a96710105de2",
         "title": "Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1792419538,
         "date_posted": 1792368000,
         "url": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Indianapolis-IN/Engineer-I_R26_000476",
@@ -319128,7 +319128,7 @@
         "company_name": "Northrop Grumman",
         "id": "a825c8d7-1e39-4708-9801-836e7394951c",
         "title": "Associate Electrical Engineer / Electrical Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792449433,
         "date_posted": 1792368000,
         "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Georgia-Warner-Robins/Associate-Electrical-Engineer---Electrical-Engineer_R10256570",
@@ -329994,7 +329994,7 @@
         "company_name": "Leidos",
         "id": "9ab92ebe-2d68-49c3-9ab3-0fad2d7eae2e",
         "title": "Electrical Design and Integration Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792834967,
         "date_posted": 1792540800,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Electrical-Design---Integration-Engineer_R-00195117",
@@ -352322,7 +352322,7 @@
         "company_name": "Eversource Energy",
         "id": "a7c9e6c0-bf01-4bab-b40e-96d415a7f88d",
         "title": "Associate Analyst - Transmission",
-        "active": true,
+        "active": false,
         "date_updated": 1794323881,
         "date_posted": 1794268800,
         "url": "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Westwood-MA/Associate-Analyst--Transmission--hybrid-schedule-_R-032522",
@@ -372454,6 +372454,51 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Kiss Products",
+        "id": "f67af95f-d0d7-40c3-9918-0638ef8358ce",
+        "title": "Category Data Analyst",
+        "active": true,
+        "date_updated": 1795831566,
+        "date_posted": 1795478400,
+        "url": "https://kissusa.wd12.myworkdayjobs.com/KISS_Careers_External/job/USA-NY-Port-Washington-HQ/Category-Data-Analyst_R4425",
+        "locations": [
+            "Port Washington, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Kiss-Products",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Bachelor's",
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Genentech",
+        "id": "e47aeb80-6f37-4213-b328-e61f42f755d5",
+        "title": "Scientific Product Leader - Technical Innovation Domain",
+        "active": true,
+        "date_updated": 1795831236,
+        "date_posted": 1795132800,
+        "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/Scientific-Product-Leader--Technical-Innovation-Domain_202611-129378",
+        "locations": [
+            "South SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Genentech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
             "PhD"
         ]
     }
