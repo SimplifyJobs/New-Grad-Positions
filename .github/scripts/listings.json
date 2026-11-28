@@ -169745,7 +169745,7 @@
         "company_name": "NVIDIA",
         "id": "a01bab97-c16e-479a-a759-fe6c004b0b0f",
         "title": "GPU Verification Engineer New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1784932499,
         "date_posted": 1784851200,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-MA-Westford/GPU-Verification-Engineer---New-College-Grad-2026_JR2022102",
@@ -214713,7 +214713,7 @@
         "company_name": "Micron Technology",
         "id": "883f115b-b0ad-4eae-8a80-2bbf523964d4",
         "title": "AI Innovation Research Engineer New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1786728158,
         "date_posted": 1786665600,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/New-College-Grad---AI-Innovation-Research-Engineer_JR108594",
@@ -238636,7 +238636,7 @@
         "company_name": "Micron Technology",
         "id": "2bc345ba-6706-4efb-925f-c449a37bc3d5",
         "title": "Software Engineer New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1787869832,
         "date_posted": 1787788800,
         "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Software-Engineer_JR109692",
@@ -279825,7 +279825,7 @@
         "company_name": "University of Pennsylvania",
         "id": "976bf597-8f17-466a-ba0e-ed138cbe5046",
         "title": "Data Technician",
-        "active": false,
+        "active": true,
         "date_updated": 1789596362,
         "date_posted": 1789516800,
         "url": "https://upenn.wd1.myworkdayjobs.com/careers-at-penn/job/3535-Market/Data-Technician_JR00127159-1",
@@ -280152,7 +280152,7 @@
         "company_name": "Morgan Stanley",
         "id": "6f6df190-6b7d-4add-9019-3e1c7753f14f",
         "title": "Quantitative Strategist - Fixed Income Division - Municipal Markets",
-        "active": false,
+        "active": true,
         "date_updated": 1789598812,
         "date_posted": 1789516800,
         "url": "https://ms.wd5.myworkdayjobs.com/External/job/New-York-New-York-United-States-of-America/Fixed-Income-Division---Analyst--Municipal-Markets--New-York-_JR043965-1",
@@ -310414,7 +310414,7 @@
         "company_name": "NVIDIA",
         "id": "8944e3f6-18d2-4e20-b86a-23223ceba88f",
         "title": "Software Engineer New Grad - DL Kernel Libraries",
-        "active": false,
+        "active": true,
         "date_updated": 1791767507,
         "date_posted": 1791676800,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337",
@@ -311219,7 +311219,7 @@
         "company_name": "General Motors",
         "id": "ac9da20f-eebb-47fc-bed4-d2f4cfcfa386",
         "title": "AI/Machine Learning Researcher",
-        "active": false,
+        "active": true,
         "date_updated": 1791844389,
         "date_posted": 1791763200,
         "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Mountain-View-California-United-States-of-America/Entry-Level---AI-Machine-Learning-Researcher_JR-202621753",
@@ -323075,7 +323075,7 @@
         "company_name": "TD Bank",
         "id": "b81f0d85-3704-4a61-ba56-733b528bd6ba",
         "title": "Technology New Grad",
-        "active": false,
+        "active": true,
         "date_updated": 1792679298,
         "date_posted": 1792627200,
         "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Belfast-United-Kingdom/XMLNAME-2027-Technology-Graduate-Programme_R_1518242",
@@ -331740,7 +331740,7 @@
         "company_name": "NVIDIA",
         "id": "4f557cdc-194d-48d6-9112-3394703e806f",
         "title": "ASIC Design Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1793064800,
         "date_posted": 1790553600,
         "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/ASIC-Design-Engineer---New-College-Grad-2027_JR2026277",
@@ -348065,7 +348065,7 @@
         "company_name": "Pfizer",
         "id": "07498047-bdce-4692-afb4-c717fed1b40c",
         "title": "Associate AI Engineering",
-        "active": false,
+        "active": true,
         "date_updated": 1793893337,
         "date_posted": 1793836800,
         "url": "https://pfizer.wd1.myworkdayjobs.com/internaljobs/job/United-Kingdom---Walton-Oaks/Associate--AI-Engineering_4966818",
@@ -353526,7 +353526,7 @@
         "company_name": "Amentum",
         "id": "b5d78578-847e-43f2-9ade-3b44ae95b38b",
         "title": "Junior Data Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1794363682,
         "date_posted": 1794268800,
         "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Springfield/Jr-Data-Engineer_R0175096",
@@ -370156,6 +370156,723 @@
             "Beavercreek, OH"
         ],
         "company_url": "https://simplify.jobs/c/Trinzic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "M&G",
+        "id": "d0519f46-0f26-4a7d-86e7-a783215e75e2",
+        "title": "Technology Data Graduate",
+        "active": true,
+        "date_updated": 1795827437,
+        "date_posted": 1795046400,
+        "url": "https://mgpru.wd3.myworkdayjobs.com/mandgprudential/job/Stirling/Technology-Data-Graduate--Stirling-_R20951",
+        "locations": [
+            "Stirling, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/M-And-G",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Booz Allen",
+        "id": "99263c03-596f-4664-a231-1fa5d7a6f2ec",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1795827574,
+        "date_posted": 1794960000,
+        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---Data-Engineer_R0253754",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Booz Allen",
+        "id": "e492e189-83e6-4601-abce-fa6d1f9dce14",
+        "title": "Full-Stack Developer",
+        "active": true,
+        "date_updated": 1795827574,
+        "date_posted": 1794960000,
+        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---Full-Stack-Developer_R0253758",
+        "locations": [
+            "Huntsville, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "S&P Global",
+        "id": "284ac87c-ab6f-47ec-9714-0671c5c7ccbc",
+        "title": "Associate AI Solutions & Enablement",
+        "active": true,
+        "date_updated": 1795827551,
+        "date_posted": 1794873600,
+        "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Dallas-TX/Associate--AI-Solutions---Enablement_332351-1",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/SP-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Booz Allen",
+        "id": "53308875-1d29-4e86-a66e-21070e567257",
+        "title": "ML Engineer",
+        "active": true,
+        "date_updated": 1795827577,
+        "date_posted": 1794873600,
+        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/University--ML-Engineer_R0253519",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Booz Allen",
+        "id": "51f32fb7-7598-42ca-8622-4c4e85906b46",
+        "title": "Data Scientist",
+        "active": true,
+        "date_updated": 1795827577,
+        "date_posted": 1794873600,
+        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/University--Data-Scientist_R0253516",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "M&G",
+        "id": "0deaee25-6668-4c80-b0ab-5d586083b740",
+        "title": "Technology Data Graduate",
+        "active": true,
+        "date_updated": 1795827437,
+        "date_posted": 1795046400,
+        "url": "https://mgpru.wd3.myworkdayjobs.com/mandgprudential/job/London/Technology-Data-Graduate--London-_R20950",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/M-And-G",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "S&P Global",
+        "id": "04439ff5-bd8d-43d2-bfe3-4bd094614f24",
+        "title": "Associate \u2013 AI Solutions & Enablement",
+        "active": true,
+        "date_updated": 1795827437,
+        "date_posted": 1794873600,
+        "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Associate--AI-Solutions---Enablement_332349-1",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/SP-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Booz Allen",
+        "id": "1c66c8d8-c2ed-44a9-a169-2a87b655ee65",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1795827437,
+        "date_posted": 1795737600,
+        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Rome-NY/Software-Engineer_R0254393",
+        "locations": [
+            "Rome, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Thales",
+        "id": "07727bec-7b65-44a0-8e2a-872e766fe0de",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1795827437,
+        "date_posted": 1794787200,
+        "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Reading/Software-Engineer_R0347273",
+        "locations": [
+            "Reading, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Thales",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Viridien",
+        "id": "80cca1b4-821e-40b3-a583-1a3701060b1d",
+        "title": "Machine Learning Researcher - Seismic Foundation Models",
+        "active": true,
+        "date_updated": 1795827437,
+        "date_posted": 1795392000,
+        "url": "https://cgg.wd103.myworkdayjobs.com/viridiencareers/job/Houston-United-States-of-America/Machine-Learning-Researcher---Seismic-Foundation-Models_JR101586",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Viridien",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Roche",
+        "id": "bf8b8cc1-6071-489b-bd4c-12cb81329952",
+        "title": "Machine Learning Scientist/Senior Scientist - Structure-based Drug Design - AI for Drug Discovery",
+        "active": true,
+        "date_updated": 1795827437,
+        "date_posted": 1795737600,
+        "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Machine-Learning-Scientist-Senior-Scientist--Structure-based-Drug-Design--AI-for-Drug-Discovery_202611-130553-1",
+        "locations": [
+            "Basel, Switzerland",
+            "Welwyn, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Roche",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Roche",
+        "id": "7f7f51e4-52e1-483f-a7a1-25e315a8e02c",
+        "title": "Machine Learning Scientist/Senior Scientist - Force Fields & Neural Network Potentials - AI for Drug Discovery",
+        "active": true,
+        "date_updated": 1795827437,
+        "date_posted": 1795737600,
+        "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Basel/Machine-Learning-Scientist-Senior-Scientist--Force-Fields---Neural-Network-Potentials--AI-for-Drug-Discovery_202611-130552-1",
+        "locations": [
+            "Basel, Switzerland",
+            "Welwyn, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Roche",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Booz Allen",
+        "id": "c9d2a52b-052e-48f7-8c0a-5e835deea1c6",
+        "title": "Health Data Scientist",
+        "active": true,
+        "date_updated": 1795827437,
+        "date_posted": 1795827356,
+        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/Health-Data-Scientist_R0252701",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Booz Allen",
+        "id": "df315241-eb49-45d9-af28-1d1bd4760716",
+        "title": "Junior Data Scientist",
+        "active": true,
+        "date_updated": 1795827463,
+        "date_posted": 1795827353,
+        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/Data-Scientist--Junior_R0251120",
+        "locations": [
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GSK",
+        "id": "b1d2c06a-2fa2-4019-9a10-0f5175045ea4",
+        "title": "AI/ML Engineer - AI for Portfolio Strategy",
+        "active": true,
+        "date_updated": 1795827066,
+        "date_posted": 1795046400,
+        "url": "https://gsk.wd5.myworkdayjobs.com/GSKCareers/job/London-The-Stanley-Building/AI-ML-Engineer---AI-for-Portfolio-Strategy_451935",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/GSK",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "NCR Voyix",
+        "id": "801a0fec-7d1e-45f3-a931-4662054b8039",
+        "title": "Edge Software Engineer",
+        "active": true,
+        "date_updated": 1795827066,
+        "date_posted": 1795392000,
+        "url": "https://ncr.wd1.myworkdayjobs.com/ext_non_us/job/BATH-GBR/Edge-Software-Engineer_R0159213",
+        "locations": [
+            "Bath, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/NCR-Voyix",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "KLA",
+        "id": "41879a16-299f-4a26-9b1e-bc966e173486",
+        "title": "Import/Export Analyst",
+        "active": true,
+        "date_updated": 1795827066,
+        "date_posted": 1795478400,
+        "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Phoenix-AZ/Import-Export-Analyst_2643307",
+        "locations": [
+            "Phoenix, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/KLA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "The North Face",
+        "id": "d91a94e0-9754-47f5-b330-551a47510ea8",
+        "title": "Merchandising Coordinator - Collaborations, Energy & Speed",
+        "active": true,
+        "date_updated": 1795827000,
+        "date_posted": 1794960000,
+        "url": "https://vfc.wd5.myworkdayjobs.com/northface_careers/job/USCA--USA--Colorado--Denver-HQ---VFC/The-North-Face--Merchandising-Coordinator--Collaborations--Energy---Speed_R-20261115-0006-1",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/The-North-Face",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "HP Inc.",
+        "id": "3a8fc0da-3316-4c7d-918f-52d9e04866ce",
+        "title": "Product Planner - Mobile Workstations",
+        "active": true,
+        "date_updated": 1795826882,
+        "date_posted": 1794787200,
+        "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Spring-Texas-United-States-of-America/Product-Planner--Mobile-Workstations_UNI4486-1",
+        "locations": [
+            "Spring, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Manulife Financial",
+        "id": "9062eccf-6245-4626-8992-9976dcbd82a0",
+        "title": "Associate Data Scientist",
+        "active": true,
+        "date_updated": 1795826706,
+        "date_posted": 1795564800,
+        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Boston-Massachusetts/Associate-Data-Scientist_JR26110981",
+        "locations": [
+            "Boston, MA",
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Manulife-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amentum",
+        "id": "f5dc9e6d-9709-46bb-a327-74e4e2142182",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1795826528,
+        "date_posted": 1795478400,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MD-Hanover/Software-Engineer-1_R0176222",
+        "locations": [
+            "Hanover, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "DS Smith",
+        "id": "2dbc8bbd-3cac-4345-8cfa-26226d12125e",
+        "title": "Master Data Administrator",
+        "active": true,
+        "date_updated": 1795826528,
+        "date_posted": 1795564800,
+        "url": "https://dssmith.wd3.myworkdayjobs.com/careers/job/Caerphilly/Master-Data-Administrator_R-15401-1",
+        "locations": [
+            "Caerphilly, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/DS-Smith",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amentum",
+        "id": "0b889dd9-b482-4ac1-8ed9-7bc2622a86c4",
+        "title": "Bread Board Technician 1",
+        "active": true,
+        "date_updated": 1795826585,
+        "date_posted": 1794960000,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MI-Detroit/Bread-Board-Technician-1_R0175795",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amentum",
+        "id": "9a026d0b-189b-40d2-8cfe-8a91c9f1ac60",
+        "title": "Electronic Component Test Lab Technician",
+        "active": true,
+        "date_updated": 1795826528,
+        "date_posted": 1795046400,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-IN-Crane/Electronic-Component-Test-Lab-Technician_R0175639",
+        "locations": [
+            "Crane, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Amentum",
+        "id": "b5b9c097-778b-4a2f-a815-d98d4aeeb867",
+        "title": "Vehicle Development Technician",
+        "active": true,
+        "date_updated": 1795826528,
+        "date_posted": 1795392000,
+        "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MI-Detroit/Vehicle-Development-Technician_R0176143",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Amentum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Massey Services",
+        "id": "7e9d911c-7252-4d3b-8244-4555f9d0db22",
+        "title": "Reporting Analyst",
+        "active": true,
+        "date_updated": 1795826342,
+        "date_posted": 1792368000,
+        "url": "https://masseyservices.wd5.myworkdayjobs.com/masseyservices/job/Orlando-FL/Reporting-Analyst---Orlando_JR104851",
+        "locations": [
+            "Orlando, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Massey-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Bracco",
+        "id": "c75637aa-6849-4815-bba3-1f0781fc2d13",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1795826449,
+        "date_posted": 1795046400,
+        "url": "https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Software-Engineer-I---Bracco-Medical-Technologies_JR100481",
+        "locations": [
+            "Eden Prairie, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Bracco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Jabil",
+        "id": "79ac3291-09c1-448c-b42a-ecc1e815cf56",
+        "title": "Conversions Diagnostic Technician 1",
+        "active": true,
+        "date_updated": 1795826428,
+        "date_posted": 1794873600,
+        "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Florence-KY/CVG200-Conversions-Diagnostic-Technician-I---403_J2471890",
+        "locations": [
+            "Florence, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/Jabil",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "04b42b31-fcfb-44ab-b30e-2c963528e7ad",
+        "title": "AI Automation Engineer Graduate",
+        "active": true,
+        "date_updated": 1795826342,
+        "date_posted": 1795305600,
+        "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/AI-Automation-Engineer-Graduate_1213068",
+        "locations": [
+            "Spring, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "d59c68eb-38d2-408a-8409-358bdc244ac9",
+        "title": "Linux Software Engineer",
+        "active": true,
+        "date_updated": 1795826406,
+        "date_posted": 1794960000,
+        "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Roseville-California-United-States-of-America/Linux-Software-engineer_1217876",
+        "locations": [
+            "Roseville, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Hewlett Packard Enterprise",
+        "id": "3cb57587-6165-46e6-a74b-7f7c4db8c584",
+        "title": "Embedded Software Developer",
+        "active": true,
+        "date_updated": 1795826342,
+        "date_posted": 1795305600,
+        "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Spring-Texas-United-States-of-America/Embedded-Software-Developer---Entry_1218679",
+        "locations": [
+            "Spring, TX",
+            "Chippewa Falls, WI",
+            "Fort Collins, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard-Enterprise",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "General Motors",
+        "id": "e3034e06-ce5a-40bf-b9d0-586b478baeac",
+        "title": "Defense Modeling and Simulation Researcher",
+        "active": true,
+        "date_updated": 1795826199,
+        "date_posted": 1795392000,
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level---Defense-Lab-Modeling-and-Simulation-Researcher_JR-202624677",
+        "locations": [
+            "Warren, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Motors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northwestern Mutual",
+        "id": "fd648041-8487-410e-92e0-0bd40514590b",
+        "title": "Software Engineer 1",
+        "active": true,
+        "date_updated": 1795826190,
+        "date_posted": 1794960000,
+        "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Software-Engineer-I_JR-46395-1",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Northwestern-Mutual",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ICF International",
+        "id": "4420e94c-e4bd-4f4a-a149-8a281e1fd009",
+        "title": "GIS Analyst Entry Level",
+        "active": true,
+        "date_updated": 1795826078,
+        "date_posted": 1795046400,
+        "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Austin-TX-TX18/GIS-Analyst--Entry-Level--Hybrid---Austin-_R2603901",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/ICF-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Guidehouse",
+        "id": "cddc911e-416a-48bd-908b-05206f85f234",
+        "title": "Data Analyst - Dashboard Developer",
+        "active": true,
+        "date_updated": 1795825993,
+        "date_posted": 1795132800,
+        "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/Data-Analyst--Dashboard-Developer-_46807",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Guidehouse",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
