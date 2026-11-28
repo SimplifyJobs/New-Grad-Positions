@@ -270427,7 +270427,7 @@
         "company_name": "Barclays",
         "id": "de612dd0-b7b6-47d1-b04a-c71a0e2b1bc1",
         "title": "Technology Developer Graduate",
-        "active": true,
+        "active": false,
         "date_updated": 1788994287,
         "date_posted": 1788912000,
         "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/XMLNAME-2027-Technology-Developer-Graduate-Programme-Northampton_JR-0000129374",
@@ -310134,7 +310134,7 @@
         "company_name": "SHI International",
         "id": "f5ad722d-a6dc-41a4-b20e-69f2c9143e0a",
         "title": "Integration Center Technician 1",
-        "active": true,
+        "active": false,
         "date_updated": 1791637044,
         "date_posted": 1789084800,
         "url": "https://shi.wd12.myworkdayjobs.com/shicareers/job/Piscataway-NJ-USA/Integration-Center-Tech-I_JR3722",
@@ -321191,7 +321191,7 @@
         "company_name": "Axos Bank",
         "id": "e7be217f-fe8f-47ee-a0f5-bb01d5ad5782",
         "title": "Data Engineer",
-        "active": true,
+        "active": false,
         "date_updated": 1792546731,
         "date_posted": 1792454400,
         "url": "https://axos.wd5.myworkdayjobs.com/Axos/job/HQ---San-Diego-CA/JBATA---Data-Engineer_JR5390",
@@ -356649,7 +356649,7 @@
         "company_name": "Boeing",
         "id": "d5894697-2647-46e8-9c3a-2a47bdc5d610",
         "title": "Entry Flight Software Engineer - Vehicle Management Systems",
-        "active": true,
+        "active": false,
         "date_updated": 1794525663,
         "date_posted": 1794441600,
         "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---El-Segundo-CA/Entry-Flight-Software-Engineer---Vehicle-Management-Systems_JR2026527015-1",
@@ -366431,7 +366431,7 @@
         "company_name": "Sierra Nevada Corporation",
         "id": "65b1d554-dd51-4c64-beb3-aa0184ed3477",
         "title": "Software Engineer 1",
-        "active": true,
+        "active": false,
         "date_updated": 1795316060,
         "date_posted": 1794960000,
         "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0031418",
@@ -366740,7 +366740,7 @@
         "company_name": "Sanofi",
         "id": "fb861d50-7cd1-4345-8cd7-206bd9b2ed24",
         "title": "Product Analyst",
-        "active": true,
+        "active": false,
         "date_updated": 1795401216,
         "date_posted": 1795132800,
         "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/XMLNAME-2027-Digital-Graduate-Program--Product-Analyst_R2879216-1",
@@ -372500,6 +372500,67 @@
             "Master's",
             "MBA",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Trinzic",
+        "id": "162c0f5d-6857-4d3a-a4af-90820f04e351",
+        "title": "Junior Data Engineer",
+        "active": true,
+        "date_updated": 1795835178,
+        "date_posted": 1787529600,
+        "url": "https://trinzic.wd115.myworkdayjobs.com/Trinzic_Careers/job/Chantilly-Virginia/Data-Engineer--JR_R2128783",
+        "locations": [
+            "Reston, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Trinzic",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CACI",
+        "id": "0fc70527-6a8d-4979-aee6-4882d20aa502",
+        "title": "Software Engineer",
+        "active": true,
+        "date_updated": 1795834992,
+        "date_posted": 1794960000,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/Florham-Park-NJ-US/Software-Engineer_335172-1",
+        "locations": [
+            "Florham Park, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CACI",
+        "id": "365a9ca5-2704-4a99-bab3-e6a2cab00192",
+        "title": "AI/ML Engineer",
+        "active": true,
+        "date_updated": 1795834992,
+        "date_posted": 1795392000,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/King-of-Prussia-PA-US/AI-ML-Engineer_335293",
+        "locations": [
+            "Aurora, CO",
+            "King of Prussia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
