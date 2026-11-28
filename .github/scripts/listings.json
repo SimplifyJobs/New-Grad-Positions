@@ -1,26 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Legal & General",
-        "id": "2cd4ebd8-d255-4ca4-ad6e-150ec4fe6788",
-        "title": "Graduate Software Engineer - Java",
-        "active": false,
-        "date_updated": 1775121804,
-        "date_posted": 1775120460,
-        "url": "https://jobs.smartrecruiters.com/LegalAndGeneral/744000118352517",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Legal-And-General",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Uline",
         "id": "d2442b70-ee06-4abe-90e4-9b14a0f6d84d",
