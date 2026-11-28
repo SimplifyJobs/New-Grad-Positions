@@ -295004,7 +295004,7 @@
         "company_name": "Financeit",
         "id": "ca5fe671-c3d6-471a-956e-07ca8a50495a",
         "title": "Data Scientist - Risk Modeling & Analytics",
-        "active": false,
+        "active": true,
         "date_updated": 1790921881,
         "date_posted": 1790921735,
         "url": "https://apply.workable.com/financeit/j/D3CF97088A/apply",
@@ -333784,24 +333784,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Xapien",
-        "id": "d7b4c1d2-d7c5-441a-b2e5-23eb9d6b0145",
-        "title": "Graduate Applied Research Engineer",
-        "active": true,
-        "date_updated": 1793149750,
-        "date_posted": 1775088000,
-        "url": "https://jobs.ashbyhq.com/xapien/e26295dd-2401-4497-af02-ea30c173f0eb/application?embed=true",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Xapien",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Humble Robotics",
         "id": "11e8fcd8-8f17-4000-a3a7-de4ed5928b00",
         "title": "Autonomy Engineer - Data",
@@ -369963,6 +369945,88 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/HireHawk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Jerry",
+        "id": "55aa4cbd-72c7-4123-af0c-f2ed2341bc2b",
+        "title": "Product Manager-in-Training",
+        "active": true,
+        "date_updated": 1795823824,
+        "date_posted": 1795737600,
+        "url": "https://jobs.ashbyhq.com/jerry.ai/9a2efccf-3dd9-4488-8422-0f0c4f86bdd5/application?embed=true",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Jerry",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "neurohire.ai",
+        "id": "391de615-39fc-4794-b7c0-f0b22faa90a5",
+        "title": "Data Engineer",
+        "active": true,
+        "date_updated": 1795823642,
+        "date_posted": 1795823541,
+        "url": "https://apply.workable.com/neurohire-dot-a-i/j/C81E83EEFA/apply",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Neurohire-Ai",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "algo1",
+        "id": "f4969341-a56d-4a94-a7ef-4d56814dd36f",
+        "title": "Graduate Machine Learning Engineer",
+        "active": true,
+        "date_updated": 1795823462,
+        "date_posted": 1795737600,
+        "url": "https://jobs.ashbyhq.com/algo1/72ab70ec-fd98-44e5-97fc-a18588c88a04/application?embed=true",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Algo1",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Wheely",
+        "id": "1532861c-d6a9-4446-b798-3b48904317c4",
+        "title": "Associate Product Manager",
+        "active": true,
+        "date_updated": 1795822382,
+        "date_posted": 1795794517,
+        "url": "https://boards.greenhouse.io/wheely/jobs/8217809003",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Wheely",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
