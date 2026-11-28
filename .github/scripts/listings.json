@@ -320486,7 +320486,7 @@
         "company_name": "Intel",
         "id": "ba94ebcb-0a90-49ae-a618-acf2b2c015b8",
         "title": "SoC Design Verification Engineer",
-        "active": false,
+        "active": true,
         "date_updated": 1792535098,
         "date_posted": 1792454400,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-California-Santa-Clara/SoC-Design-Verification-Engineer_JR0288228",
@@ -372561,6 +372561,66 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intel",
+        "id": "cfb3386d-f023-4b2c-aba1-d905c9ee6c0c",
+        "title": "Electrical Failure Analysis Engineer - Shift 2 - Nanoprobing",
+        "active": true,
+        "date_updated": 1795839853,
+        "date_posted": 1794787200,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Electrical-Failure-Analysis-Engineer---Shift2-Nanoprobing_JR0289219",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intel",
+        "id": "816e0657-aabb-4a23-84f2-81c6f329f951",
+        "title": "Foundry Device Infrastructure Development Engineer",
+        "active": true,
+        "date_updated": 1795839785,
+        "date_posted": 1795564800,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Intel-Foundry-Device-Infrastructure-Development-Engineer_JR0289598",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Intel",
+        "id": "490018ff-db93-4d14-95ea-ae14b6745c63",
+        "title": "Electrical Failure Analysis Engineer - Nanoprobing",
+        "active": true,
+        "date_updated": 1795839794,
+        "date_posted": 1794787200,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Electrical-Failure-Analysis-Engineer---Nanoprobing_JR0289232",
+        "locations": [
+            "Hillsboro, OR"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
