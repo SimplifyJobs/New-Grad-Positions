@@ -316151,7 +316151,7 @@
         "company_name": "Hewlett Packard Enterprise",
         "id": "82c3e17d-b1b7-4c37-9aa1-e64089e53038",
         "title": "Software Engineer - Block Storage",
-        "active": true,
+        "active": false,
         "date_updated": 1792154703,
         "date_posted": 1792108800,
         "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Bristol-Avon-United-Kingdom/Software-Engineer---Block-Storage-UK_1214489-3",
@@ -328069,7 +328069,7 @@
         "company_name": "Sony",
         "id": "8b4dde72-d76e-44fb-ae3b-880b0760daf7",
         "title": "BI Specialist",
-        "active": true,
+        "active": false,
         "date_updated": 1792770482,
         "date_posted": 1791849600,
         "url": "https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/Weybridge/BI-Specialist_JR-119725-1",
@@ -357789,7 +357789,7 @@
         "company_name": "Boeing",
         "id": "e269fc40-0943-4e09-bb96-e5d7ecdffddc",
         "title": "Design and Analysis Engineer Entry Level or Associate",
-        "active": true,
+        "active": false,
         "date_updated": 1794611281,
         "date_posted": 1794528000,
         "url": "https://boeing.wd1.myworkdayjobs.com/external_subsidiary/job/USA---Oklahoma-City-OK/C-17-Design-and-Analysis-Engineer--Entry-Level-or-Associate-_JR2026525656-1",
@@ -357830,7 +357830,7 @@
         "company_name": "Booz Allen",
         "id": "86dc48c7-e0e6-4e9c-ae41-b5cfea3fc7d1",
         "title": "Data Scientist",
-        "active": true,
+        "active": false,
         "date_updated": 1794610991,
         "date_posted": 1794528000,
         "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/Data-Scientist_R0253537",
@@ -372456,5 +372456,23 @@
         "degrees": [
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Teledyne",
+        "id": "d3a0c876-3fe1-4013-b6bd-6208bd10aa06",
+        "title": "Electronics Development Technician",
+        "active": true,
+        "date_updated": 1795865405,
+        "date_posted": 1791763200,
+        "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/UK---Lincoln/Development-Technican_REQ36526",
+        "locations": [
+            "Lincoln, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Teledyne",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
